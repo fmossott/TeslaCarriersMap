@@ -10,7 +10,8 @@
     body {
       font-family: 'Open Sans', sans-serif;
       background-color: #2B4570;
-      text-align: center
+      text-align: center;
+      color: #CCE6F4;
     }
 
     .content {
@@ -54,11 +55,36 @@
     }
 
     .map {
-      width: 90%;
-      flex-grow: 1; 
-      margin: auto;
+      margin: 10px;
+      flex-grow: 1;
+      border: 0px;
+    }
+
+    .page-footer {
+      display: flex;
+      flex-direction: column-reverse;
+    }
+
+    .page-footer div {
+      display: flex;
+      margin-bottom: 5px;
+    }
+
+    a {
+      color: #EEF7FB
     }
   </style>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-FYB4RV99BM"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-FYB4RV99BM');
+  </script>
 </head>
 <body>
   <div class="content">
@@ -66,10 +92,14 @@
       <h1>Tesla Carriers Map</h1>
     </header>
     <main class="page-main">
-      <iframe class="map" src="map.html" title="Map" />
+      <iframe class="map" src="map.html" title="Map"></iframe>
     </main>
     <footer class="page-footer">
-      My footer
+      <ul>
+        <div>©2021 Franco Mossotto</a></div>
+        <div>Source: <a href="http://bit.ly/TeslaCarriers">Tesla Carriers Spreadsheet</a></div>
+        <div><a href="https://twitter.com/FMossotto?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @FMossotto</a></div>
+        <div><a href="https://twitter.com/intent/tweet?screen_name=FMossotto&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @FMossotto</a></div>
     </footer>
   </div>
 </body>
