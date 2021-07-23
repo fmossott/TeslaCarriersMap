@@ -103,6 +103,42 @@
     a {
       color: #EEF7FB
     }
+
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-evenly;
+      margin-bottom: 10px;
+      width: 100%;
+    }
+
+    .legend-item {
+      position: relative;
+      text-align: left;
+      margin: 5px;
+    }
+
+    @media (max-width:750px){
+      .legend-item {
+        font-size: small;
+      }
+    }
+
+    .legend-item span {
+      margin-left: 20px;
+      white-space: nowrap;
+    }
+
+    .legend-item .color-box {
+      width: 10px;
+      height: 10px;
+      display: inline-block;
+      background-color: #ccc;
+      position: absolute;
+      left: 5px;
+      top: 5px;
+    }
   </style>
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -137,6 +173,28 @@
         </div>
       </div>
       <iframe class="map" src="map.html" title="Map"></iframe>
+      <div class="legend">
+        <span class="legend-item">
+          <div class="color-box" style="background-color: red;"></div>
+          <span>Direct to departure port</span>
+        </span>
+        <span class="legend-item">
+          <div class="color-box" style="background-color: orange;"></div>
+          <span>Loading at departure port</span>
+        </span>
+        <span class="legend-item">
+          <div class="color-box" style="background-color: green;"></div>
+          <span>In transit to destination</span>
+        </span>
+        <span class="legend-item">
+          <div class="color-box" style="background-color: blue;"></div>
+          <span>Arrived at destination</span>
+        </span>
+        <span class="legend-item">
+          <div class="color-box" style="background-color: lightgray;"></div>
+          <span>Watchlist/not confirmed</span>
+        </span>
+      </div>
     </main>
     <footer class="page-footer">
       <div>Source: <a href="http://bit.ly/TeslaCarriers" target="_blank">Tesla Carriers Spreadsheet</a></div>
