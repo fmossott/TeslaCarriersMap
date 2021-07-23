@@ -62,12 +62,15 @@
 
     .page-footer {
       display: flex;
-      flex-direction: column-reverse;
+      flex-direction: row;
+      justify-content: space-evenly;
     }
 
     .page-footer div {
-      display: flex;
-      margin-bottom: 5px;
+      margin: 10px;
+      font-size: small;
+      margin-top: auto;
+      margin-bottom: auto;
     }
 
     a {
@@ -80,7 +83,7 @@
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-FYB4RV99BM"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+    function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
 
     gtag('config', 'G-FYB4RV99BM');
@@ -95,12 +98,19 @@
       <iframe class="map" src="map.html" title="Map"></iframe>
     </main>
     <footer class="page-footer">
-      <ul>
-        <div>©2021 Franco Mossotto</a></div>
-        <div>Source: <a href="http://bit.ly/TeslaCarriers">Tesla Carriers Spreadsheet</a></div>
-        <div><a href="https://twitter.com/FMossotto?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @FMossotto</a></div>
-        <div><a href="https://twitter.com/intent/tweet?screen_name=FMossotto&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @FMossotto</a></div>
-    </footer>
+      <div>
+        <form action="https://www.paypal.com/donate" method="post" target="_top">
+          <input type="hidden" name="business" value="7Q2RBJB6DBKAU" />
+          <input type="hidden" name="no_recurring" value="0" />
+          <input type="hidden" name="currency_code" value="EUR" />
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+          <img alt="" border="0" src="https://www.paypal.com/en_IT/i/scr/pixel.gif" width="1" height="1" />
+        </form>
+      </div>
+      <div><a href="https://twitter.com/intent/tweet?screen_name=FMossotto&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @FMossotto</a></div>
+      <div><a href="https://twitter.com/FMossotto?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @FMossotto</a></div>
+      <div>Source: <a href="http://bit.ly/TeslaCarriers">Tesla Carriers Spreadsheet</a></div>
+      <div>©2021 Franco Mossotto</a></div>
   </div>
 </body>
 </html>
