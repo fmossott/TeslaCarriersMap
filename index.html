@@ -19,7 +19,8 @@
 
     .content {
       flex-grow: 1;
-      margin: auto;
+      margin-left: max(5px, 5%);
+      margin-right: max(5px, 5%);
       background-color: #7180AC;
       display: flex;
       flex-direction: column;
@@ -43,14 +44,6 @@
       flex-flow: column
     }
 
-    @media screen and (min-width: 768px) {
-      .content {
-        width: 90%;
-      }
-      .page-header {
-      }
-    }
-
     h1 {
       font-family: 'Roboto', sans-serif;
     }
@@ -59,6 +52,23 @@
       margin: 10px;
       flex-grow: 1;
       border: 0px;
+    }
+
+    .main-buttons {
+      margin: 5px;
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      flex-wrap: wrap;
+    }
+    
+    .main-buttons div {
+      margin: 10px;
+      font-size: small;
+      margin-top: auto;
+      margin-bottom: auto;
     }
 
     .page-footer {
@@ -98,20 +108,22 @@
       <h1>Tesla Carriers Map</h1>
     </header>
     <main class="page-main">
+      <div class="main-buttons">
+        <div><a href="https://twitter.com/intent/tweet?screen_name=FMossotto&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @FMossotto</a></div>
+        <div><a href="https://twitter.com/FMossotto?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @FMossotto</a></div>
+        <div>
+          <form action="https://www.paypal.com/donate" method="post" target="_top">
+            <input type="hidden" name="business" value="7Q2RBJB6DBKAU" />
+            <input type="hidden" name="no_recurring" value="0" />
+            <input type="hidden" name="currency_code" value="EUR" />
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+            <img alt="" border="0" src="https://www.paypal.com/en_IT/i/scr/pixel.gif" width="1" height="1" />
+          </form>
+        </div>
+      </div>
       <iframe class="map" src="map.html" title="Map"></iframe>
     </main>
     <footer class="page-footer">
-      <div>
-        <form action="https://www.paypal.com/donate" method="post" target="_top">
-          <input type="hidden" name="business" value="7Q2RBJB6DBKAU" />
-          <input type="hidden" name="no_recurring" value="0" />
-          <input type="hidden" name="currency_code" value="EUR" />
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-          <img alt="" border="0" src="https://www.paypal.com/en_IT/i/scr/pixel.gif" width="1" height="1" />
-        </form>
-      </div>
-      <div><a href="https://twitter.com/intent/tweet?screen_name=FMossotto&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @FMossotto</a></div>
-      <div><a href="https://twitter.com/FMossotto?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @FMossotto</a></div>
       <div>Source: <a href="http://bit.ly/TeslaCarriers">Tesla Carriers Spreadsheet</a></div>
       <div>©2021 Franco Mossotto</a></div>
   </div>
