@@ -16,7 +16,7 @@
   <meta name="twitter:title" content="Tesla Carriers Map" />
   <meta name="twitter:description" content="Map with last AIS position of ships transporting Tesla cars." />
   <meta name="twitter:image" content="https://fmossott.github.io/TeslaCarriersMap/preview.png" />
-
+  <meta name="viewport" content="width=device-width,initial-scale=0.8, maximum-scale=0.8, user-scalable=no">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
@@ -34,8 +34,8 @@
 
     .content {
       flex-grow: 1;
-      margin-left: max(5px, 5%);
-      margin-right: max(5px, 5%);
+      margin-left: max(2px, 5%);
+      margin-right: max(2px, 5%);
       background-color: #7180AC;
       display: flex;
       flex-direction: column;
@@ -119,10 +119,21 @@
       margin: 5px;
     }
 
-    @media (max-width:750px){
+    @media (max-width:750px) {
       .legend-item {
         font-size: small;
       }
+    }
+
+    @media (max-width:450px) {
+      .legend-item {
+        margin: 2px;
+      }
+
+      .page-footer div {
+        font-size: x-small;
+      }
+
     }
 
     .legend-item span {
