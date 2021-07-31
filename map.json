@@ -139,8 +139,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/03 04:00",
     "destTime": "2021/08/03 02:00",
-    "position": "17.50773\u00b0 / 40.46761\u00b0",
-    "area": "Malacca Strait",
+    "position": "21.11325\u00b0 / 38.40681\u00b0",
+    "area": "Red Sea",
     "status": "Underway using Engine"
   },
   "9491886": {
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/01 05:30",
     "destTime": "2021/08/01 02:30",
-    "position": "35.55033\u00b0 / 26.13634\u00b0",
+    "position": "35.78412\u00b0 / 25.7071\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -257,9 +257,9 @@
     "dest": "IT LIV",
     "destLong": "Livorno",
     "destType": "ETA",
-    "destLocalTime": "2021/08/01 18:00",
-    "destTime": "2021/08/01 16:00",
-    "position": "40.57212\u00b0 / 12.64918\u00b0",
+    "destLocalTime": "2021/08/01 15:00",
+    "destTime": "2021/08/01 13:00",
+    "position": "40.59795\u00b0 / 12.69243\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
@@ -448,10 +448,10 @@
     "deltTime": "2021/07/29 20:00",
     "dest": "CN TXG",
     "destLong": "Tianjin",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/01 06:00",
-    "destTime": "2021/07/31 22:00",
-    "position": "38.9506\u00b0 / 117.9218\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/07/31 22:43",
+    "destTime": "2021/07/31 14:43",
+    "position": "39.01704\u00b0 / 117.7749\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
