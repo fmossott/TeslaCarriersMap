@@ -125,3 +125,24 @@ a {
   left: 5px;
   top: 5px;
 }
+
+.map-popup {
+  width: 100.0%; 
+  height: 100.0%;
+}
+
+.map-popup>center {
+  white-space: nowrap;
+}
+
+.map-label {
+  font-size: small; 
+  white-space: nowrap; 
+  display: inline-block;
+  color: black;
+}
+
+.map-label>span {
+  transform: translateX(-50%); 
+  float: left;
+}
