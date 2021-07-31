@@ -96,7 +96,7 @@ function loadShips(m) {
   $.getJSON('map.json', ships => {
     console.log(ships)
     m.addShipsToMap(ships)
-    setTimeout(function () {loadShips(m)}, 300000) // update in 5 mins
+    setTimeout(function () {loadShips(m)}, 60000) // update in 5 mins
   });
 }
 
