@@ -5,7 +5,7 @@ body {
   color: #CCE6F4;
   margin: 0px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .content {
