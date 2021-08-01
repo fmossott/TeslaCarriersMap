@@ -160,12 +160,12 @@
     "deltTime": "2021/07/30 17:18",
     "dest": "GR PIR",
     "destLong": "Piraeus",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/01 05:30",
-    "destTime": "2021/08/01 02:30",
-    "position": "37.94584\u00b0 / 23.59789\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/01 07:08",
+    "destTime": "2021/08/01 04:08",
+    "position": "37.96051\u00b0 / 23.60483\u00b0",
     "area": "Piraeus Area",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9674189": {
     "rowidx": 14,
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/01 15:00",
     "destTime": "2021/08/01 12:00",
-    "position": "36.64392\u00b0 / 24.169\u00b0",
+    "position": "36.8628\u00b0 / 24.08065\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -307,7 +307,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/07/30 21:37",
     "destTime": "2021/07/30 18:37",
-    "position": "24.96465\u00b0 / 57.66041\u00b0",
+    "position": "24.75782\u00b0 / 57.87727\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/07/31 13:21",
     "destTime": "2021/07/31 10:21",
-    "position": "26.4935\u00b0 / 50.20605\u00b0",
+    "position": "26.49349\u00b0 / 50.20602\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -379,7 +379,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/02 20:00",
     "destTime": "2021/08/02 12:00",
-    "position": "2.7633\u00b0 / 101.2221\u00b0",
+    "position": "1.968817\u00b0 / 102.1615\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -523,7 +523,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/07/31 18:19",
     "destTime": "2021/07/31 10:19",
-    "position": "31.32202\u00b0 / 121.6817\u00b0",
+    "position": "31.32201\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
