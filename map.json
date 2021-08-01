@@ -139,7 +139,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/03 04:00",
     "destTime": "2021/08/03 02:00",
-    "position": "25.15339\u00b0 / 36.05569\u00b0",
+    "position": "25.70471\u00b0 / 35.73016\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/03 09:00",
     "destTime": "2021/08/03 06:00",
-    "position": "37.96051\u00b0 / 23.60484\u00b0",
+    "position": "37.96052\u00b0 / 23.60484\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -211,9 +211,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/01 15:00",
     "destTime": "2021/08/01 12:00",
-    "position": "37.60495\u00b0 / 23.626\u00b0",
+    "position": "37.53575\u00b0 / 23.64067\u00b0",
     "area": "Aegean Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9427952": {
     "rowidx": 16,
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/07/31 13:21",
     "destTime": "2021/07/31 10:21",
-    "position": "26.49348\u00b0 / 50.20602\u00b0",
+    "position": "26.4935\u00b0 / 50.20605\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -499,8 +499,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/02 14:00",
     "destTime": "2021/08/02 06:00",
-    "position": "38.37833\u00b0 / 121.4737\u00b0",
-    "area": "Yellow Sea",
+    "position": "38.55628\u00b0 / 121.0379\u00b0",
+    "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
   "9442885": {
@@ -545,9 +545,9 @@
     "dest": "CN SHG",
     "destLong": "Shanghai",
     "destType": "ETA",
-    "destLocalTime": "2021/08/02 01:58",
-    "destTime": "2021/08/01 17:58",
-    "position": "31.14785\u00b0 / 122.231\u00b0",
+    "destLocalTime": "2021/08/02 07:08",
+    "destTime": "2021/08/01 23:08",
+    "position": "31.23342\u00b0 / 122.0817\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
