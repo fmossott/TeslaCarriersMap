@@ -2,7 +2,7 @@
   "9460899": {
     "rowidx": 6,
     "num": "140",
-    "mapStatus": "0",
+    "mapStatus": "1",
     "mtsid": "714145",
     "name": "Glovis Companion",
     "mmsi": "636020905",
@@ -259,7 +259,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/01 15:00",
     "destTime": "2021/08/01 13:00",
-    "position": "43.03657\u00b0 / 10.06287\u00b0",
+    "position": "43.20132\u00b0 / 10.14827\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -379,8 +379,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/02 20:00",
     "destTime": "2021/08/02 12:00",
-    "position": "1.836483\u00b0 / 102.3609\u00b0",
-    "area": "Malacca Strait",
+    "position": "1.188733\u00b0 / 103.8688\u00b0",
+    "area": "Singapore Area",
     "status": "Underway using Engine"
   },
   "9209518": {
@@ -403,9 +403,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/01 11:08",
     "destTime": "2021/08/01 03:08",
-    "position": "1.291255\u00b0 / 103.9959\u00b0",
+    "position": "1.245713\u00b0 / 103.9587\u00b0",
     "area": "Singapore Area",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9403281": {
     "rowidx": 166,
@@ -451,7 +451,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/07/31 22:43",
     "destTime": "2021/07/31 14:43",
-    "position": "39.02083\u00b0 / 117.769\u00b0",
+    "position": "39.02084\u00b0 / 117.769\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -499,36 +499,12 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/02 14:00",
     "destTime": "2021/08/02 06:00",
-    "position": "36.72787\u00b0 / 123.3547\u00b0",
+    "position": "37.45523\u00b0 / 123.3491\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
-  "9713882": {
-    "rowidx": 170,
-    "num": "",
-    "mapStatus": "4",
-    "mtsid": "1881242",
-    "name": "Lake Geneva",
-    "mmsi": "636016445",
-    "length": "199.97",
-    "breadth": "32.26",
-    "grossTonnage": "59,516",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/01 18:51",
-    "deltTime": "2021/08/01 10:51",
-    "dest": "KR KAN",
-    "destLong": "Gwangyang",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/03 04:00",
-    "destTime": "2021/08/02 19:00",
-    "position": "31.31178\u00b0 / 121.741\u00b0",
-    "area": "East China Sea",
-    "status": "Underway using Engine"
-  },
   "9442885": {
-    "rowidx": 171,
+    "rowidx": 170,
     "num": "",
     "mapStatus": "4",
     "mtsid": "665315",
@@ -552,7 +528,7 @@
     "status": "Underway using Engine"
   },
   "9420045": {
-    "rowidx": 172,
+    "rowidx": 171,
     "num": "",
     "mapStatus": "4",
     "mtsid": "306358",
