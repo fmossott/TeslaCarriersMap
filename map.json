@@ -187,7 +187,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/06 10:00",
     "destTime": "2021/08/06 09:00",
-    "position": "37.46941\u00b0 / 7.23713\u00b0",
+    "position": "37.04333\u00b0 / 2.63433\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -211,9 +211,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/01 15:00",
     "destTime": "2021/08/01 12:00",
-    "position": "37.59647\u00b0 / 23.62355\u00b0",
+    "position": "37.60495\u00b0 / 23.626\u00b0",
     "area": "Aegean Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9427952": {
     "rowidx": 16,
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/07/31 13:21",
     "destTime": "2021/07/31 10:21",
-    "position": "26.49349\u00b0 / 50.20605\u00b0",
+    "position": "26.49348\u00b0 / 50.20602\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -475,8 +475,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/18 22:00",
     "destTime": "2021/08/18 20:00",
-    "position": "31.25731\u00b0 / 121.9266\u00b0",
-    "area": "East China Sea",
+    "position": "22.96648\u00b0 / 119.5444\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   },
   "9338620": {
@@ -545,9 +545,9 @@
     "dest": "CN SHG",
     "destLong": "Shanghai",
     "destType": "ETA",
-    "destLocalTime": "2021/07/28 06:00",
-    "destTime": "2021/07/27 22:00",
-    "position": "31.11465\u00b0 / 122.6837\u00b0",
+    "destLocalTime": "2021/08/02 01:58",
+    "destTime": "2021/08/01 17:58",
+    "position": "31.14785\u00b0 / 122.231\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
