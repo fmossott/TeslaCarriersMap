@@ -19,7 +19,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/01 18:46",
     "destTime": "2021/08/01 10:46",
-    "position": "31.32207\u00b0 / 121.6819\u00b0",
+    "position": "31.32206\u00b0 / 121.6819\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -155,17 +155,17 @@
     "grossTonnage": "47,053",
     "dept": "GR PIR",
     "deptLong": "Piraeus",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/01 06:08",
-    "deltTime": "2021/08/01 04:08",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/02 08:25",
+    "deltTime": "2021/08/02 05:25",
     "dest": "TR DRC",
     "destLong": "Derince",
     "destType": "ETA",
     "destLocalTime": "2021/08/03 09:00",
     "destTime": "2021/08/03 06:00",
-    "position": "37.9602\u00b0 / 23.60406\u00b0",
+    "position": "37.79193\u00b0 / 23.63339\u00b0",
     "area": "Piraeus Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9674189": {
     "rowidx": 14,
@@ -211,9 +211,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/01 15:00",
     "destTime": "2021/08/01 12:00",
-    "position": "37.84618\u00b0 / 23.57222\u00b0",
+    "position": "37.91695\u00b0 / 23.58972\u00b0",
     "area": "Piraeus Area",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9427952": {
     "rowidx": 16,
@@ -283,7 +283,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/02 12:15",
     "destTime": "2021/08/02 11:15",
-    "position": "51.02615\u00b0 / -4.667388\u00b0",
+    "position": "51.14752\u00b0 / -4.45241\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/07/31 13:21",
     "destTime": "2021/07/31 10:21",
-    "position": "26.49349\u00b0 / 50.20603\u00b0",
+    "position": "26.49348\u00b0 / 50.20603\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
