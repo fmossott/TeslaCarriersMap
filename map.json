@@ -19,7 +19,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/01 18:46",
     "destTime": "2021/08/01 10:46",
-    "position": "31.32206\u00b0 / 121.6819\u00b0",
+    "position": "31.32207\u00b0 / 121.6819\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -211,7 +211,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/02 09:30",
     "destTime": "2021/08/02 06:30",
-    "position": "37.96068\u00b0 / 23.60498\u00b0",
+    "position": "37.96068\u00b0 / 23.60502\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -283,7 +283,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/02 12:15",
     "destTime": "2021/08/02 11:15",
-    "position": "51.49461\u00b0 / -2.714783\u00b0",
+    "position": "51.49463\u00b0 / -2.714743\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -307,7 +307,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/07/31 13:21",
     "destTime": "2021/07/31 10:21",
-    "position": "26.49348\u00b0 / 50.20605\u00b0",
+    "position": "26.4935\u00b0 / 50.20606\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -355,7 +355,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/02 20:00",
     "destTime": "2021/08/02 12:00",
-    "position": "1.79975\u00b0 / 110.5727\u00b0",
+    "position": "1.79975\u00b0 / 110.5724\u00b0",
     "area": "Riau Archipelago",
     "status": "At Anchor"
   },
@@ -431,32 +431,8 @@
     "area": "South China",
     "status": "Underway using Engine"
   },
-  "9338620": {
-    "rowidx": 167,
-    "num": "",
-    "mapStatus": "4",
-    "mtsid": "370155",
-    "name": "Swallow Ace",
-    "mmsi": "309509000",
-    "length": "199.95",
-    "breadth": "32.2",
-    "grossTonnage": "58,685",
-    "dept": "CN TXG",
-    "deptLong": "Tianjin",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/02 14:41",
-    "deltTime": "2021/08/02 06:41",
-    "dest": "JP THS",
-    "destLong": "Toyohashi",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/06 04:00",
-    "destTime": "2021/08/05 19:00",
-    "position": "38.97459\u00b0 / 117.8206\u00b0",
-    "area": "Bohai Sea",
-    "status": "Moored"
-  },
   "9442885": {
-    "rowidx": 168,
+    "rowidx": 167,
     "num": "",
     "mapStatus": "4",
     "mtsid": "665315",
@@ -480,7 +456,7 @@
     "status": "Underway using Engine"
   },
   "9420045": {
-    "rowidx": 169,
+    "rowidx": 168,
     "num": "",
     "mapStatus": "4",
     "mtsid": "306358",
