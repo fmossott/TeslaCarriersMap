@@ -163,9 +163,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/03 14:51",
     "destTime": "2021/08/03 11:51",
-    "position": "40.74931\u00b0 / 29.8348\u00b0",
+    "position": "40.74974\u00b0 / 29.83465\u00b0",
     "area": "Marmara Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9674189": {
     "rowidx": 14,
@@ -187,7 +187,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/05 18:00",
     "destTime": "2021/08/05 17:00",
-    "position": "37.28123\u00b0 / -9.463048\u00b0",
+    "position": "38.87939\u00b0 / -9.872983\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -275,15 +275,15 @@
     "grossTonnage": "74,258",
     "dept": "GB PRU",
     "deptLong": "Portbury",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/02 14:21",
-    "deltTime": "2021/08/02 12:21",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/03 13:09",
+    "deltTime": "2021/08/03 12:09",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
     "destLocalTime": "2021/08/04 23:00",
     "destTime": "2021/08/04 21:00",
-    "position": "51.50102\u00b0 / -2.732327\u00b0",
+    "position": "51.38457\u00b0 / -3.079417\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -307,7 +307,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/07/31 13:21",
     "destTime": "2021/07/31 10:21",
-    "position": "26.49352\u00b0 / 50.20601\u00b0",
+    "position": "26.49353\u00b0 / 50.20605\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -355,7 +355,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/04 23:59",
     "destTime": "2021/08/04 15:59",
-    "position": "1.551383\u00b0 / 110.3946\u00b0",
+    "position": "1.551367\u00b0 / 110.3946\u00b0",
     "area": "Riau Archipelago",
     "status": "Moored"
   },
@@ -475,7 +475,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/02 06:41",
     "destTime": "2021/08/01 22:41",
-    "position": "31.32357\u00b0 / 121.6794\u00b0",
+    "position": "31.3237\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
