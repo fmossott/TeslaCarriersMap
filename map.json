@@ -160,10 +160,10 @@
     "deltTime": "2021/08/02 05:25",
     "dest": "TR DRC",
     "destLong": "Derince",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/03 13:00",
-    "destTime": "2021/08/03 10:00",
-    "position": "40.73446\u00b0 / 29.6679\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/03 14:51",
+    "destTime": "2021/08/03 11:51",
+    "position": "40.74931\u00b0 / 29.8348\u00b0",
     "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
@@ -283,9 +283,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/04 23:00",
     "destTime": "2021/08/04 21:00",
-    "position": "51.49463\u00b0 / -2.714812\u00b0",
+    "position": "51.50102\u00b0 / -2.732327\u00b0",
     "area": "Bristol Channel",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9445980": {
     "rowidx": 161,
@@ -307,7 +307,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/07/31 13:21",
     "destTime": "2021/07/31 10:21",
-    "position": "26.4935\u00b0 / 50.20604\u00b0",
+    "position": "26.49352\u00b0 / 50.20601\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -355,7 +355,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/04 23:59",
     "destTime": "2021/08/04 15:59",
-    "position": "1.551367\u00b0 / 110.3947\u00b0",
+    "position": "1.551383\u00b0 / 110.3946\u00b0",
     "area": "Riau Archipelago",
     "status": "Moored"
   },
@@ -427,9 +427,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/18 22:00",
     "destTime": "2021/08/18 20:00",
-    "position": "22.96648\u00b0 / 119.5444\u00b0",
+    "position": "15.94113\u00b0 / 113.43520\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9442885": {
     "rowidx": 167,
@@ -475,7 +475,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/02 06:41",
     "destTime": "2021/08/01 22:41",
-    "position": "31.32353\u00b0 / 121.6794\u00b0",
+    "position": "31.32357\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
