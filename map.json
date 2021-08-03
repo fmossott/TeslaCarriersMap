@@ -11,17 +11,17 @@
     "grossTonnage": "60,213",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/01 19:46",
-    "deltTime": "2021/08/01 10:46",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/03 07:56",
+    "deltTime": "2021/08/02 23:56",
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
     "destLocalTime": "2021/08/09 15:15",
     "destTime": "2021/08/09 07:15",
-    "position": "31.3221\u00b0 / 121.6819\u00b0",
+    "position": "31.31556\u00b0 / 121.73\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9184940": {
     "rowidx": 7,
@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/03 22:50",
     "destTime": "2021/08/03 20:50",
-    "position": "24.43804\u00b0 / 36.32018\u00b0",
+    "position": "25.12929\u00b0 / 35.94967\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/03 14:00",
     "destTime": "2021/08/03 11:00",
-    "position": "40.15878\u00b0 / 26.39122\u00b0",
+    "position": "40.31238\u00b0 / 26.59871\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -187,7 +187,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/05 18:00",
     "destTime": "2021/08/05 17:00",
-    "position": "36.03854\u00b0 / -5.12221\u00b0",
+    "position": "36.23407\u00b0 / -7.56023\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -211,7 +211,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/02 09:30",
     "destTime": "2021/08/02 06:30",
-    "position": "37.96068\u00b0 / 23.60503\u00b0",
+    "position": "37.96068\u00b0 / 23.605\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -283,7 +283,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/02 13:21",
     "destTime": "2021/08/02 12:21",
-    "position": "51.49459\u00b0 / -2.71479\u00b0",
+    "position": "51.49461\u00b0 / -2.714782\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -307,7 +307,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/07/31 13:21",
     "destTime": "2021/07/31 10:21",
-    "position": "26.49347\u00b0 / 50.20603\u00b0",
+    "position": "26.49347\u00b0 / 50.20604\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -355,7 +355,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/02 20:00",
     "destTime": "2021/08/02 12:00",
-    "position": "1.799767\u00b0 / 110.5724\u00b0",
+    "position": "1.7998\u00b0 / 110.5725\u00b0",
     "area": "Riau Archipelago",
     "status": "At Anchor"
   },
@@ -475,7 +475,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/02 06:41",
     "destTime": "2021/08/01 22:41",
-    "position": "31.32357\u00b0 / 121.6794\u00b0",
+    "position": "31.32353\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
