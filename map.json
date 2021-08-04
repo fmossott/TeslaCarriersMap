@@ -115,9 +115,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/06 12:00",
     "destTime": "2021/08/06 10:00",
-    "position": "16.81886\u00b0 / 40.80815\u00b0",
-    "area": "Gulf of Aden",
-    "status": "Out of Range"
+    "position": "18.37953\u00b0 / 39.82163\u00b0",
+    "area": "Red Sea",
+    "status": "Underway using Engine"
   },
   "9690547": {
     "rowidx": 11,
@@ -137,9 +137,9 @@
     "dest": "IL ASH",
     "destLong": "Ashdod",
     "destType": "ETA",
-    "destLocalTime": "2021/08/05 03:00",
-    "destTime": "2021/08/05 00:00",
-    "position": "31.07304\u00b0 / 32.30883\u00b0",
+    "destLocalTime": "2021/08/05 06:00",
+    "destTime": "2021/08/05 03:00",
+    "position": "31.19861\u00b0 / 32.33771\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -307,7 +307,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/07/31 13:21",
     "destTime": "2021/07/31 10:21",
-    "position": "26.49349\u00b0 / 50.20603\u00b0",
+    "position": "26.49348\u00b0 / 50.20604\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -352,10 +352,10 @@
     "deltTime": "2021/08/04 04:40",
     "dest": "MY BTU",
     "destLong": "Bintulu",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/06 00:01",
-    "destTime": "2021/08/05 16:01",
-    "position": "1.8769\u00b0 / 110.629\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/05 01:00",
+    "destTime": "2021/08/04 17:00",
+    "position": "3.268467\u00b0 / 112.9883\u00b0",
     "area": "Riau Archipelago",
     "status": "Underway using Engine"
   },
@@ -499,7 +499,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/05 23:00",
     "destTime": "2021/08/05 15:00",
-    "position": "31.32207\u00b0 / 121.6817\u00b0",
+    "position": "31.32209\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
