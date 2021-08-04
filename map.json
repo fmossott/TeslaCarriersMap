@@ -115,9 +115,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/06 12:00",
     "destTime": "2021/08/06 10:00",
-    "position": "12.29424\u00b0 / 44.14771\u00b0",
+    "position": "16.81886\u00b0 / 40.80815\u00b0",
     "area": "Gulf of Aden",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9690547": {
     "rowidx": 11,
@@ -139,7 +139,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/05 03:00",
     "destTime": "2021/08/05 00:00",
-    "position": "30.37454\u00b0 / 32.37521\u00b0",
+    "position": "30.47675\u00b0 / 32.34521\u00b0",
     "area": "East Mediterranean",
     "status": "Underway"
   },
@@ -158,12 +158,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/07/11 13:40",
     "deltTime": "2021/07/11 05:40",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
+    "dest": "LY MRA",
+    "destLong": "Misurata",
     "destType": "ETA",
     "destLocalTime": "2021/08/06 21:30",
     "destTime": "2021/08/06 19:30",
-    "position": "32.28345\u00b0 / 29.97508\u00b0",
+    "position": "32.48778\u00b0 / 28.38155\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -307,7 +307,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/05 12:00",
     "destTime": "2021/08/05 10:00",
-    "position": "50.30454\u00b0 / -0.30407\u00b0",
+    "position": "50.3494\u00b0 / 0.082115\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/07/31 13:21",
     "destTime": "2021/07/31 10:21",
-    "position": "26.49353\u00b0 / 50.20603\u00b0",
+    "position": "26.49351\u00b0 / 50.20604\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -523,7 +523,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/03 21:28",
     "destTime": "2021/08/03 13:28",
-    "position": "31.32343\u00b0 / 121.6795\u00b0",
+    "position": "31.32345\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
