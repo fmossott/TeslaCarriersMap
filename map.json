@@ -259,8 +259,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/08 20:00",
     "destTime": "2021/08/08 18:00",
-    "position": "38.69685\u00b0 / 2.599338\u00b0",
-    "area": "Balearic Sea",
+    "position": "37.00557\u00b0 / -0.9889333\u00b0",
+    "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
   "9505027": {
@@ -283,7 +283,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/05 12:00",
     "destTime": "2021/08/05 10:00",
-    "position": "50.3494\u00b0 / 0.082115\u00b0",
+    "position": "50.40753\u00b0 / 0.5030183\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -479,32 +479,8 @@
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
-  "9267687": {
-    "rowidx": 169,
-    "num": "",
-    "mapStatus": "4",
-    "mtsid": "412458",
-    "name": "Progress Ace",
-    "mmsi": "353514000",
-    "length": "199.54",
-    "breadth": "32.26",
-    "grossTonnage": "57,789",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/04 22:58",
-    "deltTime": "2021/08/04 14:58",
-    "dest": "KR KAN",
-    "destLong": "Gwangyang",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/07 07:00",
-    "destTime": "2021/08/06 22:00",
-    "position": "31.32267\u00b0 / 121.708\u00b0",
-    "area": "East China Sea",
-    "status": "Underway using Engine"
-  },
   "9293909": {
-    "rowidx": 170,
+    "rowidx": 169,
     "num": "",
     "mapStatus": "4",
     "mtsid": "462161",
@@ -526,5 +502,29 @@
     "position": "31.32209\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
+  },
+  "9166704": {
+    "rowidx": 170,
+    "num": "",
+    "mapStatus": "4",
+    "mtsid": "728896",
+    "name": "Hoegh Masan",
+    "mmsi": "564755000",
+    "length": "179.47",
+    "breadth": "32.2",
+    "grossTonnage": "44,219",
+    "dept": "JP SAK",
+    "deptLong": "Sakai",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/07/22 20:17",
+    "deltTime": "2021/07/22 11:17",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/04 23:07",
+    "destTime": "2021/08/04 15:07",
+    "position": "31.32342\u00b0 / 121.6795\u00b0",
+    "area": "East China Sea",
+    "status": "Stopped"
   }
 }
