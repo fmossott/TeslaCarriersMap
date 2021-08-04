@@ -91,9 +91,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/13 06:00",
     "destTime": "2021/08/13 04:00",
-    "position": "6.192727\u00b0 / 95.076\u00b0",
+    "position": "5.69639\u00b0 / 85.04448\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9674177": {
     "rowidx": 10,
@@ -139,7 +139,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/05 03:00",
     "destTime": "2021/08/05 00:00",
-    "position": "30.56498\u00b0 / 32.30401\u00b0",
+    "position": "30.72409\u00b0 / 32.34151\u00b0",
     "area": "East Mediterranean",
     "status": "Underway"
   },
@@ -307,7 +307,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/07/31 13:21",
     "destTime": "2021/07/31 10:21",
-    "position": "26.49354\u00b0 / 50.20605\u00b0",
+    "position": "26.4935\u00b0 / 50.20603\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -491,17 +491,17 @@
     "grossTonnage": "57,789",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/03 21:28",
-    "deltTime": "2021/08/03 13:28",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/04 22:58",
+    "deltTime": "2021/08/04 14:58",
     "dest": "KR KAN",
     "destLong": "Gwangyang",
     "destType": "ETA",
     "destLocalTime": "2021/08/07 07:00",
     "destTime": "2021/08/06 22:00",
-    "position": "31.32343\u00b0 / 121.6795\u00b0",
+    "position": "31.32267\u00b0 / 121.708\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9293909": {
     "rowidx": 170,
@@ -523,7 +523,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/05 23:00",
     "destTime": "2021/08/05 15:00",
-    "position": "31.32207\u00b0 / 121.6817\u00b0",
+    "position": "31.32209\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
