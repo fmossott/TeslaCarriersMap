@@ -1,7 +1,7 @@
 {
   "9713882": {
     "rowidx": 6,
-    "num": "141",
+    "num": "140",
     "mapStatus": "0",
     "mtsid": "1881242",
     "name": "Lake Geneva",
@@ -25,7 +25,7 @@
   },
   "9460899": {
     "rowidx": 7,
-    "num": "140",
+    "num": "139",
     "mapStatus": "2",
     "mtsid": "714145",
     "name": "Glovis Companion",
@@ -49,7 +49,7 @@
   },
   "9184940": {
     "rowidx": 8,
-    "num": "139",
+    "num": "138",
     "mapStatus": "2",
     "mtsid": "421804",
     "name": "Grand Race",
@@ -73,7 +73,7 @@
   },
   "9702417": {
     "rowidx": 9,
-    "num": "138",
+    "num": "137",
     "mapStatus": "2",
     "mtsid": "714636",
     "name": "Glovis Summit",
@@ -97,7 +97,7 @@
   },
   "9674177": {
     "rowidx": 10,
-    "num": "137",
+    "num": "136",
     "mapStatus": "2",
     "mtsid": "5555512",
     "name": "Glovis Supreme",
@@ -121,7 +121,7 @@
   },
   "9690547": {
     "rowidx": 11,
-    "num": "136",
+    "num": "135",
     "mapStatus": "2",
     "mtsid": "3434808",
     "name": "Helios Ray",
@@ -145,7 +145,7 @@
   },
   "9382396": {
     "rowidx": 13,
-    "num": "134",
+    "num": "133",
     "mapStatus": "2",
     "mtsid": "314565",
     "name": "Hoegh Oslo",
@@ -167,32 +167,8 @@
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
-  "9491886": {
-    "rowidx": 14,
-    "num": "133",
-    "mapStatus": "2",
-    "mtsid": "204314",
-    "name": "Passero",
-    "mmsi": "218820000",
-    "length": "183.29",
-    "breadth": "31.78",
-    "grossTonnage": "47,053",
-    "dept": "TR DRC",
-    "deptLong": "Derince",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/04 00:04",
-    "deltTime": "2021/08/03 21:04",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/21 02:00",
-    "destTime": "2021/08/20 18:00",
-    "position": "40.75483\u00b0 / 29.52885\u00b0",
-    "area": "Marmara Sea",
-    "status": "Underway using Engine"
-  },
   "9674189": {
-    "rowidx": 15,
+    "rowidx": 14,
     "num": "132",
     "mapStatus": "2",
     "mtsid": "5555573",
@@ -216,7 +192,7 @@
     "status": "Underway using Engine"
   },
   "9381237": {
-    "rowidx": 16,
+    "rowidx": 15,
     "num": "131",
     "mapStatus": "2",
     "mtsid": "463687",
@@ -240,7 +216,7 @@
     "status": "Underway using Engine"
   },
   "9427952": {
-    "rowidx": 17,
+    "rowidx": 16,
     "num": "130",
     "mapStatus": "2",
     "mtsid": "204311",
@@ -264,7 +240,7 @@
     "status": "Underway using Engine"
   },
   "9684976": {
-    "rowidx": 18,
+    "rowidx": 17,
     "num": "129",
     "mapStatus": "2",
     "mtsid": "3411545",
@@ -288,7 +264,7 @@
     "status": "Underway using Engine"
   },
   "9505027": {
-    "rowidx": 161,
+    "rowidx": 160,
     "num": "",
     "mapStatus": "4",
     "mtsid": "327524",
@@ -312,7 +288,7 @@
     "status": "Underway using Engine"
   },
   "9445980": {
-    "rowidx": 162,
+    "rowidx": 161,
     "num": "",
     "mapStatus": "4",
     "mtsid": "5792467",
@@ -336,7 +312,7 @@
     "status": "Moored"
   },
   "9398321": {
-    "rowidx": 163,
+    "rowidx": 162,
     "num": "",
     "mapStatus": "4",
     "mtsid": "194728",
@@ -360,7 +336,7 @@
     "status": "Out of Range"
   },
   "9446489": {
-    "rowidx": 164,
+    "rowidx": 163,
     "num": "",
     "mapStatus": "4",
     "mtsid": "414294",
@@ -384,7 +360,7 @@
     "status": "Underway using Engine"
   },
   "9209518": {
-    "rowidx": 165,
+    "rowidx": 164,
     "num": "",
     "mapStatus": "4",
     "mtsid": "412172",
@@ -408,7 +384,7 @@
     "status": "Out of Range"
   },
   "9403281": {
-    "rowidx": 166,
+    "rowidx": 165,
     "num": "",
     "mapStatus": "4",
     "mtsid": "386333",
@@ -432,7 +408,7 @@
     "status": "Underway"
   },
   "9669031": {
-    "rowidx": 167,
+    "rowidx": 166,
     "num": "",
     "mapStatus": "4",
     "mtsid": "714571",
@@ -456,7 +432,7 @@
     "status": "Out of Range"
   },
   "9442885": {
-    "rowidx": 168,
+    "rowidx": 167,
     "num": "",
     "mapStatus": "4",
     "mtsid": "665315",
@@ -480,7 +456,7 @@
     "status": "Out of Range"
   },
   "9420045": {
-    "rowidx": 169,
+    "rowidx": 168,
     "num": "",
     "mapStatus": "4",
     "mtsid": "306358",
@@ -504,7 +480,7 @@
     "status": "Underway using Engine"
   },
   "9267687": {
-    "rowidx": 170,
+    "rowidx": 169,
     "num": "",
     "mapStatus": "4",
     "mtsid": "412458",
@@ -528,7 +504,7 @@
     "status": "Moored"
   },
   "9293909": {
-    "rowidx": 171,
+    "rowidx": 170,
     "num": "",
     "mapStatus": "4",
     "mtsid": "462161",
