@@ -67,7 +67,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/11 20:00",
     "destTime": "2021/08/11 12:00",
-    "position": "49.79225\u00b0 / -168.39216\u00b0",
+    "position": "49.99241\u00b0 / -178.59498\u00b0",
     "area": "US West Coast",
     "status": "Out of Range"
   },
@@ -139,9 +139,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/05 03:00",
     "destTime": "2021/08/05 00:00",
-    "position": "30.15167\u00b0 / 32.56833\u00b0",
+    "position": "30.26833\u00b0 / 32.48333\u00b0",
     "area": "Red Sea",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9382396": {
     "rowidx": 13,
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/07/31 13:21",
     "destTime": "2021/07/31 10:21",
-    "position": "26.49349\u00b0 / 50.20601\u00b0",
+    "position": "26.49351\u00b0 / 50.20603\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -371,15 +371,15 @@
     "grossTonnage": "43,810",
     "dept": "MY KCH",
     "deptLong": "Kuching",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/03 09:49",
-    "deltTime": "2021/08/03 01:49",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/04 12:40",
+    "deltTime": "2021/08/04 04:40",
     "dest": "MY BTU",
     "destLong": "Bintulu",
     "destType": "ETA",
-    "destLocalTime": "2021/08/04 23:59",
-    "destTime": "2021/08/04 15:59",
-    "position": "1.623317\u00b0 / 110.4586\u00b0",
+    "destLocalTime": "2021/08/06 00:01",
+    "destTime": "2021/08/05 16:01",
+    "position": "1.740883\u00b0 / 110.5419\u00b0",
     "area": "Riau Archipelago",
     "status": "Underway using Engine"
   },
