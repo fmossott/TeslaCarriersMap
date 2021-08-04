@@ -129,19 +129,19 @@
     "length": "199.97",
     "breadth": "35.4",
     "grossTonnage": "71,177",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/07/17 04:12",
-    "deltTime": "2021/07/16 20:12",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2021/08/04 04:42",
-    "destTime": "2021/08/04 02:42",
-    "position": "30.015\u00b0 / 32.57833\u00b0",
+    "dept": "EG SUZ",
+    "deptLong": "Suez Canal",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/08/04 10:42",
+    "deltTime": "2021/08/04 02:42",
+    "dest": "IL ASH",
+    "destLong": "Ashdod",
+    "destType": "ETA",
+    "destLocalTime": "2021/08/05 03:00",
+    "destTime": "2021/08/05 00:00",
+    "position": "30.15167\u00b0 / 32.56833\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9382396": {
     "rowidx": 13,
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/05 18:00",
     "destTime": "2021/08/05 17:00",
-    "position": "40.93279\u00b0 / -9.850962\u00b0",
+    "position": "42.99997\u00b0 / -9.815042\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -283,8 +283,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/08 20:00",
     "destTime": "2021/08/08 18:00",
-    "position": "41.19424\u00b0 / 6.486402\u00b0",
-    "area": "West Mediterranean",
+    "position": "38.69685\u00b0 / 2.599338\u00b0",
+    "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
   "9505027": {
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/07/31 13:21",
     "destTime": "2021/07/31 10:21",
-    "position": "26.49349\u00b0 / 50.20604\u00b0",
+    "position": "26.49349\u00b0 / 50.20601\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -379,9 +379,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/04 23:59",
     "destTime": "2021/08/04 15:59",
-    "position": "1.55225\u00b0 / 110.396\u00b0",
+    "position": "1.623317\u00b0 / 110.4586\u00b0",
     "area": "Riau Archipelago",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9209518": {
     "rowidx": 165,
@@ -523,7 +523,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/03 21:28",
     "destTime": "2021/08/03 13:28",
-    "position": "31.32342\u00b0 / 121.6795\u00b0",
+    "position": "31.32343\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
