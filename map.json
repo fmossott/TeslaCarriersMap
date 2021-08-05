@@ -43,9 +43,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/10 10:00",
     "destTime": "2021/08/10 02:00",
-    "position": "22.81984\u00b0 / 122.1941\u00b0",
+    "position": "20.25555\u00b0 / 120.68988\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9184940": {
     "rowidx": 8,
@@ -139,7 +139,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/05 06:59",
     "destTime": "2021/08/05 03:59",
-    "position": "31.8322\u00b0 / 34.64351\u00b0",
+    "position": "31.83222\u00b0 / 34.64352\u00b0",
     "area": "East Mediterranean",
     "status": "Moored"
   },
@@ -302,12 +302,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/05 00:28",
     "deltTime": "2021/08/04 21:28",
-    "dest": "QA MES",
-    "destLong": "Mesaieed",
-    "destType": "ETA",
-    "destLocalTime": "2021/07/31 13:21",
-    "destTime": "2021/07/31 10:21",
-    "position": "25.06914\u00b0 / 51.69485\u00b0",
+    "dest": "QA HMD",
+    "destLong": "Hamad",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/05 12:19",
+    "destTime": "2021/08/05 09:19",
+    "position": "25.00331\u00b0 / 51.59991\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -331,9 +331,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/08 22:00",
     "destTime": "2021/08/08 20:00",
-    "position": "12.71227\u00b0 / 47.36760\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "12.41918\u00b0 / 43.85235\u00b0",
+    "area": "Gulf of Aden",
+    "status": "Underway using Engine"
   },
   "9446489": {
     "rowidx": 163,
@@ -499,7 +499,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/07 07:00",
     "destTime": "2021/08/06 23:00",
-    "position": "31.32208\u00b0 / 121.6816\u00b0",
+    "position": "31.32217\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
