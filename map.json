@@ -2,7 +2,7 @@
   "9713882": {
     "rowidx": 6,
     "num": "140",
-    "mapStatus": "0",
+    "mapStatus": "1",
     "mtsid": "1881242",
     "name": "Lake Geneva",
     "mmsi": "636016445",
@@ -21,7 +21,7 @@
     "destTime": "2021/08/05 03:15",
     "position": "31.32337\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9460899": {
     "rowidx": 7,
@@ -283,7 +283,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/05 09:15",
     "destTime": "2021/08/05 07:15",
-    "position": "51.36378\u00b0 / 2.498695\u00b0",
+    "position": "51.36134\u00b0 / 2.580287\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
