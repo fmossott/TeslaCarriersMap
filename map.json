@@ -91,7 +91,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/13 06:00",
     "destTime": "2021/08/13 04:00",
-    "position": "7.84727\u00b0 / 75.30456\u00b0",
+    "position": "10.25124\u00b0 / 69.51221\u00b0",
     "area": "Malacca Strait",
     "status": "Out of Range"
   },
@@ -163,9 +163,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/06 23:33",
     "destTime": "2021/08/06 21:33",
-    "position": "32.36539\u00b0 / 15.21585\u00b0",
+    "position": "32.36246\u00b0 / 15.21477\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9381237": {
     "rowidx": 14,
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/09 04:15",
     "destTime": "2021/08/09 03:15",
-    "position": "41.40316\u00b0 / -9.813182\u00b0",
+    "position": "43.5937\u00b0 / -9.560088\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -251,17 +251,17 @@
     "grossTonnage": "74,258",
     "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/05 07:34",
-    "deltTime": "2021/08/05 06:34",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/07 01:24",
+    "deltTime": "2021/08/06 23:24",
     "dest": "DE BRV",
     "destLong": "Bremerhaven",
     "destType": "ETA",
     "destLocalTime": "2021/08/07 20:00",
     "destTime": "2021/08/07 18:00",
-    "position": "51.33433\u00b0 / 3.216942\u00b0",
+    "position": "51.40089\u00b0 / 3.109272\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9674189": {
     "rowidx": 160,
@@ -283,7 +283,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/06 15:54",
     "destTime": "2021/08/06 13:54",
-    "position": "51.89443\u00b0 / 4.247175\u00b0",
+    "position": "51.89443\u00b0 / 4.24717\u00b0",
     "area": "Rotterdam Area",
     "status": "Moored"
   },
