@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/06 21:30",
     "destTime": "2021/08/06 19:30",
-    "position": "32.62625\u00b0 / 16.81273\u00b0",
+    "position": "32.58975\u00b0 / 16.5495\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/08 20:00",
     "destTime": "2021/08/08 18:00",
-    "position": "40.8141\u00b0 / -9.810246\u00b0",
+    "position": "42.47312\u00b0 / -9.799367\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -259,7 +259,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/07 20:00",
     "destTime": "2021/08/07 18:00",
-    "position": "51.31656\u00b0 / 3.225108\u00b0",
+    "position": "51.31655\u00b0 / 3.225098\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -278,14 +278,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/07/08 11:53",
     "deltTime": "2021/07/08 03:53",
-    "dest": "NL RTM",
-    "destLong": "Rotterdam",
+    "dest": "NL ROZ",
+    "destLong": "Rozenburg",
     "destType": "ATA",
-    "destLocalTime": "2021/08/06 14:14",
-    "destTime": "2021/08/06 12:14",
-    "position": "51.90053\u00b0 / 4.227903\u00b0",
+    "destLocalTime": "2021/08/06 15:54",
+    "destTime": "2021/08/06 13:54",
+    "position": "51.89443\u00b0 / 4.247173\u00b0",
     "area": "Rotterdam Area",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9445980": {
     "rowidx": 161,
@@ -307,7 +307,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/07 05:00",
     "destTime": "2021/08/07 01:00",
-    "position": "25.67674\u00b0 / 55.10576\u00b0",
+    "position": "25.87723\u00b0 / 55.51156\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -547,7 +547,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/06 13:00",
     "destTime": "2021/08/06 05:00",
-    "position": "31.32362\u00b0 / 121.6794\u00b0",
+    "position": "31.3236\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
