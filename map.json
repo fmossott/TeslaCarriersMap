@@ -43,7 +43,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/10 10:00",
     "destTime": "2021/08/10 02:00",
-    "position": "18.46239\u00b0 / 119.02174\u00b0",
+    "position": "16.52611\u00b0 / 117.23040\u00b0",
     "area": "South China",
     "status": "Out of Range"
   },
@@ -131,17 +131,17 @@
     "grossTonnage": "71,177",
     "dept": "IL ASH",
     "deptLong": "Ashdod",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/05 11:59",
-    "deltTime": "2021/08/05 03:59",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/06 11:06",
+    "deltTime": "2021/08/06 08:06",
     "dest": "IT SAL",
     "destLong": "Salerno",
     "destType": "ETA",
     "destLocalTime": "2021/08/09 10:00",
     "destTime": "2021/08/09 08:00",
-    "position": "31.83223\u00b0 / 34.64353\u00b0",
+    "position": "31.85754\u00b0 / 34.6357\u00b0",
     "area": "East Mediterranean",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9382396": {
     "rowidx": 12,
@@ -307,7 +307,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/07 05:00",
     "destTime": "2021/08/07 01:00",
-    "position": "25.67659\u00b0 / 53.04169\u00b0",
+    "position": "25.54477\u00b0 / 53.66822\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -523,7 +523,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/20 06:00",
     "destTime": "2021/08/20 02:00",
-    "position": "31.32193\u00b0 / 121.6818\u00b0",
+    "position": "31.32195\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
