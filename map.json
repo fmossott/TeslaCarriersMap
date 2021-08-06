@@ -113,11 +113,11 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2021/08/06 22:30",
-    "destTime": "2021/08/06 20:30",
-    "position": "29.7179\u00b0 / 32.55164\u00b0",
+    "destLocalTime": "2021/08/06 22:00",
+    "destTime": "2021/08/06 20:00",
+    "position": "29.85574\u00b0 / 32.56125\u00b0",
     "area": "Red Sea",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9690547": {
     "rowidx": 11,
@@ -307,7 +307,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/07 05:00",
     "destTime": "2021/08/07 01:00",
-    "position": "26.28639\u00b0 / 56.7009\u00b0",
+    "position": "26.01306\u00b0 / 56.77089\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -355,7 +355,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/12 02:00",
     "destTime": "2021/08/11 23:00",
-    "position": "8.36546\u00b0 / 76.79099\u00b0",
+    "position": "8.408221\u00b0 / 76.63866\u00b0",
     "area": "Laccadive Sea",
     "status": "Underway using Engine"
   },
@@ -427,7 +427,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/07 07:00",
     "destTime": "2021/08/06 23:00",
-    "position": "1.306917\u00b0 / 104.2673\u00b0",
+    "position": "1.282317\u00b0 / 104.1238\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -451,9 +451,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/20 22:00",
     "destTime": "2021/08/20 20:00",
-    "position": "22.24578\u00b0 / 121.4533\u00b0",
+    "position": "17.90670\u00b0 / 117.79785\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9166704": {
     "rowidx": 168,
@@ -571,7 +571,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/07 00:21",
     "destTime": "2021/08/06 16:21",
-    "position": "31.32351\u00b0 / 121.6797\u00b0",
+    "position": "31.3235\u00b0 / 121.6797\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
