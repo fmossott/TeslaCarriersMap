@@ -2,7 +2,7 @@
   "9713882": {
     "rowidx": 6,
     "num": "139",
-    "mapStatus": "1",
+    "mapStatus": "2",
     "mtsid": "1881242",
     "name": "Lake Geneva",
     "mmsi": "636016445",
@@ -144,8 +144,8 @@
     "status": "Moored"
   },
   "9382396": {
-    "rowidx": 13,
-    "num": "132",
+    "rowidx": 12,
+    "num": "133",
     "mapStatus": "2",
     "mtsid": "314565",
     "name": "Hoegh Oslo",
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/06 21:30",
     "destTime": "2021/08/06 19:30",
-    "position": "32.88437\u00b0 / 18.61481\u00b0",
+    "position": "32.83845\u00b0 / 18.31293\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -259,7 +259,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/08 03:00",
     "destTime": "2021/08/08 01:00",
-    "position": "51.31656\u00b0 / 3.225108\u00b0",
+    "position": "51.31656\u00b0 / 3.225082\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -283,8 +283,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/06 13:30",
     "destTime": "2021/08/06 11:30",
-    "position": "51.52405\u00b0 / 2.304465\u00b0",
-    "area": "English Channel",
+    "position": "51.69826\u00b0 / 2.551225\u00b0",
+    "area": "North Sea",
     "status": "Underway using Engine"
   },
   "9445980": {
@@ -335,32 +335,8 @@
     "area": "Gulf of Aden",
     "status": "Underway using Engine"
   },
-  "9446489": {
-    "rowidx": 163,
-    "num": "",
-    "mapStatus": "4",
-    "mtsid": "414294",
-    "name": "Malaysia Passion",
-    "mmsi": "533170658",
-    "length": "180",
-    "breadth": "30",
-    "grossTonnage": "43,810",
-    "dept": "BN MUA",
-    "deptLong": "Muara",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/06 09:25",
-    "deltTime": "2021/08/06 01:25",
-    "dest": "MY BKI",
-    "destLong": "Kota Kinabalu",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/06 15:20",
-    "destTime": "2021/08/06 07:20",
-    "position": "6.052883\u00b0 / 116.0456\u00b0",
-    "area": "Riau Archipelago",
-    "status": "Underway using Engine"
-  },
   "9209518": {
-    "rowidx": 164,
+    "rowidx": 163,
     "num": "",
     "mapStatus": "4",
     "mtsid": "412172",
@@ -384,7 +360,7 @@
     "status": "Underway using Engine"
   },
   "9403281": {
-    "rowidx": 165,
+    "rowidx": 164,
     "num": "",
     "mapStatus": "4",
     "mtsid": "386333",
@@ -408,7 +384,7 @@
     "status": "Underway using Engine"
   },
   "9669031": {
-    "rowidx": 166,
+    "rowidx": 165,
     "num": "",
     "mapStatus": "4",
     "mtsid": "714571",
@@ -432,7 +408,7 @@
     "status": "Out of Range"
   },
   "9442885": {
-    "rowidx": 167,
+    "rowidx": 166,
     "num": "",
     "mapStatus": "4",
     "mtsid": "665315",
@@ -456,7 +432,7 @@
     "status": "Out of Range"
   },
   "9420045": {
-    "rowidx": 168,
+    "rowidx": 167,
     "num": "",
     "mapStatus": "4",
     "mtsid": "306358",
@@ -480,7 +456,7 @@
     "status": "Underway using Engine"
   },
   "9166704": {
-    "rowidx": 169,
+    "rowidx": 168,
     "num": "",
     "mapStatus": "4",
     "mtsid": "728896",
@@ -504,7 +480,7 @@
     "status": "Out of Range"
   },
   "9293909": {
-    "rowidx": 170,
+    "rowidx": 169,
     "num": "",
     "mapStatus": "4",
     "mtsid": "462161",
@@ -528,7 +504,7 @@
     "status": "Underway using Engine"
   },
   "9189251": {
-    "rowidx": 171,
+    "rowidx": 170,
     "num": "",
     "mapStatus": "4",
     "mtsid": "320487",
@@ -548,6 +524,30 @@
     "destLocalTime": "2021/08/20 06:00",
     "destTime": "2021/08/20 02:00",
     "position": "31.32193\u00b0 / 121.6818\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
+  },
+  "9318515": {
+    "rowidx": 171,
+    "num": "",
+    "mapStatus": "4",
+    "mtsid": "369021",
+    "name": "Morning Menad",
+    "mmsi": "440253000",
+    "length": "176.02",
+    "breadth": "31.1",
+    "grossTonnage": "41,192",
+    "dept": "KR MAS",
+    "deptLong": "Masan",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/07/29 13:15",
+    "deltTime": "2021/07/29 04:15",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/06 13:00",
+    "destTime": "2021/08/06 05:00",
+    "position": "31.3236\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
