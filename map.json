@@ -158,14 +158,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/07/11 13:40",
     "deltTime": "2021/07/11 05:40",
-    "dest": "LY MISURATA ANCH",
+    "dest": "LY MRA",
     "destLong": "Misurata",
-    "destType": "ATA",
-    "destLocalTime": "2021/08/06 22:21",
-    "destTime": "2021/08/06 20:21",
-    "position": "32.37581\u00b0 / 15.25965\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2021/08/06 21:30",
+    "destTime": "2021/08/06 19:30",
+    "position": "32.37051\u00b0 / 15.24188\u00b0",
     "area": "East Mediterranean",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9381237": {
     "rowidx": 14,
@@ -187,8 +187,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/11 01:00",
     "destTime": "2021/08/10 23:00",
-    "position": "36.56642\u00b0 / -0.8366\u00b0",
-    "area": "West Mediterranean",
+    "position": "36.0653\u00b0 / -4.340883\u00b0",
+    "area": "Gibraltar",
     "status": "Underway using Engine"
   },
   "9427952": {
@@ -259,9 +259,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/07 20:00",
     "destTime": "2021/08/07 18:00",
-    "position": "51.31654\u00b0 / 3.225112\u00b0",
+    "position": "51.31654\u00b0 / 3.225103\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9674189": {
     "rowidx": 160,
@@ -283,7 +283,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/06 15:54",
     "destTime": "2021/08/06 13:54",
-    "position": "51.89442\u00b0 / 4.24717\u00b0",
+    "position": "51.89443\u00b0 / 4.247185\u00b0",
     "area": "Rotterdam Area",
     "status": "Moored"
   },
