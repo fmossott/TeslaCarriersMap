@@ -187,7 +187,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/11 01:00",
     "destTime": "2021/08/10 23:00",
-    "position": "36.0653\u00b0 / -4.340883\u00b0",
+    "position": "36.10273\u00b0 / -6.81595\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -237,30 +237,6 @@
     "destTime": "2021/08/08 18:00",
     "position": "44.52922\u00b0 / -8.8317\u00b0",
     "area": "Biscay Bay",
-    "status": "Underway using Engine"
-  },
-  "9505027": {
-    "rowidx": 159,
-    "num": "",
-    "mapStatus": "4",
-    "mtsid": "327524",
-    "name": "Carmen",
-    "mmsi": "266339000",
-    "length": "231.6",
-    "breadth": "32.25",
-    "grossTonnage": "74,258",
-    "dept": "BE ZEE",
-    "deptLong": "Zeebrugge",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/07 01:24",
-    "deltTime": "2021/08/06 23:24",
-    "dest": "DE BRV",
-    "destLong": "Bremerhaven",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/07 20:00",
-    "destTime": "2021/08/07 18:00",
-    "position": "52.49805\u00b0 / 3.70371\u00b0",
-    "area": "North Sea",
     "status": "Underway using Engine"
   },
   "9674189": {
@@ -379,9 +355,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/16 15:00",
     "destTime": "2021/08/16 13:00",
-    "position": "6.42335\u00b0 / 95.05763\u00b0",
+    "position": "5.95655\u00b0 / 83.75688\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9669031": {
     "rowidx": 165,
@@ -523,7 +499,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/13 04:00",
     "destTime": "2021/08/12 21:00",
-    "position": "31.31251\u00b0 / 121.7409\u00b0",
+    "position": "31.09253\u00b0 / 122.7079\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
