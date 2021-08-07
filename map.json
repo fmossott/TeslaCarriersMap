@@ -43,7 +43,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/10 10:00",
     "destTime": "2021/08/10 02:00",
-    "position": "11.50162\u00b0 / 112.65277\u00b0",
+    "position": "8.64154\u00b0 / 110.08874\u00b0",
     "area": "South China",
     "status": "Out of Range"
   },
@@ -275,17 +275,17 @@
     "grossTonnage": "70,853",
     "dept": "OM SOH",
     "deptLong": "Sohar",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/07 16:49",
-    "deltTime": "2021/08/07 13:49",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/08 01:31",
+    "deltTime": "2021/08/07 21:31",
     "dest": "IN MUN",
     "destLong": "Mundra",
     "destType": "ETA",
     "destLocalTime": "2021/08/07 17:49",
     "destTime": "2021/08/07 13:49",
-    "position": "24.50085\u00b0 / 56.62136\u00b0",
+    "position": "24.6282\u00b0 / 56.67908\u00b0",
     "area": "Oman Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9398321": {
     "rowidx": 162,
@@ -595,7 +595,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/07 00:21",
     "destTime": "2021/08/06 16:21",
-    "position": "31.32351\u00b0 / 121.6797\u00b0",
+    "position": "31.32349\u00b0 / 121.6797\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
