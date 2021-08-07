@@ -273,14 +273,14 @@
     "length": "232.38",
     "breadth": "32.3",
     "grossTonnage": "70,853",
-    "dept": "QA HMD",
-    "deptLong": "Hamad",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/06 03:18",
-    "deltTime": "2021/08/06 00:18",
-    "dest": "OM SOH",
-    "destLong": "Sohar",
-    "destType": "ATA",
+    "dept": "OM SOH",
+    "deptLong": "Sohar",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/08/07 16:49",
+    "deltTime": "2021/08/07 13:49",
+    "dest": "IN MUN",
+    "destLong": "Mundra",
+    "destType": "ETA",
     "destLocalTime": "2021/08/07 17:49",
     "destTime": "2021/08/07 13:49",
     "position": "24.50085\u00b0 / 56.62136\u00b0",
@@ -499,9 +499,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/13 04:00",
     "destTime": "2021/08/12 21:00",
-    "position": "31.09253\u00b0 / 122.7079\u00b0",
+    "position": "26.95014\u00b0 / 121.63457\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9189251": {
     "rowidx": 171,
@@ -595,7 +595,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/07 00:21",
     "destTime": "2021/08/06 16:21",
-    "position": "31.32353\u00b0 / 121.6797\u00b0",
+    "position": "31.32351\u00b0 / 121.6797\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
