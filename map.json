@@ -278,12 +278,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/06 03:18",
     "deltTime": "2021/08/06 00:18",
-    "dest": "AE FUJAIRAH ANCH",
-    "destLong": "Fujairah",
-    "destType": "ATA",
-    "destLocalTime": "2021/08/07 04:53",
-    "destTime": "2021/08/07 00:53",
-    "position": "25.04674\u00b0 / 56.63237\u00b0",
+    "dest": "OM SOH",
+    "destLong": "Sohar",
+    "destType": "ETA",
+    "destLocalTime": "2021/08/07 17:15",
+    "destTime": "2021/08/07 13:15",
+    "position": "24.75218\u00b0 / 56.71307\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -401,11 +401,11 @@
     "dest": "SA JED",
     "destLong": "Jeddah",
     "destType": "ETA",
-    "destLocalTime": "2021/08/21 00:45",
-    "destTime": "2021/08/20 21:45",
-    "position": "1.284833\u00b0 / 103.7526\u00b0",
+    "destLocalTime": "2021/08/20 19:00",
+    "destTime": "2021/08/20 16:00",
+    "position": "1.269733\u00b0 / 103.7423\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9420045": {
     "rowidx": 167,
@@ -473,9 +473,9 @@
     "dest": "CN XMG",
     "destLong": "Xiamen",
     "destType": "ETA",
-    "destLocalTime": "2021/08/08 08:01",
-    "destTime": "2021/08/08 00:01",
-    "position": "25.16344\u00b0 / 120.2028\u00b0",
+    "destLocalTime": "2021/08/08 06:00",
+    "destTime": "2021/08/07 22:00",
+    "position": "24.87923\u00b0 / 119.8484\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -595,7 +595,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/07 13:14",
     "destTime": "2021/08/07 05:14",
-    "position": "31.32205\u00b0 / 121.6817\u00b0",
+    "position": "31.32207\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
