@@ -91,7 +91,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/13 06:00",
     "destTime": "2021/08/13 04:00",
-    "position": "11.77148\u00b0 / 63.64911\u00b0",
+    "position": "12.49304\u00b0 / 60.78069\u00b0",
     "area": "Malacca Strait",
     "status": "Out of Range"
   },
@@ -161,10 +161,10 @@
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
-    "destLocalTime": "2021/08/16 04:00",
-    "destTime": "2021/08/16 02:00",
-    "position": "32.67672\u00b0 / 15.09701\u00b0",
-    "area": "East Mediterranean",
+    "destLocalTime": "2021/08/16 12:00",
+    "destTime": "2021/08/16 10:00",
+    "position": "36.35004\u00b0 / 12.87218\u00b0",
+    "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
   "9381237": {
@@ -232,10 +232,10 @@
     "deltTime": "2021/08/03 00:59",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/08 16:00",
-    "destTime": "2021/08/08 14:00",
-    "position": "51.38555\u00b0 / 2.981987\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/08 18:17",
+    "destTime": "2021/08/08 16:17",
+    "position": "51.3386\u00b0 / 3.213238\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -259,7 +259,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/06 15:54",
     "destTime": "2021/08/06 13:54",
-    "position": "51.89443\u00b0 / 4.247185\u00b0",
+    "position": "51.89443\u00b0 / 4.247173\u00b0",
     "area": "Rotterdam Area",
     "status": "Moored"
   },
@@ -547,7 +547,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/13 04:00",
     "destTime": "2021/08/12 20:00",
-    "position": "26.35477\u00b0 / 121.2615\u00b0",
+    "position": "26.24208\u00b0 / 121.1986\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
