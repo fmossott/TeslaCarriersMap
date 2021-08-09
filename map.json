@@ -38,14 +38,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/03 07:56",
     "deltTime": "2021/08/02 23:56",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/09 10:30",
-    "destTime": "2021/08/09 02:30",
-    "position": "1.259817\u00b0 / 103.9636\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/09 11:21",
+    "destTime": "2021/08/09 03:21",
+    "position": "1.291643\u00b0 / 104.0235\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9184940": {
     "rowidx": 8,
@@ -91,7 +91,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/13 06:00",
     "destTime": "2021/08/13 04:00",
-    "position": "12.49304\u00b0 / 60.78069\u00b0",
+    "position": "13.21915\u00b0 / 57.90507\u00b0",
     "area": "Malacca Strait",
     "status": "Out of Range"
   },
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/09 04:15",
     "destTime": "2021/08/09 03:15",
-    "position": "51.34015\u00b0 / -3.410462\u00b0",
+    "position": "51.35561\u00b0 / -3.198155\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -235,7 +235,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/08 18:17",
     "destTime": "2021/08/08 16:17",
-    "position": "51.30873\u00b0 / 3.225572\u00b0",
+    "position": "51.30873\u00b0 / 3.225568\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -249,17 +249,17 @@
     "length": "199.97",
     "breadth": "35",
     "grossTonnage": "64,650",
-    "dept": "NL RTM",
-    "deptLong": "Rotterdam",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/09 04:32",
-    "deltTime": "2021/08/09 02:32",
+    "dept": "NL ROZ",
+    "deptLong": "Rozenburg",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/09 04:31",
+    "deltTime": "2021/08/09 02:31",
     "dest": "GB IMM",
     "destLong": "Immingham",
     "destType": "ETA",
     "destLocalTime": "2021/08/10 07:10",
     "destTime": "2021/08/10 06:10",
-    "position": "51.9205\u00b0 / 4.215278\u00b0",
+    "position": "52.0201\u00b0 / 3.95302\u00b0",
     "area": "Rotterdam Area",
     "status": "Underway"
   },
@@ -451,7 +451,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/08 06:00",
     "destTime": "2021/08/07 22:00",
-    "position": "24.24\u00b0 / 118.4477\u00b0",
+    "position": "24.24004\u00b0 / 118.4476\u00b0",
     "area": "East China Sea",
     "status": "At Anchor"
   },
@@ -547,7 +547,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/13 04:00",
     "destTime": "2021/08/12 20:00",
-    "position": "23.47858\u00b0 / 119.9023\u00b0",
+    "position": "23.33123\u00b0 / 119.8974\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
@@ -595,7 +595,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/09 00:52",
     "destTime": "2021/08/08 16:52",
-    "position": "31.32357\u00b0 / 121.6795\u00b0",
+    "position": "31.32358\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
