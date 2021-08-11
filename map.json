@@ -67,7 +67,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/12 06:00",
     "destTime": "2021/08/11 22:00",
-    "position": "26.11173\u00b0 / 121.8311\u00b0",
+    "position": "25.89178\u00b0 / 121.6334\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -235,8 +235,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/16 22:00",
     "destTime": "2021/08/16 20:00",
-    "position": "35.30883\u00b0 / 20.20717\u00b0",
-    "area": "East Mediterranean",
+    "position": "36.348\u00b0 / 15.20533\u00b0",
+    "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
   "9209518": {
@@ -259,7 +259,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/11 22:00",
     "destTime": "2021/08/11 19:00",
-    "position": "11.84036\u00b0 / 43.37773\u00b0",
+    "position": "11.75091\u00b0 / 43.08465\u00b0",
     "area": "Gulf of Aden",
     "status": "Underway using Engine"
   },
@@ -596,6 +596,30 @@
     "destLocalTime": "2021/08/11 02:05",
     "destTime": "2021/08/10 18:05",
     "position": "31.32203\u00b0 / 121.6817\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
+  },
+  "9363950": {
+    "rowidx": 176,
+    "num": "",
+    "mapStatus": "4",
+    "mtsid": "372498",
+    "name": "Clover Ace",
+    "mmsi": "636017062",
+    "length": "199.99",
+    "breadth": "32.26",
+    "grossTonnage": "60,065",
+    "dept": "CN MCI",
+    "deptLong": "Mcid",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/03 10:18",
+    "deptTime": "2021/08/03 02:18",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/12 01:56",
+    "destTime": "2021/08/11 17:56",
+    "position": "31.3234\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
