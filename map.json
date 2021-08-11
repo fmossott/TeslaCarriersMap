@@ -67,7 +67,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/12 06:00",
     "destTime": "2021/08/11 22:00",
-    "position": "25.43667\u00b0 / 121.3386\u00b0",
+    "position": "25.20351\u00b0 / 121.2909\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -161,10 +161,10 @@
     "dest": "ES SDR",
     "destLong": "Santander",
     "destType": "ETA",
-    "destLocalTime": "2021/08/16 14:00",
-    "destTime": "2021/08/16 12:00",
-    "position": "36.07389\u00b0 / -4.882677\u00b0",
-    "area": "Gibraltar",
+    "destLocalTime": "2021/08/16 16:00",
+    "destTime": "2021/08/16 14:00",
+    "position": "36.71982\u00b0 / -9.0838\u00b0",
+    "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
   "9381237": {
@@ -259,9 +259,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/11 22:00",
     "destTime": "2021/08/11 19:00",
-    "position": "11.71572\u00b0 / 42.99274\u00b0",
+    "position": "11.72086\u00b0 / 42.98466\u00b0",
     "area": "Gulf of Aden",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9403281": {
     "rowidx": 162,
@@ -331,9 +331,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/19 19:00",
     "destTime": "2021/08/19 16:00",
-    "position": "5.82090\u00b0 / 85.28288\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "5.835\u00b0 / 80.04843\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9420045": {
     "rowidx": 165,
@@ -619,7 +619,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/12 01:56",
     "destTime": "2021/08/11 17:56",
-    "position": "31.32341\u00b0 / 121.6796\u00b0",
+    "position": "31.32339\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
