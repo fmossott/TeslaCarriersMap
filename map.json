@@ -19,9 +19,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/25 00:00",
     "destTime": "2021/08/24 22:00",
-    "position": "3.88728\u00b0 / 105.92146\u00b0",
-    "area": "South China",
-    "status": "Out of Range"
+    "position": "5.325105\u00b0 / 98.19104\u00b0",
+    "area": "Malacca Strait",
+    "status": "Underway using Engine"
   },
   "9460899": {
     "rowidx": 7,
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/12 22:00",
     "destTime": "2021/08/12 19:00",
-    "position": "11.74137\u00b0 / 42.99033\u00b0",
+    "position": "11.68516\u00b0 / 42.97803\u00b0",
     "area": "Gulf of Aden",
     "status": "Underway using Engine"
   },
@@ -307,9 +307,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/19 19:00",
     "destTime": "2021/08/19 16:00",
-    "position": "5.835\u00b0 / 80.04843\u00b0",
+    "position": "7.39745\u00b0 / 76.08694\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9420045": {
     "rowidx": 165,
@@ -345,17 +345,17 @@
     "length": "179.47",
     "breadth": "32.2",
     "grossTonnage": "44,219",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
+    "dept": "SG SIN",
+    "deptLong": "Singapore",
     "deptType": "ATD",
-    "deptLocalTime": "2021/08/05 10:44",
-    "deptTime": "2021/08/05 02:44",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2021/08/12 14:24",
-    "destTime": "2021/08/12 06:24",
-    "position": "1.27217\u00b0 / 103.7436\u00b0",
+    "deptLocalTime": "2021/08/12 23:56",
+    "deptTime": "2021/08/12 15:56",
+    "dest": "ZA DUR",
+    "destLong": "Durban",
+    "destType": "ETA",
+    "destLocalTime": "2021/08/25 02:00",
+    "destTime": "2021/08/25 00:00",
+    "position": "1.2028\u00b0 / 103.6025\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -451,7 +451,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/13 04:00",
     "destTime": "2021/08/12 20:00",
-    "position": "1.652215\u00b0 / 104.5985\u00b0",
+    "position": "1.430518\u00b0 / 104.4477\u00b0",
     "area": "Indonesia",
     "status": "Underway using Engine"
   },
@@ -475,7 +475,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/13 04:00",
     "destTime": "2021/08/12 20:00",
-    "position": "7.17979\u00b0 / 108.69823\u00b0",
+    "position": "5.10398\u00b0 / 106.77190\u00b0",
     "area": "South China",
     "status": "Out of Range"
   },
