@@ -161,9 +161,9 @@
     "dest": "ES SDR",
     "destLong": "Santander",
     "destType": "ETA",
-    "destLocalTime": "2021/08/16 16:00",
-    "destTime": "2021/08/16 14:00",
-    "position": "36.71982\u00b0 / -9.0838\u00b0",
+    "destLocalTime": "2021/08/16 16:30",
+    "destTime": "2021/08/16 14:30",
+    "position": "39.76842\u00b0 / -9.860588\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -187,7 +187,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/11 00:41",
     "destTime": "2021/08/10 22:41",
-    "position": "51.30373\u00b0 / 3.229617\u00b0",
+    "position": "51.3037\u00b0 / 3.229617\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -379,9 +379,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/12 14:24",
     "destTime": "2021/08/12 06:24",
-    "position": "1.285862\u00b0 / 103.756\u00b0",
+    "position": "1.285863\u00b0 / 103.756\u00b0",
     "area": "Singapore Area",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9293909": {
     "rowidx": 167,
@@ -403,7 +403,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/15 06:00",
     "destTime": "2021/08/14 22:00",
-    "position": "18.54166\u00b0 / 114.76000\u00b0",
+    "position": "15.87500\u00b0 / 112.89833\u00b0",
     "area": "East China Sea",
     "status": "Out of Range"
   },
@@ -619,7 +619,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/11 02:05",
     "destTime": "2021/08/10 18:05",
-    "position": "31.32203\u00b0 / 121.6817\u00b0",
+    "position": "31.32204\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -643,7 +643,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/12 14:48",
     "destTime": "2021/08/12 06:48",
-    "position": "31.32357\u00b0 / 121.6794\u00b0",
+    "position": "31.32358\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
