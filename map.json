@@ -67,7 +67,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/14 17:00",
     "destTime": "2021/08/14 08:00",
-    "position": "25.38556\u00b0 / 121.2749\u00b0",
+    "position": "26.57625\u00b0 / 121.6977\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -187,7 +187,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/11 00:41",
     "destTime": "2021/08/10 22:41",
-    "position": "51.30372\u00b0 / 3.229617\u00b0",
+    "position": "51.30372\u00b0 / 3.2296\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/16 22:00",
     "destTime": "2021/08/16 20:00",
-    "position": "37.55483\u00b0 / 10.93217\u00b0",
+    "position": "37.74883\u00b0 / 6.9306\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -335,32 +335,8 @@
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
-  "9166704": {
-    "rowidx": 166,
-    "num": "",
-    "mapStatus": "4",
-    "mtsid": "728896",
-    "name": "Hoegh Masan",
-    "mmsi": "564755000",
-    "length": "179.47",
-    "breadth": "32.2",
-    "grossTonnage": "44,219",
-    "dept": "SG SIN",
-    "deptLong": "Singapore",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/12 23:56",
-    "deptTime": "2021/08/12 15:56",
-    "dest": "ZA DUR",
-    "destLong": "Durban",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/25 02:00",
-    "destTime": "2021/08/25 00:00",
-    "position": "1.2028\u00b0 / 103.6025\u00b0",
-    "area": "Singapore Area",
-    "status": "Underway using Engine"
-  },
   "9293909": {
-    "rowidx": 167,
+    "rowidx": 166,
     "num": "",
     "mapStatus": "4",
     "mtsid": "462161",
@@ -384,7 +360,7 @@
     "status": "Out of Range"
   },
   "9318515": {
-    "rowidx": 168,
+    "rowidx": 167,
     "num": "",
     "mapStatus": "4",
     "mtsid": "369021",
@@ -403,12 +379,12 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/13 04:00",
     "destTime": "2021/08/12 21:00",
-    "position": "9.20209\u00b0 / 103.34912\u00b0",
+    "position": "12.18001\u00b0 / 101.0077\u00b0",
     "area": "Indonesia",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9189251": {
-    "rowidx": 169,
+    "rowidx": 168,
     "num": "",
     "mapStatus": "4",
     "mtsid": "320487",
@@ -432,7 +408,7 @@
     "status": "Underway using Engine"
   },
   "9672404": {
-    "rowidx": 170,
+    "rowidx": 169,
     "num": "",
     "mapStatus": "4",
     "mtsid": "372056",
@@ -456,7 +432,7 @@
     "status": "Underway using Engine"
   },
   "9782091": {
-    "rowidx": 171,
+    "rowidx": 170,
     "num": "",
     "mapStatus": "4",
     "mtsid": "5433911",
@@ -480,7 +456,7 @@
     "status": "Out of Range"
   },
   "9392339": {
-    "rowidx": 172,
+    "rowidx": 171,
     "num": "",
     "mapStatus": "4",
     "mtsid": "461075",
@@ -504,7 +480,7 @@
     "status": "Out of Range"
   },
   "9304514": {
-    "rowidx": 173,
+    "rowidx": 172,
     "num": "",
     "mapStatus": "4",
     "mtsid": "410539",
@@ -528,7 +504,7 @@
     "status": "Underway using Engine"
   },
   "9426350": {
-    "rowidx": 174,
+    "rowidx": 173,
     "num": "",
     "mapStatus": "4",
     "mtsid": "665385",
@@ -552,7 +528,7 @@
     "status": "Underway using Engine"
   },
   "9363950": {
-    "rowidx": 175,
+    "rowidx": 174,
     "num": "",
     "mapStatus": "4",
     "mtsid": "372498",
@@ -576,7 +552,7 @@
     "status": "Underway using Engine"
   },
   "9574080": {
-    "rowidx": 176,
+    "rowidx": 175,
     "num": "",
     "mapStatus": "4",
     "mtsid": "461277",
@@ -600,7 +576,7 @@
     "status": "Moored"
   },
   "9491874": {
-    "rowidx": 177,
+    "rowidx": 176,
     "num": "",
     "mapStatus": "4",
     "mtsid": "204312",
@@ -611,16 +587,16 @@
     "grossTonnage": "47,053",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/12 18:28",
-    "deptTime": "2021/08/12 10:28",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/13 01:58",
+    "deptTime": "2021/08/12 17:58",
     "dest": "KR MAS",
     "destLong": "Masan",
     "destType": "ETA",
     "destLocalTime": "2021/08/14 09:00",
     "destTime": "2021/08/14 00:00",
-    "position": "31.32357\u00b0 / 121.6794\u00b0",
+    "position": "31.31669\u00b0 / 121.7235\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
