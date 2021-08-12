@@ -117,7 +117,7 @@
     "destTime": "2021/08/15 19:00",
     "position": "37.58637\u00b0 / 5.93907\u00b0",
     "area": "West Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9690547": {
     "rowidx": 11,
@@ -259,9 +259,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/11 22:00",
     "destTime": "2021/08/11 19:00",
-    "position": "11.71556\u00b0 / 42.96802\u00b0",
+    "position": "11.72011\u00b0 / 42.95882\u00b0",
     "area": "Gulf of Aden",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9403281": {
     "rowidx": 162,
@@ -571,7 +571,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/17 16:00",
     "destTime": "2021/08/17 08:00",
-    "position": "31.31461\u00b0 / 121.7359\u00b0",
+    "position": "31.09037\u00b0 / 122.7103\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -611,16 +611,16 @@
     "grossTonnage": "60,065",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/12 01:56",
-    "deptTime": "2021/08/11 17:56",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/12 14:37",
+    "deptTime": "2021/08/12 06:37",
     "dest": "CN TXG",
     "destLong": "Tianjin",
     "destType": "ETA",
     "destLocalTime": "2021/08/14 09:30",
     "destTime": "2021/08/14 01:30",
-    "position": "31.32669\u00b0 / 121.6865\u00b0",
+    "position": "31.28824\u00b0 / 121.8058\u00b0",
     "area": "East China Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   }
 }
