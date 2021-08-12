@@ -259,9 +259,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/11 22:00",
     "destTime": "2021/08/11 19:00",
-    "position": "11.70869\u00b0 / 42.97872\u00b0",
+    "position": "11.71556\u00b0 / 42.96802\u00b0",
     "area": "Gulf of Aden",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9403281": {
     "rowidx": 162,
@@ -609,18 +609,18 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "60,065",
-    "dept": "CN MCI",
-    "deptLong": "Mcid",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/03 10:18",
-    "deptTime": "2021/08/03 02:18",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/08/12 01:56",
-    "destTime": "2021/08/11 17:56",
-    "position": "31.32343\u00b0 / 121.6796\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/08/12 01:56",
+    "deptTime": "2021/08/11 17:56",
+    "dest": "CN TXG",
+    "destLong": "Tianjin",
+    "destType": "ETA",
+    "destLocalTime": "2021/08/14 09:30",
+    "destTime": "2021/08/14 01:30",
+    "position": "31.32669\u00b0 / 121.6865\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Stopped"
   }
 }
