@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/12 22:00",
     "destTime": "2021/08/12 19:00",
-    "position": "11.68068\u00b0 / 42.97175\u00b0",
+    "position": "11.68429\u00b0 / 42.95671\u00b0",
     "area": "Gulf of Aden",
     "status": "Underway using Engine"
   },
@@ -427,7 +427,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/13 04:00",
     "destTime": "2021/08/12 20:00",
-    "position": "1.301103\u00b0 / 104.2857\u00b0",
+    "position": "1.275218\u00b0 / 104.1064\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -574,29 +574,5 @@
     "position": "31.32205\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
-  },
-  "9491874": {
-    "rowidx": 176,
-    "num": "",
-    "mapStatus": "4",
-    "mtsid": "204312",
-    "name": "Passama",
-    "mmsi": "236111885",
-    "length": "183.02",
-    "breadth": "31.81",
-    "grossTonnage": "47,053",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/13 01:58",
-    "deptTime": "2021/08/12 17:58",
-    "dest": "KR MAS",
-    "destLong": "Masan",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/14 09:00",
-    "destTime": "2021/08/14 00:00",
-    "position": "31.31669\u00b0 / 121.7235\u00b0",
-    "area": "East China Sea",
-    "status": "Underway using Engine"
   }
 }
