@@ -167,30 +167,6 @@
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
-  "9381237": {
-    "rowidx": 14,
-    "num": "131",
-    "mapStatus": "3",
-    "mtsid": "463687",
-    "name": "Volans Leader",
-    "mmsi": "372884000",
-    "length": "199.94",
-    "breadth": "32.26",
-    "grossTonnage": "61,775",
-    "dept": "BE ZEE",
-    "deptLong": "Zeebrugge",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/13 08:02",
-    "deptTime": "2021/08/13 06:02",
-    "dest": "DE BRV",
-    "destLong": "Bremerhaven",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/14 02:00",
-    "destTime": "2021/08/14 00:00",
-    "position": "51.37774\u00b0 / 3.171617\u00b0",
-    "area": "North Sea",
-    "status": "Underway using Engine"
-  },
   "9398321": {
     "rowidx": 160,
     "num": "",
@@ -235,7 +211,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/12 23:32",
     "destTime": "2021/08/12 20:32",
-    "position": "11.60162\u00b0 / 43.07107\u00b0",
+    "position": "11.60161\u00b0 / 43.07105\u00b0",
     "area": "Gulf of Aden",
     "status": "Moored"
   },
@@ -355,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/15 06:00",
     "destTime": "2021/08/14 22:00",
-    "position": "12.75667\u00b0 / 111.37000\u00b0",
+    "position": "9.90166\u00b0 / 109.94166\u00b0",
     "area": "East China Sea",
     "status": "Out of Range"
   },
@@ -595,7 +571,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/13 03:03",
     "destTime": "2021/08/12 19:03",
-    "position": "31.32354\u00b0 / 121.6796\u00b0",
+    "position": "31.32352\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
