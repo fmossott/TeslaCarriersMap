@@ -371,17 +371,17 @@
     "grossTonnage": "58,767",
     "dept": "SG SIN",
     "deptLong": "Singapore",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/13 04:21",
-    "deptTime": "2021/08/12 20:21",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/13 22:32",
+    "deptTime": "2021/08/13 14:32",
     "dest": "IN ENR",
     "destLong": "Ennore",
     "destType": "ETA",
     "destLocalTime": "2021/08/13 04:21",
     "destTime": "2021/08/12 20:21",
-    "position": "1.284912\u00b0 / 103.7525\u00b0",
+    "position": "1.223097\u00b0 / 103.6895\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9782091": {
     "rowidx": 170,
@@ -400,10 +400,10 @@
     "deptTime": "2021/08/07 17:27",
     "dest": "SG SIN",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/13 22:00",
-    "destTime": "2021/08/13 14:00",
-    "position": "1.2117\u00b0 / 103.8557\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/13 22:28",
+    "destTime": "2021/08/13 14:28",
+    "position": "1.248652\u00b0 / 103.7735\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -547,7 +547,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/13 03:03",
     "destTime": "2021/08/12 19:03",
-    "position": "31.32349\u00b0 / 121.6796\u00b0",
+    "position": "31.32352\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
