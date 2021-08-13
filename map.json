@@ -41,11 +41,11 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2021/08/21 10:00",
-    "destTime": "2021/08/21 08:00",
-    "position": "5.85547\u00b0 / 83.95627\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "destLocalTime": "2021/08/21 14:00",
+    "destTime": "2021/08/21 12:00",
+    "position": "5.965923\u00b0 / 80.00093\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9702417": {
     "rowidx": 9,
@@ -67,7 +67,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/14 18:00",
     "destTime": "2021/08/14 16:00",
-    "position": "24.62317\u00b0 / 36.24138\u00b0",
+    "position": "25.24725\u00b0 / 35.83435\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -379,8 +379,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/13 04:21",
     "destTime": "2021/08/12 20:21",
-    "position": "1.225687\u00b0 / 103.4606\u00b0",
-    "area": "Singapore Area",
+    "position": "1.400445\u00b0 / 103.236\u00b0",
+    "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
   "9782091": {
@@ -403,7 +403,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/13 22:28",
     "destTime": "2021/08/13 14:28",
-    "position": "1.28482\u00b0 / 103.7526\u00b0",
+    "position": "1.284828\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
