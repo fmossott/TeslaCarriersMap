@@ -91,7 +91,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/14 18:00",
     "destTime": "2021/08/14 16:00",
-    "position": "23.20972\u00b0 / 37.11846\u00b0",
+    "position": "23.953\u00b0 / 36.6398\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -201,19 +201,19 @@
     "length": "199.94",
     "breadth": "32.2",
     "grossTonnage": "56,175",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
+    "dept": "DJ JIB",
+    "deptLong": "Djibouti",
     "deptType": "ATD",
-    "deptLocalTime": "2021/07/23 09:01",
-    "deptTime": "2021/07/23 01:01",
-    "dest": "DJ JIB",
-    "destLong": "Djibouti",
-    "destType": "ATA",
-    "destLocalTime": "2021/08/12 23:32",
-    "destTime": "2021/08/12 20:32",
-    "position": "11.60164\u00b0 / 43.07106\u00b0",
+    "deptLocalTime": "2021/08/13 12:59",
+    "deptTime": "2021/08/13 09:59",
+    "dest": "SA JED",
+    "destLong": "Jeddah",
+    "destType": "ETA",
+    "destLocalTime": "2021/08/15 10:00",
+    "destTime": "2021/08/15 07:00",
+    "position": "11.72462\u00b0 / 43.10631\u00b0",
     "area": "Gulf of Aden",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9403281": {
     "rowidx": 162,
@@ -427,7 +427,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/13 04:00",
     "destTime": "2021/08/12 20:00",
-    "position": "1.41842\u00b0 / 104.4421\u00b0",
+    "position": "1.353435\u00b0 / 104.3627\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
@@ -571,7 +571,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/13 03:03",
     "destTime": "2021/08/12 19:03",
-    "position": "31.32354\u00b0 / 121.6796\u00b0",
+    "position": "31.32351\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
