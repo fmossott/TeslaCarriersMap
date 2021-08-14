@@ -67,7 +67,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/14 17:47",
     "destTime": "2021/08/14 15:47",
-    "position": "29.85668\u00b0 / 32.56128\u00b0",
+    "position": "29.85653\u00b0 / 32.56227\u00b0",
     "area": "Red Sea",
     "status": "Underway"
   },
@@ -91,8 +91,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/15 20:00",
     "destTime": "2021/08/15 18:00",
-    "position": "48.47803\u00b0 / -5.90648\u00b0",
-    "area": "Biscay Bay",
+    "position": "49.14643\u00b0 / -4.741567\u00b0",
+    "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
   "9690547": {
@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/15 12:00",
     "destTime": "2021/08/15 10:00",
-    "position": "50.38916\u00b0 / -3.098273\u00b0",
+    "position": "50.33367\u00b0 / -2.184778\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -307,7 +307,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/15 06:00",
     "destTime": "2021/08/14 22:00",
-    "position": "1.94667\u00b0 / 104.71499\u00b0",
+    "position": "1.99333\u00b0 / 104.57000\u00b0",
     "area": "East China Sea",
     "status": "Out of Range"
   },
@@ -515,16 +515,16 @@
     "grossTonnage": "60,396",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/14 17:40",
-    "deptTime": "2021/08/14 08:40",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/15 04:26",
+    "deptTime": "2021/08/14 20:26",
     "dest": "HK HKG",
     "destLong": "Hong Kong",
     "destType": "ETA",
     "destLocalTime": "2021/08/17 19:00",
     "destTime": "2021/08/17 11:00",
-    "position": "31.32217\u00b0 / 121.6817\u00b0",
+    "position": "31.26667\u00b0 / 121.8698\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
