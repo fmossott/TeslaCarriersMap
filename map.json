@@ -57,19 +57,19 @@
     "length": "199.97",
     "breadth": "35",
     "grossTonnage": "64,546",
-    "dept": "CN SHG",
+    "dept": "EG SUEZ SOUTH ANCH",
     "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/07/24 00:55",
-    "deptTime": "2021/07/23 16:55",
-    "dest": "EG SUEZ SOUTH ANCH",
-    "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2021/08/14 17:47",
-    "destTime": "2021/08/14 15:47",
-    "position": "29.85648\u00b0 / 32.56239\u00b0",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/08/14 23:47",
+    "deptTime": "2021/08/14 15:47",
+    "dest": "GB SOU",
+    "destLong": "Southampton",
+    "destType": "ETA",
+    "destLocalTime": "2021/08/22 21:00",
+    "destTime": "2021/08/22 20:00",
+    "position": "29.85741\u00b0 / 32.56177\u00b0",
     "area": "Red Sea",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9674177": {
     "rowidx": 10,
@@ -307,9 +307,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/15 06:00",
     "destTime": "2021/08/14 22:00",
-    "position": "1.98833\u00b0 / 104.56834\u00b0",
+    "position": "1.418323\u00b0 / 104.4335\u00b0",
     "area": "East China Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9318515": {
     "rowidx": 167,
