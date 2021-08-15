@@ -57,17 +57,17 @@
     "length": "199.97",
     "breadth": "35",
     "grossTonnage": "64,546",
-    "dept": "EG SUZ",
-    "deptLong": "Suez Canal",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/15 10:40",
-    "deptTime": "2021/08/15 02:40",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/07/24 00:55",
+    "deptTime": "2021/07/23 16:55",
     "dest": "GB SOU",
     "destLong": "Southampton",
     "destType": "ETA",
     "destLocalTime": "2021/08/22 21:00",
     "destTime": "2021/08/22 20:00",
-    "position": "31.17325\u00b0 / 32.32913\u00b0",
+    "position": "31.33559\u00b0 / 32.37675\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -91,7 +91,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/15 20:00",
     "destTime": "2021/08/15 18:00",
-    "position": "50.62758\u00b0 / 1.241267\u00b0",
+    "position": "50.85041\u00b0 / 1.445312\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -115,9 +115,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/15 13:47",
     "destTime": "2021/08/15 11:47",
-    "position": "51.34521\u00b0 / 3.2071\u00b0",
+    "position": "51.33263\u00b0 / 3.218665\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9382396": {
     "rowidx": 12,
@@ -187,7 +187,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/15 07:49",
     "destTime": "2021/08/15 04:49",
-    "position": "21.46535\u00b0 / 39.16504\u00b0",
+    "position": "21.46538\u00b0 / 39.16505\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -307,7 +307,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/15 15:16",
     "destTime": "2021/08/15 07:16",
-    "position": "1.282967\u00b0 / 103.7515\u00b0",
+    "position": "1.282913\u00b0 / 103.7515\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -403,7 +403,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/26 22:00",
     "destTime": "2021/08/26 20:00",
-    "position": "2.921318\u00b0 / 100.9231\u00b0",
+    "position": "6.004092\u00b0 / 95.99506\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -427,7 +427,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/15 22:00",
     "destTime": "2021/08/15 14:00",
-    "position": "1.281517\u00b0 / 104.1417\u00b0",
+    "position": "1.253733\u00b0 / 103.9859\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -499,7 +499,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/21 12:00",
     "destTime": "2021/08/21 04:00",
-    "position": "31.32353\u00b0 / 121.6796\u00b0",
+    "position": "31.32349\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
