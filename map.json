@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/15 20:00",
     "destTime": "2021/08/15 18:00",
-    "position": "51.18449\u00b0 / 1.941473\u00b0",
+    "position": "51.30869\u00b0 / 2.303365\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -235,7 +235,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/15 07:49",
     "destTime": "2021/08/15 04:49",
-    "position": "21.46538\u00b0 / 39.16507\u00b0",
+    "position": "21.46536\u00b0 / 39.16506\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -355,7 +355,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/15 15:16",
     "destTime": "2021/08/15 07:16",
-    "position": "1.282918\u00b0 / 103.7515\u00b0",
+    "position": "1.282913\u00b0 / 103.7515\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -379,7 +379,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/16 06:45",
     "destTime": "2021/08/15 22:45",
-    "position": "1.431062\u00b0 / 103.1526\u00b0",
+    "position": "1.780642\u00b0 / 102.5866\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -451,7 +451,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/26 22:00",
     "destTime": "2021/08/26 20:00",
-    "position": "6.165687\u00b0 / 95.32203\u00b0",
+    "position": "6.199993\u00b0 / 95.1787\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -472,12 +472,12 @@
     "deptTime": "2021/08/08 16:55",
     "dest": "SG SIN",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/15 22:00",
-    "destTime": "2021/08/15 14:00",
-    "position": "1.240467\u00b0 / 103.7831\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/15 23:08",
+    "destTime": "2021/08/15 15:08",
+    "position": "1.28475\u00b0 / 103.7526\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9304514": {
     "rowidx": 173,
@@ -571,7 +571,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/21 12:00",
     "destTime": "2021/08/21 04:00",
-    "position": "31.32351\u00b0 / 121.6796\u00b0",
+    "position": "31.32353\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
