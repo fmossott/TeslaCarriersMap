@@ -115,7 +115,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/15 20:23",
     "destTime": "2021/08/15 18:23",
-    "position": "51.31269\u00b0 / 3.216208\u00b0",
+    "position": "51.31266\u00b0 / 3.216203\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/16 11:00",
     "destTime": "2021/08/16 09:00",
-    "position": "50.34756\u00b0 / 0.135255\u00b0",
+    "position": "50.39517\u00b0 / 0.5381083\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -235,7 +235,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/15 07:49",
     "destTime": "2021/08/15 04:49",
-    "position": "21.46534\u00b0 / 39.16509\u00b0",
+    "position": "21.46534\u00b0 / 39.16505\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -259,7 +259,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/16 15:00",
     "destTime": "2021/08/16 13:00",
-    "position": "24.74178\u00b0 / 36.30405\u00b0",
+    "position": "26.4564\u00b0 / 34.99283\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -355,7 +355,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/15 15:16",
     "destTime": "2021/08/15 07:16",
-    "position": "1.282925\u00b0 / 103.7515\u00b0",
+    "position": "1.28293\u00b0 / 103.7515\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -379,9 +379,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/16 07:25",
     "destTime": "2021/08/15 23:25",
-    "position": "2.951585\u00b0 / 101.304\u00b0",
+    "position": "2.951615\u00b0 / 101.304\u00b0",
     "area": "Malacca Strait",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9189251": {
     "rowidx": 169,
@@ -470,12 +470,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/16 07:55",
     "deptTime": "2021/08/15 23:55",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
+    "dest": "OM SOH",
+    "destLong": "Sohar",
     "destType": "ETA",
-    "destLocalTime": "2021/08/15 23:08",
-    "destTime": "2021/08/15 15:08",
-    "position": "1.21085\u00b0 / 103.6621\u00b0",
+    "destLocalTime": "2021/08/25 21:00",
+    "destTime": "2021/08/25 17:00",
+    "position": "1.244967\u00b0 / 103.4337\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
