@@ -91,7 +91,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/22 21:00",
     "destTime": "2021/08/22 20:00",
-    "position": "31.33559\u00b0 / 32.37675\u00b0",
+    "position": "33.4966\u00b0 / 26.79106\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -115,7 +115,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/15 20:23",
     "destTime": "2021/08/15 18:23",
-    "position": "51.31269\u00b0 / 3.21619\u00b0",
+    "position": "51.31269\u00b0 / 3.216188\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/16 11:00",
     "destTime": "2021/08/16 09:00",
-    "position": "51.1607\u00b0 / 1.931965\u00b0",
+    "position": "51.2681\u00b0 / 2.246592\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -211,7 +211,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/15 07:49",
     "destTime": "2021/08/15 04:49",
-    "position": "21.46535\u00b0 / 39.16502\u00b0",
+    "position": "21.46537\u00b0 / 39.16503\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -326,14 +326,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/16 13:58",
     "deptTime": "2021/08/16 05:58",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/16 14:00",
-    "destTime": "2021/08/16 06:00",
-    "position": "1.201362\u00b0 / 103.8194\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/16 14:58",
+    "destTime": "2021/08/16 06:58",
+    "position": "1.253107\u00b0 / 103.8846\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9318515": {
     "rowidx": 168,
@@ -355,7 +355,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/16 07:25",
     "destTime": "2021/08/15 23:25",
-    "position": "2.951602\u00b0 / 101.304\u00b0",
+    "position": "2.951593\u00b0 / 101.304\u00b0",
     "area": "Malacca Strait",
     "status": "Moored"
   },
@@ -403,7 +403,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/13 04:21",
     "destTime": "2021/08/12 20:21",
-    "position": "8.42333\u00b0 / 89.87000\u00b0",
+    "position": "9.98000\u00b0 / 86.79333\u00b0",
     "area": "Malacca Strait",
     "status": "Out of Range"
   },
@@ -499,7 +499,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/17 16:00",
     "destTime": "2021/08/17 08:00",
-    "position": "8.39217\u00b0 / 109.79943\u00b0",
+    "position": "5.95700\u00b0 / 107.54752\u00b0",
     "area": "South China",
     "status": "Out of Range"
   },
