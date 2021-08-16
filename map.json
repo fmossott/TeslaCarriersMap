@@ -91,7 +91,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/16 15:04",
     "destTime": "2021/08/16 06:04",
-    "position": "36.98295\u00b0 / 126.8241\u00b0",
+    "position": "36.98291\u00b0 / 126.8242\u00b0",
     "area": "Yellow Sea",
     "status": "Moored"
   },
@@ -153,19 +153,19 @@
     "length": "199.97",
     "breadth": "35.4",
     "grossTonnage": "71,177",
-    "dept": "IT SAL",
-    "deptLong": "Salerno",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/09 21:27",
-    "deptTime": "2021/08/09 19:27",
-    "dest": "BE ZEE",
-    "destLong": "Zeebrugge",
-    "destType": "ATA",
-    "destLocalTime": "2021/08/15 13:47",
-    "destTime": "2021/08/15 11:47",
-    "position": "51.30892\u00b0 / 3.225667\u00b0",
+    "dept": "BE ZEE",
+    "deptLong": "Zeebrugge",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/08/15 13:47",
+    "deptTime": "2021/08/15 11:47",
+    "dest": "DE EME",
+    "destLong": "Emden",
+    "destType": "ETA",
+    "destLocalTime": "2021/08/17 18:00",
+    "destTime": "2021/08/17 16:00",
+    "position": "51.33395\u00b0 / 3.217213\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9382396": {
     "rowidx": 13,
@@ -283,7 +283,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/18 22:00",
     "destTime": "2021/08/18 20:00",
-    "position": "23.06342\u00b0 / 37.43638\u00b0",
+    "position": "23.65477\u00b0 / 37.097\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -547,7 +547,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/17 13:00",
     "destTime": "2021/08/17 05:00",
-    "position": "22.783\u00b0 / 117.1108\u00b0",
+    "position": "22.506\u00b0 / 116.6163\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
@@ -643,7 +643,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/16 18:57",
     "destTime": "2021/08/16 10:57",
-    "position": "31.32378\u00b0 / 121.6793\u00b0",
+    "position": "31.32377\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
