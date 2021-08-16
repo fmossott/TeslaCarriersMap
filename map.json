@@ -67,7 +67,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/16 11:30",
     "destTime": "2021/08/16 02:30",
-    "position": "37.00402\u00b0 / 126.1896\u00b0",
+    "position": "37.13142\u00b0 / 126.3695\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -139,7 +139,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/15 13:47",
     "destTime": "2021/08/15 11:47",
-    "position": "51.30891\u00b0 / 3.225663\u00b0",
+    "position": "51.3089\u00b0 / 3.225657\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -182,14 +182,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/16 04:26",
     "deptTime": "2021/08/16 02:26",
-    "dest": "BE ANR",
+    "dest": "BE ANTWERP ANCH",
     "destLong": "Antwerp",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/16 06:00",
-    "destTime": "2021/08/16 04:00",
-    "position": "51.36857\u00b0 / 2.770733\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/16 06:30",
+    "destTime": "2021/08/16 04:30",
+    "position": "51.4317\u00b0 / 2.634275\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9398321": {
     "rowidx": 161,
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/16 22:00",
     "destTime": "2021/08/16 20:00",
-    "position": "44.8722\u00b0 / -8.528916\u00b0",
+    "position": "45.01507\u00b0 / -8.434267\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -595,7 +595,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/15 05:06",
     "destTime": "2021/08/14 21:06",
-    "position": "31.32201\u00b0 / 121.6817\u00b0",
+    "position": "31.32202\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
