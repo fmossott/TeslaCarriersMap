@@ -67,7 +67,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/16 15:04",
     "destTime": "2021/08/16 06:04",
-    "position": "36.98295\u00b0 / 126.8241\u00b0",
+    "position": "36.98298\u00b0 / 126.8241\u00b0",
     "area": "Yellow Sea",
     "status": "Moored"
   },
@@ -139,7 +139,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/15 13:47",
     "destTime": "2021/08/15 11:47",
-    "position": "51.30889\u00b0 / 3.225677\u00b0",
+    "position": "51.30888\u00b0 / 3.225675\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -595,8 +595,32 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/18 00:30",
     "destTime": "2021/08/17 15:30",
-    "position": "31.32359\u00b0 / 121.6792\u00b0",
+    "position": "31.32462\u00b0 / 121.691\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
+  },
+  "9710737": {
+    "rowidx": 179,
+    "num": "",
+    "mapStatus": "4",
+    "mtsid": "4265856",
+    "name": "Hoegh Traveller",
+    "mmsi": "259075000",
+    "length": "199.87",
+    "breadth": "40.76",
+    "grossTonnage": "76,420",
+    "dept": "CN QDG",
+    "deptLong": "Qingdao",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/03 14:19",
+    "deptTime": "2021/08/03 06:19",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/16 18:04",
+    "destTime": "2021/08/16 10:04",
+    "position": "31.32202\u00b0 / 121.6818\u00b0",
+    "area": "East China Sea",
+    "status": "Stopped"
   }
 }
