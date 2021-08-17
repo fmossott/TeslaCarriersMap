@@ -186,7 +186,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/16 12:34",
     "destTime": "2021/08/16 10:34",
-    "position": "51.29645\u00b0 / 3.241423\u00b0",
+    "position": "51.29648\u00b0 / 3.241383\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -210,9 +210,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/17 13:33",
     "destTime": "2021/08/17 11:33",
-    "position": "49.58216\u00b0 / -0.2219833\u00b0",
+    "position": "49.54475\u00b0 / -0.1946667\u00b0",
     "area": "English Channel",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9209518": {
     "rowidx": 164,
@@ -234,7 +234,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/15 07:49",
     "destTime": "2021/08/15 04:49",
-    "position": "21.46532\u00b0 / 39.16507\u00b0",
+    "position": "21.4653\u00b0 / 39.16503\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -258,7 +258,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/17 05:38",
     "destTime": "2021/08/17 03:38",
-    "position": "31.76843\u00b0 / 31.42463\u00b0",
+    "position": "31.76325\u00b0 / 31.10607\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -354,7 +354,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/17 18:27",
     "destTime": "2021/08/17 10:27",
-    "position": "1.300765\u00b0 / 103.7262\u00b0",
+    "position": "1.30078\u00b0 / 103.7262\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -464,17 +464,17 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "62,993",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/12 01:47",
-    "deptTime": "2021/08/11 17:47",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
-    "destType": "ATA",
+    "dept": "SG SIN",
+    "deptLong": "Singapore",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/08/17 12:36",
+    "deptTime": "2021/08/17 04:36",
+    "dest": "IN PAV",
+    "destLong": "Pipavav",
+    "destType": "ETA",
     "destLocalTime": "2021/08/17 12:36",
     "destTime": "2021/08/17 04:36",
-    "position": "1.284833\u00b0 / 103.7527\u00b0",
+    "position": "1.284822\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/18 10:30",
     "destTime": "2021/08/18 02:30",
-    "position": "38.61752\u00b0 / 120.7143\u00b0",
+    "position": "38.6577\u00b0 / 120.3503\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
