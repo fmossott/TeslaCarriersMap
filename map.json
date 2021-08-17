@@ -162,7 +162,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/18 04:30",
     "destTime": "2021/08/18 02:30",
-    "position": "53.80389\u00b0 / 5.726277\u00b0",
+    "position": "53.80043\u00b0 / 5.8149\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -282,9 +282,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/17 22:35",
     "destTime": "2021/08/17 20:35",
-    "position": "29.85395\u00b0 / 32.57609\u00b0",
+    "position": "29.85391\u00b0 / 32.57645\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9442885": {
     "rowidx": 167,
@@ -306,7 +306,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/19 19:00",
     "destTime": "2021/08/19 16:00",
-    "position": "12.04941\u00b0 / 45.18357\u00b0",
+    "position": "14.00520\u00b0 / 42.45808\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
@@ -426,7 +426,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/26 22:00",
     "destTime": "2021/08/26 20:00",
-    "position": "5.6272\u00b0 / 80.17454\u00b0",
+    "position": "5.665487\u00b0 / 80.05937\u00b0",
     "area": "Laccadive Sea",
     "status": "Underway using Engine"
   },
@@ -490,15 +490,15 @@
     "grossTonnage": "60,396",
     "dept": "HK HKG",
     "deptLong": "Hong Kong",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/17 14:32",
-    "deptTime": "2021/08/17 06:32",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/18 06:42",
+    "deptTime": "2021/08/17 22:42",
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
     "destLocalTime": "2021/08/22 00:00",
     "destTime": "2021/08/21 16:00",
-    "position": "22.3185\u00b0 / 114.1032\u00b0",
+    "position": "22.12367\u00b0 / 114.219\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
@@ -570,7 +570,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/16 18:57",
     "destTime": "2021/08/16 10:57",
-    "position": "31.32333\u00b0 / 121.6783\u00b0",
+    "position": "31.32377\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
