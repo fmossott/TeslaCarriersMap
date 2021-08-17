@@ -162,7 +162,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/17 18:05",
     "destTime": "2021/08/17 16:05",
-    "position": "53.4381\u00b0 / 4.889075\u00b0",
+    "position": "53.52501\u00b0 / 5.276383\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -186,7 +186,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/16 12:34",
     "destTime": "2021/08/16 10:34",
-    "position": "51.29646\u00b0 / 3.241405\u00b0",
+    "position": "51.2965\u00b0 / 3.241348\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -205,14 +205,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/07/20 07:53",
     "deptTime": "2021/07/19 23:53",
-    "dest": "FR LEH",
+    "dest": "FR LE HAVRE ANCH",
     "destLong": "Le Havre",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/16 22:00",
-    "destTime": "2021/08/16 20:00",
-    "position": "49.56396\u00b0 / -0.2664\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/17 13:33",
+    "destTime": "2021/08/17 11:33",
+    "position": "49.58328\u00b0 / -0.2223833\u00b0",
     "area": "English Channel",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9209518": {
     "rowidx": 164,
@@ -234,7 +234,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/15 07:49",
     "destTime": "2021/08/15 04:49",
-    "position": "21.46538\u00b0 / 39.16505\u00b0",
+    "position": "21.46535\u00b0 / 39.16503\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -258,7 +258,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/17 05:38",
     "destTime": "2021/08/17 03:38",
-    "position": "30.88272\u00b0 / 32.31583\u00b0",
+    "position": "31.03295\u00b0 / 32.31062\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -354,9 +354,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/17 18:27",
     "destTime": "2021/08/17 10:27",
-    "position": "1.293988\u00b0 / 103.7301\u00b0",
+    "position": "1.300797\u00b0 / 103.7262\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9189251": {
     "rowidx": 171,
@@ -474,7 +474,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/17 12:36",
     "destTime": "2021/08/17 04:36",
-    "position": "1.284843\u00b0 / 103.7527\u00b0",
+    "position": "1.284838\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/18 10:30",
     "destTime": "2021/08/18 02:30",
-    "position": "37.29521\u00b0 / 123.0419\u00b0",
+    "position": "37.7814\u00b0 / 122.6695\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
