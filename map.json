@@ -162,7 +162,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/18 04:30",
     "destTime": "2021/08/18 02:30",
-    "position": "53.83564\u00b0 / 5.772272\u00b0",
+    "position": "53.80389\u00b0 / 5.726277\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -277,14 +277,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/07/31 04:32",
     "deptTime": "2021/07/30 20:32",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/18 22:00",
-    "destTime": "2021/08/18 20:00",
-    "position": "29.74141\u00b0 / 32.55345\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/17 22:35",
+    "destTime": "2021/08/17 20:35",
+    "position": "29.85395\u00b0 / 32.57609\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9442885": {
     "rowidx": 167,
@@ -426,9 +426,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/26 22:00",
     "destTime": "2021/08/26 20:00",
-    "position": "5.59315\u00b0 / 81.34349\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "5.586228\u00b0 / 80.29971\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9392339": {
     "rowidx": 174,
@@ -498,9 +498,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/22 00:00",
     "destTime": "2021/08/21 16:00",
-    "position": "22.33917\u00b0 / 114.1152\u00b0",
+    "position": "22.3185\u00b0 / 114.1032\u00b0",
     "area": "South China",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9722302": {
     "rowidx": 177,
@@ -570,7 +570,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/16 18:57",
     "destTime": "2021/08/16 10:57",
-    "position": "31.32377\u00b0 / 121.6793\u00b0",
+    "position": "31.32333\u00b0 / 121.6783\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
