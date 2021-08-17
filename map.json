@@ -67,7 +67,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/21 14:00",
     "destTime": "2021/08/21 12:00",
-    "position": "13.01723\u00b0 / 57.30009\u00b0",
+    "position": "13.93248\u00b0 / 54.54524\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
@@ -91,9 +91,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/16 15:04",
     "destTime": "2021/08/16 06:04",
-    "position": "36.97423\u00b0 / 126.8303\u00b0",
+    "position": "36.98041\u00b0 / 126.8142\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9702417": {
     "rowidx": 10,
@@ -513,19 +513,19 @@
     "length": "199.1",
     "breadth": "32.3",
     "grossTonnage": "60,396",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/15 04:26",
-    "deptTime": "2021/08/14 20:26",
-    "dest": "HK HKG",
-    "destLong": "Hong Kong",
-    "destType": "ATA",
-    "destLocalTime": "2021/08/17 14:32",
-    "destTime": "2021/08/17 06:32",
+    "dept": "HK HKG",
+    "deptLong": "Hong Kong",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/08/17 14:32",
+    "deptTime": "2021/08/17 06:32",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2021/08/22 00:00",
+    "destTime": "2021/08/21 16:00",
     "position": "22.33917\u00b0 / 114.1152\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9722302": {
     "rowidx": 176,
@@ -595,7 +595,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/16 18:57",
     "destTime": "2021/08/16 10:57",
-    "position": "31.32378\u00b0 / 121.6793\u00b0",
+    "position": "31.32379\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
