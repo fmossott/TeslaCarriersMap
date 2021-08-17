@@ -91,9 +91,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/16 15:04",
     "destTime": "2021/08/16 06:04",
-    "position": "36.98295\u00b0 / 126.8242\u00b0",
+    "position": "36.974\u00b0 / 126.8298\u00b0",
     "area": "Yellow Sea",
-    "status": "Moored"
+    "status": "Underway"
   },
   "9702417": {
     "rowidx": 10,
@@ -451,7 +451,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/26 22:00",
     "destTime": "2021/08/26 20:00",
-    "position": "5.89228\u00b0 / 88.00227\u00b0",
+    "position": "5.75461\u00b0 / 84.69258\u00b0",
     "area": "Malacca Strait",
     "status": "Out of Range"
   },
@@ -479,32 +479,8 @@
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
-  "9304514": {
-    "rowidx": 174,
-    "num": "",
-    "mapStatus": "4",
-    "mtsid": "410539",
-    "name": "Positive Pioneer",
-    "mmsi": "352824000",
-    "length": "180",
-    "breadth": "30",
-    "grossTonnage": "43,810",
-    "dept": "ID JKT",
-    "deptLong": "Jakarta",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/17 01:53",
-    "deptTime": "2021/08/16 18:53",
-    "dest": "AU FRE",
-    "destLong": "Fremantle",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/21 20:00",
-    "destTime": "2021/08/21 12:00",
-    "position": "-5.8358\u00b0 / 106.1743\u00b0",
-    "area": "Java Sea",
-    "status": "Underway using Engine"
-  },
   "9426350": {
-    "rowidx": 175,
+    "rowidx": 174,
     "num": "",
     "mapStatus": "4",
     "mtsid": "665385",
@@ -528,7 +504,7 @@
     "status": "Underway using Engine"
   },
   "9419747": {
-    "rowidx": 176,
+    "rowidx": 175,
     "num": "",
     "mapStatus": "4",
     "mtsid": "464032",
@@ -544,15 +520,15 @@
     "deptTime": "2021/08/14 20:26",
     "dest": "HK HKG",
     "destLong": "Hong Kong",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/17 14:00",
-    "destTime": "2021/08/17 06:00",
-    "position": "22.17417\u00b0 / 114.205\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/17 14:32",
+    "destTime": "2021/08/17 06:32",
+    "position": "22.32033\u00b0 / 114.1068\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
   "9722302": {
-    "rowidx": 177,
+    "rowidx": 176,
     "num": "",
     "mapStatus": "4",
     "mtsid": "4018974",
@@ -576,7 +552,7 @@
     "status": "Underway using Engine"
   },
   "9889100": {
-    "rowidx": 178,
+    "rowidx": 177,
     "num": "",
     "mapStatus": "4",
     "mtsid": "6607317",
@@ -599,32 +575,8 @@
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
-  "9710737": {
-    "rowidx": 179,
-    "num": "",
-    "mapStatus": "4",
-    "mtsid": "4265856",
-    "name": "Hoegh Traveller",
-    "mmsi": "259075000",
-    "length": "199.87",
-    "breadth": "40.76",
-    "grossTonnage": "76,420",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/17 06:12",
-    "deptTime": "2021/08/16 22:12",
-    "dest": "KR MAS",
-    "destLong": "Masan",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/19 05:00",
-    "destTime": "2021/08/18 20:00",
-    "position": "31.22423\u00b0 / 122.1011\u00b0",
-    "area": "East China Sea",
-    "status": "Underway using Engine"
-  },
   "9176577": {
-    "rowidx": 180,
+    "rowidx": 178,
     "num": "",
     "mapStatus": "4",
     "mtsid": "728649",
@@ -643,7 +595,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/16 18:57",
     "destTime": "2021/08/16 10:57",
-    "position": "31.32375\u00b0 / 121.6793\u00b0",
+    "position": "31.32379\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
