@@ -1,7 +1,7 @@
 {
   "9702431": {
     "rowidx": 6,
-    "num": "141",
+    "num": "142",
     "mapStatus": "0",
     "mtsid": "1508269",
     "name": "Glovis Splendor",
@@ -25,7 +25,7 @@
   },
   "9713882": {
     "rowidx": 7,
-    "num": "140",
+    "num": "141",
     "mapStatus": "2",
     "mtsid": "1881242",
     "name": "Lake Geneva",
@@ -48,7 +48,7 @@
     "status": "Out of Range"
   },
   "9460899": {
-    "rowidx": 8,
+    "rowidx": 9,
     "num": "139",
     "mapStatus": "2",
     "mtsid": "714145",
@@ -72,7 +72,7 @@
     "status": "Out of Range"
   },
   "9184940": {
-    "rowidx": 9,
+    "rowidx": 10,
     "num": "138",
     "mapStatus": "3",
     "mtsid": "421804",
@@ -96,7 +96,7 @@
     "status": "Underway using Engine"
   },
   "9702417": {
-    "rowidx": 10,
+    "rowidx": 11,
     "num": "137",
     "mapStatus": "2",
     "mtsid": "714636",
@@ -120,7 +120,7 @@
     "status": "Underway using Engine"
   },
   "9674177": {
-    "rowidx": 11,
+    "rowidx": 12,
     "num": "136",
     "mapStatus": "3",
     "mtsid": "5555512",
@@ -144,7 +144,7 @@
     "status": "Moored"
   },
   "9690547": {
-    "rowidx": 12,
+    "rowidx": 13,
     "num": "135",
     "mapStatus": "3",
     "mtsid": "3434808",
@@ -163,12 +163,12 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/17 18:05",
     "destTime": "2021/08/17 16:05",
-    "position": "53.28399\u00b0 / 4.611387\u00b0",
+    "position": "53.4381\u00b0 / 4.889075\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
   "9382396": {
-    "rowidx": 13,
+    "rowidx": 14,
     "num": "134",
     "mapStatus": "3",
     "mtsid": "314565",
@@ -187,12 +187,12 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/16 12:34",
     "destTime": "2021/08/16 10:34",
-    "position": "51.29647\u00b0 / 3.241395\u00b0",
+    "position": "51.29646\u00b0 / 3.241405\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
   "9398321": {
-    "rowidx": 162,
+    "rowidx": 163,
     "num": "",
     "mapStatus": "4",
     "mtsid": "194728",
@@ -211,12 +211,12 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/16 22:00",
     "destTime": "2021/08/16 20:00",
-    "position": "49.61495\u00b0 / -0.5868833\u00b0",
+    "position": "49.56396\u00b0 / -0.2664\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
   "9209518": {
-    "rowidx": 163,
+    "rowidx": 164,
     "num": "",
     "mapStatus": "4",
     "mtsid": "412172",
@@ -235,12 +235,12 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/15 07:49",
     "destTime": "2021/08/15 04:49",
-    "position": "21.46536\u00b0 / 39.16501\u00b0",
+    "position": "21.46538\u00b0 / 39.16505\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
   "9403281": {
-    "rowidx": 164,
+    "rowidx": 165,
     "num": "",
     "mapStatus": "4",
     "mtsid": "386333",
@@ -259,12 +259,12 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/17 05:38",
     "destTime": "2021/08/17 03:38",
-    "position": "30.7388\u00b0 / 32.33807\u00b0",
+    "position": "30.88272\u00b0 / 32.31583\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
   "9669031": {
-    "rowidx": 165,
+    "rowidx": 166,
     "num": "",
     "mapStatus": "4",
     "mtsid": "714571",
@@ -288,7 +288,7 @@
     "status": "Underway using Engine"
   },
   "9442885": {
-    "rowidx": 166,
+    "rowidx": 167,
     "num": "",
     "mapStatus": "4",
     "mtsid": "665315",
@@ -312,7 +312,7 @@
     "status": "Out of Range"
   },
   "9420045": {
-    "rowidx": 167,
+    "rowidx": 168,
     "num": "",
     "mapStatus": "4",
     "mtsid": "306358",
@@ -335,32 +335,8 @@
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
-  "9293909": {
-    "rowidx": 168,
-    "num": "",
-    "mapStatus": "4",
-    "mtsid": "462161",
-    "name": "SFL Conductor",
-    "mmsi": "372097000",
-    "length": "199.99",
-    "breadth": "32.26",
-    "grossTonnage": "60,118",
-    "dept": "SG SIN",
-    "deptLong": "Singapore",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/16 13:58",
-    "deptTime": "2021/08/16 05:58",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/24 08:00",
-    "destTime": "2021/08/24 06:00",
-    "position": "1.162002\u00b0 / 103.776\u00b0",
-    "area": "Singapore Area",
-    "status": "Underway using Engine"
-  },
   "9318515": {
-    "rowidx": 169,
+    "rowidx": 170,
     "num": "",
     "mapStatus": "4",
     "mtsid": "369021",
@@ -376,15 +352,15 @@
     "deptTime": "2021/08/16 21:08",
     "dest": "SG SIN",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/17 18:00",
-    "destTime": "2021/08/17 10:00",
-    "position": "1.206112\u00b0 / 103.6556\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/17 18:27",
+    "destTime": "2021/08/17 10:27",
+    "position": "1.293988\u00b0 / 103.7301\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
   "9189251": {
-    "rowidx": 170,
+    "rowidx": 171,
     "num": "",
     "mapStatus": "4",
     "mtsid": "320487",
@@ -408,7 +384,7 @@
     "status": "Out of Range"
   },
   "9672404": {
-    "rowidx": 171,
+    "rowidx": 172,
     "num": "",
     "mapStatus": "4",
     "mtsid": "372056",
@@ -427,12 +403,12 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/13 04:21",
     "destTime": "2021/08/12 20:21",
-    "position": "13.27525\u00b0 / 80.34202\u00b0",
+    "position": "13.27526\u00b0 / 80.34201\u00b0",
     "area": "Bengal Bay",
     "status": "Moored"
   },
   "9782091": {
-    "rowidx": 172,
+    "rowidx": 173,
     "num": "",
     "mapStatus": "4",
     "mtsid": "5433911",
@@ -456,7 +432,7 @@
     "status": "Out of Range"
   },
   "9392339": {
-    "rowidx": 173,
+    "rowidx": 174,
     "num": "",
     "mapStatus": "4",
     "mtsid": "461075",
@@ -480,7 +456,7 @@
     "status": "Underway using Engine"
   },
   "9426350": {
-    "rowidx": 174,
+    "rowidx": 175,
     "num": "",
     "mapStatus": "4",
     "mtsid": "665385",
@@ -499,12 +475,12 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/17 12:36",
     "destTime": "2021/08/17 04:36",
-    "position": "1.284837\u00b0 / 103.7527\u00b0",
+    "position": "1.284843\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
   "9419747": {
-    "rowidx": 175,
+    "rowidx": 176,
     "num": "",
     "mapStatus": "4",
     "mtsid": "464032",
@@ -528,7 +504,7 @@
     "status": "Moored"
   },
   "9722302": {
-    "rowidx": 176,
+    "rowidx": 177,
     "num": "",
     "mapStatus": "4",
     "mtsid": "4018974",
@@ -552,7 +528,7 @@
     "status": "Underway using Engine"
   },
   "9889100": {
-    "rowidx": 177,
+    "rowidx": 178,
     "num": "",
     "mapStatus": "4",
     "mtsid": "6607317",
@@ -576,7 +552,7 @@
     "status": "Underway using Engine"
   },
   "9176577": {
-    "rowidx": 178,
+    "rowidx": 179,
     "num": "",
     "mapStatus": "4",
     "mtsid": "728649",
