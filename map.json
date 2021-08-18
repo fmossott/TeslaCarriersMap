@@ -162,7 +162,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/16 12:34",
     "destTime": "2021/08/16 10:34",
-    "position": "51.29646\u00b0 / 3.241365\u00b0",
+    "position": "51.2965\u00b0 / 3.241395\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -450,7 +450,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/17 12:36",
     "destTime": "2021/08/17 04:36",
-    "position": "1.411048\u00b0 / 103.1803\u00b0",
+    "position": "1.915955\u00b0 / 102.2964\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -502,32 +502,8 @@
     "area": "South China",
     "status": "Underway using Engine"
   },
-  "9889100": {
-    "rowidx": 178,
-    "num": "",
-    "mapStatus": "4",
-    "mtsid": "6607317",
-    "name": "Azul Ace",
-    "mmsi": "372424000",
-    "length": "199.96",
-    "breadth": "38",
-    "grossTonnage": "72,705",
-    "dept": "CN TXG",
-    "deptLong": "Tianjin",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/18 20:39",
-    "deptTime": "2021/08/18 12:39",
-    "dest": "JP THS",
-    "destLong": "Toyohashi",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/21 17:00",
-    "destTime": "2021/08/21 08:00",
-    "position": "38.92981\u00b0 / 118.0097\u00b0",
-    "area": "Bohai Sea",
-    "status": "Underway using Engine"
-  },
   "9574066": {
-    "rowidx": 179,
+    "rowidx": 178,
     "num": "",
     "mapStatus": "4",
     "mtsid": "410336",
@@ -551,7 +527,7 @@
     "status": "Underway using Engine"
   },
   "9176577": {
-    "rowidx": 180,
+    "rowidx": 179,
     "num": "",
     "mapStatus": "4",
     "mtsid": "728649",
@@ -575,7 +551,7 @@
     "status": "Underway using Engine"
   },
   "9336074": {
-    "rowidx": 181,
+    "rowidx": 180,
     "num": "",
     "mapStatus": "4",
     "mtsid": "463978",
