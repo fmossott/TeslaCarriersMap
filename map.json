@@ -138,7 +138,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/15 20:23",
     "destTime": "2021/08/15 18:23",
-    "position": "51.31268\u00b0 / 3.21619\u00b0",
+    "position": "51.31267\u00b0 / 3.21622\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -162,7 +162,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/16 12:34",
     "destTime": "2021/08/16 10:34",
-    "position": "51.29647\u00b0 / 3.241378\u00b0",
+    "position": "51.29647\u00b0 / 3.241395\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -186,7 +186,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/17 22:17",
     "destTime": "2021/08/17 20:17",
-    "position": "49.47193\u00b0 / 0.2099667\u00b0",
+    "position": "49.47187\u00b0 / 0.2100167\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -210,7 +210,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/15 07:49",
     "destTime": "2021/08/15 04:49",
-    "position": "21.46536\u00b0 / 39.16503\u00b0",
+    "position": "21.46535\u00b0 / 39.16504\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -234,7 +234,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/18 02:20",
     "destTime": "2021/08/18 00:20",
-    "position": "31.32338\u00b0 / 30.07273\u00b0",
+    "position": "31.32338\u00b0 / 30.07277\u00b0",
     "area": "East Mediterranean",
     "status": "Moored"
   },
@@ -320,19 +320,19 @@
     "length": "176.02",
     "breadth": "31.1",
     "grossTonnage": "41,192",
-    "dept": "MY PKG",
-    "deptLong": "Port Klang",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/17 05:08",
-    "deptTime": "2021/08/16 21:08",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2021/08/17 18:27",
-    "destTime": "2021/08/17 10:27",
-    "position": "1.2859\u00b0 / 103.756\u00b0",
+    "dept": "SG SIN",
+    "deptLong": "Singapore",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/08/17 18:27",
+    "deptTime": "2021/08/17 10:27",
+    "dest": "ID JKT",
+    "destLong": "Jakarta",
+    "destType": "ETA",
+    "destLocalTime": "2021/08/20 00:30",
+    "destTime": "2021/08/19 17:30",
+    "position": "1.276543\u00b0 / 103.7468\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9189251": {
     "rowidx": 171,
@@ -450,9 +450,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/17 12:36",
     "destTime": "2021/08/17 04:36",
-    "position": "1.284833\u00b0 / 103.7527\u00b0",
+    "position": "1.245042\u00b0 / 103.7082\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9419747": {
     "rowidx": 176,
@@ -522,7 +522,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/18 11:28",
     "destTime": "2021/08/18 03:28",
-    "position": "38.97551\u00b0 / 117.8149\u00b0",
+    "position": "38.97549\u00b0 / 117.8148\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
