@@ -186,7 +186,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/16 12:34",
     "destTime": "2021/08/16 10:34",
-    "position": "51.29646\u00b0 / 3.241425\u00b0",
+    "position": "51.2965\u00b0 / 3.241397\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -210,7 +210,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/17 22:17",
     "destTime": "2021/08/17 20:17",
-    "position": "49.47193\u00b0 / 0.21\u00b0",
+    "position": "49.47195\u00b0 / 0.2099667\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -234,7 +234,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/15 07:49",
     "destTime": "2021/08/15 04:49",
-    "position": "21.46536\u00b0 / 39.16504\u00b0",
+    "position": "21.46534\u00b0 / 39.16504\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -253,12 +253,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/07/28 15:26",
     "deptTime": "2021/07/28 07:26",
-    "dest": "EG SUZ",
+    "dest": "EG ABU QIR ANCH",
     "destLong": "Suez Canal",
     "destType": "ATA",
-    "destLocalTime": "2021/08/17 05:38",
-    "destTime": "2021/08/17 03:38",
-    "position": "31.43472\u00b0 / 30.08712\u00b0",
+    "destLocalTime": "2021/08/18 01:35",
+    "destTime": "2021/08/17 23:35",
+    "position": "31.35577\u00b0 / 30.09607\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -354,9 +354,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/17 18:27",
     "destTime": "2021/08/17 10:27",
-    "position": "1.300785\u00b0 / 103.7261\u00b0",
+    "position": "1.300453\u00b0 / 103.7261\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9189251": {
     "rowidx": 171,
@@ -394,7 +394,7 @@
     "grossTonnage": "58,767",
     "dept": "IN ENR",
     "deptLong": "Ennore",
-    "deptType": "ATA",
+    "deptType": "ATD",
     "deptLocalTime": "2021/08/17 15:34",
     "deptTime": "2021/08/17 07:34",
     "dest": "LK HBA",
@@ -402,7 +402,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/13 04:21",
     "destTime": "2021/08/12 20:21",
-    "position": "13.27441\u00b0 / 80.34206\u00b0",
+    "position": "13.12919\u00b0 / 80.42866\u00b0",
     "area": "Bengal Bay",
     "status": "Underway using Engine"
   },
@@ -474,7 +474,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/17 12:36",
     "destTime": "2021/08/17 04:36",
-    "position": "1.284827\u00b0 / 103.7526\u00b0",
+    "position": "1.284833\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/18 10:00",
     "destTime": "2021/08/18 02:00",
-    "position": "38.8085\u00b0 / 118.7949\u00b0",
+    "position": "38.84547\u00b0 / 118.4538\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
