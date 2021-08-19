@@ -43,7 +43,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 11:00",
     "destTime": "2021/09/05 09:00",
-    "position": "31.3235\u00b0 / 121.6797\u00b0",
+    "position": "31.32352\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -235,7 +235,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/19 10:59",
     "destTime": "2021/08/19 09:59",
-    "position": "51.4504\u00b0 / 0.3595333\u00b0",
+    "position": "51.45033\u00b0 / 0.35955\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -331,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/21 13:00",
     "destTime": "2021/08/21 10:00",
-    "position": "21.46777\u00b0 / 39.15863\u00b0",
+    "position": "21.46777\u00b0 / 39.15865\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -374,14 +374,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/18 18:35",
     "deptTime": "2021/08/18 10:35",
-    "dest": "ID JKT",
+    "dest": "ID JAKARTA ANCH",
     "destLong": "Jakarta",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/20 00:30",
-    "destTime": "2021/08/19 17:30",
-    "position": "-6.02007\u00b0 / 106.907\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/20 00:20",
+    "destTime": "2021/08/19 17:20",
+    "position": "-6.029042\u00b0 / 106.9022\u00b0",
     "area": "Java Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9189251": {
     "rowidx": 172,
