@@ -43,7 +43,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 11:00",
     "destTime": "2021/09/05 09:00",
-    "position": "31.32362\u00b0 / 121.6796\u00b0",
+    "position": "31.32348\u00b0 / 121.6797\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -65,10 +65,10 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2021/08/23 21:30",
-    "destTime": "2021/08/23 13:30",
-    "position": "27.00796\u00b0 / 121.5783\u00b0",
-    "area": "East China Sea",
+    "destLocalTime": "2021/08/24 06:00",
+    "destTime": "2021/08/23 22:00",
+    "position": "23.91368\u00b0 / 119.8795\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   },
   "9713882": {
@@ -235,7 +235,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/19 10:59",
     "destTime": "2021/08/19 09:59",
-    "position": "51.45042\u00b0 / 0.3595333\u00b0",
+    "position": "51.45033\u00b0 / 0.3596333\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -323,17 +323,17 @@
     "grossTonnage": "58,990",
     "dept": "SA JED",
     "deptLong": "Jeddah",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/19 13:47",
-    "deptTime": "2021/08/19 05:47",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/20 00:31",
+    "deptTime": "2021/08/19 21:31",
     "dest": "JO AQJ",
     "destLong": "Aqaba",
     "destType": "ETA",
-    "destLocalTime": "2021/08/21 13:00",
-    "destTime": "2021/08/21 10:00",
-    "position": "21.46775\u00b0 / 39.15863\u00b0",
+    "destLocalTime": "2021/08/21 15:00",
+    "destTime": "2021/08/21 12:00",
+    "position": "21.51368\u00b0 / 39.00842\u00b0",
     "area": "Red Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9420045": {
     "rowidx": 170,
@@ -379,7 +379,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/20 00:20",
     "destTime": "2021/08/19 17:20",
-    "position": "-6.028892\u00b0 / 106.9025\u00b0",
+    "position": "-6.028887\u00b0 / 106.9025\u00b0",
     "area": "Java Sea",
     "status": "At Anchor"
   },
@@ -403,7 +403,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/20 14:00",
     "destTime": "2021/08/20 10:00",
-    "position": "25.57996\u00b0 / 57.31712\u00b0",
+    "position": "25.92768\u00b0 / 57.04869\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
