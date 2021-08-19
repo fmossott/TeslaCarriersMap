@@ -19,7 +19,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/20 03:15",
     "destTime": "2021/08/19 19:15",
-    "position": "31.27512\u00b0 / 121.844\u00b0",
+    "position": "31.34392\u00b0 / 121.6745\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -137,10 +137,10 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2021/08/21 14:00",
-    "destTime": "2021/08/21 12:00",
-    "position": "12.28305\u00b0 / 44.20815\u00b0",
-    "area": "Gulf of Aden",
+    "destLocalTime": "2021/08/21 22:00",
+    "destTime": "2021/08/21 20:00",
+    "position": "18.70144\u00b0 / 39.71289\u00b0",
+    "area": "Red Sea",
     "status": "Underway using Engine"
   },
   "9702417": {
@@ -187,7 +187,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/20 02:10",
     "destTime": "2021/08/20 00:10",
-    "position": "58.83488\u00b0 / 10.35351\u00b0",
+    "position": "58.97757\u00b0 / 10.56496\u00b0",
     "area": "Skagerrak",
     "status": "Underway using Engine"
   },
@@ -201,19 +201,19 @@
     "length": "179.9",
     "breadth": "32.2",
     "grossTonnage": "51,964",
-    "dept": "BE ZEE",
+    "dept": "BE ANTWERP ANCH",
     "deptLong": "Zeebrugge",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/19 19:00",
-    "deptTime": "2021/08/19 17:00",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/08/20 00:40",
+    "deptTime": "2021/08/19 22:40",
     "dest": "GB TYN",
     "destLong": "Tyne",
     "destType": "ETA",
     "destLocalTime": "2021/08/21 00:00",
     "destTime": "2021/08/20 23:00",
-    "position": "51.69726\u00b0 / 2.653083\u00b0",
+    "position": "51.40548\u00b0 / 2.619022\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9398321": {
     "rowidx": 165,
@@ -283,7 +283,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/20 06:00",
     "destTime": "2021/08/20 03:00",
-    "position": "37.48678\u00b0 / 23.75285\u00b0",
+    "position": "37.59333\u00b0 / 23.75607\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -403,7 +403,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/20 14:00",
     "destTime": "2021/08/20 10:00",
-    "position": "25.92768\u00b0 / 57.04869\u00b0",
+    "position": "26.28749\u00b0 / 56.8148\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
