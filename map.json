@@ -187,7 +187,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/20 02:00",
     "destTime": "2021/08/20 00:00",
-    "position": "57.02787\u00b0 / 7.903461\u00b0",
+    "position": "57.158\u00b0 / 8.039842\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -211,9 +211,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/16 12:34",
     "destTime": "2021/08/16 10:34",
-    "position": "51.29649\u00b0 / 3.241342\u00b0",
+    "position": "51.31627\u00b0 / 3.222987\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Underway"
   },
   "9398321": {
     "rowidx": 165,
@@ -257,9 +257,9 @@
     "dest": "JO AQJ",
     "destLong": "Aqaba",
     "destType": "ETA",
-    "destLocalTime": "2021/08/19 21:30",
-    "destTime": "2021/08/19 18:30",
-    "position": "28.39955\u00b0 / 34.59048\u00b0",
+    "destLocalTime": "2021/08/19 22:30",
+    "destTime": "2021/08/19 19:30",
+    "position": "28.58766\u00b0 / 34.64639\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -585,18 +585,18 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "57,542",
-    "dept": "KR PTK",
-    "deptLong": "Pyeongtaek",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2021/08/11 12:28",
-    "deptTime": "2021/08/11 03:28",
+    "deptLocalTime": "2021/08/19 22:52",
+    "deptTime": "2021/08/19 14:52",
     "dest": "CN SHG",
     "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/08/18 09:04",
-    "destTime": "2021/08/18 01:04",
-    "position": "31.32203\u00b0 / 121.6816\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2021/08/25 04:00",
+    "destTime": "2021/08/24 20:00",
+    "position": "31.2683\u00b0 / 121.8613\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
