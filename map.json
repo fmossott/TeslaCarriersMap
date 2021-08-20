@@ -19,7 +19,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/20 11:47",
     "destTime": "2021/08/20 03:47",
-    "position": "31.65285\u00b0 / 121.2103\u00b0",
+    "position": "31.65289\u00b0 / 121.2104\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -179,17 +179,17 @@
     "grossTonnage": "64,650",
     "dept": "NO OSL",
     "deptLong": "Oslo",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/20 05:50",
-    "deptTime": "2021/08/20 03:50",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/20 20:04",
+    "deptTime": "2021/08/20 18:04",
     "dest": "DE BRV",
     "destLong": "Bremerhaven",
     "destType": "ETA",
     "destLocalTime": "2021/08/21 23:00",
     "destTime": "2021/08/21 21:00",
-    "position": "59.90587\u00b0 / 10.71339\u00b0",
+    "position": "59.77201\u00b0 / 10.55943\u00b0",
     "area": "Skagerrak",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9398321": {
     "rowidx": 165,
@@ -211,8 +211,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/20 20:00",
     "destTime": "2021/08/20 18:00",
-    "position": "51.35708\u00b0 / 2.47345\u00b0",
-    "area": "English Channel",
+    "position": "51.35905\u00b0 / 2.687883\u00b0",
+    "area": "North Sea",
     "status": "Underway using Engine"
   },
   "9209518": {
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/19 22:10",
     "destTime": "2021/08/19 19:10",
-    "position": "25.13186\u00b0 / 35.92634\u00b0",
+    "position": "24.34135\u00b0 / 36.41139\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -619,7 +619,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/20 11:10",
     "destTime": "2021/08/20 03:10",
-    "position": "31.32343\u00b0 / 121.6796\u00b0",
+    "position": "31.32345\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
