@@ -19,7 +19,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/20 03:15",
     "destTime": "2021/08/19 19:15",
-    "position": "31.41914\u00b0 / 121.5207\u00b0",
+    "position": "31.51197\u00b0 / 121.4013\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -187,7 +187,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/20 02:10",
     "destTime": "2021/08/20 00:10",
-    "position": "59.16725\u00b0 / 10.65095\u00b0",
+    "position": "59.4269\u00b0 / 10.56461\u00b0",
     "area": "Skagerrak",
     "status": "Underway using Engine"
   },
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/21 00:00",
     "destTime": "2021/08/20 23:00",
-    "position": "51.40565\u00b0 / 2.61899\u00b0",
+    "position": "51.40553\u00b0 / 2.618978\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -283,7 +283,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/20 06:00",
     "destTime": "2021/08/20 03:00",
-    "position": "37.69448\u00b0 / 23.74208\u00b0",
+    "position": "37.77505\u00b0 / 23.69555\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -355,9 +355,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/22 22:00",
     "destTime": "2021/08/22 20:00",
-    "position": "12.68386\u00b0 / 47.17820\u00b0",
-    "area": "Laccadive Sea",
-    "status": "Out of Range"
+    "position": "12.50733\u00b0 / 43.64955\u00b0",
+    "area": "Gulf of Aden",
+    "status": "Underway using Engine"
   },
   "9318515": {
     "rowidx": 171,
@@ -417,14 +417,14 @@
     "length": "199.96",
     "breadth": "32.29",
     "grossTonnage": "58,767",
-    "dept": "IN ENR",
-    "deptLong": "Ennore",
+    "dept": "LK HBA",
+    "deptLong": "Hambantota",
     "deptType": "ATD",
     "deptLocalTime": "2021/08/17 15:34",
     "deptTime": "2021/08/17 07:34",
     "dest": "LK HBA",
     "destLong": "Hambantota",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2021/08/13 04:21",
     "destTime": "2021/08/12 20:21",
     "position": "6.12166\u00b0 / 81.09666\u00b0",
