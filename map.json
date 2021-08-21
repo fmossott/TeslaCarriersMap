@@ -19,7 +19,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/20 10:31",
     "destTime": "2021/08/20 02:31",
-    "position": "30.83607\u00b0 / 121.8363\u00b0",
+    "position": "30.83608\u00b0 / 121.8364\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -187,7 +187,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/21 01:46",
     "destTime": "2021/08/20 23:46",
-    "position": "51.27245\u00b0 / 4.2206\u00b0",
+    "position": "51.27253\u00b0 / 4.22055\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/19 22:10",
     "destTime": "2021/08/19 19:10",
-    "position": "19.07899\u00b0 / 39.57188\u00b0",
+    "position": "18.88479\u00b0 / 39.65668\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -283,7 +283,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/22 15:00",
     "destTime": "2021/08/22 13:00",
-    "position": "29.31395\u00b0 / 34.90154\u00b0",
+    "position": "28.5447\u00b0 / 34.62058\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -379,7 +379,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/13 04:21",
     "destTime": "2021/08/12 20:21",
-    "position": "-0.51887\u00b0 / 74.44832\u00b0",
+    "position": "-3.06339\u00b0 / 71.76673\u00b0",
     "area": "Bengal Bay",
     "status": "Out of Range"
   },
@@ -451,7 +451,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/17 12:36",
     "destTime": "2021/08/17 04:36",
-    "position": "5.96019\u00b0 / 85.46495\u00b0",
+    "position": "5.84193\u00b0 / 81.98101\u00b0",
     "area": "Malacca Strait",
     "status": "Out of Range"
   },
@@ -619,7 +619,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/21 00:05",
     "destTime": "2021/08/20 16:05",
-    "position": "31.32213\u00b0 / 121.6817\u00b0",
+    "position": "31.32217\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -643,8 +643,32 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/22 00:00",
     "destTime": "2021/08/21 16:00",
-    "position": "31.32347\u00b0 / 121.6796\u00b0",
+    "position": "31.32345\u00b0 / 121.6797\u00b0",
     "area": "East China Sea",
     "status": "Moored"
+  },
+  "9441582": {
+    "rowidx": 185,
+    "num": "",
+    "mapStatus": "4",
+    "mtsid": "373705",
+    "name": "Glovis Clipper",
+    "mmsi": "311054400",
+    "length": "199.99",
+    "breadth": "32.29",
+    "grossTonnage": "58,767",
+    "dept": "KR KAN",
+    "deptLong": "Gwangyang",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/21 20:20",
+    "deptTime": "2021/08/21 11:20",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ETA",
+    "destLocalTime": "2021/08/22 18:00",
+    "destTime": "2021/08/22 10:00",
+    "position": "34.81237\u00b0 / 127.8009\u00b0",
+    "area": "East China Sea",
+    "status": "Underway using Engine"
   }
 }
