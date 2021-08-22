@@ -259,7 +259,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/22 05:26",
     "destTime": "2021/08/22 03:26",
-    "position": "43.57901\u00b0 / 10.30589\u00b0",
+    "position": "43.579\u00b0 / 10.30587\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -283,9 +283,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/22 16:29",
     "destTime": "2021/08/22 14:29",
-    "position": "29.8572\u00b0 / 32.56107\u00b0",
+    "position": "29.85713\u00b0 / 32.56113\u00b0",
     "area": "Red Sea",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9420045": {
     "rowidx": 170,
@@ -355,7 +355,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/23 06:00",
     "destTime": "2021/08/23 03:00",
-    "position": "25.53382\u00b0 / 53.53063\u00b0",
+    "position": "25.60554\u00b0 / 53.26118\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -379,7 +379,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/13 04:21",
     "destTime": "2021/08/12 20:21",
-    "position": "-5.62051\u00b0 / 69.08176\u00b0",
+    "position": "-8.36519\u00b0 / 66.05880\u00b0",
     "area": "Bengal Bay",
     "status": "Out of Range"
   },
@@ -595,7 +595,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/27 08:01",
     "destTime": "2021/08/27 00:01",
-    "position": "29.45254\u00b0 / 123.076\u00b0",
+    "position": "25.33062\u00b0 / 120.862\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -662,11 +662,11 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/21 20:20",
     "deptTime": "2021/08/21 11:20",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/22 18:00",
-    "destTime": "2021/08/22 10:00",
+    "dest": "CN CJK",
+    "destLong": "Cjk",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/23 04:07",
+    "destTime": "2021/08/22 20:07",
     "position": "31.32723\u00b0 / 122.971\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
