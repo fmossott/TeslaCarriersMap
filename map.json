@@ -19,7 +19,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/28 14:00",
     "destTime": "2021/08/28 06:00",
-    "position": "30.83603\u00b0 / 121.8364\u00b0",
+    "position": "30.83612\u00b0 / 121.8363\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -139,7 +139,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/28 21:00",
     "destTime": "2021/08/28 20:00",
-    "position": "29.97639\u00b0 / 32.58656\u00b0",
+    "position": "30.09329\u00b0 / 32.57067\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -187,9 +187,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/23 20:00",
     "destTime": "2021/08/23 18:00",
-    "position": "51.27248\u00b0 / 4.220517\u00b0",
+    "position": "51.27493\u00b0 / 4.2437\u00b0",
     "area": "Antwerp Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9209518": {
     "rowidx": 166,
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/19 22:10",
     "destTime": "2021/08/19 19:10",
-    "position": "16.57458\u00b0 / 40.99266\u00b0",
+    "position": "16.53487\u00b0 / 41.01405\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -256,12 +256,12 @@
     "deptTime": "2021/07/30 20:32",
     "dest": "IT LIV",
     "destLong": "Livorno",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/22 05:00",
-    "destTime": "2021/08/22 03:00",
-    "position": "43.52476\u00b0 / 10.26565\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/22 05:26",
+    "destTime": "2021/08/22 03:26",
+    "position": "43.579\u00b0 / 10.30589\u00b0",
     "area": "Ligurean Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9442885": {
     "rowidx": 169,
@@ -355,7 +355,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/22 18:00",
     "destTime": "2021/08/22 15:00",
-    "position": "24.99184\u00b0 / 55.07827\u00b0",
+    "position": "24.99184\u00b0 / 55.07828\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -499,7 +499,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/22 04:16",
     "destTime": "2021/08/21 20:16",
-    "position": "1.249637\u00b0 / 103.8807\u00b0",
+    "position": "1.249595\u00b0 / 103.8807\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -619,7 +619,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/21 00:05",
     "destTime": "2021/08/20 16:05",
-    "position": "31.32218\u00b0 / 121.6817\u00b0",
+    "position": "31.32222\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
