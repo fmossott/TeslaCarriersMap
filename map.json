@@ -160,12 +160,12 @@
     "deptTime": "2021/07/23 16:55",
     "dest": "GB SOU",
     "destLong": "Southampton",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/23 00:06",
-    "destTime": "2021/08/22 23:06",
-    "position": "50.87379\u00b0 / -1.38463\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/23 02:11",
+    "destTime": "2021/08/23 01:11",
+    "position": "50.9042\u00b0 / -1.428687\u00b0",
     "area": "English Channel",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9398321": {
     "rowidx": 165,
@@ -307,9 +307,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/25 07:00",
     "destTime": "2021/08/25 04:00",
-    "position": "29.84927\u00b0 / 32.56215\u00b0",
+    "position": "29.85022\u00b0 / 32.56217\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Stopped"
   },
   "9318515": {
     "rowidx": 171,
@@ -571,7 +571,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/23 20:00",
     "destTime": "2021/08/23 12:00",
-    "position": "22.71778\u00b0 / 116.7063\u00b0",
+    "position": "22.6792\u00b0 / 116.5567\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
@@ -619,7 +619,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/22 12:56",
     "destTime": "2021/08/22 04:56",
-    "position": "31.32343\u00b0 / 121.6794\u00b0",
+    "position": "31.32344\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -643,7 +643,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/23 01:11",
     "destTime": "2021/08/22 17:11",
-    "position": "31.32167\u00b0 / 121.6817\u00b0",
+    "position": "31.32218\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
