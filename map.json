@@ -182,14 +182,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/22 08:22",
     "deptTime": "2021/08/22 06:22",
-    "dest": "DE BRV",
+    "dest": "DE NEUE WESER ANCH",
     "destLong": "Bremerhaven",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/23 20:00",
-    "destTime": "2021/08/23 18:00",
-    "position": "53.93207\u00b0 / 7.814217\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/23 12:17",
+    "destTime": "2021/08/23 10:17",
+    "position": "53.90445\u00b0 / 7.863533\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9209518": {
     "rowidx": 166,
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/24 08:00",
     "destTime": "2021/08/24 06:00",
-    "position": "36.87585\u00b0 / 1.578833\u00b0",
+    "position": "36.78368\u00b0 / 0.70285\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/23 13:41",
     "destTime": "2021/08/23 05:41",
-    "position": "31.32365\u00b0 / 121.6793\u00b0",
+    "position": "31.32366\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
