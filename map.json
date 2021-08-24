@@ -91,7 +91,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/25 00:00",
     "destTime": "2021/08/24 22:00",
-    "position": "27.28046\u00b0 / 34.43121\u00b0",
+    "position": "27.66845\u00b0 / 33.9457\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/23 02:11",
     "destTime": "2021/08/23 01:11",
-    "position": "50.90243\u00b0 / -1.423342\u00b0",
+    "position": "50.90244\u00b0 / -1.423352\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/24 08:00",
     "destTime": "2021/08/24 06:00",
-    "position": "36.05728\u00b0 / -4.936217\u00b0",
+    "position": "36.02758\u00b0 / -5.259333\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -259,7 +259,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/22 05:26",
     "destTime": "2021/08/22 03:26",
-    "position": "43.57901\u00b0 / 10.30589\u00b0",
+    "position": "43.57899\u00b0 / 10.30587\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -350,14 +350,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/23 17:50",
     "deptTime": "2021/08/23 14:50",
-    "dest": "SA DMM",
+    "dest": "SA DAMMAM ANCH",
     "destLong": "Dammam",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/24 06:00",
-    "destTime": "2021/08/24 03:00",
-    "position": "26.60586\u00b0 / 50.30075\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/24 06:21",
+    "destTime": "2021/08/24 03:21",
+    "position": "26.60258\u00b0 / 50.28969\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9672404": {
     "rowidx": 173,
@@ -451,7 +451,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/17 12:36",
     "destTime": "2021/08/17 04:36",
-    "position": "16.52003\u00b0 / 71.83609\u00b0",
+    "position": "16.71374\u00b0 / 71.74728\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -571,7 +571,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/24 12:30",
     "destTime": "2021/08/24 04:30",
-    "position": "22.01315\u00b0 / 113.8708\u00b0",
+    "position": "22.10158\u00b0 / 113.8137\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
@@ -619,7 +619,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/25 09:30",
     "destTime": "2021/08/25 01:30",
-    "position": "31.13551\u00b0 / 122.249\u00b0",
+    "position": "36.23852\u00b0 / 123.6766\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
