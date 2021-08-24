@@ -67,7 +67,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 07:31",
     "destTime": "2021/08/23 23:31",
-    "position": "1.268578\u00b0 / 103.9048\u00b0",
+    "position": "1.268083\u00b0 / 103.9044\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -184,12 +184,12 @@
     "deptTime": "2021/08/22 06:22",
     "dest": "DE BRV",
     "destLong": "Bremerhaven",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/24 01:30",
-    "destTime": "2021/08/23 23:30",
-    "position": "53.62935\u00b0 / 8.4526\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/24 03:46",
+    "destTime": "2021/08/24 01:46",
+    "position": "53.56963\u00b0 / 8.549666\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9209518": {
     "rowidx": 166,
@@ -307,7 +307,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/25 04:00",
     "destTime": "2021/08/25 01:00",
-    "position": "33.24612\u00b0 / 29.78865\u00b0",
+    "position": "33.7986\u00b0 / 28.95063\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -523,9 +523,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 09:35",
     "destTime": "2021/08/24 01:35",
-    "position": "1.248752\u00b0 / 103.7798\u00b0",
+    "position": "1.284865\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9336074": {
     "rowidx": 180,
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/23 13:41",
     "destTime": "2021/08/23 05:41",
-    "position": "31.32363\u00b0 / 121.6793\u00b0",
+    "position": "31.32364\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
