@@ -139,7 +139,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/29 20:00",
     "destTime": "2021/08/29 19:00",
-    "position": "37.15363\u00b0 / 3.634922\u00b0",
+    "position": "36.50192\u00b0 / -0.92378\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -153,19 +153,19 @@
     "length": "199.97",
     "breadth": "35",
     "grossTonnage": "64,546",
-    "dept": "GB SOU",
-    "deptLong": "Southampton",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/24 07:48",
-    "deptTime": "2021/08/24 06:48",
-    "dest": "BE ZEE",
-    "destLong": "Zeebrugge",
-    "destType": "ATA",
-    "destLocalTime": "2021/08/24 23:28",
-    "destTime": "2021/08/24 21:28",
-    "position": "51.30884\u00b0 / 3.225792\u00b0",
+    "dept": "BE ZEE",
+    "deptLong": "Zeebrugge",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/08/24 22:28",
+    "deptTime": "2021/08/24 21:28",
+    "dest": "EG PSD",
+    "destLong": "Port Said",
+    "destType": "ETA",
+    "destLocalTime": "2021/09/04 16:30",
+    "destTime": "2021/09/04 14:30",
+    "position": "51.32095\u00b0 / 3.223398\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9398321": {
     "rowidx": 165,
@@ -187,7 +187,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 03:46",
     "destTime": "2021/08/24 01:46",
-    "position": "53.5673\u00b0 / 8.562667\u00b0",
+    "position": "53.56725\u00b0 / 8.562683\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -355,8 +355,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/26 22:00",
     "destTime": "2021/08/26 20:00",
-    "position": "27.67343\u00b0 / 33.93635\u00b0",
-    "area": "Laccadive Sea",
+    "position": "27.68165\u00b0 / 33.92599\u00b0",
+    "area": "Red Sea",
     "status": "Underway using Engine"
   },
   "9392339": {
@@ -379,7 +379,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/26 10:39",
     "destTime": "2021/08/26 06:39",
-    "position": "24.99013\u00b0 / 55.07628\u00b0",
+    "position": "24.99013\u00b0 / 55.07625\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -403,7 +403,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/17 12:36",
     "destTime": "2021/08/17 04:36",
-    "position": "18.94102\u00b0 / 72.85353\u00b0",
+    "position": "18.94101\u00b0 / 72.85352\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
@@ -619,7 +619,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/26 02:34",
     "destTime": "2021/08/25 18:34",
-    "position": "31.32194\u00b0 / 121.6819\u00b0",
+    "position": "31.32167\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/26 14:22",
     "destTime": "2021/08/26 06:22",
-    "position": "30.83593\u00b0 / 121.8369\u00b0",
+    "position": "30.83595\u00b0 / 121.8369\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
