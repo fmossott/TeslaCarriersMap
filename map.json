@@ -187,7 +187,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 03:46",
     "destTime": "2021/08/24 01:46",
-    "position": "53.56735\u00b0 / 8.5627\u00b0",
+    "position": "53.56728\u00b0 / 8.562683\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -350,14 +350,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/14 12:36",
     "deptTime": "2021/08/14 04:36",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/26 22:00",
-    "destTime": "2021/08/26 20:00",
-    "position": "29.84192\u00b0 / 32.56889\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/26 22:10",
+    "destTime": "2021/08/26 20:10",
+    "position": "29.84351\u00b0 / 32.56847\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9392339": {
     "rowidx": 173,
@@ -379,7 +379,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/26 10:39",
     "destTime": "2021/08/26 06:39",
-    "position": "24.99012\u00b0 / 55.07627\u00b0",
+    "position": "24.99012\u00b0 / 55.07625\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -403,7 +403,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/17 12:36",
     "destTime": "2021/08/17 04:36",
-    "position": "18.94104\u00b0 / 72.85355\u00b0",
+    "position": "18.94103\u00b0 / 72.85351\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
@@ -571,7 +571,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/27 10:00",
     "destTime": "2021/08/27 02:00",
-    "position": "38.69883\u00b0 / 120.0104\u00b0",
+    "position": "38.72647\u00b0 / 119.648\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
@@ -595,7 +595,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/25 15:04",
     "destTime": "2021/08/25 07:04",
-    "position": "26.37478\u00b0 / 121.2627\u00b0",
+    "position": "25.96658\u00b0 / 121.1269\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/26 14:22",
     "destTime": "2021/08/26 06:22",
-    "position": "30.83595\u00b0 / 121.8369\u00b0",
+    "position": "30.835\u00b0 / 121.8367\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
