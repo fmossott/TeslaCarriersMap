@@ -65,9 +65,9 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2021/09/05 14:00",
-    "destTime": "2021/09/05 12:00",
-    "position": "2.839063\u00b0 / 101.002\u00b0",
+    "destLocalTime": "2021/09/05 20:00",
+    "destTime": "2021/09/05 18:00",
+    "position": "6.325972\u00b0 / 95.01035\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/28 11:00",
     "destTime": "2021/08/28 09:00",
-    "position": "17.40336\u00b0 / 40.44542\u00b0",
+    "position": "18.57788\u00b0 / 39.74487\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -137,10 +137,10 @@
     "dest": "GB SOU",
     "destLong": "Southampton",
     "destType": "ETA",
-    "destLocalTime": "2021/08/29 20:00",
-    "destTime": "2021/08/29 19:00",
-    "position": "36.50192\u00b0 / -0.92378\u00b0",
-    "area": "West Mediterranean",
+    "destLocalTime": "2021/08/29 16:00",
+    "destTime": "2021/08/29 15:00",
+    "position": "36.12491\u00b0 / -4.280373\u00b0",
+    "area": "Gibraltar",
     "status": "Underway using Engine"
   },
   "9702417": {
@@ -259,9 +259,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/26 19:27",
     "destTime": "2021/08/26 17:27",
-    "position": "43.40208\u00b0 / 4.844833\u00b0",
+    "position": "43.40206\u00b0 / 4.844853\u00b0",
     "area": "West Mediterranean",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9442885": {
     "rowidx": 169,
@@ -283,7 +283,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/28 05:00",
     "destTime": "2021/08/28 03:00",
-    "position": "37.41362\u00b0 / 17.63147\u00b0",
+    "position": "37.77851\u00b0 / 16.16652\u00b0",
     "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
@@ -355,7 +355,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/26 22:00",
     "destTime": "2021/08/26 20:00",
-    "position": "29.60091\u00b0 / 32.57378\u00b0",
+    "position": "29.70906\u00b0 / 32.55937\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
