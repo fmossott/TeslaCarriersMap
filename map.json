@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 23:28",
     "destTime": "2021/08/24 21:28",
-    "position": "51.30883\u00b0 / 3.22583\u00b0",
+    "position": "51.30882\u00b0 / 3.225797\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -187,7 +187,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 03:46",
     "destTime": "2021/08/24 01:46",
-    "position": "53.56727\u00b0 / 8.562634\u00b0",
+    "position": "53.56732\u00b0 / 8.562783\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/29 09:00",
     "destTime": "2021/08/29 07:00",
-    "position": "36.60678\u00b0 / -8.513033\u00b0",
+    "position": "38.50923\u00b0 / -9.773983\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -251,17 +251,17 @@
     "grossTonnage": "65,276",
     "dept": "IT LIV",
     "deptLong": "Livorno",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/22 11:26",
-    "deptTime": "2021/08/22 03:26",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/26 02:29",
+    "deptTime": "2021/08/26 00:29",
     "dest": "FR FOS",
     "destLong": "Fos Sur Mer",
     "destType": "ETA",
     "destLocalTime": "2021/08/26 18:00",
     "destTime": "2021/08/26 16:00",
-    "position": "43.57902\u00b0 / 10.30588\u00b0",
+    "position": "43.52965\u00b0 / 10.25185\u00b0",
     "area": "Ligurean Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9442885": {
     "rowidx": 169,
@@ -283,8 +283,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/28 05:00",
     "destTime": "2021/08/28 03:00",
-    "position": "37.74507\u00b0 / 23.65578\u00b0",
-    "area": "Piraeus Area",
+    "position": "36.40578\u00b0 / 22.76827\u00b0",
+    "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
   "9420045": {
@@ -427,7 +427,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/26 06:30",
     "destTime": "2021/08/26 02:30",
-    "position": "25.68408\u00b0 / 55.18017\u00b0",
+    "position": "25.45732\u00b0 / 54.97603\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -451,9 +451,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/17 12:36",
     "destTime": "2021/08/17 04:36",
-    "position": "20.66504\u00b0 / 71.54082\u00b0",
+    "position": "19.73264\u00b0 / 72.34862\u00b0",
     "area": "West Coast India",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9419747": {
     "rowidx": 177,
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/25 15:04",
     "destTime": "2021/08/25 07:04",
-    "position": "31.03863\u00b0 / 122.7827\u00b0",
+    "position": "30.79722\u00b0 / 122.9361\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -715,7 +715,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/25 13:03",
     "destTime": "2021/08/25 05:03",
-    "position": "30.83597\u00b0 / 121.8368\u00b0",
+    "position": "30.83598\u00b0 / 121.8368\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -739,7 +739,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/26 06:20",
     "destTime": "2021/08/25 22:20",
-    "position": "31.4098\u00b0 / 122.7535\u00b0",
+    "position": "31.39827\u00b0 / 122.7701\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
