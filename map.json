@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 23:28",
     "destTime": "2021/08/24 21:28",
-    "position": "51.30883\u00b0 / 3.225792\u00b0",
+    "position": "51.30884\u00b0 / 3.225813\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -187,7 +187,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 03:46",
     "destTime": "2021/08/24 01:46",
-    "position": "53.56723\u00b0 / 8.562683\u00b0",
+    "position": "53.56732\u00b0 / 8.56275\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -355,7 +355,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/27 07:00",
     "destTime": "2021/08/27 04:00",
-    "position": "26.48899\u00b0 / 50.20044\u00b0",
+    "position": "26.48898\u00b0 / 50.20043\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -422,14 +422,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/25 14:28",
     "deptTime": "2021/08/25 10:28",
-    "dest": "AE JEBEL ALI ANCH",
+    "dest": "AE JEA",
     "destLong": "Jebel Ali",
-    "destType": "ATA",
-    "destLocalTime": "2021/08/26 06:22",
-    "destTime": "2021/08/26 02:22",
-    "position": "25.11988\u00b0 / 54.92168\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2021/08/26 06:30",
+    "destTime": "2021/08/26 02:30",
+    "position": "25.0389\u00b0 / 55.0272\u00b0",
     "area": "Dubai Area",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9426350": {
     "rowidx": 176,
@@ -451,7 +451,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/17 12:36",
     "destTime": "2021/08/17 04:36",
-    "position": "18.87021\u00b0 / 72.83787\u00b0",
+    "position": "18.93863\u00b0 / 72.85402\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/25 15:04",
     "destTime": "2021/08/25 07:04",
-    "position": "29.62517\u00b0 / 122.8731\u00b0",
+    "position": "29.51572\u00b0 / 122.834\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -705,19 +705,19 @@
     "length": "164",
     "breadth": "28",
     "grossTonnage": "33,831",
-    "dept": "CN DLC",
-    "deptLong": "Dalian",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2021/08/20 03:31",
-    "deptTime": "2021/08/19 19:31",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/08/25 13:03",
-    "destTime": "2021/08/25 05:03",
-    "position": "30.83601\u00b0 / 121.8368\u00b0",
+    "deptLocalTime": "2021/08/26 14:36",
+    "deptTime": "2021/08/26 06:36",
+    "dest": "CN NBG",
+    "destLong": "Ningbo",
+    "destType": "ETA",
+    "destLocalTime": "2021/08/27 07:00",
+    "destTime": "2021/08/26 23:00",
+    "position": "30.77032\u00b0 / 121.8467\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9441582": {
     "rowidx": 188,
@@ -739,7 +739,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/26 19:29",
     "destTime": "2021/08/26 11:29",
-    "position": "31.48195\u00b0 / 122.6549\u00b0",
+    "position": "31.48371\u00b0 / 122.6582\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
