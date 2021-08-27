@@ -19,7 +19,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/28 19:00",
     "destTime": "2021/08/28 11:00",
-    "position": "11.50405\u00b0 / 111.93448\u00b0",
+    "position": "8.74240\u00b0 / 109.46092\u00b0",
     "area": "South China",
     "status": "Out of Range"
   },
@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/28 17:00",
     "destTime": "2021/08/28 15:00",
-    "position": "20.55754\u00b0 / 38.59466\u00b0",
+    "position": "21.58256\u00b0 / 37.9833\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -187,7 +187,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 03:46",
     "destTime": "2021/08/24 01:46",
-    "position": "53.56723\u00b0 / 8.5627\u00b0",
+    "position": "53.56733\u00b0 / 8.562734\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -208,7 +208,7 @@
     "deptTime": "2021/08/20 01:51",
     "dest": "IN PAV",
     "destLong": "Pipavav",
-    "destType": "ETA",
+    "destType": "ATA",
     "destLocalTime": "2021/08/19 22:10",
     "destTime": "2021/08/19 19:10",
     "position": "20.59932\u00b0 / 71.20793\u00b0",
@@ -355,8 +355,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/30 01:00",
     "destTime": "2021/08/29 22:00",
-    "position": "30.34393\u00b0 / 32.3866\u00b0",
-    "area": "Red Sea",
+    "position": "30.41173\u00b0 / 32.36325\u00b0",
+    "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
   "9392339": {
@@ -379,9 +379,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/27 09:00",
     "destTime": "2021/08/27 05:00",
-    "position": "24.82175\u00b0 / 54.6699\u00b0",
+    "position": "24.8218\u00b0 / 54.66972\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9426350": {
     "rowidx": 174,
@@ -395,15 +395,15 @@
     "grossTonnage": "62,993",
     "dept": "IN BOM",
     "deptLong": "Mumbai",
-    "deptType": "ATA",
+    "deptType": "ATD",
     "deptLocalTime": "2021/08/18 18:13",
     "deptTime": "2021/08/18 10:13",
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2021/09/03 08:00",
-    "destTime": "2021/09/03 06:00",
-    "position": "18.94093\u00b0 / 72.85372\u00b0",
+    "destLocalTime": "2021/09/03 21:00",
+    "destTime": "2021/09/03 19:00",
+    "position": "18.86197\u00b0 / 72.82288\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -547,7 +547,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/29 23:59",
     "destTime": "2021/08/29 15:59",
-    "position": "18.31833\u00b0 / 115.40667\u00b0",
+    "position": "15.31833\u00b0 / 113.07333\u00b0",
     "area": "South China",
     "status": "Out of Range"
   },
@@ -571,7 +571,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/27 10:34",
     "destTime": "2021/08/27 02:34",
-    "position": "38.97501\u00b0 / 117.8174\u00b0",
+    "position": "38.97508\u00b0 / 117.8174\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -595,7 +595,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/25 15:04",
     "destTime": "2021/08/25 07:04",
-    "position": "23.83282\u00b0 / 119.8508\u00b0",
+    "position": "23.57178\u00b0 / 119.8138\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
