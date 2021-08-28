@@ -14,14 +14,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/23 12:43",
     "deptTime": "2021/08/23 04:43",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/28 23:45",
-    "destTime": "2021/08/28 15:45",
-    "position": "1.244183\u00b0 / 103.9393\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/29 00:48",
+    "destTime": "2021/08/28 16:48",
+    "position": "1.261\u00b0 / 103.894\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9325221": {
     "rowidx": 7,
@@ -67,9 +67,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 20:00",
     "destTime": "2021/09/05 18:00",
-    "position": "5.95666\u00b0 / 84.93333\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "6.008117\u00b0 / 79.83483\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9713882": {
     "rowidx": 9,
@@ -139,7 +139,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/29 16:00",
     "destTime": "2021/08/29 15:00",
-    "position": "45.43499\u00b0 / -8.188916\u00b0",
+    "position": "46.27162\u00b0 / -7.568323\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -307,7 +307,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/30 00:01",
     "destTime": "2021/08/29 21:01",
-    "position": "36.62255\u00b0 / 26.73239\u00b0",
+    "position": "36.74924\u00b0 / 26.68445\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/27 13:42",
     "destTime": "2021/08/27 05:42",
-    "position": "30.83594\u00b0 / 121.8362\u00b0",
+    "position": "30.83595\u00b0 / 121.8362\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
