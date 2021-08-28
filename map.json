@@ -91,7 +91,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/02 16:00",
     "destTime": "2021/09/02 14:00",
-    "position": "37.67669\u00b0 / 9.766827\u00b0",
+    "position": "37.46517\u00b0 / 4.844697\u00b0",
     "area": "West Mediterranean",
     "status": "Underway by Sail"
   },
@@ -115,7 +115,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/28 18:52",
     "destTime": "2021/08/28 16:52",
-    "position": "29.85813\u00b0 / 32.56194\u00b0",
+    "position": "29.85667\u00b0 / 32.56\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 03:46",
     "destTime": "2021/08/24 01:46",
-    "position": "53.56727\u00b0 / 8.56265\u00b0",
+    "position": "53.56732\u00b0 / 8.562734\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -187,9 +187,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/19 22:10",
     "destTime": "2021/08/19 19:10",
-    "position": "22.66902\u00b0 / 69.73789\u00b0",
+    "position": "22.66882\u00b0 / 69.73818\u00b0",
     "area": "West Coast India",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9403281": {
     "rowidx": 167,
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/29 03:00",
     "destTime": "2021/08/29 01:00",
-    "position": "51.67055\u00b0 / 2.4705\u00b0",
+    "position": "51.81037\u00b0 / 2.770283\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -307,7 +307,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/30 00:01",
     "destTime": "2021/08/29 21:01",
-    "position": "37.5119\u00b0 / 25.8822\u00b0",
+    "position": "37.63985\u00b0 / 25.81528\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -321,19 +321,19 @@
     "length": "188.03",
     "breadth": "28.23",
     "grossTonnage": "39,422",
-    "dept": "QA HMD",
-    "deptLong": "Hamad",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/28 09:36",
-    "deptTime": "2021/08/28 06:36",
-    "dest": "BH KBS",
-    "destLong": "Khalifa Bin Salman",
-    "destType": "ATA",
-    "destLocalTime": "2021/08/28 20:10",
-    "destTime": "2021/08/28 17:10",
-    "position": "26.19572\u00b0 / 50.70692\u00b0",
+    "dept": "BH KBS",
+    "deptLong": "Khalifa Bin Salman",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/08/28 20:10",
+    "deptTime": "2021/08/28 17:10",
+    "dest": "SA DMM",
+    "destLong": "Dammam",
+    "destType": "ETA",
+    "destLocalTime": "2021/08/29 11:00",
+    "destTime": "2021/08/29 08:00",
+    "position": "26.19573\u00b0 / 50.7069\u00b0",
     "area": "Persian Gulf",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9426350": {
     "rowidx": 173,
@@ -523,7 +523,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/30 02:00",
     "destTime": "2021/08/29 17:00",
-    "position": "38.63773\u00b0 / 120.0768\u00b0",
+    "position": "38.55151\u00b0 / 120.8294\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
@@ -547,7 +547,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/25 15:04",
     "destTime": "2021/08/25 07:04",
-    "position": "22.08187\u00b0 / 113.8929\u00b0",
+    "position": "22.08185\u00b0 / 113.8929\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
