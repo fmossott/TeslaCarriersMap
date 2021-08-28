@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/29 03:30",
     "destTime": "2021/08/29 01:30",
-    "position": "50.38315\u00b0 / -2.869983\u00b0",
+    "position": "50.32218\u00b0 / -1.930033\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -259,7 +259,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/28 05:52",
     "destTime": "2021/08/28 03:52",
-    "position": "43.57823\u00b0 / 10.30597\u00b0",
+    "position": "43.57822\u00b0 / 10.30598\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -307,7 +307,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/30 00:01",
     "destTime": "2021/08/29 21:01",
-    "position": "34.86385\u00b0 / 28.55095\u00b0",
+    "position": "34.95962\u00b0 / 28.44458\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -643,7 +643,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/27 13:42",
     "destTime": "2021/08/27 05:42",
-    "position": "30.83592\u00b0 / 121.8362\u00b0",
+    "position": "30.83593\u00b0 / 121.8362\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -657,18 +657,18 @@
     "length": "199.99",
     "breadth": "32.29",
     "grossTonnage": "58,767",
-    "dept": "KR KAN",
-    "deptLong": "Gwangyang",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/21 20:20",
-    "deptTime": "2021/08/21 11:20",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/08/28 03:59",
-    "destTime": "2021/08/27 19:59",
-    "position": "31.32355\u00b0 / 121.6797\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/08/28 04:59",
+    "deptTime": "2021/08/27 19:59",
+    "dest": "PH BTG",
+    "destLong": "Batangas",
+    "destType": "ETA",
+    "destLocalTime": "2021/09/01 13:00",
+    "destTime": "2021/09/01 05:00",
+    "position": "31.32835\u00b0 / 121.6902\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
