@@ -110,14 +110,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/16 13:58",
     "deptTime": "2021/08/16 05:58",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/28 17:00",
-    "destTime": "2021/08/28 15:00",
-    "position": "29.85667\u00b0 / 32.55833\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/28 18:52",
+    "destTime": "2021/08/28 16:52",
+    "position": "29.85822\u00b0 / 32.56207\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9460899": {
     "rowidx": 11,
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 03:46",
     "destTime": "2021/08/24 01:46",
-    "position": "53.5673\u00b0 / 8.562683\u00b0",
+    "position": "53.56725\u00b0 / 8.562616\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/29 03:00",
     "destTime": "2021/08/29 01:00",
-    "position": "50.88422\u00b0 / 1.4339\u00b0",
+    "position": "51.09777\u00b0 / 1.689333\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -307,7 +307,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/30 00:01",
     "destTime": "2021/08/29 21:01",
-    "position": "36.74924\u00b0 / 26.68445\u00b0",
+    "position": "36.87326\u00b0 / 26.64143\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -321,19 +321,19 @@
     "length": "188.03",
     "breadth": "28.23",
     "grossTonnage": "39,422",
-    "dept": "BH SITRAH ANCH",
+    "dept": "QA HMD",
     "deptLong": "Hamad",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/28 18:52",
-    "deptTime": "2021/08/28 15:52",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/28 09:36",
+    "deptTime": "2021/08/28 06:36",
     "dest": "BH KBS",
     "destLong": "Khalifa Bin Salman",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/28 19:00",
-    "destTime": "2021/08/28 16:00",
-    "position": "26.1708\u00b0 / 50.75532\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/28 20:10",
+    "destTime": "2021/08/28 17:10",
+    "position": "26.1957\u00b0 / 50.70692\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9426350": {
     "rowidx": 173,
@@ -355,9 +355,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/03 21:00",
     "destTime": "2021/09/03 19:00",
-    "position": "18.83473\u00b0 / 71.85037\u00b0",
+    "position": "17.69872\u00b0 / 65.47975\u00b0",
     "area": "West Coast India",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9419747": {
     "rowidx": 174,
@@ -547,7 +547,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/25 15:04",
     "destTime": "2021/08/25 07:04",
-    "position": "22.08132\u00b0 / 113.8931\u00b0",
+    "position": "22.08157\u00b0 / 113.893\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
@@ -569,10 +569,10 @@
     "dest": "SI KOP",
     "destLong": "Koper",
     "destType": "ETA",
-    "destLocalTime": "2021/09/19 17:00",
-    "destTime": "2021/09/19 15:00",
-    "position": "31.29566\u00b0 / 121.7874\u00b0",
-    "area": "East China Sea",
+    "destLocalTime": "2021/09/21 05:00",
+    "destTime": "2021/09/21 03:00",
+    "position": "22.44131\u00b0 / 117.1759\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   },
   "9247584": {
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/28 03:38",
     "destTime": "2021/08/27 19:38",
-    "position": "31.32167\u00b0 / 121.6817\u00b0",
+    "position": "31.3222\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
