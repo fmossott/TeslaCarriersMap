@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 03:46",
     "destTime": "2021/08/24 01:46",
-    "position": "53.56735\u00b0 / 8.562783\u00b0",
+    "position": "53.56721\u00b0 / 8.562683\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -257,10 +257,10 @@
     "dest": "GB BRS",
     "destLong": "Bristol",
     "destType": "ETA",
-    "destLocalTime": "2021/09/03 01:30",
-    "destTime": "2021/09/03 00:30",
-    "position": "41.16695\u00b0 / 6.41135\u00b0",
-    "area": "West Mediterranean",
+    "destLocalTime": "2021/09/03 01:00",
+    "destTime": "2021/09/03 00:00",
+    "position": "39.01085\u00b0 / 3.24245\u00b0",
+    "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
   "9420045": {
@@ -307,9 +307,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/30 00:01",
     "destTime": "2021/08/29 21:01",
-    "position": "39.83163\u00b0 / 25.59999\u00b0",
+    "position": "39.83113\u00b0 / 25.58715\u00b0",
     "area": "Aegean Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9392339": {
     "rowidx": 172,
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/29 14:49",
     "destTime": "2021/08/29 11:49",
-    "position": "26.48898\u00b0 / 50.20049\u00b0",
+    "position": "26.489\u00b0 / 50.20049\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -499,9 +499,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/29 23:59",
     "destTime": "2021/08/29 15:59",
-    "position": "3.74666\u00b0 / 105.65166\u00b0",
+    "position": "1.816998\u00b0 / 104.6414\u00b0",
     "area": "South China",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9553103": {
     "rowidx": 180,
@@ -523,7 +523,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/25 15:04",
     "destTime": "2021/08/25 07:04",
-    "position": "22.08238\u00b0 / 113.8918\u00b0",
+    "position": "22.0823\u00b0 / 113.8919\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
