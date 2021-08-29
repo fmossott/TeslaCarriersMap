@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/30 00:01",
     "destTime": "2021/08/29 22:01",
-    "position": "31.74221\u00b0 / 30.95256\u00b0",
+    "position": "31.69678\u00b0 / 30.62423\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -139,7 +139,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/29 19:00",
     "destTime": "2021/08/29 18:00",
-    "position": "50.66128\u00b0 / -0.939695\u00b0",
+    "position": "50.77378\u00b0 / -1.274365\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -297,17 +297,17 @@
     "length": "199.96",
     "breadth": "38",
     "grossTonnage": "72,684",
-    "dept": "SG SIN",
-    "deptLong": "Singapore",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/14 12:36",
-    "deptTime": "2021/08/14 04:36",
+    "dept": "TR CKZ",
+    "deptLong": "Canakkale",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/08/30 02:28",
+    "deptTime": "2021/08/29 18:28",
     "dest": "TR DRC",
     "destLong": "Derince",
     "destType": "ETA",
     "destLocalTime": "2021/08/30 08:30",
     "destTime": "2021/08/30 05:30",
-    "position": "39.9802\u00b0 / 26.01321\u00b0",
+    "position": "40.06129\u00b0 / 26.29649\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -571,8 +571,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/31 13:30",
     "destTime": "2021/08/31 05:30",
-    "position": "24.66182\u00b0 / 120.3745\u00b0",
-    "area": "East China Sea",
+    "position": "23.62152\u00b0 / 119.8611\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   },
   "9122930": {
@@ -645,6 +645,6 @@
     "destTime": "2021/08/28 20:07",
     "position": "31.32192\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Stopped"
   }
 }
