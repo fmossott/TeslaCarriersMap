@@ -134,12 +134,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/03 07:56",
     "deptTime": "2021/08/02 23:56",
-    "dest": "GB SOU",
-    "destLong": "Southampton",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2021/08/29 18:30",
+    "destLocalTime": "2021/08/29 19:30",
     "destTime": "2021/08/29 17:30",
-    "position": "49.73455\u00b0 / -3.397518\u00b0",
+    "position": "49.81484\u00b0 / -2.945462\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -307,7 +307,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/30 00:01",
     "destTime": "2021/08/29 21:01",
-    "position": "39.85697\u00b0 / 25.66311\u00b0",
+    "position": "39.85363\u00b0 / 25.65748\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -379,9 +379,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/01 04:30",
     "destTime": "2021/09/01 00:30",
-    "position": "7.614666\u00b0 / 76.83667\u00b0",
+    "position": "13.01250\u00b0 / 71.76033\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9722302": {
     "rowidx": 175,
@@ -523,7 +523,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/30 02:00",
     "destTime": "2021/08/29 17:00",
-    "position": "37.44593\u00b0 / 124.4591\u00b0",
+    "position": "37.2978\u00b0 / 124.7761\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -595,9 +595,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/29 05:31",
     "destTime": "2021/08/28 20:31",
-    "position": "35.97500\u00b0 / 126.57499\u00b0",
+    "position": "36.1652\u00b0 / 125.8955\u00b0",
     "area": "East China Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9690523": {
     "rowidx": 184,
