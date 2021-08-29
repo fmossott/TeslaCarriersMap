@@ -110,12 +110,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/16 13:58",
     "deptTime": "2021/08/16 05:58",
-    "dest": "EG ALY",
+    "dest": "EG ALEXANDRIA ANCH",
     "destLong": "Alexandria",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/30 00:01",
-    "destTime": "2021/08/29 22:01",
-    "position": "31.41526\u00b0 / 29.98924\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/30 00:58",
+    "destTime": "2021/08/29 22:58",
+    "position": "31.23473\u00b0 / 29.76212\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -139,7 +139,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/29 21:05",
     "destTime": "2021/08/29 20:05",
-    "position": "50.90248\u00b0 / -1.42324\u00b0",
+    "position": "50.9025\u00b0 / -1.423245\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -211,8 +211,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/30 11:00",
     "destTime": "2021/08/30 09:00",
-    "position": "51.21388\u00b0 / 1.764683\u00b0",
-    "area": "North Sea",
+    "position": "50.90888\u00b0 / 1.278667\u00b0",
+    "area": "English Channel",
     "status": "Underway using Engine"
   },
   "9669031": {
@@ -305,10 +305,10 @@
     "dest": "TR DRC",
     "destLong": "Derince",
     "destType": "ETA",
-    "destLocalTime": "2021/08/30 08:30",
-    "destTime": "2021/08/30 05:30",
-    "position": "40.47218\u00b0 / 26.88779\u00b0",
-    "area": "Aegean Sea",
+    "destLocalTime": "2021/08/30 07:45",
+    "destTime": "2021/08/30 04:45",
+    "position": "40.59407\u00b0 / 27.26603\u00b0",
+    "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
   "9392339": {
@@ -451,7 +451,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/30 06:30",
     "destTime": "2021/08/29 23:30",
-    "position": "13.04143\u00b0 / 100.7787\u00b0",
+    "position": "13.0807\u00b0 / 100.8539\u00b0",
     "area": "Gulf of Thailand",
     "status": "Underway using Engine"
   },
