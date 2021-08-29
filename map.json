@@ -115,8 +115,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/30 01:00",
     "destTime": "2021/08/29 23:00",
-    "position": "30.36315\u00b0 / 32.37423\u00b0",
-    "area": "Red Sea",
+    "position": "30.49306\u00b0 / 32.35038\u00b0",
+    "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
   "9460899": {
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 03:46",
     "destTime": "2021/08/24 01:46",
-    "position": "53.56728\u00b0 / 8.562667\u00b0",
+    "position": "53.5672\u00b0 / 8.562734\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -187,7 +187,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/19 22:10",
     "destTime": "2021/08/19 19:10",
-    "position": "22.6682\u00b0 / 69.73596\u00b0",
+    "position": "22.66816\u00b0 / 69.73708\u00b0",
     "area": "West Coast India",
     "status": "At Anchor"
   },
@@ -211,7 +211,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/29 06:28",
     "destTime": "2021/08/29 04:28",
-    "position": "51.89458\u00b0 / 4.247617\u00b0",
+    "position": "51.89455\u00b0 / 4.24765\u00b0",
     "area": "Rotterdam Area",
     "status": "Moored"
   },
@@ -307,7 +307,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/30 00:01",
     "destTime": "2021/08/29 21:01",
-    "position": "39.85247\u00b0 / 25.67613\u00b0",
+    "position": "39.86704\u00b0 / 25.68791\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -326,14 +326,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/29 03:56",
     "deptTime": "2021/08/29 00:56",
-    "dest": "SA DMM",
+    "dest": "SA DAMMAM ANCH",
     "destLong": "Dammam",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/29 09:30",
-    "destTime": "2021/08/29 06:30",
-    "position": "26.6044\u00b0 / 50.28583\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/29 09:35",
+    "destTime": "2021/08/29 06:35",
+    "position": "26.60462\u00b0 / 50.28628\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9426350": {
     "rowidx": 173,
@@ -547,7 +547,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/25 15:04",
     "destTime": "2021/08/25 07:04",
-    "position": "22.08197\u00b0 / 113.8918\u00b0",
+    "position": "22.08205\u00b0 / 113.8919\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
@@ -715,7 +715,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/28 16:17",
     "destTime": "2021/08/28 08:17",
-    "position": "31.32355\u00b0 / 121.6796\u00b0",
+    "position": "31.32353\u00b0 / 121.6797\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
