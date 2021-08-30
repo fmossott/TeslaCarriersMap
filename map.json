@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 03:46",
     "destTime": "2021/08/24 01:46",
-    "position": "53.5673\u00b0 / 8.5627\u00b0",
+    "position": "53.5673\u00b0 / 8.56275\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/30 11:00",
     "destTime": "2021/08/30 09:00",
-    "position": "50.06605\u00b0 / -0.2486833\u00b0",
+    "position": "49.83213\u00b0 / -0.40785\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -499,7 +499,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/30 04:48",
     "destTime": "2021/08/29 20:48",
-    "position": "1.28613\u00b0 / 104.0225\u00b0",
+    "position": "1.285972\u00b0 / 104.0227\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -518,14 +518,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/26 02:54",
     "deptTime": "2021/08/25 18:54",
-    "dest": "CN SHG",
+    "dest": "CN NANSHA ANCH",
     "destLong": "Shanghai",
     "destType": "ATA",
-    "destLocalTime": "2021/08/25 15:04",
-    "destTime": "2021/08/25 07:04",
-    "position": "22.7039\u00b0 / 113.6916\u00b0",
+    "destLocalTime": "2021/08/30 12:04",
+    "destTime": "2021/08/30 04:04",
+    "position": "22.70388\u00b0 / 113.6912\u00b0",
     "area": "South China",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9279812": {
     "rowidx": 181,
@@ -590,14 +590,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/29 03:30",
     "deptTime": "2021/08/28 19:30",
-    "dest": "CN YANTAI ANCH",
+    "dest": "CN YTG",
     "destLong": "Yantai",
     "destType": "ATA",
-    "destLocalTime": "2021/08/30 12:35",
-    "destTime": "2021/08/30 04:35",
-    "position": "37.63303\u00b0 / 121.48\u00b0",
+    "destLocalTime": "2021/08/30 13:31",
+    "destTime": "2021/08/30 05:31",
+    "position": "37.57784\u00b0 / 121.4184\u00b0",
     "area": "Yellow Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9355238": {
     "rowidx": 184,
