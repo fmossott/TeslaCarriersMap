@@ -139,7 +139,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/29 21:05",
     "destTime": "2021/08/29 20:05",
-    "position": "50.90248\u00b0 / -1.423242\u00b0",
+    "position": "50.90254\u00b0 / -1.42329\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -259,8 +259,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/03 01:00",
     "destTime": "2021/09/03 00:00",
-    "position": "39.01085\u00b0 / 3.24245\u00b0",
-    "area": "Balearic Sea",
+    "position": "37.56152\u00b0 / 0.1706167\u00b0",
+    "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
   "9420045": {
@@ -307,7 +307,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/30 07:45",
     "destTime": "2021/08/30 04:45",
-    "position": "40.74567\u00b0 / 28.05356\u00b0",
+    "position": "40.73234\u00b0 / 28.45034\u00b0",
     "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
@@ -403,7 +403,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/03 20:00",
     "destTime": "2021/09/03 18:00",
-    "position": "14.77154\u00b0 / 59.76916\u00b0",
+    "position": "14.94667\u00b0 / 56.67166\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
@@ -451,7 +451,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/30 06:17",
     "destTime": "2021/08/29 23:17",
-    "position": "13.06923\u00b0 / 100.8938\u00b0",
+    "position": "13.06922\u00b0 / 100.8938\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -633,11 +633,11 @@
     "length": "232.37",
     "breadth": "32.3",
     "grossTonnage": "68,700",
-    "dept": "CN CJK",
-    "deptLong": "Cjk",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/30 08:53",
-    "deptTime": "2021/08/30 00:53",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/30 03:24",
+    "deptTime": "2021/08/29 19:24",
     "dest": "CN TXG",
     "destLong": "Tianjin",
     "destType": "ETA",
