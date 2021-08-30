@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 03:46",
     "destTime": "2021/08/24 01:46",
-    "position": "53.56727\u00b0 / 8.562667\u00b0",
+    "position": "53.56735\u00b0 / 8.562783\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -187,9 +187,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/19 22:10",
     "destTime": "2021/08/19 19:10",
-    "position": "22.6686\u00b0 / 69.73878\u00b0",
+    "position": "22.66842\u00b0 / 69.73888\u00b0",
     "area": "West Coast India",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9403281": {
     "rowidx": 167,
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/02 03:00",
     "destTime": "2021/09/02 01:00",
-    "position": "49.4695\u00b0 / 0.1873333\u00b0",
+    "position": "49.4695\u00b0 / 0.18735\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -321,19 +321,19 @@
     "length": "188.03",
     "breadth": "28.23",
     "grossTonnage": "39,422",
-    "dept": "BH KBS",
-    "deptLong": "Khalifa Bin Salman",
+    "dept": "SA DMM",
+    "deptLong": "Dammam",
     "deptType": "ATD",
-    "deptLocalTime": "2021/08/29 03:56",
-    "deptTime": "2021/08/29 00:56",
+    "deptLocalTime": "2021/08/30 17:22",
+    "deptTime": "2021/08/30 14:22",
     "dest": "SA DMM",
     "destLong": "Dammam",
     "destType": "ATA",
     "destLocalTime": "2021/08/29 14:49",
     "destTime": "2021/08/29 11:49",
-    "position": "26.48898\u00b0 / 50.2005\u00b0",
+    "position": "26.5548\u00b0 / 50.18098\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9426350": {
     "rowidx": 173,
@@ -499,8 +499,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/30 04:00",
     "destTime": "2021/08/29 20:00",
-    "position": "1.223212\u00b0 / 103.4346\u00b0",
-    "area": "Singapore Area",
+    "position": "1.359327\u00b0 / 103.2426\u00b0",
+    "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
   "9553103": {
@@ -523,7 +523,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/30 18:43",
     "destTime": "2021/08/30 10:43",
-    "position": "23.01447\u00b0 / 113.5281\u00b0",
+    "position": "23.01445\u00b0 / 113.5281\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -595,7 +595,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/30 13:31",
     "destTime": "2021/08/30 05:31",
-    "position": "37.5633\u00b0 / 121.3812\u00b0",
+    "position": "37.56326\u00b0 / 121.3812\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -643,7 +643,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/30 04:14",
     "destTime": "2021/08/29 20:14",
-    "position": "31.32335\u00b0 / 121.6796\u00b0",
+    "position": "31.32332\u00b0 / 121.6797\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
