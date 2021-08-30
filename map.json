@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 03:46",
     "destTime": "2021/08/24 01:46",
-    "position": "53.56725\u00b0 / 8.56275\u00b0",
+    "position": "53.5673\u00b0 / 8.5627\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/30 11:00",
     "destTime": "2021/08/30 09:00",
-    "position": "50.30128\u00b0 / -0.0779\u00b0",
+    "position": "50.06605\u00b0 / -0.2486833\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -499,9 +499,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/30 04:48",
     "destTime": "2021/08/29 20:48",
-    "position": "1.286707\u00b0 / 104.0226\u00b0",
+    "position": "1.28613\u00b0 / 104.0225\u00b0",
     "area": "Singapore Area",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9553103": {
     "rowidx": 180,
@@ -523,7 +523,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/25 15:04",
     "destTime": "2021/08/25 07:04",
-    "position": "22.65398\u00b0 / 113.6924\u00b0",
+    "position": "22.7039\u00b0 / 113.6916\u00b0",
     "area": "South China",
     "status": "Underway"
   },
@@ -590,14 +590,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/29 03:30",
     "deptTime": "2021/08/28 19:30",
-    "dest": "CN YTG",
+    "dest": "CN YANTAI ANCH",
     "destLong": "Yantai",
-    "destType": "ETA",
-    "destLocalTime": "2021/08/30 12:30",
-    "destTime": "2021/08/30 04:30",
-    "position": "37.70223\u00b0 / 121.6935\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/08/30 12:35",
+    "destTime": "2021/08/30 04:35",
+    "position": "37.63303\u00b0 / 121.48\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9355238": {
     "rowidx": 184,
