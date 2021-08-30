@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 03:46",
     "destTime": "2021/08/24 01:46",
-    "position": "53.56725\u00b0 / 8.5627\u00b0",
+    "position": "53.56732\u00b0 / 8.5628\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -187,7 +187,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/19 22:10",
     "destTime": "2021/08/19 19:10",
-    "position": "22.66821\u00b0 / 69.73791\u00b0",
+    "position": "22.66811\u00b0 / 69.73782\u00b0",
     "area": "West Coast India",
     "status": "At Anchor"
   },
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/30 11:00",
     "destTime": "2021/08/30 09:00",
-    "position": "50.90888\u00b0 / 1.278667\u00b0",
+    "position": "50.6737\u00b0 / 0.7753667\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/01 18:00",
     "destTime": "2021/09/01 16:00",
-    "position": "36.5181\u00b0 / -8.322962\u00b0",
+    "position": "38.09831\u00b0 / -9.666839\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/29 14:49",
     "destTime": "2021/08/29 11:49",
-    "position": "26.489\u00b0 / 50.20047\u00b0",
+    "position": "26.48902\u00b0 / 50.2005\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -427,9 +427,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 03:00",
     "destTime": "2021/09/05 00:00",
-    "position": "5.625353\u00b0 / 80.14922\u00b0",
+    "position": "8.27647\u00b0 / 74.12112\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9267699": {
     "rowidx": 177,
@@ -499,7 +499,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/30 04:48",
     "destTime": "2021/08/29 20:48",
-    "position": "1.28614\u00b0 / 104.0248\u00b0",
+    "position": "1.286313\u00b0 / 104.0245\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -523,9 +523,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/25 15:04",
     "destTime": "2021/08/25 07:04",
-    "position": "22.08242\u00b0 / 113.8925\u00b0",
+    "position": "22.1049\u00b0 / 113.8238\u00b0",
     "area": "South China",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9279812": {
     "rowidx": 181,
@@ -593,9 +593,9 @@
     "dest": "CN YTG",
     "destLong": "Yantai",
     "destType": "ETA",
-    "destLocalTime": "2021/08/30 12:00",
-    "destTime": "2021/08/30 04:00",
-    "position": "37.67353\u00b0 / 123.1691\u00b0",
+    "destLocalTime": "2021/08/30 12:30",
+    "destTime": "2021/08/30 04:30",
+    "position": "37.79593\u00b0 / 122.7995\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
