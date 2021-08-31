@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 03:46",
     "destTime": "2021/08/24 01:46",
-    "position": "53.57725\u00b0 / 8.550567\u00b0",
+    "position": "53.5773\u00b0 / 8.5505\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -187,9 +187,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/19 22:10",
     "destTime": "2021/08/19 19:10",
-    "position": "22.68343\u00b0 / 69.76718\u00b0",
+    "position": "22.68585\u00b0 / 69.77592\u00b0",
     "area": "West Coast India",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9403281": {
     "rowidx": 167,
@@ -297,17 +297,17 @@
     "length": "199.96",
     "breadth": "38",
     "grossTonnage": "72,684",
-    "dept": "TR CKZ",
-    "deptLong": "Canakkale",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/08/31 10:00",
-    "deptTime": "2021/08/31 07:00",
+    "dept": "TR DRC",
+    "deptLong": "Derince",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/08/30 23:46",
+    "deptTime": "2021/08/30 20:46",
     "dest": "GR PIR",
     "destLong": "Piraeus",
     "destType": "ETA",
     "destLocalTime": "2021/09/01 06:00",
     "destTime": "2021/09/01 03:00",
-    "position": "40.1209\u00b0 / 26.36844\u00b0",
+    "position": "40.02672\u00b0 / 26.11006\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/29 14:49",
     "destTime": "2021/08/29 11:49",
-    "position": "29.42063\u00b0 / 48.035\u00b0",
+    "position": "29.41425\u00b0 / 47.98152\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -595,7 +595,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/30 13:31",
     "destTime": "2021/08/30 05:31",
-    "position": "37.56331\u00b0 / 121.3812\u00b0",
+    "position": "37.56331\u00b0 / 121.3811\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -667,7 +667,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/06 16:00",
     "destTime": "2021/09/06 08:00",
-    "position": "31.32206\u00b0 / 121.6817\u00b0",
+    "position": "31.32214\u00b0 / 121.6819\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
