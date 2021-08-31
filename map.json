@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/02 18:00",
     "destTime": "2021/09/02 16:00",
-    "position": "35.05328\u00b0 / 21.68809\u00b0",
+    "position": "35.37268\u00b0 / 21.01273\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 03:46",
     "destTime": "2021/08/24 01:46",
-    "position": "53.57725\u00b0 / 8.550467\u00b0",
+    "position": "53.57733\u00b0 / 8.55055\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -184,10 +184,10 @@
     "deptTime": "2021/08/20 01:51",
     "dest": "IN MUNDRA ANCH",
     "destLong": "Mundra",
-    "destType": "ETA",
+    "destType": "ATA",
     "destLocalTime": "2021/08/19 22:10",
     "destTime": "2021/08/19 19:10",
-    "position": "22.69704\u00b0 / 69.77971\u00b0",
+    "position": "22.68588\u00b0 / 69.76078\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -259,7 +259,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/03 01:00",
     "destTime": "2021/09/03 00:00",
-    "position": "39.11505\u00b0 / -9.858883\u00b0",
+    "position": "40.69428\u00b0 / -9.879733\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/31 12:55",
     "destTime": "2021/08/31 09:55",
-    "position": "28.78633\u00b0 / 49.69478\u00b0",
+    "position": "28.61205\u00b0 / 49.94053\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -379,7 +379,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/01 04:30",
     "destTime": "2021/09/01 00:30",
-    "position": "24.09717\u00b0 / 58.492\u00b0",
+    "position": "24.19\u00b0 / 58.20417\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -585,18 +585,18 @@
     "length": "199.98",
     "breadth": "32.26",
     "grossTonnage": "55,680",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
+    "dept": "CN YTG",
+    "deptLong": "Yantai",
     "deptType": "ATD",
-    "deptLocalTime": "2021/08/29 03:30",
-    "deptTime": "2021/08/28 19:30",
+    "deptLocalTime": "2021/09/01 07:02",
+    "deptTime": "2021/08/31 23:02",
     "dest": "CN YTG",
     "destLong": "Yantai",
-    "destType": "ATA",
-    "destLocalTime": "2021/08/30 13:31",
-    "destTime": "2021/08/30 05:31",
-    "position": "37.56362\u00b0 / 121.3806\u00b0",
-    "area": "Bohai Sea",
+    "destType": "ETA",
+    "destLocalTime": "2021/09/02 11:00",
+    "destTime": "2021/09/02 03:00",
+    "position": "37.65761\u00b0 / 121.5784\u00b0",
+    "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
   "9383431": {
@@ -619,9 +619,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/01 05:35",
     "destTime": "2021/08/31 21:35",
-    "position": "39.0218\u00b0 / 117.7695\u00b0",
+    "position": "39.02084\u00b0 / 117.7687\u00b0",
     "area": "Bohai Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9476769": {
     "rowidx": 185,
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/31 06:14",
     "destTime": "2021/08/30 22:14",
-    "position": "31.32347\u00b0 / 121.6795\u00b0",
+    "position": "31.32349\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
