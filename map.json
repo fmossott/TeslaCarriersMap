@@ -67,7 +67,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 20:00",
     "destTime": "2021/09/05 18:00",
-    "position": "14.00615\u00b0 / 51.46465\u00b0",
+    "position": "12.88167\u00b0 / 47.84667\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
@@ -139,7 +139,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/31 03:59",
     "destTime": "2021/08/31 01:59",
-    "position": "51.30639\u00b0 / 3.227622\u00b0",
+    "position": "51.30642\u00b0 / 3.2276\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -208,12 +208,12 @@
     "deptTime": "2021/08/31 21:23",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/01 22:45",
-    "destTime": "2021/09/01 20:45",
-    "position": "51.36889\u00b0 / 3.178267\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/09/02 00:10",
+    "destTime": "2021/09/01 22:10",
+    "position": "51.3343\u00b0 / 3.216533\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9669031": {
     "rowidx": 168,
@@ -235,8 +235,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/01 22:00",
     "destTime": "2021/09/01 20:00",
-    "position": "51.42601\u00b0 / 3.579762\u00b0",
-    "area": "North Sea",
+    "position": "51.34518\u00b0 / 3.843795\u00b0",
+    "area": "Antwerp Area",
     "status": "Underway using Engine"
   },
   "9442885": {
@@ -331,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/31 12:55",
     "destTime": "2021/08/31 09:55",
-    "position": "25.99882\u00b0 / 55.6432\u00b0",
+    "position": "26.12465\u00b0 / 55.92043\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -355,8 +355,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/03 21:00",
     "destTime": "2021/09/03 19:00",
-    "position": "17.83818\u00b0 / 40.27326\u00b0",
-    "area": "Gulf of Aden",
+    "position": "19.84884\u00b0 / 39.10983\u00b0",
+    "area": "Red Sea",
     "status": "Underway using Engine"
   },
   "9419747": {
@@ -379,8 +379,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/02 11:00",
     "destTime": "2021/09/02 07:00",
-    "position": "26.6135\u00b0 / 56.53933\u00b0",
-    "area": "Oman Gulf",
+    "position": "26.51933\u00b0 / 56.27917\u00b0",
+    "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
   "9722302": {
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/01 21:41",
     "destTime": "2021/09/01 13:41",
-    "position": "31.32332\u00b0 / 121.6796\u00b0",
+    "position": "31.32338\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
