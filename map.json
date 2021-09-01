@@ -91,7 +91,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/02 16:00",
     "destTime": "2021/09/02 14:00",
-    "position": "49.41065\u00b0 / -4.047425\u00b0",
+    "position": "49.84589\u00b0 / -2.917913\u00b0",
     "area": "English Channel",
     "status": "Underway by Sail"
   },
@@ -113,9 +113,9 @@
     "dest": "IT LIV",
     "destLong": "Livorno",
     "destType": "ETA",
-    "destLocalTime": "2021/09/02 17:00",
-    "destTime": "2021/09/02 15:00",
-    "position": "38.24036\u00b0 / 15.63877\u00b0",
+    "destLocalTime": "2021/09/02 17:30",
+    "destTime": "2021/09/02 15:30",
+    "position": "38.85695\u00b0 / 14.98812\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
@@ -139,7 +139,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/31 03:59",
     "destTime": "2021/08/31 01:59",
-    "position": "51.30641\u00b0 / 3.227605\u00b0",
+    "position": "51.30641\u00b0 / 3.227635\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -161,9 +161,9 @@
     "dest": "SE GOT",
     "destLong": "Goteborg",
     "destType": "ETA",
-    "destLocalTime": "2021/09/02 15:00",
-    "destTime": "2021/09/02 13:00",
-    "position": "53.62108\u00b0 / 8.476933\u00b0",
+    "destLocalTime": "2021/09/02 14:00",
+    "destTime": "2021/09/02 12:00",
+    "position": "54.13123\u00b0 / 7.5402\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -177,17 +177,17 @@
     "length": "199.94",
     "breadth": "32.2",
     "grossTonnage": "56,175",
-    "dept": "IN PAV",
-    "deptLong": "Pipavav",
+    "dept": "IN MUN",
+    "deptLong": "Mundra",
     "deptType": "ATD",
     "deptLocalTime": "2021/08/20 04:51",
     "deptTime": "2021/08/20 01:51",
-    "dest": "IN MUN",
+    "dest": "IN MUNDRA ANCH",
     "destLong": "Mundra",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2021/08/19 22:10",
     "destTime": "2021/08/19 19:10",
-    "position": "22.68807\u00b0 / 69.69836\u00b0",
+    "position": "22.64344\u00b0 / 69.65591\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/01 22:45",
     "destTime": "2021/09/01 20:45",
-    "position": "51.23362\u00b0 / 2.077467\u00b0",
+    "position": "51.31217\u00b0 / 2.287983\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/01 22:45",
     "destTime": "2021/09/01 20:45",
-    "position": "51.0358\u00b0 / 1.639403\u00b0",
+    "position": "51.19201\u00b0 / 1.976933\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -307,9 +307,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/01 07:55",
     "destTime": "2021/09/01 04:55",
-    "position": "37.96052\u00b0 / 23.60493\u00b0",
+    "position": "37.95488\u00b0 / 23.60019\u00b0",
     "area": "Piraeus Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9392339": {
     "rowidx": 172,
@@ -331,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/31 12:55",
     "destTime": "2021/08/31 09:55",
-    "position": "25.97692\u00b0 / 54.03012\u00b0",
+    "position": "25.85273\u00b0 / 54.36654\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -379,7 +379,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/02 11:00",
     "destTime": "2021/09/02 07:00",
-    "position": "24.74983\u00b0 / 56.63683\u00b0",
+    "position": "25.35533\u00b0 / 56.68767\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/01 21:41",
     "destTime": "2021/09/01 13:41",
-    "position": "31.32338\u00b0 / 121.6796\u00b0",
+    "position": "31.32337\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
