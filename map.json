@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/24 03:46",
     "destTime": "2021/08/24 01:46",
-    "position": "53.57733\u00b0 / 8.55055\u00b0",
+    "position": "53.57725\u00b0 / 8.55055\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -182,12 +182,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/20 04:51",
     "deptTime": "2021/08/20 01:51",
-    "dest": "IN MUNDRA ANCH",
+    "dest": "IN MUN",
     "destLong": "Mundra",
     "destType": "ATA",
     "destLocalTime": "2021/08/19 22:10",
     "destTime": "2021/08/19 19:10",
-    "position": "22.68588\u00b0 / 69.76078\u00b0",
+    "position": "22.68807\u00b0 / 69.69836\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -209,9 +209,9 @@
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
-    "destLocalTime": "2021/09/02 03:00",
-    "destTime": "2021/09/02 01:00",
-    "position": "49.49917\u00b0 / 0.02035\u00b0",
+    "destLocalTime": "2021/09/01 20:00",
+    "destTime": "2021/09/01 18:00",
+    "position": "49.58833\u00b0 / -0.4713833\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/31 12:55",
     "destTime": "2021/08/31 09:55",
-    "position": "28.61205\u00b0 / 49.94053\u00b0",
+    "position": "28.45082\u00b0 / 50.1709\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -377,9 +377,9 @@
     "dest": "OM SOH",
     "destLong": "Sohar",
     "destType": "ETA",
-    "destLocalTime": "2021/09/01 04:30",
-    "destTime": "2021/09/01 00:30",
-    "position": "24.19\u00b0 / 58.20417\u00b0",
+    "destLocalTime": "2021/09/01 11:00",
+    "destTime": "2021/09/01 07:00",
+    "position": "24.2665\u00b0 / 57.96117\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -499,7 +499,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/11 20:00",
     "destTime": "2021/09/11 18:00",
-    "position": "2.151992\u00b0 / 102.0135\u00b0",
+    "position": "6.326165\u00b0 / 95.00544\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -619,9 +619,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/01 05:35",
     "destTime": "2021/08/31 21:35",
-    "position": "39.02084\u00b0 / 117.7687\u00b0",
+    "position": "39.02087\u00b0 / 117.7687\u00b0",
     "area": "Bohai Sea",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9476769": {
     "rowidx": 185,
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/31 06:14",
     "destTime": "2021/08/30 22:14",
-    "position": "31.32349\u00b0 / 121.6794\u00b0",
+    "position": "31.32347\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
