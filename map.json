@@ -129,19 +129,19 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "60,213",
-    "dept": "GB SOU",
-    "deptLong": "Southampton",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/30 11:11",
-    "deptTime": "2021/08/30 10:11",
-    "dest": "BE ZEE",
-    "destLong": "Zeebrugge",
-    "destType": "ATA",
-    "destLocalTime": "2021/08/31 03:59",
-    "destTime": "2021/08/31 01:59",
-    "position": "51.29663\u00b0 / 3.241237\u00b0",
+    "dept": "BE ZEE",
+    "deptLong": "Zeebrugge",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/08/31 02:59",
+    "deptTime": "2021/08/31 01:59",
+    "dest": "NO OSL",
+    "destLong": "Oslo",
+    "destType": "ETA",
+    "destLocalTime": "2021/09/04 07:00",
+    "destTime": "2021/09/04 05:00",
+    "position": "51.3337\u00b0 / 3.217102\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9398321": {
     "rowidx": 165,
@@ -187,7 +187,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/19 22:10",
     "destTime": "2021/08/19 19:10",
-    "position": "21.18263\u00b0 / 69.27972\u00b0",
+    "position": "19.6686\u00b0 / 72.43719\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -211,7 +211,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/02 02:45",
     "destTime": "2021/09/02 00:45",
-    "position": "51.26987\u00b0 / 4.218266\u00b0",
+    "position": "51.26987\u00b0 / 4.218246\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -307,7 +307,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/31 12:55",
     "destTime": "2021/08/31 09:55",
-    "position": "24.22357\u00b0 / 59.71615\u00b0",
+    "position": "24.17335\u00b0 / 59.9923\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -403,9 +403,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 03:00",
     "destTime": "2021/09/05 00:00",
-    "position": "14.01637\u00b0 / 51.58983\u00b0",
+    "position": "13.65082\u00b0 / 50.32399\u00b0",
     "area": "Laccadive Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9267699": {
     "rowidx": 176,
@@ -547,7 +547,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/01 06:07",
     "destTime": "2021/08/31 22:07",
-    "position": "13.25653\u00b0 / 119.15751\u00b0",
+    "position": "9.97125\u00b0 / 111.70466\u00b0",
     "area": "Philippines",
     "status": "Out of Range"
   },
@@ -643,7 +643,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/01 21:41",
     "destTime": "2021/09/01 13:41",
-    "position": "31.14823\u00b0 / 122.2262\u00b0",
+    "position": "31.0935\u00b0 / 122.4435\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
