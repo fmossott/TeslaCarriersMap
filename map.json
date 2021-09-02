@@ -139,9 +139,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/08/31 03:59",
     "destTime": "2021/08/31 01:59",
-    "position": "51.29663\u00b0 / 3.241258\u00b0",
+    "position": "51.29663\u00b0 / 3.24125\u00b0",
     "area": "North Sea",
-    "status": "Underway"
+    "status": "Moored"
   },
   "9398321": {
     "rowidx": 165,
@@ -211,9 +211,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/02 00:10",
     "destTime": "2021/09/01 22:10",
-    "position": "51.32315\u00b0 / 3.21025\u00b0",
+    "position": "51.32317\u00b0 / 3.21025\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9669031": {
     "rowidx": 168,
@@ -235,9 +235,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/02 02:45",
     "destTime": "2021/09/02 00:45",
-    "position": "51.27892\u00b0 / 4.247728\u00b0",
+    "position": "51.26987\u00b0 / 4.21827\u00b0",
     "area": "Antwerp Area",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9442885": {
     "rowidx": 169,
@@ -259,7 +259,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/03 00:00",
     "destTime": "2021/09/02 23:00",
-    "position": "45.30018\u00b0 / -8.727883\u00b0",
+    "position": "47.67552\u00b0 / -7.211817\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/31 12:55",
     "destTime": "2021/08/31 09:55",
-    "position": "26.23428\u00b0 / 56.68648\u00b0",
+    "position": "25.98518\u00b0 / 56.7681\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -379,7 +379,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/02 11:00",
     "destTime": "2021/09/02 07:00",
-    "position": "25.852\u00b0 / 55.41467\u00b0",
+    "position": "25.69883\u00b0 / 55.17783\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -595,7 +595,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/02 10:30",
     "destTime": "2021/09/02 02:30",
-    "position": "36.95787\u00b0 / 123.6399\u00b0",
+    "position": "34.85196\u00b0 / 127.7948\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -619,7 +619,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/01 05:35",
     "destTime": "2021/08/31 21:35",
-    "position": "39.02087\u00b0 / 117.7687\u00b0",
+    "position": "39.02086\u00b0 / 117.7687\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/01 21:41",
     "destTime": "2021/09/01 13:41",
-    "position": "31.32338\u00b0 / 121.6796\u00b0",
+    "position": "31.32337\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
