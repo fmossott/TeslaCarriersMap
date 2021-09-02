@@ -76,6 +76,8 @@ class Map {
             ${ship.dept} &gt; ${ship.dest}
             <br>
             <i>${ship.status}</i>
+            <br>
+            <i>${ship.destType}: ${ship.destLocalTime}<i>
           </center>
         </div>`
     );
