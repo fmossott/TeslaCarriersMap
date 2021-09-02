@@ -70,15 +70,14 @@ class Map {
 
     var popup = L.popup({ "maxWidth": "100%" }).setContent(
       `<div class="map-popup">
-          <center>
+          <h3>
             <b><a href="https://www.marinetraffic.com/en/ais/home/shipid:${ship.mtsid}/zoom:10" target="_blank" rel="noopener noreferrer">${ship.name}</a></b>
-            <br>
-            ${ship.dept} &gt; ${ship.dest}
-            <br>
-            <i>${ship.status}</i>
-            <br>
-            <i>${ship.destType}: ${ship.destLocalTime}<i>
-          </center>
+          </h3>
+          ${ship.dept} &rarr; ${ship.dest}
+          <br>
+          <i>${ship.status}</i>
+          <br>
+          <i>${ship.destType}: ${ship.destLocalTime}<i>
         </div>`
     );
 
