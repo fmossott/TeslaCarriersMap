@@ -74,7 +74,7 @@
   "9713882": {
     "rowidx": 9,
     "num": "141",
-    "mapStatus": "2",
+    "mapStatus": "3",
     "mtsid": "1881242",
     "name": "Lake Geneva",
     "mmsi": "636016445",
@@ -91,9 +91,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/02 13:18",
     "destTime": "2021/09/02 11:18",
-    "position": "51.3101\u00b0 / 3.22616\u00b0",
+    "position": "51.30373\u00b0 / 3.22957\u00b0",
     "area": "North Sea",
-    "status": "Underway by Sail"
+    "status": "Moored"
   },
   "9293909": {
     "rowidx": 10,
@@ -113,9 +113,9 @@
     "dest": "IT LIV",
     "destLong": "Livorno",
     "destType": "ETA",
-    "destLocalTime": "2021/09/02 17:30",
-    "destTime": "2021/09/02 15:30",
-    "position": "43.00538\u00b0 / 10.03627\u00b0",
+    "destLocalTime": "2021/09/02 17:00",
+    "destTime": "2021/09/02 15:00",
+    "position": "43.25225\u00b0 / 10.1194\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -163,9 +163,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/02 14:23",
     "destTime": "2021/09/02 12:23",
-    "position": "57.68468\u00b0 / 11.84765\u00b0",
+    "position": "57.68941\u00b0 / 11.8666\u00b0",
     "area": "Kattegat",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9209518": {
     "rowidx": 166,
