@@ -91,7 +91,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/02 13:18",
     "destTime": "2021/09/02 11:18",
-    "position": "51.30373\u00b0 / 3.229567\u00b0",
+    "position": "51.30372\u00b0 / 3.229565\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/02 14:23",
     "destTime": "2021/09/02 12:23",
-    "position": "57.68947\u00b0 / 11.86657\u00b0",
+    "position": "57.68953\u00b0 / 11.86668\u00b0",
     "area": "Kattegat",
     "status": "Stopped"
   },
@@ -225,19 +225,19 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "58,990",
-    "dept": "IT LIV",
-    "deptLong": "Livorno",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/28 15:40",
-    "deptTime": "2021/08/28 13:40",
+    "dept": "GB PRU",
+    "deptLong": "Portbury",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/09/03 04:06",
+    "deptTime": "2021/09/03 02:06",
     "dest": "GB BRS",
     "destLong": "Bristol",
     "destType": "ETA",
     "destLocalTime": "2021/09/03 01:00",
     "destTime": "2021/09/03 00:00",
-    "position": "51.47942\u00b0 / -2.8344\u00b0",
+    "position": "51.49768\u00b0 / -2.72435\u00b0",
     "area": "Bristol Channel",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9420045": {
     "rowidx": 169,
@@ -259,8 +259,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 08:00",
     "destTime": "2021/09/05 06:00",
-    "position": "43.73118\u00b0 / -9.399883\u00b0",
-    "area": "UK Coast & Atlantic",
+    "position": "44.6795\u00b0 / -8.71005\u00b0",
+    "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
   "9782091": {
@@ -427,7 +427,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/03 12:30",
     "destTime": "2021/09/03 04:30",
-    "position": "1.30995\u00b0 / 104.3149\u00b0",
+    "position": "1.282733\u00b0 / 104.1459\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -667,7 +667,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/02 23:05",
     "destTime": "2021/09/02 15:05",
-    "position": "31.30412\u00b0 / 121.7625\u00b0",
+    "position": "31.24483\u00b0 / 122.0003\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
