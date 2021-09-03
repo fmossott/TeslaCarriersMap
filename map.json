@@ -91,7 +91,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/02 13:18",
     "destTime": "2021/09/02 11:18",
-    "position": "51.30373\u00b0 / 3.229565\u00b0",
+    "position": "51.30372\u00b0 / 3.22956\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -139,7 +139,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/04 07:00",
     "destTime": "2021/09/04 05:00",
-    "position": "57.6268\u00b0 / 8.519109\u00b0",
+    "position": "57.84749\u00b0 / 8.824285\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -155,17 +155,17 @@
     "grossTonnage": "61,328",
     "dept": "SE GOT",
     "deptLong": "Goteborg",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/09/02 14:23",
-    "deptTime": "2021/09/02 12:23",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/09/04 00:09",
+    "deptTime": "2021/09/03 22:09",
     "dest": "GB SOU",
     "destLong": "Southampton",
     "destType": "ETA",
     "destLocalTime": "2021/09/05 18:00",
     "destTime": "2021/09/05 17:00",
-    "position": "57.68948\u00b0 / 11.86667\u00b0",
+    "position": "57.62094\u00b0 / 11.67165\u00b0",
     "area": "Kattegat",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9209518": {
     "rowidx": 166,
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/04 11:30",
     "destTime": "2021/09/04 09:30",
-    "position": "55.83851\u00b0 / 6.524435\u00b0",
+    "position": "56.27505\u00b0 / 7.024337\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -259,7 +259,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 17:00",
     "destTime": "2021/09/05 15:00",
-    "position": "47.13178\u00b0 / -6.88545\u00b0",
+    "position": "47.99515\u00b0 / -6.1618\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -379,7 +379,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/03 20:11",
     "destTime": "2021/09/03 18:11",
-    "position": "29.75756\u00b0 / 32.59954\u00b0",
+    "position": "29.75753\u00b0 / 32.60038\u00b0",
     "area": "Red Sea",
     "status": "Stopped"
   },
@@ -417,19 +417,19 @@
     "length": "199.54",
     "breadth": "32.26",
     "grossTonnage": "57,789",
-    "dept": "TH LCH",
-    "deptLong": "Laem Chabang",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/09/01 10:30",
-    "deptTime": "2021/09/01 03:30",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2021/09/03 12:53",
-    "destTime": "2021/09/03 04:53",
-    "position": "1.262383\u00b0 / 103.8494\u00b0",
+    "dept": "SG SIN",
+    "deptLong": "Singapore",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/09/03 11:53",
+    "deptTime": "2021/09/03 04:53",
+    "dest": "AU FRE",
+    "destLong": "Fremantle",
+    "destType": "ETA",
+    "destLocalTime": "2021/09/09 15:00",
+    "destTime": "2021/09/09 07:00",
+    "position": "1.25565\u00b0 / 103.8513\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9702431": {
     "rowidx": 177,
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/03 11:38",
     "destTime": "2021/09/03 03:38",
-    "position": "31.32235\u00b0 / 121.6815\u00b0",
+    "position": "31.32234\u00b0 / 121.6815\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
