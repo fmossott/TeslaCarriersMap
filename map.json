@@ -91,7 +91,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/02 13:18",
     "destTime": "2021/09/02 11:18",
-    "position": "51.30374\u00b0 / 3.229577\u00b0",
+    "position": "51.30373\u00b0 / 3.229567\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/02 14:23",
     "destTime": "2021/09/02 12:23",
-    "position": "57.6894\u00b0 / 11.8667\u00b0",
+    "position": "57.68947\u00b0 / 11.86657\u00b0",
     "area": "Kattegat",
     "status": "Stopped"
   },
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/03 01:00",
     "destTime": "2021/09/03 00:00",
-    "position": "51.35945\u00b0 / -3.1325\u00b0",
+    "position": "51.47942\u00b0 / -2.8344\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/03 21:00",
     "destTime": "2021/09/03 19:00",
-    "position": "24.79784\u00b0 / 36.22081\u00b0",
+    "position": "26.17912\u00b0 / 35.1953\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -379,7 +379,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/03 20:00",
     "destTime": "2021/09/03 18:00",
-    "position": "23.57006\u00b0 / 36.86461\u00b0",
+    "position": "25.88226\u00b0 / 35.35482\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -427,8 +427,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/03 12:30",
     "destTime": "2021/09/03 04:30",
-    "position": "5.1793\u00b0 / 103.8781\u00b0",
-    "area": "Riau Archipelago",
+    "position": "1.30995\u00b0 / 104.3149\u00b0",
+    "area": "Singapore Area",
     "status": "Underway using Engine"
   },
   "9702431": {
@@ -657,18 +657,18 @@
     "length": "180",
     "breadth": "30",
     "grossTonnage": "45,232",
-    "dept": "SI KOP",
-    "deptLong": "Koper",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2021/08/07 01:02",
-    "deptTime": "2021/08/06 23:02",
+    "deptLocalTime": "2021/09/03 09:17",
+    "deptTime": "2021/09/03 01:17",
     "dest": "CN SHG",
     "destLong": "Shanghai",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2021/09/02 23:05",
     "destTime": "2021/09/02 15:05",
-    "position": "31.32358\u00b0 / 121.6795\u00b0",
+    "position": "31.30412\u00b0 / 121.7625\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
