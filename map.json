@@ -91,7 +91,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/02 13:18",
     "destTime": "2021/09/02 11:18",
-    "position": "51.30375\u00b0 / 3.22959\u00b0",
+    "position": "51.30373\u00b0 / 3.229585\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/02 14:23",
     "destTime": "2021/09/02 12:23",
-    "position": "57.68958\u00b0 / 11.86658\u00b0",
+    "position": "57.68948\u00b0 / 11.86667\u00b0",
     "area": "Kattegat",
     "status": "Stopped"
   },
@@ -352,10 +352,10 @@
     "deptTime": "2021/09/03 05:24",
     "dest": "QA HMD",
     "destLong": "Hamad",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/03 20:30",
-    "destTime": "2021/09/03 17:30",
-    "position": "25.139\u00b0 / 51.69517\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/09/03 21:12",
+    "destTime": "2021/09/03 18:12",
+    "position": "25.00467\u00b0 / 51.6015\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -374,14 +374,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/22 03:23",
     "deptTime": "2021/08/21 19:23",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/03 20:00",
-    "destTime": "2021/09/03 18:00",
-    "position": "29.72722\u00b0 / 32.56893\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/09/03 20:11",
+    "destTime": "2021/09/03 18:11",
+    "position": "29.75667\u00b0 / 32.59833\u00b0",
     "area": "Red Sea",
-    "status": "Underway"
+    "status": "Stopped"
   },
   "9574066": {
     "rowidx": 175,
@@ -427,7 +427,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/03 12:53",
     "destTime": "2021/09/03 04:53",
-    "position": "1.262383\u00b0 / 103.8494\u00b0",
+    "position": "1.262367\u00b0 / 103.8494\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
