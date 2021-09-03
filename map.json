@@ -91,7 +91,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/02 13:18",
     "destTime": "2021/09/02 11:18",
-    "position": "51.30373\u00b0 / 3.229585\u00b0",
+    "position": "51.30371\u00b0 / 3.229592\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/02 14:23",
     "destTime": "2021/09/02 12:23",
-    "position": "57.68948\u00b0 / 11.86667\u00b0",
+    "position": "57.68951\u00b0 / 11.8666\u00b0",
     "area": "Kattegat",
     "status": "Stopped"
   },
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/04 11:30",
     "destTime": "2021/09/04 09:30",
-    "position": "55.04098\u00b0 / 5.620137\u00b0",
+    "position": "55.50206\u00b0 / 6.146315\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -283,7 +283,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/09 06:30",
     "destTime": "2021/09/09 05:30",
-    "position": "36.47454\u00b0 / 14.35976\u00b0",
+    "position": "37.62881\u00b0 / 10.33489\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -355,9 +355,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/03 21:12",
     "destTime": "2021/09/03 18:12",
-    "position": "25.00467\u00b0 / 51.6015\u00b0",
+    "position": "25.00317\u00b0 / 51.60017\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9722302": {
     "rowidx": 174,
@@ -379,9 +379,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/03 20:11",
     "destTime": "2021/09/03 18:11",
-    "position": "29.75667\u00b0 / 32.59833\u00b0",
+    "position": "29.75749\u00b0 / 32.60026\u00b0",
     "area": "Red Sea",
-    "status": "Stopped"
+    "status": "At Anchor"
   },
   "9574066": {
     "rowidx": 175,
@@ -427,7 +427,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/03 12:53",
     "destTime": "2021/09/03 04:53",
-    "position": "1.262367\u00b0 / 103.8494\u00b0",
+    "position": "1.262383\u00b0 / 103.8494\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -551,32 +551,8 @@
     "area": "Philippines",
     "status": "Out of Range"
   },
-  "9383431": {
-    "rowidx": 182,
-    "num": "",
-    "mapStatus": "4",
-    "mtsid": "463509",
-    "name": "Morning Lucy",
-    "mmsi": "372802000",
-    "length": "232.37",
-    "breadth": "32.3",
-    "grossTonnage": "68,700",
-    "dept": "CN TXG",
-    "deptLong": "Tianjin",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/09/01 05:35",
-    "deptTime": "2021/08/31 21:35",
-    "dest": "KR PTK",
-    "destLong": "Pyeongtaek",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/05 22:00",
-    "destTime": "2021/09/05 13:00",
-    "position": "38.9678\u00b0 / 117.82\u00b0",
-    "area": "Bohai Sea",
-    "status": "Underway using Engine"
-  },
   "9476769": {
-    "rowidx": 183,
+    "rowidx": 182,
     "num": "",
     "mapStatus": "4",
     "mtsid": "461929",
@@ -600,7 +576,7 @@
     "status": "Out of Range"
   },
   "9185463": {
-    "rowidx": 184,
+    "rowidx": 183,
     "num": "",
     "mapStatus": "4",
     "mtsid": "2672751",
@@ -624,7 +600,7 @@
     "status": "Out of Range"
   },
   "9598012": {
-    "rowidx": 185,
+    "rowidx": 184,
     "num": "",
     "mapStatus": "4",
     "mtsid": "384520",
@@ -648,7 +624,7 @@
     "status": "Underway using Engine"
   },
   "9328728": {
-    "rowidx": 186,
+    "rowidx": 185,
     "num": "",
     "mapStatus": "4",
     "mtsid": "418121",
@@ -672,7 +648,7 @@
     "status": "Underway using Engine"
   },
   "9633185": {
-    "rowidx": 187,
+    "rowidx": 186,
     "num": "",
     "mapStatus": "4",
     "mtsid": "412711",
@@ -696,7 +672,7 @@
     "status": "Moored"
   },
   "9395628": {
-    "rowidx": 188,
+    "rowidx": 187,
     "num": "",
     "mapStatus": "4",
     "mtsid": "372344",
@@ -715,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/03 11:38",
     "destTime": "2021/09/03 03:38",
-    "position": "31.32235\u00b0 / 121.6815\u00b0",
+    "position": "31.32234\u00b0 / 121.6815\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
