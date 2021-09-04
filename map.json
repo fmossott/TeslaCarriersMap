@@ -91,7 +91,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/02 13:18",
     "destTime": "2021/09/02 11:18",
-    "position": "51.30371\u00b0 / 3.229585\u00b0",
+    "position": "51.30372\u00b0 / 3.229577\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -139,7 +139,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/04 11:24",
     "destTime": "2021/09/04 09:24",
-    "position": "59.90619\u00b0 / 10.71294\u00b0",
+    "position": "59.9062\u00b0 / 10.71291\u00b0",
     "area": "Skagerrak",
     "status": "Moored"
   },
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 12:00",
     "destTime": "2021/09/05 10:00",
-    "position": "49.6673\u00b0 / -4.024883\u00b0",
+    "position": "49.75783\u00b0 / -3.2322\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 17:00",
     "destTime": "2021/09/05 15:00",
-    "position": "49.50554\u00b0 / -3.71475\u00b0",
+    "position": "49.76368\u00b0 / -3.0724\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -326,12 +326,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/09/04 04:19",
     "deptTime": "2021/09/04 01:19",
-    "dest": "SA DMM",
+    "dest": "SA DAMMAM ANCH",
     "destLong": "Dammam",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/04 16:00",
-    "destTime": "2021/09/04 13:00",
-    "position": "26.62217\u00b0 / 50.2665\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/09/04 16:17",
+    "destTime": "2021/09/04 13:17",
+    "position": "26.53933\u00b0 / 50.18267\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -379,9 +379,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 08:00",
     "destTime": "2021/09/05 05:00",
-    "position": "12.4373\u00b0 / 43.78252\u00b0",
+    "position": "17.65555\u00b0 / 40.53438\u00b0",
     "area": "Gulf of Aden",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9702431": {
     "rowidx": 175,
