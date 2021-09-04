@@ -91,7 +91,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/02 13:18",
     "destTime": "2021/09/02 11:18",
-    "position": "51.30373\u00b0 / 3.229592\u00b0",
+    "position": "51.30373\u00b0 / 3.229563\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -139,7 +139,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/04 07:00",
     "destTime": "2021/09/04 05:00",
-    "position": "58.27419\u00b0 / 9.378912\u00b0",
+    "position": "58.47099\u00b0 / 9.708685\u00b0",
     "area": "Skagerrak",
     "status": "Underway using Engine"
   },
@@ -345,19 +345,19 @@
     "length": "199.1",
     "breadth": "32.3",
     "grossTonnage": "60,396",
-    "dept": "AE JEA",
-    "deptLong": "Jebel Ali",
+    "dept": "QA HMD",
+    "deptLong": "Hamad",
     "deptType": "ATD",
-    "deptLocalTime": "2021/09/03 09:24",
-    "deptTime": "2021/09/03 05:24",
-    "dest": "QA HMD",
-    "destLong": "Hamad",
-    "destType": "ATA",
-    "destLocalTime": "2021/09/03 21:12",
-    "destTime": "2021/09/03 18:12",
-    "position": "25.00317\u00b0 / 51.60017\u00b0",
+    "deptLocalTime": "2021/09/04 04:19",
+    "deptTime": "2021/09/04 01:19",
+    "dest": "SA DMM",
+    "destLong": "Dammam",
+    "destType": "ETA",
+    "destLocalTime": "2021/09/04 21:00",
+    "destTime": "2021/09/04 18:00",
+    "position": "25.079\u00b0 / 51.70317\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9722302": {
     "rowidx": 174,
@@ -379,9 +379,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/03 20:11",
     "destTime": "2021/09/03 18:11",
-    "position": "29.84766\u00b0 / 32.56873\u00b0",
+    "position": "29.84936\u00b0 / 32.57081\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9574066": {
     "rowidx": 175,
@@ -643,7 +643,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 05:00",
     "destTime": "2021/09/04 21:00",
-    "position": "34.7364\u00b0 / 122.9192\u00b0",
+    "position": "36.44628\u00b0 / 122.8667\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
