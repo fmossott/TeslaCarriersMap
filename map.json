@@ -71,30 +71,6 @@
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
-  "9713882": {
-    "rowidx": 9,
-    "num": "141",
-    "mapStatus": "3",
-    "mtsid": "1881242",
-    "name": "Lake Geneva",
-    "mmsi": "636016445",
-    "length": "199.97",
-    "breadth": "32.26",
-    "grossTonnage": "59,516",
-    "dept": "BE ZEE",
-    "deptLong": "Zeebrugge",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/09/05 07:45",
-    "deptTime": "2021/09/05 05:45",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/14 13:00",
-    "destTime": "2021/09/14 11:00",
-    "position": "51.37398\u00b0 / 2.863223\u00b0",
-    "area": "North Sea",
-    "status": "Underway using Engine"
-  },
   "9293909": {
     "rowidx": 10,
     "num": "140",
@@ -187,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/04 14:21",
     "destTime": "2021/09/04 12:21",
-    "position": "58.01023\u00b0 / 11.70407\u00b0",
+    "position": "58.01023\u00b0 / 11.70406\u00b0",
     "area": "Skagerrak",
     "status": "Moored"
   },
@@ -235,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 17:00",
     "destTime": "2021/09/05 15:00",
-    "position": "50.81168\u00b0 / 1.41345\u00b0",
+    "position": "50.9725\u00b0 / 1.520983\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -379,7 +355,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/05 08:14",
     "destTime": "2021/09/05 05:14",
-    "position": "21.45859\u00b0 / 39.16643\u00b0",
+    "position": "21.4586\u00b0 / 39.16643\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -451,7 +427,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/04 06:41",
     "destTime": "2021/09/03 22:41",
-    "position": "1.2829\u00b0 / 103.7514\u00b0",
+    "position": "1.282867\u00b0 / 103.7514\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -595,7 +571,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/05 10:33",
     "destTime": "2021/09/05 02:33",
-    "position": "38.97447\u00b0 / 117.8207\u00b0",
+    "position": "38.97445\u00b0 / 117.8206\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -670,5 +646,15 @@
     "position": "31.08153\u00b0 / 122.7932\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
+  },
+  "9775828": {
+    "rowidx": 187,
+    "num": "",
+    "mtsid": "",
+    "name": "",
+    "mmsi": "",
+    "length": "",
+    "breadth": "",
+    "grossTonnage": ""
   }
 }
