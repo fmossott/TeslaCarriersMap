@@ -67,7 +67,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 17:00",
     "destTime": "2021/09/05 15:00",
-    "position": "29.64833\u00b0 / 32.56333\u00b0",
+    "position": "29.8\u00b0 / 32.55167\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -185,9 +185,9 @@
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
-    "destLocalTime": "2021/09/05 17:00",
-    "destTime": "2021/09/05 15:00",
-    "position": "51.37405\u00b0 / 2.476083\u00b0",
+    "destLocalTime": "2021/09/05 18:30",
+    "destTime": "2021/09/05 16:30",
+    "position": "51.35467\u00b0 / 2.459633\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/05 08:14",
     "destTime": "2021/09/05 05:14",
-    "position": "21.45862\u00b0 / 39.16641\u00b0",
+    "position": "21.45863\u00b0 / 39.16644\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -395,17 +395,17 @@
     "grossTonnage": "60,876",
     "dept": "SG SIN",
     "deptLong": "Singapore",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/09/04 06:41",
-    "deptTime": "2021/09/03 22:41",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/09/05 22:54",
+    "deptTime": "2021/09/05 14:54",
     "dest": "SA JED",
     "destLong": "Jeddah",
     "destType": "ETA",
     "destLocalTime": "2021/09/18 13:00",
     "destTime": "2021/09/18 10:00",
-    "position": "1.282883\u00b0 / 103.7515\u00b0",
+    "position": "1.213767\u00b0 / 103.6739\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9279812": {
     "rowidx": 177,
@@ -547,7 +547,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/05 10:33",
     "destTime": "2021/09/05 02:33",
-    "position": "38.97445\u00b0 / 117.8206\u00b0",
+    "position": "38.97455\u00b0 / 117.8206\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
