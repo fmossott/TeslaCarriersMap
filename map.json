@@ -115,7 +115,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/04 11:24",
     "destTime": "2021/09/04 09:24",
-    "position": "59.90619\u00b0 / 10.71297\u00b0",
+    "position": "59.90619\u00b0 / 10.71295\u00b0",
     "area": "Skagerrak",
     "status": "Moored"
   },
@@ -187,8 +187,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 12:00",
     "destTime": "2021/09/05 10:00",
-    "position": "51.28542\u00b0 / 2.27885\u00b0",
-    "area": "English Channel",
+    "position": "51.36268\u00b0 / 2.58537\u00b0",
+    "area": "North Sea",
     "status": "Underway using Engine"
   },
   "9420045": {
@@ -283,7 +283,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/05 02:57",
     "destTime": "2021/09/05 00:57",
-    "position": "31.18919\u00b0 / 29.8774\u00b0",
+    "position": "31.1892\u00b0 / 29.87744\u00b0",
     "area": "East Mediterranean",
     "status": "Moored"
   },
@@ -331,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 12:00",
     "destTime": "2021/09/05 09:00",
-    "position": "36.59736\u00b0 / 34.69434\u00b0",
+    "position": "36.67613\u00b0 / 34.69272\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -547,7 +547,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/01 21:41",
     "destTime": "2021/09/01 13:41",
-    "position": "22.88332\u00b0 / 113.5697\u00b0",
+    "position": "23.01163\u00b0 / 113.5275\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
@@ -619,7 +619,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/07 16:00",
     "destTime": "2021/09/07 08:00",
-    "position": "31.26328\u00b0 / 121.8895\u00b0",
+    "position": "31.09407\u00b0 / 122.4501\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -646,15 +646,5 @@
     "position": "31.08153\u00b0 / 122.7932\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
-  },
-  "9775828": {
-    "rowidx": 187,
-    "num": "",
-    "mtsid": "",
-    "name": "",
-    "mmsi": "",
-    "length": "",
-    "breadth": "",
-    "grossTonnage": ""
   }
 }
