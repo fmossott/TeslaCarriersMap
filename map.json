@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/08 07:00",
     "destTime": "2021/09/08 05:00",
-    "position": "36.15624\u00b0 / -4.136002\u00b0",
+    "position": "36.22617\u00b0 / -7.19\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -187,7 +187,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/04 14:21",
     "destTime": "2021/09/04 12:21",
-    "position": "58.01023\u00b0 / 11.7041\u00b0",
+    "position": "58.01025\u00b0 / 11.70403\u00b0",
     "area": "Skagerrak",
     "status": "Moored"
   },
@@ -379,7 +379,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 05:00",
     "destTime": "2021/09/05 02:00",
-    "position": "21.52973\u00b0 / 39.00829\u00b0",
+    "position": "21.49671\u00b0 / 39.07116\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -451,7 +451,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/04 06:41",
     "destTime": "2021/09/03 22:41",
-    "position": "1.2829\u00b0 / 103.7515\u00b0",
+    "position": "1.282833\u00b0 / 103.7515\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -475,9 +475,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/20 07:00",
     "destTime": "2021/09/20 05:00",
-    "position": "6.176438\u00b0 / 94.98714\u00b0",
+    "position": "6.05404\u00b0 / 87.44334\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9441582": {
     "rowidx": 179,
@@ -595,9 +595,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/05 10:33",
     "destTime": "2021/09/05 02:33",
-    "position": "38.97345\u00b0 / 117.8207\u00b0",
+    "position": "38.97443\u00b0 / 117.8206\u00b0",
     "area": "Bohai Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9395628": {
     "rowidx": 184,
@@ -635,15 +635,15 @@
     "grossTonnage": "59,580",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/09/03 11:36",
-    "deptTime": "2021/09/03 15:36",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/09/05 11:09",
+    "deptTime": "2021/09/05 03:09",
     "dest": "CN TXG",
     "destLong": "Tianjin",
     "destType": "ETA",
     "destLocalTime": "2021/09/07 16:00",
     "destTime": "2021/09/07 08:00",
-    "position": "31.32431\u00b0 / 121.6833\u00b0",
+    "position": "31.26328\u00b0 / 121.8895\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
