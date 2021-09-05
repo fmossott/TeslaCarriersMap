@@ -62,14 +62,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/18 21:14",
     "deptTime": "2021/08/18 13:14",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/05 17:00",
-    "destTime": "2021/09/05 15:00",
-    "position": "29.8\u00b0 / 32.55167\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/09/05 17:25",
+    "destTime": "2021/09/05 15:25",
+    "position": "29.85852\u00b0 / 32.56074\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9293909": {
     "rowidx": 10,
@@ -93,30 +93,6 @@
     "destTime": "2021/09/08 05:00",
     "position": "37.29833\u00b0 / -9.45\u00b0",
     "area": "UK Coast & Atlantic",
-    "status": "Underway using Engine"
-  },
-  "9460899": {
-    "rowidx": 11,
-    "num": "139",
-    "mapStatus": "3",
-    "mtsid": "714145",
-    "name": "Glovis Companion",
-    "mmsi": "636020905",
-    "length": "199.99",
-    "breadth": "32.26",
-    "grossTonnage": "60,213",
-    "dept": "NO OSL",
-    "deptLong": "Oslo",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/09/05 16:28",
-    "deptTime": "2021/09/05 14:28",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/15 09:00",
-    "destTime": "2021/09/15 07:00",
-    "position": "59.86533\u00b0 / 10.62851\u00b0",
-    "area": "Skagerrak",
     "status": "Underway using Engine"
   },
   "9209518": {
@@ -187,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 18:30",
     "destTime": "2021/09/05 16:30",
-    "position": "51.35467\u00b0 / 2.459633\u00b0",
+    "position": "51.36183\u00b0 / 2.656283\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -331,7 +307,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/05 08:14",
     "destTime": "2021/09/05 05:14",
-    "position": "21.45863\u00b0 / 39.16644\u00b0",
+    "position": "21.45862\u00b0 / 39.16644\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -547,7 +523,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/05 10:33",
     "destTime": "2021/09/05 02:33",
-    "position": "38.97455\u00b0 / 117.8206\u00b0",
+    "position": "38.97441\u00b0 / 117.8207\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
