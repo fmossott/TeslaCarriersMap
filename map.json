@@ -139,7 +139,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/08 20:00",
     "destTime": "2021/09/08 18:00",
-    "position": "51.30633\u00b0 / 3.2274\u00b0",
+    "position": "51.3063\u00b0 / 3.227433\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -283,7 +283,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 14:21",
     "destTime": "2021/09/05 11:21",
-    "position": "35.70464\u00b0 / 31.91976\u00b0",
+    "position": "35.64601\u00b0 / 31.57948\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -451,7 +451,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/06 14:00",
     "destTime": "2021/09/06 06:00",
-    "position": "5.22835\u00b0 / 107.01434\u00b0",
+    "position": "2.77225\u00b0 / 105.10899\u00b0",
     "area": "East China Sea",
     "status": "Out of Range"
   },
@@ -491,17 +491,17 @@
     "grossTonnage": "59,022",
     "dept": "CN MCI",
     "deptLong": "Mcid",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/09/05 17:38",
-    "deptTime": "2021/09/05 09:38",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/09/06 12:56",
+    "deptTime": "2021/09/06 04:56",
     "dest": "TH LCH",
     "destLong": "Laem Chabang",
     "destType": "ETA",
     "destLocalTime": "2021/09/11 05:00",
     "destTime": "2021/09/10 22:00",
-    "position": "23.01448\u00b0 / 113.5281\u00b0",
+    "position": "22.89192\u00b0 / 113.5695\u00b0",
     "area": "South China",
-    "status": "Moored"
+    "status": "Underway"
   },
   "9328728": {
     "rowidx": 182,
@@ -571,8 +571,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/07 16:00",
     "destTime": "2021/09/07 08:00",
-    "position": "31.09407\u00b0 / 122.4501\u00b0",
-    "area": "East China Sea",
+    "position": "37.43462\u00b0 / 123.2764\u00b0",
+    "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
   "9442861": {
@@ -595,8 +595,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/10 18:00",
     "destTime": "2021/09/10 10:00",
-    "position": "25.59273\u00b0 / 120.8664\u00b0",
-    "area": "East China Sea",
+    "position": "22.62603\u00b0 / 119.5199\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   }
 }
