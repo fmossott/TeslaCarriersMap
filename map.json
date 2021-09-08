@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/09 14:00",
     "destTime": "2021/09/09 12:00",
-    "position": "21.94503\u00b0 / 37.84928\u00b0",
+    "position": "22.66982\u00b0 / 37.42693\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -489,19 +489,19 @@
     "length": "199.98",
     "breadth": "32.28",
     "grossTonnage": "57,692",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
+    "dept": "CN TXG",
+    "deptLong": "Tianjin",
     "deptType": "ATD",
-    "deptLocalTime": "2021/09/05 21:55",
-    "deptTime": "2021/09/05 13:55",
-    "dest": "CN TXG",
-    "destLong": "Tianjin",
-    "destType": "ATA",
-    "destLocalTime": "2021/09/08 09:41",
-    "destTime": "2021/09/08 01:41",
-    "position": "38.97454\u00b0 / 117.8207\u00b0",
+    "deptLocalTime": "2021/09/08 20:31",
+    "deptTime": "2021/09/08 12:31",
+    "dest": "JP THS",
+    "destLong": "Toyohashi",
+    "destType": "ETA",
+    "destLocalTime": "2021/09/13 08:01",
+    "destTime": "2021/09/12 23:01",
+    "position": "38.95071\u00b0 / 117.9162\u00b0",
     "area": "Bohai Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9332937": {
     "rowidx": 184,
@@ -547,7 +547,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/08 13:25",
     "destTime": "2021/09/08 05:25",
-    "position": "31.32372\u00b0 / 121.6794\u00b0",
+    "position": "31.32371\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
