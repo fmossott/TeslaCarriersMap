@@ -91,7 +91,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/08 08:23",
     "destTime": "2021/09/08 06:23",
-    "position": "51.30614\u00b0 / 3.227697\u00b0",
+    "position": "51.30618\u00b0 / 3.227643\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/08 05:03",
     "destTime": "2021/09/08 02:03",
-    "position": "40.74959\u00b0 / 29.83447\u00b0",
+    "position": "40.74963\u00b0 / 29.83447\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -187,7 +187,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 14:21",
     "destTime": "2021/09/05 11:21",
-    "position": "36.28359\u00b0 / 15.1017\u00b0",
+    "position": "36.32804\u00b0 / 14.798\u00b0",
     "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/07 16:00",
     "destTime": "2021/09/07 13:00",
-    "position": "29.01408\u00b0 / 32.86378\u00b0",
+    "position": "29.12587\u00b0 / 32.82229\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -479,32 +479,8 @@
     "area": "South China",
     "status": "Out of Range"
   },
-  "9775828": {
-    "rowidx": 183,
-    "num": "",
-    "mapStatus": "4",
-    "mtsid": "5261855",
-    "name": "Silver Ray",
-    "mmsi": "538007784",
-    "length": "199.95",
-    "breadth": "35.4",
-    "grossTonnage": "71,178",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/09/05 23:36",
-    "deptTime": "2021/09/05 15:36",
-    "dest": "KR KAN",
-    "destLong": "Gwangyang",
-    "destType": "ATA",
-    "destLocalTime": "2021/09/08 17:21",
-    "destTime": "2021/09/08 08:21",
-    "position": "34.88375\u00b0 / 127.6443\u00b0",
-    "area": "East China Sea",
-    "status": "Underway using Engine"
-  },
   "9391579": {
-    "rowidx": 184,
+    "rowidx": 183,
     "num": "",
     "mapStatus": "4",
     "mtsid": "372222",
@@ -528,7 +504,7 @@
     "status": "Moored"
   },
   "9332937": {
-    "rowidx": 185,
+    "rowidx": 184,
     "num": "",
     "mapStatus": "4",
     "mtsid": "327297",
@@ -552,7 +528,7 @@
     "status": "Moored"
   },
   "9138525": {
-    "rowidx": 186,
+    "rowidx": 185,
     "num": "",
     "mapStatus": "4",
     "mtsid": "728889",
