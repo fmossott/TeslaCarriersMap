@@ -88,12 +88,12 @@
     "deptTime": "2021/09/02 23:33",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/08 07:00",
-    "destTime": "2021/09/08 05:00",
-    "position": "51.39862\u00b0 / 3.108677\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/09/08 08:23",
+    "destTime": "2021/09/08 06:23",
+    "position": "51.3337\u00b0 / 3.217127\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9209518": {
     "rowidx": 165,
@@ -139,7 +139,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/09 06:30",
     "destTime": "2021/09/09 05:30",
-    "position": "47.98474\u00b0 / -6.8808\u00b0",
+    "position": "48.59805\u00b0 / -6.506432\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/08 05:03",
     "destTime": "2021/09/08 02:03",
-    "position": "40.74965\u00b0 / 29.83447\u00b0",
+    "position": "40.74965\u00b0 / 29.83448\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/07 16:00",
     "destTime": "2021/09/07 13:00",
-    "position": "28.30593\u00b0 / 33.27316\u00b0",
+    "position": "28.54685\u00b0 / 33.10305\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
