@@ -91,7 +91,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/10 07:00",
     "destTime": "2021/09/10 05:00",
-    "position": "53.40359\u00b0 / 4.767988\u00b0",
+    "position": "53.52526\u00b0 / 5.25939\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -131,17 +131,17 @@
     "grossTonnage": "72,684",
     "dept": "GB PRU",
     "deptLong": "Portbury",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/09/09 11:54",
-    "deptTime": "2021/09/09 08:54",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/09/09 23:58",
+    "deptTime": "2021/09/09 22:58",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
     "destLocalTime": "2021/09/11 11:00",
     "destTime": "2021/09/11 09:00",
-    "position": "51.49871\u00b0 / -2.725925\u00b0",
+    "position": "51.43863\u00b0 / -3.006525\u00b0",
     "area": "Bristol Channel",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9426350": {
     "rowidx": 169,
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/11 05:00",
     "destTime": "2021/09/11 02:00",
-    "position": "32.45642\u00b0 / 30.89907\u00b0",
+    "position": "32.77095\u00b0 / 30.4422\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -235,7 +235,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/09 22:56",
     "destTime": "2021/09/09 20:56",
-    "position": "29.84803\u00b0 / 32.56139\u00b0",
+    "position": "29.84795\u00b0 / 32.56141\u00b0",
     "area": "Red Sea",
     "status": "Stopped"
   },
@@ -475,8 +475,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/10 18:00",
     "destTime": "2021/09/10 10:00",
-    "position": "1.345933\u00b0 / 104.3641\u00b0",
-    "area": "South China",
+    "position": "1.275583\u00b0 / 104.1233\u00b0",
+    "area": "Singapore Area",
     "status": "Underway using Engine"
   },
   "9383417": {
@@ -499,7 +499,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/09 01:57",
     "destTime": "2021/09/08 17:57",
-    "position": "31.32193\u00b0 / 121.6817\u00b0",
+    "position": "31.32197\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -523,7 +523,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/09 13:41",
     "destTime": "2021/09/09 05:41",
-    "position": "31.32339\u00b0 / 121.6796\u00b0",
+    "position": "31.3234\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
