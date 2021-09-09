@@ -139,9 +139,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/09 08:00",
     "destTime": "2021/09/09 07:00",
-    "position": "51.49746\u00b0 / -2.723802\u00b0",
+    "position": "51.49291\u00b0 / -2.71759\u00b0",
     "area": "Bristol Channel",
-    "status": "Underway"
+    "status": "Moored"
   },
   "9426350": {
     "rowidx": 169,
@@ -479,32 +479,8 @@
     "area": "South China",
     "status": "Out of Range"
   },
-  "9138525": {
-    "rowidx": 183,
-    "num": "",
-    "mapStatus": "4",
-    "mtsid": "728889",
-    "name": "Don Quijote",
-    "mmsi": "564753000",
-    "length": "227.9",
-    "breadth": "32.29",
-    "grossTonnage": "67,141",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/09/09 13:43",
-    "deptTime": "2021/09/09 05:43",
-    "dest": "KR KUV",
-    "destLong": "Gunsan",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/11 03:00",
-    "destTime": "2021/09/10 18:00",
-    "position": "31.23547\u00b0 / 122.0578\u00b0",
-    "area": "East China Sea",
-    "status": "Underway using Engine"
-  },
   "9383417": {
-    "rowidx": 184,
+    "rowidx": 183,
     "num": "",
     "mapStatus": "4",
     "mtsid": "459721",
@@ -528,7 +504,7 @@
     "status": "Moored"
   },
   "9293662": {
-    "rowidx": 185,
+    "rowidx": 184,
     "num": "",
     "mapStatus": "4",
     "mtsid": "410472",
