@@ -19,7 +19,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/10 19:30",
     "destTime": "2021/09/10 17:30",
-    "position": "21.8896\u00b0 / 37.98152\u00b0",
+    "position": "23.35793\u00b0 / 37.11617\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -81,19 +81,19 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "60,118",
-    "dept": "IT LIV",
-    "deptLong": "Livorno",
+    "dept": "BE ZEE",
+    "deptLong": "Zeebrugge",
     "deptType": "ATD",
-    "deptLocalTime": "2021/09/03 01:33",
-    "deptTime": "2021/09/02 23:33",
-    "dest": "BE ZEE",
-    "destLong": "Zeebrugge",
-    "destType": "ATA",
-    "destLocalTime": "2021/09/08 08:23",
-    "destTime": "2021/09/08 06:23",
-    "position": "51.30619\u00b0 / 3.227652\u00b0",
+    "deptLocalTime": "2021/09/09 15:27",
+    "deptTime": "2021/09/09 13:27",
+    "dest": "DE BRV",
+    "destLong": "Bremerhaven",
+    "destType": "ETA",
+    "destLocalTime": "2021/09/10 08:00",
+    "destTime": "2021/09/10 06:00",
+    "position": "51.37125\u00b0 / 2.830007\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9209518": {
     "rowidx": 165,
@@ -139,7 +139,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/09 08:00",
     "destTime": "2021/09/09 07:00",
-    "position": "51.49292\u00b0 / -2.717583\u00b0",
+    "position": "51.49287\u00b0 / -2.717568\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -187,7 +187,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/14 04:00",
     "destTime": "2021/09/14 02:00",
-    "position": "37.65578\u00b0 / 9.777308\u00b0",
+    "position": "37.53919\u00b0 / 7.62286\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -211,9 +211,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/09 05:28",
     "destTime": "2021/09/09 03:28",
-    "position": "30.80477\u00b0 / 32.31929\u00b0",
+    "position": "31.38352\u00b0 / 32.38387\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9702431": {
     "rowidx": 172,
@@ -353,9 +353,9 @@
     "dest": "AE JEA",
     "destLong": "Jebel Ali",
     "destType": "ETA",
-    "destLocalTime": "2021/09/18 17:00",
-    "destTime": "2021/09/18 13:00",
-    "position": "2.811548\u00b0 / 101.0138\u00b0",
+    "destLocalTime": "2021/09/16 18:00",
+    "destTime": "2021/09/16 14:00",
+    "position": "6.211808\u00b0 / 95.34641\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -427,9 +427,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/05 10:33",
     "destTime": "2021/09/05 02:33",
-    "position": "36.97950\u00b0 / 124.46060\u00b0",
+    "position": "37.06297\u00b0 / 124.5413\u00b0",
     "area": "Yellow Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9395628": {
     "rowidx": 181,
@@ -499,7 +499,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/09 01:57",
     "destTime": "2021/09/08 17:57",
-    "position": "31.32196\u00b0 / 121.6817\u00b0",
+    "position": "31.32193\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
