@@ -43,7 +43,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/16 06:00",
     "destTime": "2021/09/16 04:00",
-    "position": "34.42952\u00b0 / 23.95278\u00b0",
+    "position": "34.87733\u00b0 / 21.75855\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -91,7 +91,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/10 07:00",
     "destTime": "2021/09/10 05:00",
-    "position": "53.87436\u00b0 / 7.801277\u00b0",
+    "position": "53.81138\u00b0 / 8.122572\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/19 22:10",
     "destTime": "2021/08/19 19:10",
-    "position": "-0.90333\u00b0 / 71.76833\u00b0",
+    "position": "-3.20883\u00b0 / 68.84476\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
@@ -235,9 +235,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/10 05:32",
     "destTime": "2021/09/10 03:32",
-    "position": "30.31382\u00b0 / 32.41305\u00b0",
-    "area": "Red Sea",
-    "status": "Underway using Engine"
+    "position": "30.40241\u00b0 / 32.36495\u00b0",
+    "area": "East Mediterranean",
+    "status": "Underway"
   },
   "9731640": {
     "rowidx": 173,
@@ -355,9 +355,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/16 18:00",
     "destTime": "2021/09/16 14:00",
-    "position": "6.211808\u00b0 / 95.34641\u00b0",
+    "position": "6.00141\u00b0 / 87.72832\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9185463": {
     "rowidx": 178,
@@ -499,7 +499,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/09 01:57",
     "destTime": "2021/09/08 17:57",
-    "position": "31.32196\u00b0 / 121.6817\u00b0",
+    "position": "31.32199\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -523,7 +523,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/09 13:41",
     "destTime": "2021/09/09 05:41",
-    "position": "31.32338\u00b0 / 121.6796\u00b0",
+    "position": "31.32339\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
