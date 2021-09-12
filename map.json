@@ -369,16 +369,16 @@
     "length": "199.95",
     "breadth": "32.2",
     "grossTonnage": "59,022",
-    "dept": "CN MCI",
-    "deptLong": "Mcid",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/09/06 12:56",
-    "deptTime": "2021/09/06 04:56",
-    "dest": "TH LCH",
-    "destLong": "Laem Chabang",
-    "destType": "ATA",
-    "destLocalTime": "2021/09/11 05:17",
-    "destTime": "2021/09/10 22:17",
+    "dept": "TH LCH",
+    "deptLong": "Laem Chabang",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/09/11 06:17",
+    "deptTime": "2021/09/10 22:17",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2021/09/15 22:00",
+    "destTime": "2021/09/15 14:00",
     "position": "13.06537\u00b0 / 100.8813\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
@@ -403,9 +403,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/19 02:00",
     "destTime": "2021/09/18 23:00",
-    "position": "6.19481\u00b0 / 95.17738\u00b0",
+    "position": "6.04281\u00b0 / 88.79750\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9442861": {
     "rowidx": 181,
@@ -473,10 +473,10 @@
     "dest": "CN XNA",
     "destLong": "Xinsha",
     "destType": "ETA",
-    "destLocalTime": "2021/09/14 08:26",
-    "destTime": "2021/09/14 00:26",
-    "position": "24.54238\u00b0 / 118.0893\u00b0",
+    "destLocalTime": "2021/09/14 00:01",
+    "destTime": "2021/09/13 16:01",
+    "position": "24.52333\u00b0 / 118.0783\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
