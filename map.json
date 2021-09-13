@@ -112,12 +112,12 @@
     "deptTime": "2021/08/18 13:14",
     "dest": "GB SOU",
     "destLong": "Southampton",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/13 20:00",
-    "destTime": "2021/09/13 19:00",
-    "position": "50.87139\u00b0 / -1.380467\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/09/13 22:42",
+    "destTime": "2021/09/13 21:42",
+    "position": "50.90434\u00b0 / -1.428818\u00b0",
     "area": "English Channel",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9209518": {
     "rowidx": 167,
@@ -451,7 +451,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/14 06:15",
     "destTime": "2021/09/13 22:15",
-    "position": "22.05873\u00b0 / 113.8435\u00b0",
+    "position": "22.21811\u00b0 / 113.7987\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   }
