@@ -43,7 +43,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/15 00:02",
     "destTime": "2021/09/14 22:02",
-    "position": "45.5669\u00b0 / 13.74398\u00b0",
+    "position": "45.56702\u00b0 / 13.74393\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -91,7 +91,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/16 06:00",
     "destTime": "2021/09/16 04:00",
-    "position": "47.41992\u00b0 / -6.6782\u00b0",
+    "position": "48.06953\u00b0 / -6.189583\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -187,7 +187,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/14 05:25",
     "destTime": "2021/09/14 03:25",
-    "position": "51.31641\u00b0 / 3.225238\u00b0",
+    "position": "51.31642\u00b0 / 3.22523\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -331,9 +331,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/19 18:00",
     "destTime": "2021/09/19 16:00",
-    "position": "14.37341\u00b0 / 59.68323\u00b0",
+    "position": "14.4092\u00b0 / 54.87361\u00b0",
     "area": "Laccadive Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9598012": {
     "rowidx": 179,
@@ -352,12 +352,12 @@
     "deptTime": "2021/09/12 16:15",
     "dest": "SG SIN",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/15 14:00",
-    "destTime": "2021/09/15 06:00",
-    "position": "1.226567\u00b0 / 103.8888\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/09/15 14:31",
+    "destTime": "2021/09/15 06:31",
+    "position": "1.270117\u00b0 / 103.8519\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9395628": {
     "rowidx": 180,
