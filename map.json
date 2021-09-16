@@ -19,7 +19,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/20 07:00",
     "destTime": "2021/09/20 05:00",
-    "position": "30.34416\u00b0 / 32.39438\u00b0",
+    "position": "30.34412\u00b0 / 32.39467\u00b0",
     "area": "East Mediterranean",
     "status": "Stopped"
   },
@@ -33,19 +33,19 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "60,876",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
+    "dept": "SI KOP",
+    "deptLong": "Koper",
     "deptType": "ATD",
-    "deptLocalTime": "2021/08/23 12:43",
-    "deptTime": "2021/08/23 04:43",
-    "dest": "SI KOP",
-    "destLong": "Koper",
-    "destType": "ATA",
-    "destLocalTime": "2021/09/15 00:02",
-    "destTime": "2021/09/14 22:02",
-    "position": "45.56697\u00b0 / 13.74395\u00b0",
+    "deptLocalTime": "2021/09/16 12:15",
+    "deptTime": "2021/09/16 10:15",
+    "dest": "MT MAR",
+    "destLong": "Marsaxlokk",
+    "destType": "ETA",
+    "destLocalTime": "2021/09/18 12:00",
+    "destTime": "2021/09/18 10:00",
+    "position": "45.58118\u00b0 / 13.68353\u00b0",
     "area": "Adriatic Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9702431": {
     "rowidx": 8,
@@ -91,9 +91,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/16 10:42",
     "destTime": "2021/09/16 08:42",
-    "position": "51.33382\u00b0 / 3.2176\u00b0",
+    "position": "51.29752\u00b0 / 3.240217\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9176577": {
     "rowidx": 10,
@@ -115,7 +115,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/13 22:42",
     "destTime": "2021/09/13 21:42",
-    "position": "50.88515\u00b0 / -1.397147\u00b0",
+    "position": "50.88513\u00b0 / -1.397152\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -139,7 +139,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/19 22:10",
     "destTime": "2021/08/19 19:10",
-    "position": "-28.67833\u00b0 / 36.46000\u00b0",
+    "position": "-29.55635\u00b0 / 32.32530\u00b0",
     "area": "East Africa",
     "status": "Out of Range"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/16 10:55",
     "destTime": "2021/09/16 08:55",
-    "position": "33.60971\u00b0 / -7.596215\u00b0",
+    "position": "33.6097\u00b0 / -7.596221\u00b0",
     "area": "West Africa",
     "status": "Moored"
   },
@@ -187,7 +187,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/14 05:25",
     "destTime": "2021/09/14 03:25",
-    "position": "51.31641\u00b0 / 3.225232\u00b0",
+    "position": "51.3164\u00b0 / 3.225272\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -235,7 +235,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/16 03:17",
     "destTime": "2021/09/16 01:17",
-    "position": "43.58067\u00b0 / 10.30546\u00b0",
+    "position": "43.58068\u00b0 / 10.30545\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -305,10 +305,10 @@
     "dest": "AE JEA",
     "destLong": "Jebel Ali",
     "destType": "ETA",
-    "destLocalTime": "2021/09/16 18:00",
-    "destTime": "2021/09/16 14:00",
-    "position": "26.60934\u00b0 / 56.58301\u00b0",
-    "area": "Oman Gulf",
+    "destLocalTime": "2021/09/17 01:00",
+    "destTime": "2021/09/16 21:00",
+    "position": "26.54859\u00b0 / 56.25529\u00b0",
+    "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
   "9185463": {
@@ -427,7 +427,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/16 12:56",
     "destTime": "2021/09/16 04:56",
-    "position": "1.30623\u00b0 / 104.075\u00b0",
+    "position": "1.30652\u00b0 / 104.0754\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
