@@ -9,19 +9,19 @@
     "length": "196.4",
     "breadth": "31.1",
     "grossTonnage": "44,408",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/08/27 02:58",
-    "deptTime": "2021/08/26 18:58",
+    "dept": "EG SUZ",
+    "deptLong": "Suez Canal",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/09/16 11:29",
+    "deptTime": "2021/09/16 03:29",
     "dest": "SI KOP",
     "destLong": "Koper",
     "destType": "ETA",
     "destLocalTime": "2021/09/20 07:00",
     "destTime": "2021/09/20 05:00",
-    "position": "27.90252\u00b0 / 33.67587\u00b0",
+    "position": "30.32115\u00b0 / 32.40689\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9519121": {
     "rowidx": 7,
@@ -43,7 +43,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/15 00:02",
     "destTime": "2021/09/14 22:02",
-    "position": "45.56693\u00b0 / 13.74397\u00b0",
+    "position": "45.56693\u00b0 / 13.74402\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -67,7 +67,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/18 08:00",
     "destTime": "2021/09/18 06:00",
-    "position": "38.6944\u00b0 / -9.93638\u00b0",
+    "position": "42.49212\u00b0 / -9.971613\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -89,9 +89,9 @@
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
-    "destLocalTime": "2021/09/16 06:00",
-    "destTime": "2021/09/16 04:00",
-    "position": "50.04108\u00b0 / -1.731533\u00b0",
+    "destLocalTime": "2021/09/16 11:15",
+    "destTime": "2021/09/16 09:15",
+    "position": "51.33188\u00b0 / 2.3814\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -115,7 +115,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/13 22:42",
     "destTime": "2021/09/13 21:42",
-    "position": "50.88509\u00b0 / -1.397147\u00b0",
+    "position": "50.88515\u00b0 / -1.397158\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -139,7 +139,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/08/19 22:10",
     "destTime": "2021/08/19 19:10",
-    "position": "-27.71659\u00b0 / 40.95604\u00b0",
+    "position": "-28.67833\u00b0 / 36.46000\u00b0",
     "area": "East Africa",
     "status": "Out of Range"
   },
@@ -163,8 +163,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/16 10:30",
     "destTime": "2021/09/16 08:30",
-    "position": "36.02276\u00b0 / -5.333251\u00b0",
-    "area": "Gibraltar",
+    "position": "33.88966\u00b0 / -7.56776\u00b0",
+    "area": "West Africa",
     "status": "Underway using Engine"
   },
   "9722302": {
@@ -187,7 +187,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/14 05:25",
     "destTime": "2021/09/14 03:25",
-    "position": "51.3164\u00b0 / 3.225243\u00b0",
+    "position": "51.31642\u00b0 / 3.225225\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -211,8 +211,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/18 22:30",
     "destTime": "2021/09/18 21:30",
-    "position": "36.15936\u00b0 / -4.39684\u00b0",
-    "area": "Gibraltar",
+    "position": "36.63153\u00b0 / -8.951754\u00b0",
+    "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
   "9731640": {
@@ -232,12 +232,12 @@
     "deptTime": "2021/08/24 06:11",
     "dest": "IT LIV",
     "destLong": "Livorno",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/16 03:00",
-    "destTime": "2021/09/16 01:00",
-    "position": "42.56137\u00b0 / 9.906373\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/09/16 03:17",
+    "destTime": "2021/09/16 01:17",
+    "position": "43.58068\u00b0 / 10.30545\u00b0",
     "area": "Ligurean Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9553103": {
     "rowidx": 175,
@@ -259,7 +259,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/18 13:00",
     "destTime": "2021/09/18 10:00",
-    "position": "13.18287\u00b0 / 59.29450\u00b0",
+    "position": "13.91275\u00b0 / 56.81494\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
@@ -283,7 +283,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/16 22:00",
     "destTime": "2021/09/16 20:00",
-    "position": "23.74959\u00b0 / 36.8662\u00b0",
+    "position": "26.18021\u00b0 / 35.19133\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -307,7 +307,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/16 18:00",
     "destTime": "2021/09/16 14:00",
-    "position": "23.90228\u00b0 / 60.09713\u00b0",
+    "position": "25.72938\u00b0 / 56.80644\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -331,9 +331,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/19 18:00",
     "destTime": "2021/09/19 16:00",
-    "position": "14.4092\u00b0 / 54.87361\u00b0",
+    "position": "13.64516\u00b0 / 50.35430\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9598012": {
     "rowidx": 179,
@@ -345,19 +345,19 @@
     "length": "199.95",
     "breadth": "32.2",
     "grossTonnage": "59,022",
-    "dept": "TH LCH",
-    "deptLong": "Laem Chabang",
+    "dept": "SG SIN",
+    "deptLong": "Singapore",
     "deptType": "ATD",
-    "deptLocalTime": "2021/09/12 23:15",
-    "deptTime": "2021/09/12 16:15",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2021/09/15 14:31",
-    "destTime": "2021/09/15 06:31",
-    "position": "1.2704\u00b0 / 103.8517\u00b0",
+    "deptLocalTime": "2021/09/16 09:57",
+    "deptTime": "2021/09/16 01:57",
+    "dest": "AU FRE",
+    "destLong": "Fremantle",
+    "destType": "ETA",
+    "destLocalTime": "2021/09/24 03:00",
+    "destTime": "2021/09/23 19:00",
+    "position": "1.2945\u00b0 / 104.3471\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9395628": {
     "rowidx": 180,
@@ -422,14 +422,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/09/11 02:01",
     "deptTime": "2021/09/10 18:01",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/16 23:00",
-    "destTime": "2021/09/16 15:00",
-    "position": "3.38500\u00b0 / 105.39499\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/09/16 12:56",
+    "destTime": "2021/09/16 04:56",
+    "position": "1.305872\u00b0 / 104.0752\u00b0",
     "area": "East China Sea",
-    "status": "Out of Range"
+    "status": "At Anchor"
   },
   "9293662": {
     "rowidx": 183,
