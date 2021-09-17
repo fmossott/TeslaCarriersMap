@@ -38,12 +38,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/08/21 22:41",
     "deptTime": "2021/08/21 14:41",
-    "dest": "GB BRX",
-    "destLong": "Brixham",
+    "dest": "BE ZEE",
+    "destLong": "Zeebrugge",
     "destType": "ETA",
-    "destLocalTime": "2021/09/17 15:00",
-    "destTime": "2021/09/17 14:00",
-    "position": "50.24151\u00b0 / -1.416118\u00b0",
+    "destLocalTime": "2021/09/18 07:00",
+    "destTime": "2021/09/18 05:00",
+    "position": "50.25925\u00b0 / -0.8859267\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -67,8 +67,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/18 04:45",
     "destTime": "2021/09/18 03:45",
-    "position": "51.36185\u00b0 / 1.8898\u00b0",
-    "area": "North Sea",
+    "position": "51.01818\u00b0 / 1.443017\u00b0",
+    "area": "English Channel",
     "status": "Underway using Engine"
   },
   "9176577": {
@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/18 10:30",
     "destTime": "2021/09/18 08:30",
-    "position": "38.71677\u00b0 / 17.84122\u00b0",
+    "position": "38.34867\u00b0 / 17.52105\u00b0",
     "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
@@ -187,7 +187,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/16 03:17",
     "destTime": "2021/09/16 01:17",
-    "position": "43.58068\u00b0 / 10.30545\u00b0",
+    "position": "43.58067\u00b0 / 10.30545\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/16 22:00",
     "destTime": "2021/09/16 20:00",
-    "position": "31.74628\u00b0 / 31.60939\u00b0",
+    "position": "31.74117\u00b0 / 31.16139\u00b0",
     "area": "East Mediterranean",
     "status": "Underway"
   },
@@ -259,7 +259,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/17 03:47",
     "destTime": "2021/09/16 23:47",
-    "position": "24.99657\u00b0 / 55.08012\u00b0",
+    "position": "24.99655\u00b0 / 55.08012\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -379,7 +379,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/19 18:00",
     "destTime": "2021/09/19 10:00",
-    "position": "11.24667\u00b0 / 110.59833\u00b0",
+    "position": "8.84833\u00b0 / 109.23500\u00b0",
     "area": "South China",
     "status": "Out of Range"
   }
