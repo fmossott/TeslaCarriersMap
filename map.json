@@ -43,7 +43,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/18 08:00",
     "destTime": "2021/09/18 06:00",
-    "position": "47.07905\u00b0 / -6.995147\u00b0",
+    "position": "48.0257\u00b0 / -6.243968\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -67,7 +67,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/16 10:42",
     "destTime": "2021/09/16 08:42",
-    "position": "51.29652\u00b0 / 3.241267\u00b0",
+    "position": "51.29667\u00b0 / 3.241317\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/14 05:25",
     "destTime": "2021/09/14 03:25",
-    "position": "51.31641\u00b0 / 3.225232\u00b0",
+    "position": "51.31642\u00b0 / 3.22526\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -211,7 +211,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/16 03:17",
     "destTime": "2021/09/16 01:17",
-    "position": "43.58066\u00b0 / 10.30544\u00b0",
+    "position": "43.58067\u00b0 / 10.30545\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -254,14 +254,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/09/01 16:38",
     "deptTime": "2021/09/01 08:38",
-    "dest": "EG SUEZ SOUTH ANCH",
+    "dest": "EG SUZ",
     "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2021/09/17 03:48",
-    "destTime": "2021/09/17 01:48",
-    "position": "29.84762\u00b0 / 32.56146\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2021/09/16 22:00",
+    "destTime": "2021/09/16 20:00",
+    "position": "29.84735\u00b0 / 32.5623\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9476769": {
     "rowidx": 177,
@@ -283,9 +283,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/17 03:47",
     "destTime": "2021/09/16 23:47",
-    "position": "24.99656\u00b0 / 55.08014\u00b0",
+    "position": "24.99657\u00b0 / 55.0801\u00b0",
     "area": "Persian Gulf",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9185463": {
     "rowidx": 178,
@@ -379,9 +379,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/16 12:56",
     "destTime": "2021/09/16 04:56",
-    "position": "1.305778\u00b0 / 104.0765\u00b0",
+    "position": "1.228937\u00b0 / 103.9246\u00b0",
     "area": "Singapore Area",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9293662": {
     "rowidx": 182,
