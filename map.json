@@ -91,7 +91,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/17 11:29",
     "destTime": "2021/09/17 09:29",
-    "position": "51.3063\u00b0 / 3.227815\u00b0",
+    "position": "51.30627\u00b0 / 3.22777\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -115,8 +115,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/18 10:30",
     "destTime": "2021/09/18 08:30",
-    "position": "40.42085\u00b0 / 18.77802\u00b0",
-    "area": "Adriatic Sea",
+    "position": "39.69203\u00b0 / 18.70537\u00b0",
+    "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
   "9426350": {
@@ -143,30 +143,6 @@
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
-  "9722302": {
-    "rowidx": 172,
-    "num": "",
-    "mapStatus": "4",
-    "mtsid": "4018974",
-    "name": "Theben",
-    "mmsi": "566044000",
-    "length": "199.97",
-    "breadth": "36.5",
-    "grossTonnage": "75,283",
-    "dept": "BE ZEE",
-    "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/09/14 06:25",
-    "deptTime": "2021/09/14 03:25",
-    "dest": "DE BRV",
-    "destLong": "Bremerhaven",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/18 07:30",
-    "destTime": "2021/09/18 05:30",
-    "position": "51.33545\u00b0 / 3.216007\u00b0",
-    "area": "North Sea",
-    "status": "Moored"
-  },
   "9574066": {
     "rowidx": 173,
     "num": "",
@@ -187,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/18 22:30",
     "destTime": "2021/09/18 21:30",
-    "position": "43.90924\u00b0 / -9.383888\u00b0",
+    "position": "44.39775\u00b0 / -9.100928\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
