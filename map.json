@@ -19,9 +19,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/20 07:00",
     "destTime": "2021/09/20 05:00",
-    "position": "31.27555\u00b0 / 32.35922\u00b0",
+    "position": "31.96849\u00b0 / 31.41423\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9702431": {
     "rowidx": 8,
@@ -67,7 +67,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/16 10:42",
     "destTime": "2021/09/16 08:42",
-    "position": "51.29662\u00b0 / 3.241283\u00b0",
+    "position": "51.29652\u00b0 / 3.241267\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/14 05:25",
     "destTime": "2021/09/14 03:25",
-    "position": "51.31641\u00b0 / 3.225262\u00b0",
+    "position": "51.31641\u00b0 / 3.225232\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -211,7 +211,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/16 03:17",
     "destTime": "2021/09/16 01:17",
-    "position": "43.58067\u00b0 / 10.30545\u00b0",
+    "position": "43.58066\u00b0 / 10.30544\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -254,14 +254,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/09/01 16:38",
     "deptTime": "2021/09/01 08:38",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/16 22:00",
-    "destTime": "2021/09/16 20:00",
-    "position": "29.78094\u00b0 / 32.54753\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/09/17 03:48",
+    "destTime": "2021/09/17 01:48",
+    "position": "29.84762\u00b0 / 32.56146\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9476769": {
     "rowidx": 177,
@@ -283,7 +283,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/17 03:47",
     "destTime": "2021/09/16 23:47",
-    "position": "24.99652\u00b0 / 55.08016\u00b0",
+    "position": "24.99656\u00b0 / 55.08014\u00b0",
     "area": "Persian Gulf",
     "status": "Stopped"
   },
@@ -355,7 +355,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/10 10:01",
     "destTime": "2021/09/10 02:01",
-    "position": "8.98426\u00b0 / 88.70628\u00b0",
+    "position": "5.96765\u00b0 / 81.18183\u00b0",
     "area": "Malacca Strait",
     "status": "Out of Range"
   },
@@ -379,7 +379,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/16 12:56",
     "destTime": "2021/09/16 04:56",
-    "position": "1.305895\u00b0 / 104.0769\u00b0",
+    "position": "1.305778\u00b0 / 104.0765\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
