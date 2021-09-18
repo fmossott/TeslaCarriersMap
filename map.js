@@ -13,6 +13,7 @@ class Map {
         zoom: 2,
         zoomControl: true,
         preferCanvas: false,
+        worldCopyJump: true
       }
     );
 
@@ -43,18 +44,20 @@ class Map {
 
     for (const [sid, ship] of Object.entries(ships)) {
       var fg = ship.mapStatus < 4 ? this.featureGroupConfirmedShips : this.featureGroupWatchList;
-      this.addShip(sid, ship, fg);
+      this.addShip(sid, ship, fg, -1);
+      this.addShip(sid, ship, fg, 0);
+      this.addShip(sid, ship, fg, 1);
     }
   }
 
-  addShip(sid, ship, layer) {
+  addShip(sid, ship, layer, offset) {
     var pos = ship.position;
     var m = pos.match('(?<la>-?\\d*(.\\d+))° \\/ (?<lo>-?\\d*(.\\d+))°');
     if (!m)
       return;
 
-    var lat = m.groups.la;
-    var lon = m.groups.lo;
+    var lat = parseInt(m.groups.la);
+    var lon = parseInt(m.groups.lo) + offset*360;
 
     var color = MARKERCOLORS[ship.mapStatus];
     if (color === undefined) {
