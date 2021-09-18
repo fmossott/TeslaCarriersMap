@@ -43,7 +43,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/18 09:46",
     "destTime": "2021/09/18 07:46",
-    "position": "51.33471\u00b0 / 3.216672\u00b0",
+    "position": "51.31422\u00b0 / 3.22412\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -91,7 +91,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/17 11:29",
     "destTime": "2021/09/17 09:29",
-    "position": "51.3063\u00b0 / 3.22777\u00b0",
+    "position": "51.30631\u00b0 / 3.227793\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -110,14 +110,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/09/16 12:15",
     "deptTime": "2021/09/16 10:15",
-    "dest": "MT MALTA OPL ANCH",
+    "dest": "MT MAR",
     "destLong": "Marsaxlokk",
-    "destType": "ATA",
-    "destLocalTime": "2021/09/18 09:41",
-    "destTime": "2021/09/18 07:41",
-    "position": "35.88877\u00b0 / 14.76\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2021/09/18 09:00",
+    "destTime": "2021/09/18 07:00",
+    "position": "35.97213\u00b0 / 14.54975\u00b0",
     "area": "West Mediterranean",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9426350": {
     "rowidx": 171,
@@ -235,7 +235,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/18 02:13",
     "destTime": "2021/09/18 00:13",
-    "position": "31.19279\u00b0 / 29.87902\u00b0",
+    "position": "31.1928\u00b0 / 29.87899\u00b0",
     "area": "East Mediterranean",
     "status": "Moored"
   },
@@ -259,7 +259,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/19 10:00",
     "destTime": "2021/09/19 07:00",
-    "position": "24.99655\u00b0 / 55.08013\u00b0",
+    "position": "24.99657\u00b0 / 55.08012\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
