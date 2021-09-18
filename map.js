@@ -56,8 +56,8 @@ class Map {
     if (!m)
       return;
 
-    var lat = parseInt(m.groups.la);
-    var lon = parseInt(m.groups.lo) + offset*360;
+    var lat = parseLong(m.groups.la);
+    var lon = parseLong(m.groups.lo) + offset*360;
 
     var color = MARKERCOLORS[ship.mapStatus];
     if (color === undefined) {
