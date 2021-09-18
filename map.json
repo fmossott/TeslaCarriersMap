@@ -43,7 +43,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/18 07:00",
     "destTime": "2021/09/18 05:00",
-    "position": "51.36569\u00b0 / 2.617663\u00b0",
+    "position": "51.37413\u00b0 / 2.939147\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -67,9 +67,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/18 06:55",
     "destTime": "2021/09/18 05:55",
-    "position": "50.89558\u00b0 / -1.414017\u00b0",
+    "position": "50.9042\u00b0 / -1.42845\u00b0",
     "area": "English Channel",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9176577": {
     "rowidx": 10,
@@ -91,7 +91,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/17 11:29",
     "destTime": "2021/09/17 09:29",
-    "position": "51.3063\u00b0 / 3.22775\u00b0",
+    "position": "51.30631\u00b0 / 3.227763\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -115,8 +115,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/18 09:00",
     "destTime": "2021/09/18 07:00",
-    "position": "35.96786\u00b0 / 15.00241\u00b0",
-    "area": "East Mediterranean",
+    "position": "35.91787\u00b0 / 14.7861\u00b0",
+    "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
   "9426350": {
@@ -185,11 +185,11 @@
     "dest": "ES BCN",
     "destLong": "Barcelona",
     "destType": "ETA",
-    "destLocalTime": "2021/09/19 05:00",
-    "destTime": "2021/09/19 03:00",
-    "position": "43.58054\u00b0 / 10.30547\u00b0",
+    "destLocalTime": "2021/09/19 06:30",
+    "destTime": "2021/09/19 04:30",
+    "position": "43.56995\u00b0 / 10.30809\u00b0",
     "area": "Ligurean Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9553103": {
     "rowidx": 175,
@@ -235,9 +235,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/18 02:13",
     "destTime": "2021/09/18 00:13",
-    "position": "31.74076\u00b0 / 31.00544\u00b0",
+    "position": "31.19279\u00b0 / 29.87902\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway"
+    "status": "Moored"
   },
   "9476769": {
     "rowidx": 177,
@@ -259,7 +259,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/17 03:47",
     "destTime": "2021/09/16 23:47",
-    "position": "24.9966\u00b0 / 55.08013\u00b0",
+    "position": "24.99657\u00b0 / 55.08013\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
