@@ -67,8 +67,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/20 07:00",
     "destTime": "2021/09/20 05:00",
-    "position": "40.16355\u00b0 / 18.89166\u00b0",
-    "area": "Ionian Sea",
+    "position": "40.8163\u00b0 / 18.27186\u00b0",
+    "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
   "9702431": {
@@ -139,7 +139,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/17 11:29",
     "destTime": "2021/09/17 09:29",
-    "position": "51.31397\u00b0 / 3.227143\u00b0",
+    "position": "51.31394\u00b0 / 3.227113\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -232,10 +232,10 @@
     "deptTime": "2021/09/18 07:34",
     "dest": "ES BCN",
     "destLong": "Barcelona",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/19 06:15",
-    "destTime": "2021/09/19 04:15",
-    "position": "41.28217\u00b0 / 2.191673\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/09/19 06:25",
+    "destTime": "2021/09/19 04:25",
+    "position": "41.33192\u00b0 / 2.146775\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -307,7 +307,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/19 10:00",
     "destTime": "2021/09/19 07:00",
-    "position": "26.88461\u00b0 / 50.70345\u00b0",
+    "position": "26.83036\u00b0 / 50.58383\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -425,10 +425,10 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2021/09/19 18:00",
-    "destTime": "2021/09/19 10:00",
-    "position": "1.36546\u00b0 / 104.38747\u00b0",
-    "area": "South China",
-    "status": "Out of Range"
+    "destLocalTime": "2021/09/19 15:00",
+    "destTime": "2021/09/19 07:00",
+    "position": "1.285443\u00b0 / 104.1907\u00b0",
+    "area": "Singapore Area",
+    "status": "Underway using Engine"
   }
 }
