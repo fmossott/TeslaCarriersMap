@@ -91,7 +91,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/18 09:46",
     "destTime": "2021/09/18 07:46",
-    "position": "51.30373\u00b0 / 3.229937\u00b0",
+    "position": "51.30374\u00b0 / 3.229965\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -139,7 +139,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/17 11:29",
     "destTime": "2021/09/17 09:29",
-    "position": "51.31397\u00b0 / 3.22715\u00b0",
+    "position": "51.31395\u00b0 / 3.22715\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -235,7 +235,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/19 06:25",
     "destTime": "2021/09/19 04:25",
-    "position": "41.33169\u00b0 / 2.146353\u00b0",
+    "position": "41.33169\u00b0 / 2.146357\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -302,12 +302,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/09/18 14:44",
     "deptTime": "2021/09/18 10:44",
-    "dest": "SA DMM",
+    "dest": "SA DAMMAM ANCH",
     "destLong": "Dammam",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/19 10:00",
-    "destTime": "2021/09/19 07:00",
-    "position": "26.657\u00b0 / 50.36831\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/09/19 10:44",
+    "destTime": "2021/09/19 07:44",
+    "position": "26.64137\u00b0 / 50.32785\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -379,7 +379,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/10 10:01",
     "destTime": "2021/09/10 02:01",
-    "position": "6.12311\u00b0 / 81.09730\u00b0",
+    "position": "5.02026\u00b0 / 79.69154\u00b0",
     "area": "Malacca Strait",
     "status": "Out of Range"
   },
@@ -424,11 +424,11 @@
     "deptTime": "2021/09/15 05:04",
     "dest": "SG SIN",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/19 15:00",
-    "destTime": "2021/09/19 07:00",
-    "position": "1.229447\u00b0 / 103.8843\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/09/19 15:28",
+    "destTime": "2021/09/19 07:28",
+    "position": "1.270462\u00b0 / 103.8517\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Moored"
   }
 }
