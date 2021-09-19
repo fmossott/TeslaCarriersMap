@@ -91,33 +91,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/18 09:46",
     "destTime": "2021/09/18 07:46",
-    "position": "51.30375\u00b0 / 3.22996\u00b0",
+    "position": "51.30375\u00b0 / 3.22993\u00b0",
     "area": "North Sea",
     "status": "Moored"
-  },
-  "9325221": {
-    "rowidx": 11,
-    "num": "143",
-    "mapStatus": "3",
-    "mtsid": "462721",
-    "name": "Grand Ruby",
-    "mmsi": "372399000",
-    "length": "199.9",
-    "breadth": "32.26",
-    "grossTonnage": "59,217",
-    "dept": "GB SOU",
-    "deptLong": "Southampton",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/09/18 18:45",
-    "deptTime": "2021/09/18 17:45",
-    "dest": "GB LONDON ANCH",
-    "destLong": "Sheerness",
-    "destType": "ATA",
-    "destLocalTime": "2021/09/19 07:19",
-    "destTime": "2021/09/19 06:19",
-    "position": "51.52118\u00b0 / 1.515217\u00b0",
-    "area": "North Sea",
-    "status": "Stopped"
   },
   "9176577": {
     "rowidx": 12,
@@ -139,36 +115,12 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/17 11:29",
     "destTime": "2021/09/17 09:29",
-    "position": "51.31394\u00b0 / 3.227143\u00b0",
+    "position": "51.31394\u00b0 / 3.227157\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
-  "9519121": {
-    "rowidx": 168,
-    "num": "",
-    "mapStatus": "4",
-    "mtsid": "3911110",
-    "name": "Triton Ace",
-    "mmsi": "371862000",
-    "length": "199.94",
-    "breadth": "32.26",
-    "grossTonnage": "60,876",
-    "dept": "SI KOP",
-    "deptLong": "Koper",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/09/16 12:15",
-    "deptTime": "2021/09/16 10:15",
-    "dest": "EG PSD",
-    "destLong": "Port Said",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/21 01:00",
-    "destTime": "2021/09/20 23:00",
-    "position": "34.63614\u00b0 / 20.56482\u00b0",
-    "area": "East Mediterranean",
-    "status": "Underway using Engine"
-  },
   "9426350": {
-    "rowidx": 173,
+    "rowidx": 172,
     "num": "",
     "mapStatus": "4",
     "mtsid": "665385",
@@ -192,7 +144,7 @@
     "status": "Underway using Engine"
   },
   "9574066": {
-    "rowidx": 175,
+    "rowidx": 174,
     "num": "",
     "mapStatus": "4",
     "mtsid": "410336",
@@ -216,7 +168,7 @@
     "status": "Moored"
   },
   "9731640": {
-    "rowidx": 176,
+    "rowidx": 175,
     "num": "",
     "mapStatus": "4",
     "mtsid": "5971530",
@@ -227,20 +179,20 @@
     "grossTonnage": "73,358",
     "dept": "ES BCN",
     "deptLong": "Barcelona",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/09/19 06:25",
-    "deptTime": "2021/09/19 04:25",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/09/19 14:55",
+    "deptTime": "2021/09/19 12:55",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
     "destLocalTime": "2021/09/25 01:00",
     "destTime": "2021/09/24 23:00",
-    "position": "41.33169\u00b0 / 2.14636\u00b0",
+    "position": "41.27012\u00b0 / 2.176773\u00b0",
     "area": "Balearic Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9553103": {
-    "rowidx": 177,
+    "rowidx": 176,
     "num": "",
     "mapStatus": "4",
     "mtsid": "421442",
@@ -264,7 +216,7 @@
     "status": "Underway using Engine"
   },
   "9441582": {
-    "rowidx": 178,
+    "rowidx": 177,
     "num": "",
     "mapStatus": "4",
     "mtsid": "373705",
@@ -288,7 +240,7 @@
     "status": "Underway using Engine"
   },
   "9476769": {
-    "rowidx": 179,
+    "rowidx": 178,
     "num": "",
     "mapStatus": "4",
     "mtsid": "461929",
@@ -307,12 +259,12 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/19 10:44",
     "destTime": "2021/09/19 07:44",
-    "position": "26.64117\u00b0 / 50.32735\u00b0",
+    "position": "26.64109\u00b0 / 50.32744\u00b0",
     "area": "Persian Gulf",
     "status": "At Anchor"
   },
   "9185463": {
-    "rowidx": 180,
+    "rowidx": 179,
     "num": "",
     "mapStatus": "4",
     "mtsid": "2672751",
@@ -336,7 +288,7 @@
     "status": "Underway using Engine"
   },
   "9395628": {
-    "rowidx": 181,
+    "rowidx": 180,
     "num": "",
     "mapStatus": "4",
     "mtsid": "372344",
@@ -360,7 +312,7 @@
     "status": "Underway using Engine"
   },
   "9442861": {
-    "rowidx": 182,
+    "rowidx": 181,
     "num": "",
     "mapStatus": "4",
     "mtsid": "463515",
@@ -384,7 +336,7 @@
     "status": "Out of Range"
   },
   "9383417": {
-    "rowidx": 183,
+    "rowidx": 182,
     "num": "",
     "mapStatus": "4",
     "mtsid": "459721",
@@ -408,7 +360,7 @@
     "status": "Underway using Engine"
   },
   "9293662": {
-    "rowidx": 184,
+    "rowidx": 183,
     "num": "",
     "mapStatus": "4",
     "mtsid": "410472",
@@ -427,7 +379,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/19 15:28",
     "destTime": "2021/09/19 07:28",
-    "position": "1.270457\u00b0 / 103.8517\u00b0",
+    "position": "1.270453\u00b0 / 103.8517\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   }
