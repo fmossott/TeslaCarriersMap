@@ -43,9 +43,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/20 08:00",
     "destTime": "2021/09/19 23:00",
-    "position": "34.78551\u00b0 / 129.1761\u00b0",
+    "position": "33.80665\u00b0 / 127.83152\u00b0",
     "area": "North China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9279812": {
     "rowidx": 8,
@@ -67,7 +67,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/20 07:46",
     "destTime": "2021/09/20 05:46",
-    "position": "45.55145\u00b0 / 13.73612\u00b0",
+    "position": "45.55143\u00b0 / 13.73617\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -139,7 +139,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/21 03:00",
     "destTime": "2021/09/21 01:00",
-    "position": "50.23899\u00b0 / -0.2030783\u00b0",
+    "position": "50.34964\u00b0 / 0.4280333\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -259,7 +259,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/19 18:00",
     "destTime": "2021/09/19 16:00",
-    "position": "29.44703\u00b0 / 32.65124\u00b0",
+    "position": "29.69682\u00b0 / 32.55867\u00b0",
     "area": "Red Sea",
     "status": "Underway"
   },
@@ -273,19 +273,19 @@
     "length": "189.3",
     "breadth": "32.29",
     "grossTonnage": "49,675",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/09/04 10:57",
-    "deptTime": "2021/09/04 02:57",
-    "dest": "DJ JIB",
-    "destLong": "Djibouti",
-    "destType": "ATA",
-    "destLocalTime": "2021/09/19 21:18",
-    "destTime": "2021/09/19 18:18",
-    "position": "11.60179\u00b0 / 43.0725\u00b0",
+    "dept": "DJ JIB",
+    "deptLong": "Djibouti",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/09/20 02:18",
+    "deptTime": "2021/09/19 18:18",
+    "dest": "SA JED",
+    "destLong": "Jeddah",
+    "destType": "ETA",
+    "destLocalTime": "2021/09/22 15:00",
+    "destTime": "2021/09/22 12:00",
+    "position": "11.60517\u00b0 / 43.07594\u00b0",
     "area": "Gulf of Aden",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9442861": {
     "rowidx": 181,
