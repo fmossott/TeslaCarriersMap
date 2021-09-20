@@ -64,12 +64,12 @@
     "deptTime": "2021/08/26 18:58",
     "dest": "SI KOP",
     "destLong": "Koper",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/20 07:00",
-    "destTime": "2021/09/20 05:00",
-    "position": "45.55834\u00b0 / 13.70405\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/09/20 07:46",
+    "destTime": "2021/09/20 05:46",
+    "position": "45.55145\u00b0 / 13.73606\u00b0",
     "area": "Adriatic Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9702431": {
     "rowidx": 10,
@@ -163,8 +163,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/21 03:00",
     "destTime": "2021/09/21 01:00",
-    "position": "49.71833\u00b0 / -4.89698\u00b0",
-    "area": "Celtic Sea",
+    "position": "49.77991\u00b0 / -3.73709\u00b0",
+    "area": "English Channel",
     "status": "Underway using Engine"
   },
   "9731640": {
@@ -307,7 +307,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/19 21:18",
     "destTime": "2021/09/19 18:18",
-    "position": "11.60181\u00b0 / 43.07249\u00b0",
+    "position": "11.6018\u00b0 / 43.0725\u00b0",
     "area": "Gulf of Aden",
     "status": "Moored"
   },
