@@ -67,7 +67,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/20 07:46",
     "destTime": "2021/09/20 05:46",
-    "position": "45.55143\u00b0 / 13.73617\u00b0",
+    "position": "45.55144\u00b0 / 13.73611\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -139,7 +139,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/21 03:00",
     "destTime": "2021/09/21 01:00",
-    "position": "50.34964\u00b0 / 0.4280333\u00b0",
+    "position": "50.43624\u00b0 / 0.8604467\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -257,11 +257,11 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2021/09/19 18:00",
-    "destTime": "2021/09/19 16:00",
-    "position": "29.69682\u00b0 / 32.55867\u00b0",
+    "destLocalTime": "2021/09/20 17:30",
+    "destTime": "2021/09/20 15:30",
+    "position": "29.83986\u00b0 / 32.55973\u00b0",
     "area": "Red Sea",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9395628": {
     "rowidx": 180,
@@ -275,15 +275,15 @@
     "grossTonnage": "49,675",
     "dept": "DJ JIB",
     "deptLong": "Djibouti",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/09/20 02:18",
-    "deptTime": "2021/09/19 18:18",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/09/20 19:43",
+    "deptTime": "2021/09/20 16:43",
     "dest": "SA JED",
     "destLong": "Jeddah",
     "destType": "ETA",
     "destLocalTime": "2021/09/22 15:00",
     "destTime": "2021/09/22 12:00",
-    "position": "11.60517\u00b0 / 43.07594\u00b0",
+    "position": "11.7872\u00b0 / 43.18025\u00b0",
     "area": "Gulf of Aden",
     "status": "Underway using Engine"
   },
