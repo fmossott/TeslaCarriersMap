@@ -91,7 +91,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/18 09:46",
     "destTime": "2021/09/18 07:46",
-    "position": "51.30375\u00b0 / 3.229955\u00b0",
+    "position": "51.30375\u00b0 / 3.229938\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -115,7 +115,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/17 11:29",
     "destTime": "2021/09/17 09:29",
-    "position": "51.31393\u00b0 / 3.227103\u00b0",
+    "position": "51.31395\u00b0 / 3.22716\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -139,9 +139,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/20 10:50",
     "destTime": "2021/09/20 08:50",
-    "position": "51.34084\u00b0 / 3.211073\u00b0",
+    "position": "51.33355\u00b0 / 3.217312\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9574066": {
     "rowidx": 174,
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/20 16:30",
     "destTime": "2021/09/20 14:30",
-    "position": "32.85748\u00b0 / 16.81895\u00b0",
+    "position": "32.77943\u00b0 / 16.44634\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -259,9 +259,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/19 10:44",
     "destTime": "2021/09/19 07:44",
-    "position": "26.56871\u00b0 / 50.1881\u00b0",
+    "position": "26.55634\u00b0 / 50.17554\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9185463": {
     "rowidx": 179,
@@ -369,18 +369,18 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "60,065",
-    "dept": "CN MCI",
-    "deptLong": "Mcid",
+    "dept": "SG SIN",
+    "deptLong": "Singapore",
     "deptType": "ATD",
-    "deptLocalTime": "2021/09/15 13:04",
-    "deptTime": "2021/09/15 05:04",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2021/09/19 15:28",
-    "destTime": "2021/09/19 07:28",
-    "position": "1.270468\u00b0 / 103.8517\u00b0",
+    "deptLocalTime": "2021/09/20 18:02",
+    "deptTime": "2021/09/20 10:02",
+    "dest": "TH LCH",
+    "destLong": "Laem Chabang",
+    "destType": "ETA",
+    "destLocalTime": "2021/09/23 12:00",
+    "destTime": "2021/09/23 05:00",
+    "position": "1.244303\u00b0 / 103.8596\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
