@@ -50,7 +50,7 @@
   "9279812": {
     "rowidx": 8,
     "num": "146",
-    "mapStatus": "2",
+    "mapStatus": "3",
     "mtsid": "713302",
     "name": "Neptune Koper",
     "mmsi": "215940000",
@@ -91,7 +91,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/18 09:46",
     "destTime": "2021/09/18 07:46",
-    "position": "51.30373\u00b0 / 3.229942\u00b0",
+    "position": "51.30374\u00b0 / 3.229943\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -115,7 +115,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/17 11:29",
     "destTime": "2021/09/17 09:29",
-    "position": "51.31398\u00b0 / 3.227117\u00b0",
+    "position": "51.31394\u00b0 / 3.227128\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -139,8 +139,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/20 09:30",
     "destTime": "2021/09/20 07:30",
-    "position": "51.33434\u00b0 / 2.39727\u00b0",
-    "area": "English Channel",
+    "position": "51.36261\u00b0 / 2.62018\u00b0",
+    "area": "North Sea",
     "status": "Underway using Engine"
   },
   "9574066": {
@@ -211,7 +211,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/20 07:32",
     "destTime": "2021/09/20 04:32",
-    "position": "21.46775\u00b0 / 39.15878\u00b0",
+    "position": "21.46777\u00b0 / 39.15878\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/20 16:30",
     "destTime": "2021/09/20 14:30",
-    "position": "33.01963\u00b0 / 17.84988\u00b0",
+    "position": "32.9603\u00b0 / 17.49996\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -259,9 +259,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/19 10:44",
     "destTime": "2021/09/19 07:44",
-    "position": "26.64072\u00b0 / 50.32774\u00b0",
+    "position": "26.64067\u00b0 / 50.32806\u00b0",
     "area": "Persian Gulf",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9185463": {
     "rowidx": 179,
@@ -355,7 +355,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/16 12:56",
     "destTime": "2021/09/16 04:56",
-    "position": "5.82000\u00b0 / 86.01833\u00b0",
+    "position": "5.66500\u00b0 / 82.32667\u00b0",
     "area": "Malacca Strait",
     "status": "Out of Range"
   },
@@ -379,7 +379,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/19 15:28",
     "destTime": "2021/09/19 07:28",
-    "position": "1.270472\u00b0 / 103.8517\u00b0",
+    "position": "1.270477\u00b0 / 103.8516\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   }
