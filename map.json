@@ -67,7 +67,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/20 07:46",
     "destTime": "2021/09/20 05:46",
-    "position": "45.55139\u00b0 / 13.73612\u00b0",
+    "position": "45.55146\u00b0 / 13.73613\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -139,9 +139,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/21 03:15",
     "destTime": "2021/09/21 01:15",
-    "position": "51.34406\u00b0 / 3.20685\u00b0",
+    "position": "51.33271\u00b0 / 3.217978\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9731640": {
     "rowidx": 175,
@@ -249,17 +249,17 @@
     "length": "179.9",
     "breadth": "32.2",
     "grossTonnage": "51,770",
-    "dept": "EG SUEZ SOUTH ANCH",
-    "deptLong": "Shanghai",
+    "dept": "EG SUZ",
+    "deptLong": "Suez Canal",
     "deptType": "ATA",
-    "deptLocalTime": "2021/09/21 01:51",
-    "deptTime": "2021/09/20 17:51",
+    "deptLocalTime": "2021/09/21 10:24",
+    "deptTime": "2021/09/21 02:24",
     "dest": "GR PIR",
     "destLong": "Piraeus",
     "destType": "ETA",
     "destLocalTime": "2021/09/23 06:00",
     "destTime": "2021/09/23 03:00",
-    "position": "29.87689\u00b0 / 32.55\u00b0",
+    "position": "29.97544\u00b0 / 32.58675\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
