@@ -47,30 +47,6 @@
     "area": "North China",
     "status": "Out of Range"
   },
-  "9279812": {
-    "rowidx": 8,
-    "num": "146",
-    "mapStatus": "3",
-    "mtsid": "713302",
-    "name": "Neptune Koper",
-    "mmsi": "215940000",
-    "length": "196.4",
-    "breadth": "31.1",
-    "grossTonnage": "44,408",
-    "dept": "SI KOP",
-    "deptLong": "Koper",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/09/21 11:28",
-    "deptTime": "2021/09/21 09:28",
-    "dest": "IT LIV",
-    "destLong": "Livorno",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/20 07:46",
-    "destTime": "2021/09/20 05:46",
-    "position": "45.56056\u00b0 / 13.70636\u00b0",
-    "area": "Adriatic Sea",
-    "status": "Underway using Engine"
-  },
   "9702431": {
     "rowidx": 10,
     "num": "144",
@@ -91,12 +67,36 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/21 15:00",
     "destTime": "2021/09/21 14:00",
-    "position": "50.59774\u00b0 / 0.2976483\u00b0",
+    "position": "50.54754\u00b0 / -0.06958167\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
-  "9731640": {
+  "9279812": {
     "rowidx": 168,
+    "num": "",
+    "mapStatus": "4",
+    "mtsid": "713302",
+    "name": "Neptune Koper",
+    "mmsi": "215940000",
+    "length": "196.4",
+    "breadth": "31.1",
+    "grossTonnage": "44,408",
+    "dept": "SI KOP",
+    "deptLong": "Koper",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/09/21 11:28",
+    "deptTime": "2021/09/21 09:28",
+    "dest": "IT LIV",
+    "destLong": "Livorno",
+    "destType": "ETA",
+    "destLocalTime": "2021/09/20 07:46",
+    "destTime": "2021/09/20 05:46",
+    "position": "45.56056\u00b0 / 13.70636\u00b0",
+    "area": "Adriatic Sea",
+    "status": "Underway using Engine"
+  },
+  "9731640": {
+    "rowidx": 169,
     "num": "",
     "mapStatus": "4",
     "mtsid": "5971530",
@@ -120,7 +120,7 @@
     "status": "Underway using Engine"
   },
   "9553103": {
-    "rowidx": 169,
+    "rowidx": 170,
     "num": "",
     "mapStatus": "4",
     "mtsid": "421442",
@@ -139,12 +139,12 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/20 07:32",
     "destTime": "2021/09/20 04:32",
-    "position": "21.46777\u00b0 / 39.15882\u00b0",
+    "position": "21.46777\u00b0 / 39.15878\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
   "9441582": {
-    "rowidx": 170,
+    "rowidx": 171,
     "num": "",
     "mapStatus": "4",
     "mtsid": "373705",
@@ -168,7 +168,7 @@
     "status": "Underway using Engine"
   },
   "9476769": {
-    "rowidx": 171,
+    "rowidx": 172,
     "num": "",
     "mapStatus": "4",
     "mtsid": "461929",
@@ -187,12 +187,12 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/20 14:50",
     "destTime": "2021/09/20 11:50",
-    "position": "26.4933\u00b0 / 50.20588\u00b0",
+    "position": "26.4933\u00b0 / 50.2059\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
   "9185463": {
-    "rowidx": 172,
+    "rowidx": 173,
     "num": "",
     "mapStatus": "4",
     "mtsid": "2672751",
@@ -216,7 +216,7 @@
     "status": "Underway using Engine"
   },
   "9395628": {
-    "rowidx": 173,
+    "rowidx": 174,
     "num": "",
     "mapStatus": "4",
     "mtsid": "372344",
@@ -240,7 +240,7 @@
     "status": "Underway using Engine"
   },
   "9442861": {
-    "rowidx": 174,
+    "rowidx": 175,
     "num": "",
     "mapStatus": "4",
     "mtsid": "463515",
@@ -264,7 +264,7 @@
     "status": "Out of Range"
   },
   "9293662": {
-    "rowidx": 175,
+    "rowidx": 176,
     "num": "",
     "mapStatus": "4",
     "mtsid": "410472",
