@@ -67,7 +67,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/20 07:46",
     "destTime": "2021/09/20 05:46",
-    "position": "45.5514\u00b0 / 13.73611\u00b0",
+    "position": "45.55144\u00b0 / 13.73613\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -95,56 +95,8 @@
     "area": "English Channel",
     "status": "Underway using Engine"
   },
-  "9176577": {
-    "rowidx": 12,
-    "num": "142",
-    "mapStatus": "3",
-    "mtsid": "728649",
-    "name": "Elektra",
-    "mmsi": "564614000",
-    "length": "227",
-    "breadth": "33",
-    "grossTonnage": "67,264",
-    "dept": "GB SOU",
-    "deptLong": "Southampton",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/09/16 14:33",
-    "deptTime": "2021/09/16 13:33",
-    "dest": "BE ZEE",
-    "destLong": "Zeebrugge",
-    "destType": "ATA",
-    "destLocalTime": "2021/09/17 11:29",
-    "destTime": "2021/09/17 09:29",
-    "position": "51.31395\u00b0 / 3.22712\u00b0",
-    "area": "North Sea",
-    "status": "Moored"
-  },
-  "9574066": {
-    "rowidx": 174,
-    "num": "",
-    "mapStatus": "4",
-    "mtsid": "410336",
-    "name": "Canadian Highway",
-    "mmsi": "352718000",
-    "length": "199.97",
-    "breadth": "32.26",
-    "grossTonnage": "59,447",
-    "dept": "GB PRU",
-    "deptLong": "Portbury",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/09/19 16:19",
-    "deptTime": "2021/09/19 15:19",
-    "dest": "BE ZEE",
-    "destLong": "Zeebrugge",
-    "destType": "ATA",
-    "destLocalTime": "2021/09/21 03:15",
-    "destTime": "2021/09/21 01:15",
-    "position": "51.3109\u00b0 / 3.223775\u00b0",
-    "area": "North Sea",
-    "status": "Stopped"
-  },
   "9731640": {
-    "rowidx": 175,
+    "rowidx": 168,
     "num": "",
     "mapStatus": "4",
     "mtsid": "5971530",
@@ -168,7 +120,7 @@
     "status": "Underway using Engine"
   },
   "9553103": {
-    "rowidx": 176,
+    "rowidx": 169,
     "num": "",
     "mapStatus": "4",
     "mtsid": "421442",
@@ -192,7 +144,7 @@
     "status": "Moored"
   },
   "9441582": {
-    "rowidx": 177,
+    "rowidx": 170,
     "num": "",
     "mapStatus": "4",
     "mtsid": "373705",
@@ -211,12 +163,12 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/22 04:00",
     "destTime": "2021/09/22 03:00",
-    "position": "33.65665\u00b0 / 14.32672\u00b0",
+    "position": "34.2524\u00b0 / 13.88085\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
   "9476769": {
-    "rowidx": 178,
+    "rowidx": 171,
     "num": "",
     "mapStatus": "4",
     "mtsid": "461929",
@@ -240,7 +192,7 @@
     "status": "Moored"
   },
   "9185463": {
-    "rowidx": 179,
+    "rowidx": 172,
     "num": "",
     "mapStatus": "4",
     "mtsid": "2672751",
@@ -259,12 +211,12 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/23 06:00",
     "destTime": "2021/09/23 03:00",
-    "position": "30.42725\u00b0 / 32.36013\u00b0",
+    "position": "30.52502\u00b0 / 32.34381\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9395628": {
-    "rowidx": 180,
+    "rowidx": 173,
     "num": "",
     "mapStatus": "4",
     "mtsid": "372344",
@@ -288,7 +240,7 @@
     "status": "Underway using Engine"
   },
   "9442861": {
-    "rowidx": 181,
+    "rowidx": 174,
     "num": "",
     "mapStatus": "4",
     "mtsid": "463515",
@@ -311,32 +263,8 @@
     "area": "Malacca Strait",
     "status": "Out of Range"
   },
-  "9383417": {
-    "rowidx": 182,
-    "num": "",
-    "mapStatus": "4",
-    "mtsid": "459721",
-    "name": "Morning Lisa",
-    "mmsi": "370967000",
-    "length": "232.37",
-    "breadth": "32.3",
-    "grossTonnage": "68,701",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/09/11 02:01",
-    "deptTime": "2021/09/10 18:01",
-    "dest": "SG SINGAPORE ANCH",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2021/09/16 12:56",
-    "destTime": "2021/09/16 04:56",
-    "position": "5.684208\u00b0 / 80.01757\u00b0",
-    "area": "Laccadive Sea",
-    "status": "Underway using Engine"
-  },
   "9293662": {
-    "rowidx": 183,
+    "rowidx": 175,
     "num": "",
     "mapStatus": "4",
     "mtsid": "410472",
