@@ -19,7 +19,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/23 17:00",
     "destTime": "2021/09/23 22:00",
-    "position": "25.39242\u00b0 / -114.7916\u00b0",
+    "position": "22.11867\u00b0 / -110.04428\u00b0",
     "area": "West Coast Central America",
     "status": "Out of Range"
   },
@@ -43,9 +43,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/20 08:00",
     "destTime": "2021/09/19 23:00",
-    "position": "33.67005\u00b0 / 128.03071\u00b0",
+    "position": "33.6789\u00b0 / 128.298\u00b0",
     "area": "North China",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9702431": {
     "rowidx": 10,
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/23 13:30",
     "destTime": "2021/09/23 11:30",
-    "position": "40.33461\u00b0 / 10.21251\u00b0",
+    "position": "40.85361\u00b0 / 10.14425\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
@@ -187,7 +187,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/20 14:50",
     "destTime": "2021/09/20 11:50",
-    "position": "26.16456\u00b0 / 54.75279\u00b0",
+    "position": "26.1312\u00b0 / 55.12057\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -211,7 +211,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/23 06:00",
     "destTime": "2021/09/23 03:00",
-    "position": "37.26531\u00b0 / 23.90491\u00b0",
+    "position": "37.44886\u00b0 / 23.83377\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -235,7 +235,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/22 16:06",
     "destTime": "2021/09/22 13:06",
-    "position": "21.46759\u00b0 / 39.15902\u00b0",
+    "position": "21.46757\u00b0 / 39.15901\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -278,13 +278,13 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/09/20 18:02",
     "deptTime": "2021/09/20 10:02",
-    "dest": "TH LCH",
+    "dest": "TH LAEM CHABANG ANCH",
     "destLong": "Laem Chabang",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/23 09:00",
-    "destTime": "2021/09/23 02:00",
-    "position": "13.03291\u00b0 / 100.7797\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/09/23 09:17",
+    "destTime": "2021/09/23 02:17",
+    "position": "13.04173\u00b0 / 100.8521\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   }
 }
