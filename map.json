@@ -47,30 +47,6 @@
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
-  "9702431": {
-    "rowidx": 10,
-    "num": "144",
-    "mapStatus": "3",
-    "mtsid": "1508269",
-    "name": "Glovis Splendor",
-    "mmsi": "538005960",
-    "length": "199.97",
-    "breadth": "35",
-    "grossTonnage": "64,751",
-    "dept": "NO OSL",
-    "deptLong": "Oslo",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/09/24 14:29",
-    "deptTime": "2021/09/24 13:29",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/24 12:00",
-    "destTime": "2021/09/24 10:00",
-    "position": "59.906\u00b0 / 10.71264\u00b0",
-    "area": "Skagerrak",
-    "status": "Moored"
-  },
   "9279812": {
     "rowidx": 168,
     "num": "",
@@ -115,7 +91,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/25 01:00",
     "destTime": "2021/09/24 23:00",
-    "position": "51.09617\u00b0 / 1.747895\u00b0",
+    "position": "51.20202\u00b0 / 2.010278\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -283,8 +259,8 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/23 09:17",
     "destTime": "2021/09/23 02:17",
-    "position": "13.05045\u00b0 / 100.8466\u00b0",
+    "position": "13.05013\u00b0 / 100.8469\u00b0",
     "area": "Gulf of Thailand",
-    "status": "At Anchor"
+    "status": "Stopped"
   }
 }
