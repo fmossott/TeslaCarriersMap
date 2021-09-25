@@ -38,12 +38,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/09/19 22:24",
     "deptTime": "2021/09/19 13:24",
-    "dest": "KR MOK",
-    "destLong": "Mokpo",
-    "destType": "ETA",
-    "destLocalTime": "2021/09/20 08:00",
-    "destTime": "2021/09/19 23:00",
-    "position": "34.1406\u00b0 / 128.007\u00b0",
+    "dest": "KR KAN",
+    "destLong": "Gwangyang",
+    "destType": "ATA",
+    "destLocalTime": "2021/09/26 05:35",
+    "destTime": "2021/09/25 20:35",
+    "position": "34.89142\u00b0 / 127.7561\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -67,7 +67,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/09/26 20:00",
     "destTime": "2021/09/26 18:00",
-    "position": "42.66759\u00b0 / 6.450553\u00b0",
+    "position": "42.65453\u00b0 / 6.422962\u00b0",
     "area": "West Mediterranean",
     "status": "Stopped"
   },
@@ -235,9 +235,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/25 21:10",
     "destTime": "2021/09/25 18:10",
-    "position": "-4.05725\u00b0 / 39.64808\u00b0",
+    "position": "-4.057267\u00b0 / 39.64807\u00b0",
     "area": "East Africa",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9293662": {
     "rowidx": 176,
@@ -259,7 +259,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/09/23 09:17",
     "destTime": "2021/09/23 02:17",
-    "position": "13.05017\u00b0 / 100.8479\u00b0",
+    "position": "13.0508\u00b0 / 100.8479\u00b0",
     "area": "Gulf of Thailand",
     "status": "At Anchor"
   }
