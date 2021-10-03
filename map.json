@@ -43,8 +43,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/05 17:00",
     "destTime": "2021/10/06 00:00",
-    "position": "30.88049\u00b0 / -122.4797\u00b0",
-    "area": "West Coast Central America",
+    "position": "32.26724\u00b0 / -124.0258\u00b0",
+    "area": "US West Coast",
     "status": "Underway using Engine"
   },
   "9311854": {
@@ -81,18 +81,18 @@
     "length": "180",
     "breadth": "30",
     "grossTonnage": "43,810",
-    "dept": "RU VVO",
-    "deptLong": "Vladivostok",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "UTC +44469:00",
-    "deptTime": "UTC +44468:00",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/10/02 11:16",
-    "destTime": "2021/10/02 03:16",
-    "position": "31.32357\u00b0 / 121.6796\u00b0",
+    "deptLocalTime": "UTC +44472:00",
+    "deptTime": "UTC +44472:00",
+    "dest": "RU VVO",
+    "destLong": "Vladivostok",
+    "destType": "ETA",
+    "destLocalTime": "2021/10/06 16:00",
+    "destTime": "2021/10/06 06:00",
+    "position": "31.32117\u00b0 / 121.7083\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
