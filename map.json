@@ -2,6 +2,9 @@
   "9303168": {
     "rowidx": 6,
     "num": "148",
+    "manDept": "SFO",
+    "quarter": "21Q4",
+    "numDept": "2",
     "mapStatus": "0",
     "mtsid": "412702",
     "name": "Dream Beauty",
@@ -26,6 +29,9 @@
   "9169328": {
     "rowidx": 7,
     "num": "147",
+    "manDept": "SFO",
+    "quarter": "21Q4",
+    "numDept": "1",
     "mapStatus": "0",
     "mtsid": "420603",
     "name": "Grand Pace",
@@ -50,6 +56,9 @@
   "9383417": {
     "rowidx": 168,
     "num": "",
+    "manDept": "SHG",
+    "quarter": "21Q4",
+    "numDept": "1",
     "mapStatus": "4",
     "mtsid": "459721",
     "name": "Morning Lisa",
@@ -74,6 +83,9 @@
   "9483786": {
     "rowidx": 169,
     "num": "",
+    "manDept": "SHG",
+    "quarter": "21Q4",
+    "numDept": "2",
     "mapStatus": "4",
     "mtsid": "365110",
     "name": "Arabian Sea",
@@ -98,6 +110,9 @@
   "9138513": {
     "rowidx": 170,
     "num": "",
+    "manDept": "SHG",
+    "quarter": "21Q4",
+    "numDept": "9",
     "mapStatus": "4",
     "mtsid": "732848",
     "name": "Don Pasquale",
@@ -122,6 +137,9 @@
   "9409326": {
     "rowidx": 171,
     "num": "",
+    "manDept": "SHG",
+    "quarter": "21Q4",
+    "numDept": "4",
     "mapStatus": "4",
     "mtsid": "459493",
     "name": "Pleiades Spirit",
@@ -146,6 +164,9 @@
   "9267687": {
     "rowidx": 172,
     "num": "",
+    "manDept": "SHG",
+    "quarter": "21Q4",
+    "numDept": "9",
     "mapStatus": "4",
     "mtsid": "412458",
     "name": "Progress Ace",
@@ -170,6 +191,9 @@
   "9311854": {
     "rowidx": 173,
     "num": "",
+    "manDept": "SHG",
+    "quarter": "21Q4",
+    "numDept": "6",
     "mapStatus": "4",
     "mtsid": "368963",
     "name": "Talia",
@@ -194,6 +218,9 @@
   "9604938": {
     "rowidx": 174,
     "num": "",
+    "manDept": "SHG",
+    "quarter": "21Q4",
+    "numDept": "7",
     "mapStatus": "4",
     "mtsid": "665547",
     "name": "Eurasian Highway",
@@ -218,6 +245,9 @@
   "9519107": {
     "rowidx": 175,
     "num": "",
+    "manDept": "SHG",
+    "quarter": "21Q4",
+    "numDept": "9",
     "mapStatus": "4",
     "mtsid": "461658",
     "name": "Bosporus Highway",
@@ -242,6 +272,9 @@
   "9273894": {
     "rowidx": 176,
     "num": "",
+    "manDept": "SHG",
+    "quarter": "21Q4",
+    "numDept": "9",
     "mapStatus": "4",
     "mtsid": "418952",
     "name": "Virgo Leader",
@@ -251,16 +284,16 @@
     "grossTonnage": "61,854",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/10/03 23:23",
-    "deptTime": "2021/10/03 15:23",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/10/04 23:07",
+    "deptTime": "2021/10/04 15:07",
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
     "destLocalTime": "2021/10/13 10:00",
     "destTime": "2021/10/13 02:00",
-    "position": "31.32346\u00b0 / 121.6797\u00b0",
+    "position": "31.29269\u00b0 / 121.7866\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
