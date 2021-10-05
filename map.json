@@ -22,7 +22,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/25 14:00",
     "destTime": "2021/10/25 05:00",
-    "position": "8.719816\u00b0 / -79.46021\u00b0",
+    "position": "9.457933\u00b0 / -85.83328\u00b0",
     "area": "Panama Canal",
     "status": "Underway using Engine"
   },
@@ -49,7 +49,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/05 12:00",
     "destTime": "2021/10/05 19:00",
-    "position": "37.22511\u00b0 / -123.5185\u00b0",
+    "position": "37.18953\u00b0 / -123.4986\u00b0",
     "area": "US West Coast",
     "status": "Underway using Engine"
   },
@@ -211,9 +211,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/08 11:00",
     "destTime": "2021/10/08 03:00",
-    "position": "22.31013\u00b0 / 119.0437\u00b0",
+    "position": "17.61667\u00b0 / 115.04166\u00b0",
     "area": "South China",
-    "status": "Underway by Sail"
+    "status": "Out of Range"
   },
   "9604938": {
     "rowidx": 174,
@@ -238,7 +238,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/05 14:50",
     "destTime": "2021/10/05 06:50",
-    "position": "37.64965\u00b0 / 121.4588\u00b0",
+    "position": "37.64642\u00b0 / 121.4495\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -346,7 +346,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/04 23:14",
     "destTime": "2021/10/04 15:14",
-    "position": "31.32355\u00b0 / 121.6794\u00b0",
+    "position": "31.32351\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -373,7 +373,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/05 11:41",
     "destTime": "2021/10/05 03:41",
-    "position": "31.32203\u00b0 / 121.6817\u00b0",
+    "position": "31.32202\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
