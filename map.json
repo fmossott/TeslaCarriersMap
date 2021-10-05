@@ -46,12 +46,12 @@
     "deptTime": "2021/09/21 18:22",
     "dest": "US SFO",
     "destLong": "San Francisco",
-    "destType": "ETA",
-    "destLocalTime": "2021/10/05 12:00",
-    "destTime": "2021/10/05 19:00",
-    "position": "37.77475\u00b0 / -122.3743\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/10/05 13:45",
+    "destTime": "2021/10/05 20:45",
+    "position": "37.75\u00b0 / -122.3758\u00b0",
     "area": "US West Coast",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9383417": {
     "rowidx": 168,
@@ -346,7 +346,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/08 05:00",
     "destTime": "2021/10/07 21:00",
-    "position": "31.26365\u00b0 / 121.8896\u00b0",
+    "position": "31.09419\u00b0 / 122.7545\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
