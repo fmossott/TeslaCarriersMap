@@ -19,16 +19,38 @@ class Map {
 
     this.featureGroupTiles = L.featureGroup().addTo(this.map);
 
-    L.tileLayer(
+    var mapbox = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+      attribution: '&copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a> &copy; <a href="http://www.openstreetmap.org/about/">OpenStreetMap</a> <b><a href="https://www.mapbox.com/map-feedback/">Improve this map</a></b>',
+      maxZoom: 18,
+      id: 'franco42/ckuflz3t42b8217pm5k01hpah',
+      tileSize: 512,
+      zoomOffset: -1,
+      accessToken: 'pk.eyJ1IjoiZnJhbmNvNDIiLCJhIjoiY2t1Zmx4MnMxMHBkejJucnQzN2g0dngwZSJ9.9Egt_G5G24b7D9Ua8W3YHQ'
+    })
+    mapbox.addTo(this.featureGroupTiles);
+
+    var openstreetmap = L.tileLayer(
       "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-      { "attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false }
-    ).addTo(this.featureGroupTiles);
+      { 
+        attribution: 'Data by &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.',
+        detectRetina: false, 
+        maxNativeZoom: 18, 
+        maxZoom: 18, 
+        minZoom: 0, 
+        noWrap: false, 
+        opacity: 1, 
+        subdomains: "abc", 
+        tms: false }
+    )
 
     this.featureGroupConfirmedShips = L.featureGroup().addTo(this.map);
     this.featureGroupWatchList = L.featureGroup().addTo(this.map);
 
     L.control.layers(
-        {},
+        {
+          "Mapbox Satellite Streets": mapbox,
+          "OpenStreetMap": openstreetmap,
+        },
         {
           "Watchlist" : this.featureGroupWatchList,
         },
