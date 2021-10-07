@@ -32,7 +32,7 @@
     "manDept": "SFO",
     "quarter": "21Q4",
     "numDept": "1",
-    "mapStatus": "1",
+    "mapStatus": "2",
     "mtsid": "420603",
     "name": "Grand Pace",
     "mmsi": "357336000",
@@ -157,7 +157,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/12 04:00",
     "destTime": "2021/10/12 02:00",
-    "position": "11.66000\u00b0 / 63.99000\u00b0",
+    "position": "12.56166\u00b0 / 60.44667\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
@@ -346,9 +346,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/07 22:49",
     "destTime": "2021/10/07 14:49",
-    "position": "38.9672\u00b0 / 117.8175\u00b0",
+    "position": "39.02097\u00b0 / 117.7685\u00b0",
     "area": "Bohai Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9443073": {
     "rowidx": 179,
@@ -373,8 +373,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/11 19:30",
     "destTime": "2021/10/11 11:30",
-    "position": "31.07348\u00b0 / 122.7743\u00b0",
-    "area": "East China Sea",
+    "position": "23.38772\u00b0 / 119.795\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   },
   "9189251": {
