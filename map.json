@@ -206,14 +206,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/10/02 21:38",
     "deptTime": "2021/10/02 13:38",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2021/10/08 11:00",
-    "destTime": "2021/10/08 03:00",
-    "position": "1.264012\u00b0 / 103.9603\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/10/08 11:52",
+    "destTime": "2021/10/08 03:52",
+    "position": "1.270487\u00b0 / 103.887\u00b0",
     "area": "Singapore Area",
-    "status": "Underway by Sail"
+    "status": "At Anchor"
   },
   "9604938": {
     "rowidx": 174,
@@ -235,11 +235,11 @@
     "deptTime": "2021/10/08 02:26",
     "dest": "CN YTG",
     "destLong": "Yantai",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2021/10/08 10:57",
     "destTime": "2021/10/08 02:57",
-    "position": "37.58072\u00b0 / 121.4277\u00b0",
-    "area": "Bohai Sea",
+    "position": "37.64347\u00b0 / 121.6583\u00b0",
+    "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
   "9519107": {
@@ -346,7 +346,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/07 22:49",
     "destTime": "2021/10/07 14:49",
-    "position": "39.02096\u00b0 / 117.7686\u00b0",
+    "position": "39.02097\u00b0 / 117.7685\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
