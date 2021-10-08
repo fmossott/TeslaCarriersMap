@@ -1,7 +1,7 @@
 {
   "9303168": {
     "rowidx": 6,
-    "num": "149",
+    "num": "150",
     "manDept": "SFO",
     "notes": "Reported in SFO Port Authority schedule, but probably to be replaced by another ship",
     "quarter": "21Q4",
@@ -29,7 +29,7 @@
   },
   "9169328": {
     "rowidx": 7,
-    "num": "148",
+    "num": "149",
     "manDept": "SFO",
     "notes": "",
     "quarter": "21Q4",
@@ -57,11 +57,11 @@
   },
   "9483786": {
     "rowidx": 8,
-    "num": "147",
+    "num": "148",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "1",
+    "numDept": "2",
     "mapStatus": "2",
     "mtsid": "365110",
     "name": "Arabian Sea",
@@ -83,8 +83,36 @@
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
+  "9357327": {
+    "rowidx": 9,
+    "num": "147",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "21Q4",
+    "numDept": "1",
+    "mapStatus": "2",
+    "mtsid": "370598",
+    "name": "Garnet Leader",
+    "mmsi": "309905000",
+    "length": "199.91",
+    "breadth": "32.28",
+    "grossTonnage": "57,692",
+    "dept": "TR DRC",
+    "deptLong": "Derince",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/10/05 23:24",
+    "deptTime": "2021/10/05 20:24",
+    "dest": "BE ZEE",
+    "destLong": "Zeebrugge",
+    "destType": "ETA",
+    "destLocalTime": "2021/10/12 23:00",
+    "destTime": "2021/10/12 21:00",
+    "position": "37.5474\u00b0 / 10.73808\u00b0",
+    "area": "West Mediterranean",
+    "status": "Underway using Engine"
+  },
   "9383417": {
-    "rowidx": 169,
+    "rowidx": 170,
     "num": "",
     "manDept": "SHG",
     "notes": "",
@@ -107,12 +135,12 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/07 11:17",
     "destTime": "2021/10/07 09:17",
-    "position": "51.31664\u00b0 / 3.225398\u00b0",
+    "position": "51.31663\u00b0 / 3.225385\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
   "9138513": {
-    "rowidx": 170,
+    "rowidx": 171,
     "num": "",
     "manDept": "SHG",
     "notes": "",
@@ -135,12 +163,12 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/08 20:00",
     "destTime": "2021/10/08 18:00",
-    "position": "29.535\u00b0 / 32.59167\u00b0",
+    "position": "29.75333\u00b0 / 32.54\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
   "9409326": {
-    "rowidx": 171,
+    "rowidx": 172,
     "num": "",
     "manDept": "SHG",
     "notes": "",
@@ -168,7 +196,7 @@
     "status": "Out of Range"
   },
   "9267687": {
-    "rowidx": 172,
+    "rowidx": 173,
     "num": "",
     "manDept": "SHG",
     "notes": "",
@@ -196,7 +224,7 @@
     "status": "Out of Range"
   },
   "9311854": {
-    "rowidx": 173,
+    "rowidx": 174,
     "num": "",
     "manDept": "SHG",
     "notes": "",
@@ -219,12 +247,12 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/08 11:52",
     "destTime": "2021/10/08 03:52",
-    "position": "1.269805\u00b0 / 103.886\u00b0",
+    "position": "1.269713\u00b0 / 103.8859\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
   "9519107": {
-    "rowidx": 174,
+    "rowidx": 175,
     "num": "",
     "manDept": "SHG",
     "notes": "",
@@ -252,7 +280,7 @@
     "status": "Out of Range"
   },
   "9273894": {
-    "rowidx": 175,
+    "rowidx": 176,
     "num": "",
     "manDept": "SHG",
     "notes": "",
@@ -280,7 +308,7 @@
     "status": "Out of Range"
   },
   "9303194": {
-    "rowidx": 176,
+    "rowidx": 177,
     "num": "",
     "manDept": "SHG",
     "notes": "",
@@ -308,7 +336,7 @@
     "status": "Out of Range"
   },
   "9391581": {
-    "rowidx": 177,
+    "rowidx": 178,
     "num": "",
     "manDept": "SHG",
     "notes": "",
@@ -331,12 +359,12 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/07 22:49",
     "destTime": "2021/10/07 14:49",
-    "position": "39.02097\u00b0 / 117.7685\u00b0",
+    "position": "39.02096\u00b0 / 117.7685\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
   "9443073": {
-    "rowidx": 178,
+    "rowidx": 179,
     "num": "",
     "manDept": "SHG",
     "notes": "",
@@ -364,7 +392,7 @@
     "status": "Underway using Engine"
   },
   "9722314": {
-    "rowidx": 179,
+    "rowidx": 180,
     "num": "",
     "manDept": "SHG",
     "notes": "",
@@ -387,12 +415,12 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/11 09:00",
     "destTime": "2021/10/11 00:00",
-    "position": "31.32353\u00b0 / 121.6796\u00b0",
+    "position": "31.32351\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
   "9395630": {
-    "rowidx": 180,
+    "rowidx": 181,
     "num": "",
     "manDept": "SFO",
     "notes": "",
@@ -420,7 +448,7 @@
     "status": "Underway using Engine"
   },
   "9203590": {
-    "rowidx": 181,
+    "rowidx": 182,
     "num": "",
     "manDept": "SHG",
     "notes": "",
@@ -443,7 +471,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/08 01:33",
     "destTime": "2021/10/07 17:33",
-    "position": "31.3222\u00b0 / 121.6815\u00b0",
+    "position": "31.32225\u00b0 / 121.6815\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
