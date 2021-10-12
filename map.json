@@ -21,9 +21,9 @@
     "dest": "US SFO",
     "destLong": "San Francisco",
     "destType": "ETA",
-    "destLocalTime": "2021/10/12 23:30",
-    "destTime": "2021/10/13 06:30",
-    "position": "34.86705\u00b0 / -121.2959\u00b0",
+    "destLocalTime": "2021/10/13 03:00",
+    "destTime": "2021/10/13 10:00",
+    "position": "35.12133\u00b0 / -121.5792\u00b0",
     "area": "US West Coast",
     "status": "Underway using Engine"
   },
@@ -303,7 +303,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/12 07:08",
     "destTime": "2021/10/11 23:08",
-    "position": "2.652125\u00b0 / 101.3487\u00b0",
+    "position": "2.778332\u00b0 / 101.1007\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -387,8 +387,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/14 02:00",
     "destTime": "2021/10/13 18:00",
-    "position": "25.02745\u00b0 / 120.1119\u00b0",
-    "area": "East China Sea",
+    "position": "23.72548\u00b0 / 118.4424\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   },
   "9539171": {
@@ -405,18 +405,18 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "60,394",
-    "dept": "CN ZOS",
-    "deptLong": "Zhoushan",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2021/09/06 09:39",
-    "deptTime": "2021/09/06 01:39",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/10/12 04:24",
-    "destTime": "2021/10/11 20:24",
-    "position": "31.32348\u00b0 / 121.6797\u00b0",
+    "deptLocalTime": "2021/10/13 03:58",
+    "deptTime": "2021/10/12 19:58",
+    "dest": "TH LCH",
+    "destLong": "Laem Chabang",
+    "destType": "ETA",
+    "destLocalTime": "2021/10/19 05:00",
+    "destTime": "2021/10/18 22:00",
+    "position": "31.3166\u00b0 / 121.7284\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
