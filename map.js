@@ -48,7 +48,7 @@ class Map {
 
     L.control.layers(
         {
-          "Mapbox Satellite Streets": mapbox,
+          "Mapbox": mapbox,
           "OpenStreetMap": openstreetmap,
         },
         {
