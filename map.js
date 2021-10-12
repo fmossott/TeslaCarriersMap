@@ -22,7 +22,7 @@ class Map {
     var mapbox = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
       attribution: '&copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a> &copy; <a href="http://www.openstreetmap.org/about/">OpenStreetMap</a> <b><a href="https://www.mapbox.com/map-feedback/">Improve this map</a></b>',
       maxZoom: 18,
-      id: 'franco42/ckuflz3t42b8217pm5k01hpah',
+      id: 'franco42/ckuntcr7y826417s0053n3lkg',
       tileSize: 512,
       zoomOffset: -1,
       accessToken: 'pk.eyJ1IjoiZnJhbmNvNDIiLCJhIjoiY2t1Zmx4MnMxMHBkejJucnQzN2g0dngwZSJ9.9Egt_G5G24b7D9Ua8W3YHQ'
