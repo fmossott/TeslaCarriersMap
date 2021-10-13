@@ -20,12 +20,12 @@
     "deptTime": "2021/10/12 10:16",
     "dest": "US SFO",
     "destLong": "San Francisco",
-    "destType": "ETA",
-    "destLocalTime": "2021/10/13 03:00",
-    "destTime": "2021/10/13 10:00",
-    "position": "37.76388\u00b0 / -122.3679\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/10/13 04:15",
+    "destTime": "2021/10/13 11:15",
+    "position": "37.7498\u00b0 / -122.3758\u00b0",
     "area": "US West Coast",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9169328": {
     "rowidx": 7,
@@ -107,7 +107,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/13 03:23",
     "destTime": "2021/10/13 01:23",
-    "position": "51.30395\u00b0 / 3.229425\u00b0",
+    "position": "51.30391\u00b0 / 3.229393\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/13 04:09",
     "destTime": "2021/10/13 02:09",
-    "position": "31.24097\u00b0 / 32.34959\u00b0",
+    "position": "31.41782\u00b0 / 32.40104\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/12 08:00",
     "destTime": "2021/10/12 06:00",
-    "position": "29.29314\u00b0 / 32.71333\u00b0",
+    "position": "29.49016\u00b0 / 32.62546\u00b0",
     "area": "Red Sea",
     "status": "Underway"
   },
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/13 21:00",
     "destTime": "2021/10/13 13:00",
-    "position": "1.29109\u00b0 / 104.22\u00b0",
+    "position": "1.249147\u00b0 / 103.9697\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -359,7 +359,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/14 02:00",
     "destTime": "2021/10/13 18:00",
-    "position": "22.27027\u00b0 / 114.7874\u00b0",
+    "position": "22.27815\u00b0 / 114.7822\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
