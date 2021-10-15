@@ -62,7 +62,7 @@
     "notes": "",
     "quarter": "21Q4",
     "numDept": "2",
-    "mapStatus": "2",
+    "mapStatus": "3",
     "mtsid": "365110",
     "name": "Arabian Sea",
     "mmsi": "538007767",
@@ -79,7 +79,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/15 09:45",
     "destTime": "2021/10/15 07:45",
-    "position": "45.55138\u00b0 / 13.736\u00b0",
+    "position": "45.55142\u00b0 / 13.73598\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/13 22:10",
     "destTime": "2021/10/13 14:10",
-    "position": "4.703155\u00b0 / 98.98016\u00b0",
+    "position": "4.84933\u00b0 / 98.68242\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/15 07:23",
     "destTime": "2021/10/14 23:23",
-    "position": "22.33912\u00b0 / 114.115\u00b0",
+    "position": "22.3391\u00b0 / 114.115\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -387,7 +387,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/14 19:13",
     "destTime": "2021/10/14 11:13",
-    "position": "31.32347\u00b0 / 121.6795\u00b0",
+    "position": "31.32349\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -415,7 +415,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/02 21:00",
     "destTime": "2021/11/02 19:00",
-    "position": "31.32207\u00b0 / 121.6817\u00b0",
+    "position": "31.32201\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
