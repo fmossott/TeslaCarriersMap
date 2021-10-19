@@ -79,7 +79,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/19 11:25",
     "destTime": "2021/10/19 09:25",
-    "position": "43.40191\u00b0 / 4.845072\u00b0",
+    "position": "43.4019\u00b0 / 4.844937\u00b0",
     "area": "West Mediterranean",
     "status": "Moored"
   },
@@ -104,12 +104,12 @@
     "deptTime": "2021/10/18 17:29",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2021/10/19 18:45",
-    "destTime": "2021/10/19 16:45",
-    "position": "51.37183\u00b0 / 3.176793\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/10/19 18:39",
+    "destTime": "2021/10/19 16:39",
+    "position": "51.33386\u00b0 / 3.217442\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9409326": {
     "rowidx": 171,
@@ -433,19 +433,19 @@
     "length": "232.38",
     "breadth": "32.3",
     "grossTonnage": "70,853",
-    "dept": "TW KEL",
-    "deptLong": "Keelung",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2021/10/16 00:00",
-    "deptTime": "2021/10/15 16:00",
+    "deptLocalTime": "2021/10/20 01:23",
+    "deptTime": "2021/10/19 17:23",
     "dest": "CN SHG",
     "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/10/19 12:11",
-    "destTime": "2021/10/19 04:11",
-    "position": "31.32333\u00b0 / 121.6783\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2021/10/22 04:00",
+    "destTime": "2021/10/21 20:00",
+    "position": "31.31629\u00b0 / 121.7297\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9330616": {
     "rowidx": 183,
@@ -471,7 +471,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/26 18:00",
     "destTime": "2021/10/26 10:00",
-    "position": "31.32206\u00b0 / 121.6818\u00b0",
+    "position": "31.32208\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
