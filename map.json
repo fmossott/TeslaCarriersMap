@@ -1,7 +1,7 @@
 {
   "9713882": {
-    "rowidx": 7,
-    "num": "152",
+    "rowidx": 6,
+    "num": "153",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
@@ -26,6 +26,34 @@
     "position": "7.74036\u00b0 / 109.20624\u00b0",
     "area": "Philippines",
     "status": "Out of Range"
+  },
+  "9494905": {
+    "rowidx": 7,
+    "num": "152",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "21Q4",
+    "numDept": "7",
+    "mapStatus": "2",
+    "mtsid": "754763",
+    "name": "Lake Fuxian",
+    "mmsi": "636014472",
+    "length": "199.99",
+    "breadth": "32.26",
+    "grossTonnage": "60,387",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/10/14 19:05",
+    "deptTime": "2021/10/14 11:05",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ETA",
+    "destLocalTime": "2021/10/31 19:00",
+    "destTime": "2021/10/31 17:00",
+    "position": "2.275002\u00b0 / 101.8906\u00b0",
+    "area": "Malacca Strait",
+    "status": "Underway using Engine"
   },
   "9361835": {
     "rowidx": 8,
@@ -77,11 +105,11 @@
     "dest": "TW TPE",
     "destLong": "Taipei",
     "destType": "ETA",
-    "destLocalTime": "2021/10/23 06:00",
-    "destTime": "2021/10/22 22:00",
-    "position": "41.13433\u00b0 / 139.8766\u00b0",
+    "destLocalTime": "2021/10/23 07:00",
+    "destTime": "2021/10/22 23:00",
+    "position": "36.35814\u00b0 / 132.8085\u00b0",
     "area": "Japan Coast",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9138513": {
     "rowidx": 10,
