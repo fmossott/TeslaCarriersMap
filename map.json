@@ -219,9 +219,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/22 04:00",
     "destTime": "2021/10/22 02:00",
-    "position": "43.57865\u00b0 / 10.30597\u00b0",
+    "position": "43.57854\u00b0 / 10.30534\u00b0",
     "area": "Ligurean Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9311854": {
     "rowidx": 175,
@@ -247,9 +247,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/20 20:36",
     "destTime": "2021/10/20 18:36",
-    "position": "29.84833\u00b0 / 32.56\u00b0",
+    "position": "29.84833\u00b0 / 32.56167\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Stopped"
   },
   "9519107": {
     "rowidx": 176,
@@ -415,7 +415,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/21 02:40",
     "destTime": "2021/10/20 18:40",
-    "position": "39.02089\u00b0 / 117.7686\u00b0",
+    "position": "39.02088\u00b0 / 117.7686\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
