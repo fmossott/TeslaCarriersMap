@@ -5,7 +5,7 @@
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "8",
+    "numDept": "5",
     "mapStatus": "2",
     "mtsid": "1881242",
     "name": "Lake Geneva",
@@ -33,7 +33,7 @@
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "7",
+    "numDept": "4",
     "mapStatus": "2",
     "mtsid": "754763",
     "name": "Lake Fuxian",
@@ -117,7 +117,7 @@
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "0",
+    "numDept": "3",
     "mapStatus": "3",
     "mtsid": "732848",
     "name": "Don Pasquale",
@@ -135,7 +135,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/19 18:39",
     "destTime": "2021/10/19 16:39",
-    "position": "51.31661\u00b0 / 3.225207\u00b0",
+    "position": "51.3166\u00b0 / 3.225237\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/26 20:00",
     "destTime": "2021/10/26 18:00",
-    "position": "10.40551\u00b0 / 69.12386\u00b0",
+    "position": "11.36480\u00b0 / 65.61992\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
@@ -303,7 +303,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/13 22:10",
     "destTime": "2021/10/13 14:10",
-    "position": "17.98519\u00b0 / 71.05701\u00b0",
+    "position": "18.28069\u00b0 / 70.99828\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -359,7 +359,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/19 07:53",
     "destTime": "2021/10/18 23:53",
-    "position": "6.117754\u00b0 / 95.47912\u00b0",
+    "position": "6.180439\u00b0 / 95.16548\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -491,17 +491,17 @@
     "grossTonnage": "59,705",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/10/19 13:24",
-    "deptTime": "2021/10/19 05:24",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/10/20 23:57",
+    "deptTime": "2021/10/20 15:57",
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
     "destLocalTime": "2021/10/26 12:00",
     "destTime": "2021/10/26 04:00",
-    "position": "31.32208\u00b0 / 121.6818\u00b0",
+    "position": "31.31723\u00b0 / 121.7233\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Not Under Command"
   },
   "9514999": {
     "rowidx": 185,
@@ -527,8 +527,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/27 08:01",
     "destTime": "2021/10/27 00:01",
-    "position": "31.32365\u00b0 / 121.6793\u00b0",
+    "position": "31.32607\u00b0 / 121.6856\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Constrained by her Draught"
   }
 }
