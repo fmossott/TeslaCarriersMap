@@ -209,17 +209,17 @@
     "length": "199.54",
     "breadth": "32.26",
     "grossTonnage": "57,789",
-    "dept": "GR PIR",
-    "deptLong": "Piraeus",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/10/17 23:19",
-    "deptTime": "2021/10/17 20:19",
-    "dest": "IT LIV",
-    "destLong": "Livorno",
-    "destType": "ATA",
-    "destLocalTime": "2021/10/20 10:38",
-    "destTime": "2021/10/20 08:38",
-    "position": "43.57861\u00b0 / 10.30597\u00b0",
+    "dept": "IT LIV",
+    "deptLong": "Livorno",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/10/20 11:38",
+    "deptTime": "2021/10/20 08:38",
+    "dest": "ES BCN",
+    "destLong": "Barcelona",
+    "destType": "ETA",
+    "destLocalTime": "2021/10/22 04:00",
+    "destTime": "2021/10/22 02:00",
+    "position": "43.57865\u00b0 / 10.30597\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -249,7 +249,7 @@
     "destTime": "2021/10/20 18:36",
     "position": "29.84833\u00b0 / 32.56\u00b0",
     "area": "Red Sea",
-    "status": "Stopped"
+    "status": "At Anchor"
   },
   "9519107": {
     "rowidx": 176,
@@ -415,7 +415,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/21 02:40",
     "destTime": "2021/10/20 18:40",
-    "position": "39.02087\u00b0 / 117.7687\u00b0",
+    "position": "39.02089\u00b0 / 117.7686\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -471,9 +471,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/22 05:00",
     "destTime": "2021/10/21 21:00",
-    "position": "31.08761\u00b0 / 122.7119\u00b0",
+    "position": "35.10666\u00b0 / 124.25000\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9330616": {
     "rowidx": 184,
