@@ -79,7 +79,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/23 08:00",
     "destTime": "2021/10/23 06:00",
-    "position": "43.40192\u00b0 / 4.84496\u00b0",
+    "position": "43.40193\u00b0 / 4.844962\u00b0",
     "area": "West Mediterranean",
     "status": "Moored"
   },
@@ -107,7 +107,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/19 18:39",
     "destTime": "2021/10/19 16:39",
-    "position": "51.31661\u00b0 / 3.225225\u00b0",
+    "position": "51.31659\u00b0 / 3.225192\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/13 22:10",
     "destTime": "2021/10/13 14:10",
-    "position": "15.42912\u00b0 / 71.68052\u00b0",
+    "position": "15.69825\u00b0 / 71.60896\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -275,9 +275,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/23 11:00",
     "destTime": "2021/10/23 07:00",
-    "position": "10.82667\u00b0 / 73.97833\u00b0",
+    "position": "12.9329\u00b0 / 71.78353\u00b0",
     "area": "Laccadive Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9441867": {
     "rowidx": 177,
@@ -471,8 +471,22 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/26 12:00",
     "destTime": "2021/10/26 04:00",
-    "position": "31.32208\u00b0 / 121.6819\u00b0",
+    "position": "31.32212\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
+  },
+  "9514999": {
+    "rowidx": 184,
+    "num": "",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "21Q4",
+    "numDept": "15",
+    "mtsid": "",
+    "name": "",
+    "mmsi": "",
+    "length": "",
+    "breadth": "",
+    "grossTonnage": ""
   }
 }
