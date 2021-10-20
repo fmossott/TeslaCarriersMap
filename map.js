@@ -27,7 +27,6 @@ class Map {
       zoomOffset: -1,
       accessToken: 'pk.eyJ1IjoiZnJhbmNvNDIiLCJhIjoiY2t1Zmx4MnMxMHBkejJucnQzN2g0dngwZSJ9.9Egt_G5G24b7D9Ua8W3YHQ'
     })
-    mapbox.addTo(this.featureGroupTiles);
 
     var openstreetmap = L.tileLayer(
       "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
@@ -42,14 +41,15 @@ class Map {
         subdomains: "abc", 
         tms: false }
     )
+    openstreetmap.addTo(this.featureGroupTiles);
 
     this.featureGroupConfirmedShips = L.featureGroup().addTo(this.map);
     this.featureGroupWatchList = L.featureGroup().addTo(this.map);
 
     L.control.layers(
         {
-          "Mapbox": mapbox,
           "OpenStreetMap": openstreetmap,
+          "Mapbox": mapbox,
         },
         {
           "Watchlist" : this.featureGroupWatchList,
