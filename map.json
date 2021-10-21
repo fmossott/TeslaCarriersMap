@@ -211,15 +211,15 @@
     "grossTonnage": "57,789",
     "dept": "IT LIV",
     "deptLong": "Livorno",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/10/20 11:38",
-    "deptTime": "2021/10/20 08:38",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/10/21 01:27",
+    "deptTime": "2021/10/20 23:27",
     "dest": "ES BCN",
     "destLong": "Barcelona",
     "destType": "ETA",
     "destLocalTime": "2021/10/22 04:00",
     "destTime": "2021/10/22 02:00",
-    "position": "43.57854\u00b0 / 10.30534\u00b0",
+    "position": "43.41653\u00b0 / 9.401865\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -247,9 +247,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/20 20:36",
     "destTime": "2021/10/20 18:36",
-    "position": "29.84833\u00b0 / 32.56167\u00b0",
+    "position": "29.91027\u00b0 / 32.54637\u00b0",
     "area": "Red Sea",
-    "status": "Stopped"
+    "status": "Underway"
   },
   "9519107": {
     "rowidx": 176,
@@ -415,7 +415,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/21 02:40",
     "destTime": "2021/10/20 18:40",
-    "position": "39.02088\u00b0 / 117.7686\u00b0",
+    "position": "39.0209\u00b0 / 117.7686\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
