@@ -135,9 +135,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/19 18:39",
     "destTime": "2021/10/19 16:39",
-    "position": "51.29709\u00b0 / 3.240333\u00b0",
+    "position": "51.29679\u00b0 / 3.241297\u00b0",
     "area": "North Sea",
-    "status": "Underway"
+    "status": "Moored"
   },
   "9483786": {
     "rowidx": 11,
@@ -155,17 +155,17 @@
     "grossTonnage": "46,800",
     "dept": "FR FOS",
     "deptLong": "Fos Sur Mer",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/10/19 11:25",
-    "deptTime": "2021/10/19 09:25",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/10/21 17:14",
+    "deptTime": "2021/10/21 15:14",
     "dest": "ES BCN",
     "destLong": "Barcelona",
     "destType": "ETA",
     "destLocalTime": "2021/10/22 06:40",
     "destTime": "2021/10/22 04:40",
-    "position": "43.40194\u00b0 / 4.844945\u00b0",
+    "position": "43.34793\u00b0 / 4.967993\u00b0",
     "area": "West Mediterranean",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9409326": {
     "rowidx": 173,
@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/22 04:00",
     "destTime": "2021/10/22 02:00",
-    "position": "42.26759\u00b0 / 5.585834\u00b0",
+    "position": "42.18922\u00b0 / 5.297965\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -303,7 +303,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/13 22:10",
     "destTime": "2021/10/13 14:10",
-    "position": "20.8808\u00b0 / 71.49869\u00b0",
+    "position": "20.68951\u00b0 / 71.65942\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -553,9 +553,9 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2021/10/25 20:30",
-    "destTime": "2021/10/25 12:30",
-    "position": "31.32356\u00b0 / 121.6796\u00b0",
+    "destLocalTime": "2021/10/27 07:00",
+    "destTime": "2021/10/26 23:00",
+    "position": "31.32355\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
