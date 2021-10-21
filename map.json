@@ -135,9 +135,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/19 18:39",
     "destTime": "2021/10/19 16:39",
-    "position": "51.3166\u00b0 / 3.225247\u00b0",
+    "position": "51.29709\u00b0 / 3.240333\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Underway"
   },
   "9483786": {
     "rowidx": 11,
@@ -161,11 +161,11 @@
     "dest": "ES BCN",
     "destLong": "Barcelona",
     "destType": "ETA",
-    "destLocalTime": "2021/10/23 08:00",
-    "destTime": "2021/10/23 06:00",
-    "position": "43.40193\u00b0 / 4.84495\u00b0",
+    "destLocalTime": "2021/10/22 06:40",
+    "destTime": "2021/10/22 04:40",
+    "position": "43.40194\u00b0 / 4.844945\u00b0",
     "area": "West Mediterranean",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9409326": {
     "rowidx": 173,
@@ -293,19 +293,19 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "61,854",
-    "dept": "SG SIN",
-    "deptLong": "Singapore",
+    "dept": "IN PAV",
+    "deptLong": "Pipavav",
     "deptType": "ATD",
     "deptLocalTime": "2021/10/14 20:00",
     "deptTime": "2021/10/14 12:00",
-    "dest": "IN PAV",
-    "destLong": "Pipavav",
-    "destType": "ATA",
+    "dest": "IN BOM",
+    "destLong": "Mumbai",
+    "destType": "ETA",
     "destLocalTime": "2021/10/13 22:10",
     "destTime": "2021/10/13 14:10",
-    "position": "20.91643\u00b0 / 71.50732\u00b0",
+    "position": "20.8808\u00b0 / 71.49869\u00b0",
     "area": "West Coast India",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9203590": {
     "rowidx": 178,
@@ -555,7 +555,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/25 20:30",
     "destTime": "2021/10/25 12:30",
-    "position": "31.32357\u00b0 / 121.6796\u00b0",
+    "position": "31.32356\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
