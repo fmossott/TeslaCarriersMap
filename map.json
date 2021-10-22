@@ -107,9 +107,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/23 07:00",
     "destTime": "2021/10/22 23:00",
-    "position": "28.30500\u00b0 / 123.76667\u00b0",
+    "position": "25.87193\u00b0 / 121.6754\u00b0",
     "area": "East China Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9311854": {
     "rowidx": 10,
@@ -158,12 +158,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/10/22 09:14",
     "deptTime": "2021/10/22 07:14",
-    "dest": "BE ANTWERP ANCH",
+    "dest": "BE ANR",
     "destLong": "Antwerp",
-    "destType": "ATA",
-    "destLocalTime": "2021/10/22 11:38",
-    "destTime": "2021/10/22 09:38",
-    "position": "51.39471\u00b0 / 2.752167\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2021/10/22 16:00",
+    "destTime": "2021/10/22 14:00",
+    "position": "51.40724\u00b0 / 3.048688\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/23 08:00",
     "destTime": "2021/10/23 07:00",
-    "position": "48.73073\u00b0 / -6.383905\u00b0",
+    "position": "49.21042\u00b0 / -6.072915\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
@@ -303,7 +303,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/13 22:10",
     "destTime": "2021/10/13 14:10",
-    "position": "18.94394\u00b0 / 72.85437\u00b0",
+    "position": "18.94391\u00b0 / 72.85429\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
@@ -471,7 +471,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/22 09:54",
     "destTime": "2021/10/22 01:54",
-    "position": "39.02\u00b0 / 117.7683\u00b0",
+    "position": "39.02084\u00b0 / 117.7687\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
