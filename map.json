@@ -107,7 +107,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/23 06:11",
     "destTime": "2021/10/22 22:11",
-    "position": "25.43719\u00b0 / 121.3021\u00b0",
+    "position": "25.66142\u00b0 / 121.4031\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -163,9 +163,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/23 08:00",
     "destTime": "2021/10/23 07:00",
-    "position": "51.49885\u00b0 / -2.726595\u00b0",
+    "position": "51.49281\u00b0 / -2.717743\u00b0",
     "area": "Bristol Channel",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9519107": {
     "rowidx": 175,
@@ -237,14 +237,14 @@
     "length": "232.37",
     "breadth": "32",
     "grossTonnage": "72,408",
-    "dept": "SG SIN",
-    "deptLong": "Singapore",
+    "dept": "LK HBA",
+    "deptLong": "Hambantota",
     "deptType": "ATD",
     "deptLocalTime": "2021/10/19 17:02",
     "deptTime": "2021/10/19 09:02",
     "dest": "LK HBA",
     "destLong": "Hambantota",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2021/10/19 07:53",
     "destTime": "2021/10/18 23:53",
     "position": "6.12542\u00b0 / 81.09729\u00b0",
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/22 09:54",
     "destTime": "2021/10/22 01:54",
-    "position": "39.02082\u00b0 / 117.7687\u00b0",
+    "position": "39.02084\u00b0 / 117.7687\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
