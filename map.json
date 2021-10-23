@@ -219,9 +219,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/23 21:31",
     "destTime": "2021/10/23 17:31",
-    "position": "25.03208\u00b0 / 55.03388\u00b0",
-    "area": "Dubai Area",
-    "status": "Underway using Engine"
+    "position": "24.99171\u00b0 / 55.07781\u00b0",
+    "area": "Persian Gulf",
+    "status": "Stopped"
   },
   "9441867": {
     "rowidx": 177,
@@ -489,19 +489,19 @@
     "length": "199.95",
     "breadth": "32.2",
     "grossTonnage": "58,685",
-    "dept": "CN TXG",
-    "deptLong": "Tianjin",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2021/10/19 08:55",
-    "deptTime": "2021/10/19 00:55",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/10/23 01:36",
-    "destTime": "2021/10/22 17:36",
-    "position": "31.32338\u00b0 / 121.6796\u00b0",
+    "deptLocalTime": "2021/10/24 02:03",
+    "deptTime": "2021/10/23 18:03",
+    "dest": "CN XNA",
+    "destLong": "Xinsha",
+    "destType": "ETA",
+    "destLocalTime": "2021/10/26 10:00",
+    "destTime": "2021/10/26 02:00",
+    "position": "31.29237\u00b0 / 121.7945\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9590591": {
     "rowidx": 187,
@@ -527,7 +527,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/23 13:35",
     "destTime": "2021/10/23 05:35",
-    "position": "31.32212\u00b0 / 121.6818\u00b0",
+    "position": "31.32214\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
