@@ -97,19 +97,19 @@
     "length": "179.16",
     "breadth": "32.29",
     "grossTonnage": "50,309",
-    "dept": "US SFO",
-    "deptLong": "San Francisco",
+    "dept": "TW TPE",
+    "deptLong": "Taipei",
     "deptType": "ATD",
-    "deptLocalTime": "2021/10/07 05:14",
-    "deptTime": "2021/10/07 12:14",
+    "deptLocalTime": "2021/10/23 15:40",
+    "deptTime": "2021/10/23 07:40",
     "dest": "TW TPE",
     "destLong": "Taipei",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2021/10/23 06:11",
     "destTime": "2021/10/22 22:11",
-    "position": "25.15931\u00b0 / 121.3948\u00b0",
+    "position": "25.23155\u00b0 / 121.2828\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9311854": {
     "rowidx": 10,
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/23 08:00",
     "destTime": "2021/10/23 07:00",
-    "position": "51.34739\u00b0 / -3.278365\u00b0",
+    "position": "51.45796\u00b0 / -2.934035\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -247,7 +247,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/19 07:53",
     "destTime": "2021/10/18 23:53",
-    "position": "6.12537\u00b0 / 81.09727\u00b0",
+    "position": "6.12542\u00b0 / 81.09729\u00b0",
     "area": "Malacca Strait",
     "status": "Out of Range"
   },
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/22 09:54",
     "destTime": "2021/10/22 01:54",
-    "position": "39.02083\u00b0 / 117.7687\u00b0",
+    "position": "39.02\u00b0 / 117.7683\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -387,9 +387,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/27 08:01",
     "destTime": "2021/10/27 00:01",
-    "position": "25.09613\u00b0 / 120.1089\u00b0",
+    "position": "23.03227\u00b0 / 117.54041\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9690547": {
     "rowidx": 183,
