@@ -135,7 +135,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/30 12:00",
     "destTime": "2021/10/30 11:00",
-    "position": "33.9996\u00b0 / 25.92294\u00b0",
+    "position": "35.29141\u00b0 / 20.13505\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/23 08:00",
     "destTime": "2021/10/23 07:00",
-    "position": "51.33935\u00b0 / -3.68027\u00b0",
+    "position": "51.34764\u00b0 / -3.479147\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -359,7 +359,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/22 09:54",
     "destTime": "2021/10/22 01:54",
-    "position": "39.02082\u00b0 / 117.7687\u00b0",
+    "position": "39.02081\u00b0 / 117.7687\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -491,16 +491,16 @@
     "grossTonnage": "58,947",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/10/22 13:27",
-    "deptTime": "2021/10/22 05:27",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/10/23 13:25",
+    "deptTime": "2021/10/23 05:25",
     "dest": "CN TXG",
     "destLong": "Tianjin",
     "destType": "ETA",
     "destLocalTime": "2021/10/25 15:00",
     "destTime": "2021/10/25 07:00",
-    "position": "31.32217\u00b0 / 121.6815\u00b0",
+    "position": "31.28522\u00b0 / 121.8135\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
