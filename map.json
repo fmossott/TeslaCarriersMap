@@ -79,7 +79,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/01 16:15",
     "destTime": "2021/11/01 08:15",
-    "position": "31.89253\u00b0 / 175.40802\u00b0",
+    "position": "31.45807\u00b0 / 168.24092\u00b0",
     "area": "US West Coast",
     "status": "Out of Range"
   },
@@ -219,7 +219,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/23 21:31",
     "destTime": "2021/10/23 17:31",
-    "position": "24.99165\u00b0 / 55.07786\u00b0",
+    "position": "24.99164\u00b0 / 55.07786\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -517,18 +517,18 @@
     "length": "199.98",
     "breadth": "32.25",
     "grossTonnage": "58,288",
-    "dept": "KW KWI",
-    "deptLong": "Kuwait",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2021/09/30 00:22",
-    "deptTime": "2021/09/29 21:22",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/10/23 13:35",
-    "destTime": "2021/10/23 05:35",
-    "position": "31.32214\u00b0 / 121.6818\u00b0",
+    "deptLocalTime": "2021/10/24 13:54",
+    "deptTime": "2021/10/24 05:54",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/10 18:00",
+    "destTime": "2021/11/10 16:00",
+    "position": "31.29801\u00b0 / 121.7792\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
