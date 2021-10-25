@@ -102,14 +102,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/10/23 15:40",
     "deptTime": "2021/10/23 07:40",
-    "dest": "TW TPE",
-    "destLong": "Taipei",
+    "dest": "KR PTK",
+    "destLong": "Pyeongtaek",
     "destType": "ETA",
-    "destLocalTime": "2021/10/23 06:11",
-    "destTime": "2021/10/22 22:11",
-    "position": "35.80333\u00b0 / 125.49167\u00b0",
-    "area": "East China Sea",
-    "status": "Out of Range"
+    "destLocalTime": "2021/10/25 20:00",
+    "destTime": "2021/10/25 11:00",
+    "position": "37.07701\u00b0 / 126.3225\u00b0",
+    "area": "Yellow Sea",
+    "status": "Underway using Engine"
   },
   "9311854": {
     "rowidx": 10,
@@ -216,12 +216,12 @@
     "deptTime": "2021/10/24 19:11",
     "dest": "QA HMD",
     "destLong": "Hamad",
-    "destType": "ETA",
-    "destLocalTime": "2021/10/25 11:00",
-    "destTime": "2021/10/25 08:00",
-    "position": "25.04832\u00b0 / 51.69333\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/10/25 11:46",
+    "destTime": "2021/10/25 08:46",
+    "position": "25.00611\u00b0 / 51.60063\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9441867": {
     "rowidx": 177,
@@ -303,7 +303,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/25 07:40",
     "destTime": "2021/10/24 23:40",
-    "position": "1.285867\u00b0 / 103.7561\u00b0",
+    "position": "1.285833\u00b0 / 103.756\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -415,7 +415,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/28 02:00",
     "destTime": "2021/10/27 18:00",
-    "position": "20.25716\u00b0 / 117.15965\u00b0",
+    "position": "16.89553\u00b0 / 115.81201\u00b0",
     "area": "East China Sea",
     "status": "Out of Range"
   },
@@ -443,7 +443,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/25 13:08",
     "destTime": "2021/10/25 05:08",
-    "position": "39.02094\u00b0 / 117.7687\u00b0",
+    "position": "39.02093\u00b0 / 117.7686\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -555,7 +555,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/25 14:37",
     "destTime": "2021/10/25 06:37",
-    "position": "31.32217\u00b0 / 121.6816\u00b0",
+    "position": "31.32212\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
