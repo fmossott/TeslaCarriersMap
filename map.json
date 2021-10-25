@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/25 23:00",
     "destTime": "2021/10/25 22:00",
-    "position": "51.30212\u00b0 / -4.067771\u00b0",
+    "position": "50.87569\u00b0 / -4.992638\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/25 11:00",
     "destTime": "2021/10/25 08:00",
-    "position": "25.37889\u00b0 / 54.09525\u00b0",
+    "position": "25.50769\u00b0 / 53.53127\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -300,12 +300,12 @@
     "deptTime": "2021/10/19 03:49",
     "dest": "SG SIN",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2021/10/25 06:00",
-    "destTime": "2021/10/24 22:00",
-    "position": "1.238983\u00b0 / 103.9377\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/10/25 07:40",
+    "destTime": "2021/10/24 23:40",
+    "position": "1.285867\u00b0 / 103.756\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9330616": {
     "rowidx": 180,
@@ -441,9 +441,9 @@
     "dest": "CN TXG",
     "destLong": "Tianjin",
     "destType": "ETA",
-    "destLocalTime": "2021/10/25 13:00",
-    "destTime": "2021/10/25 05:00",
-    "position": "38.7538\u00b0 / 119.5999\u00b0",
+    "destLocalTime": "2021/10/25 12:30",
+    "destTime": "2021/10/25 04:30",
+    "position": "38.80831\u00b0 / 118.8771\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
@@ -471,7 +471,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/26 10:00",
     "destTime": "2021/10/26 02:00",
-    "position": "25.30178\u00b0 / 120.3192\u00b0",
+    "position": "24.63822\u00b0 / 119.6437\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
