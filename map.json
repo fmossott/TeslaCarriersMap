@@ -163,8 +163,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/25 23:00",
     "destTime": "2021/10/25 22:00",
-    "position": "49.90083\u00b0 / -5.380387\u00b0",
-    "area": "Celtic Sea",
+    "position": "49.94476\u00b0 / -4.794372\u00b0",
+    "area": "English Channel",
     "status": "Underway using Engine"
   },
   "9519107": {
@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/25 11:00",
     "destTime": "2021/10/25 08:00",
-    "position": "25.21122\u00b0 / 51.73323\u00b0",
+    "position": "25.04832\u00b0 / 51.69333\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -303,7 +303,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/25 07:40",
     "destTime": "2021/10/24 23:40",
-    "position": "1.285883\u00b0 / 103.756\u00b0",
+    "position": "1.285867\u00b0 / 103.7561\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -443,9 +443,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/25 13:08",
     "destTime": "2021/10/25 05:08",
-    "position": "39.02\u00b0 / 117.7683\u00b0",
+    "position": "39.02094\u00b0 / 117.7687\u00b0",
     "area": "Bohai Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9338838": {
     "rowidx": 185,
@@ -471,8 +471,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/26 10:00",
     "destTime": "2021/10/26 02:00",
-    "position": "24.62325\u00b0 / 119.6299\u00b0",
-    "area": "East China Sea",
+    "position": "23.21158\u00b0 / 117.7981\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   },
   "9590591": {
@@ -503,41 +503,13 @@
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
-  "9293519": {
+  "9293521": {
     "rowidx": 187,
     "num": "-27",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
     "numDept": "14",
-    "mapStatus": "4",
-    "mtsid": "461290",
-    "name": "Marvelous Ace",
-    "mmsi": "431058000",
-    "length": "199.97",
-    "breadth": "32.26",
-    "grossTonnage": "59,161",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/10/25 02:16",
-    "deptTime": "2021/10/24 18:16",
-    "dest": "AU FRE",
-    "destLong": "Fremantle",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/06 08:01",
-    "destTime": "2021/11/06 00:01",
-    "position": "29.71196\u00b0 / 123.5111\u00b0",
-    "area": "East China Sea",
-    "status": "Underway using Engine"
-  },
-  "9293521": {
-    "rowidx": 188,
-    "num": "-28",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "21Q4",
-    "numDept": "15",
     "mapStatus": "4",
     "mtsid": "385207",
     "name": "Miraculous Ace",
@@ -560,12 +532,12 @@
     "status": "Underway using Engine"
   },
   "9536961": {
-    "rowidx": 189,
-    "num": "-29",
+    "rowidx": 188,
+    "num": "-28",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "16",
+    "numDept": "15",
     "mapStatus": "4",
     "mtsid": "461691",
     "name": "Durban Highway",
@@ -583,8 +555,8 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/25 14:37",
     "destTime": "2021/10/25 06:37",
-    "position": "31.32215\u00b0 / 121.6815\u00b0",
+    "position": "31.32217\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
-    "status": "Stopped"
+    "status": "Moored"
   }
 }
