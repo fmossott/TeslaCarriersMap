@@ -107,7 +107,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/25 20:39",
     "destTime": "2021/10/25 11:39",
-    "position": "36.983\u00b0 / 126.8242\u00b0",
+    "position": "36.98306\u00b0 / 126.8243\u00b0",
     "area": "Yellow Sea",
     "status": "Moored"
   },
@@ -161,9 +161,9 @@
     "dest": "GB SOU",
     "destLong": "Southampton",
     "destType": "ETA",
-    "destLocalTime": "2021/10/25 23:00",
-    "destTime": "2021/10/25 22:00",
-    "position": "50.38923\u00b0 / -1.793392\u00b0",
+    "destLocalTime": "2021/10/26 04:45",
+    "destTime": "2021/10/26 03:45",
+    "position": "50.39989\u00b0 / -1.779152\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/26 18:00",
     "destTime": "2021/10/26 16:00",
-    "position": "24.60503\u00b0 / 36.26595\u00b0",
+    "position": "25.17213\u00b0 / 35.9063\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -219,7 +219,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/25 11:46",
     "destTime": "2021/10/25 08:46",
-    "position": "25.00594\u00b0 / 51.60009\u00b0",
+    "position": "25.0059\u00b0 / 51.60011\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -443,7 +443,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/25 13:08",
     "destTime": "2021/10/25 05:08",
-    "position": "39.02\u00b0 / 117.7683\u00b0",
+    "position": "39.02092\u00b0 / 117.7687\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -545,18 +545,18 @@
     "length": "199.91",
     "breadth": "32.26",
     "grossTonnage": "58,997",
-    "dept": "MX LZC",
-    "deptLong": "Lazaro Cardenas",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2021/10/07 10:39",
-    "deptTime": "2021/10/07 15:39",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/10/25 14:37",
-    "destTime": "2021/10/25 06:37",
-    "position": "31.32215\u00b0 / 121.6815\u00b0",
+    "deptLocalTime": "2021/10/26 02:09",
+    "deptTime": "2021/10/25 18:09",
+    "dest": "CN YTG",
+    "destLong": "Yantai",
+    "destType": "ETA",
+    "destLocalTime": "2021/10/28 01:30",
+    "destTime": "2021/10/27 17:30",
+    "position": "31.29652\u00b0 / 121.7839\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
