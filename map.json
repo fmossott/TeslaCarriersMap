@@ -135,7 +135,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/30 04:00",
     "destTime": "2021/10/30 03:00",
-    "position": "41.95443\u00b0 / -9.793593\u00b0",
+    "position": "43.30765\u00b0 / -9.689339\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/27 23:08",
     "destTime": "2021/10/27 21:08",
-    "position": "51.32291\u00b0 / 3.210402\u00b0",
+    "position": "51.32291\u00b0 / 3.210395\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -293,19 +293,19 @@
     "length": "199.1",
     "breadth": "32.24",
     "grossTonnage": "59,705",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/10/20 23:57",
-    "deptTime": "2021/10/20 15:57",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2021/10/28 05:15",
-    "destTime": "2021/10/27 21:15",
-    "position": "1.286002\u00b0 / 103.7562\u00b0",
+    "dept": "SG SIN",
+    "deptLong": "Singapore",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/10/28 05:15",
+    "deptTime": "2021/10/27 21:15",
+    "dest": "SD PZU",
+    "destLong": "Port Sudan",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/09 06:00",
+    "destTime": "2021/11/09 03:00",
+    "position": "1.28602\u00b0 / 103.7562\u00b0",
     "area": "Singapore Area",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9514999": {
     "rowidx": 181,
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/27 06:41",
     "destTime": "2021/10/26 22:41",
-    "position": "1.28692\u00b0 / 103.9176\u00b0",
+    "position": "1.28698\u00b0 / 103.9175\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -376,7 +376,7 @@
     "mmsi": "431585000",
     "length": "199.99",
     "breadth": "32.26",
-    "grossTonnage": "60,118",
+    "grossTonnage": "60,169",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
     "deptType": "ATD",
@@ -387,7 +387,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/28 08:27",
     "destTime": "2021/10/28 00:27",
-    "position": "1.2644\u00b0 / 103.8476\u00b0",
+    "position": "1.264383\u00b0 / 103.8476\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -415,9 +415,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/26 10:00",
     "destTime": "2021/10/26 02:00",
-    "position": "22.08538\u00b0 / 113.8944\u00b0",
+    "position": "22.08563\u00b0 / 113.8944\u00b0",
     "area": "South China",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9293521": {
     "rowidx": 185,
