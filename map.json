@@ -387,7 +387,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/26 10:00",
     "destTime": "2021/10/26 02:00",
-    "position": "22.08587\u00b0 / 113.8947\u00b0",
+    "position": "22.08583\u00b0 / 113.8946\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
@@ -472,7 +472,7 @@
     "destLocalTime": "2021/10/29 10:00",
     "destTime": "2021/10/29 02:00",
     "position": "38.20272\u00b0 / 122.4937\u00b0",
-    "area": "East China Sea",
+    "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
   "9188805": {
@@ -499,9 +499,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/29 23:00",
     "destTime": "2021/10/29 15:00",
-    "position": "30.93687\u00b0 / 122.8799\u00b0",
+    "position": "35.68500\u00b0 / 122.91500\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9561617": {
     "rowidx": 188,
@@ -553,8 +553,8 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2021/11/05 15:00",
-    "destTime": "2021/11/05 07:00",
+    "destLocalTime": "2021/11/03 15:00",
+    "destTime": "2021/11/03 07:00",
     "position": "31.32349\u00b0 / 121.6797\u00b0",
     "area": "East China Sea",
     "status": "Moored"
@@ -583,7 +583,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/28 03:36",
     "destTime": "2021/10/27 19:36",
-    "position": "31.32212\u00b0 / 121.682\u00b0",
+    "position": "31.32211\u00b0 / 121.682\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
