@@ -102,14 +102,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/10/14 19:05",
     "deptTime": "2021/10/14 11:05",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/01 00:30",
-    "destTime": "2021/10/31 22:30",
-    "position": "29.71559\u00b0 / 32.55033\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/10/31 22:34",
+    "destTime": "2021/10/31 20:34",
+    "position": "29.79503\u00b0 / 32.54867\u00b0",
     "area": "Red Sea",
-    "status": "Underway"
+    "status": "Stopped"
   },
   "9361835": {
     "rowidx": 10,
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/10/30 06:10",
     "destTime": "2021/10/30 05:10",
-    "position": "50.90425\u00b0 / -1.428135\u00b0",
+    "position": "50.90425\u00b0 / -1.428128\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -245,10 +245,10 @@
     "dest": "SA DMM",
     "destLong": "Dammam",
     "destType": "ETA",
-    "destLocalTime": "2021/11/01 15:00",
-    "destTime": "2021/11/01 12:00",
-    "position": "25.11921\u00b0 / 54.95422\u00b0",
-    "area": "Dubai Area",
+    "destLocalTime": "2021/11/01 18:00",
+    "destTime": "2021/11/01 15:00",
+    "position": "25.3223\u00b0 / 54.3445\u00b0",
+    "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
   "9539171": {
