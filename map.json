@@ -135,9 +135,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/01 16:15",
     "destTime": "2021/11/01 08:15",
-    "position": "25.23468\u00b0 / 131.87279\u00b0",
+    "position": "25.2704\u00b0 / 128.1519\u00b0",
     "area": "US West Coast",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9311854": {
     "rowidx": 12,
@@ -387,7 +387,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/26 10:00",
     "destTime": "2021/10/26 02:00",
-    "position": "22.08523\u00b0 / 113.8943\u00b0",
+    "position": "22.08495\u00b0 / 113.8948\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
@@ -491,16 +491,16 @@
     "grossTonnage": "71,177",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/10/30 09:00",
-    "deptTime": "2021/10/30 00:00",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/10/31 20:57",
+    "deptTime": "2021/10/31 12:57",
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
     "destLocalTime": "2021/11/17 13:30",
     "destTime": "2021/11/17 11:30",
-    "position": "31.32354\u00b0 / 121.6796\u00b0",
+    "position": "31.29217\u00b0 / 121.7964\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
