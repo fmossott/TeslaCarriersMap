@@ -107,9 +107,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/09 08:30",
     "destTime": "2021/11/09 07:30",
-    "position": "30.52851\u00b0 / 32.3431\u00b0",
+    "position": "30.56442\u00b0 / 32.33586\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9361835": {
     "rowidx": 10,
@@ -153,19 +153,19 @@
     "length": "199.95",
     "breadth": "32.51",
     "grossTonnage": "57,692",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/10/02 21:38",
-    "deptTime": "2021/10/02 13:38",
-    "dest": "GB SOU",
-    "destLong": "Southampton",
-    "destType": "ATA",
-    "destLocalTime": "2021/10/30 06:10",
-    "destTime": "2021/10/30 05:10",
-    "position": "50.90425\u00b0 / -1.42812\u00b0",
+    "dept": "GB SOU",
+    "deptLong": "Southampton",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/10/30 13:10",
+    "deptTime": "2021/10/30 05:10",
+    "dest": "BE ZEE",
+    "destLong": "Zeebrugge",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/02 00:00",
+    "destTime": "2021/11/01 23:00",
+    "position": "50.90527\u00b0 / -1.437728\u00b0",
     "area": "English Channel",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9519107": {
     "rowidx": 176,
@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/31 05:28",
     "destTime": "2021/10/31 01:28",
-    "position": "23.9966\u00b0 / 60.1422\u00b0",
+    "position": "23.32569\u00b0 / 63.59824\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -443,7 +443,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/03 13:00",
     "destTime": "2021/11/03 05:00",
-    "position": "15.70500\u00b0 / 113.58833\u00b0",
+    "position": "12.59833\u00b0 / 111.40833\u00b0",
     "area": "South China",
     "status": "Out of Range"
   },
