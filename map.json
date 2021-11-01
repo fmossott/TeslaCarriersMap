@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/02 00:00",
     "destTime": "2021/11/01 23:00",
-    "position": "51.36666\u00b0 / 2.664167\u00b0",
+    "position": "51.38111\u00b0 / 2.963663\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/01 07:37",
     "destTime": "2021/11/01 05:37",
-    "position": "37.72298\u00b0 / 23.66892\u00b0",
+    "position": "37.45485\u00b0 / 23.75333\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -239,17 +239,17 @@
     "grossTonnage": "72,408",
     "dept": "SA DMM",
     "deptLong": "Dammam",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/11/01 16:15",
-    "deptTime": "2021/11/01 12:15",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/11/02 02:31",
+    "deptTime": "2021/11/01 23:31",
     "dest": "KW KWI",
     "destLong": "Kuwait",
     "destType": "ETA",
     "destLocalTime": "2021/11/02 20:00",
     "destTime": "2021/11/02 17:00",
-    "position": "26.49335\u00b0 / 50.20588\u00b0",
+    "position": "26.53556\u00b0 / 50.19057\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9539171": {
     "rowidx": 179,
@@ -387,9 +387,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/02 09:00",
     "destTime": "2021/11/02 01:00",
-    "position": "22.08517\u00b0 / 113.8939\u00b0",
+    "position": "22.08037\u00b0 / 113.8672\u00b0",
     "area": "South China",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9293521": {
     "rowidx": 184,
@@ -415,7 +415,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/01 19:33",
     "destTime": "2021/11/01 12:33",
-    "position": "-6.006639\u00b0 / 106.903\u00b0",
+    "position": "-6.006645\u00b0 / 106.9029\u00b0",
     "area": "Java Sea",
     "status": "At Anchor"
   },
