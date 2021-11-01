@@ -135,7 +135,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/01 19:00",
     "destTime": "2021/11/01 11:00",
-    "position": "25.34967\u00b0 / 121.2699\u00b0",
+    "position": "25.3263\u00b0 / 121.2301\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/02 00:00",
     "destTime": "2021/11/01 23:00",
-    "position": "50.82082\u00b0 / -1.300298\u00b0",
+    "position": "50.6559\u00b0 / -0.9680883\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -191,7 +191,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/01 07:37",
     "destTime": "2021/11/01 05:37",
-    "position": "37.95897\u00b0 / 23.60537\u00b0",
+    "position": "37.95895\u00b0 / 23.60537\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -244,12 +244,12 @@
     "deptTime": "2021/10/31 18:40",
     "dest": "SA DMM",
     "destLong": "Dammam",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/01 18:00",
-    "destTime": "2021/11/01 15:00",
-    "position": "26.5865\u00b0 / 50.20803\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/01 15:15",
+    "destTime": "2021/11/01 12:15",
+    "position": "26.49405\u00b0 / 50.20426\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9539171": {
     "rowidx": 179,
@@ -387,7 +387,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/10/26 10:00",
     "destTime": "2021/10/26 02:00",
-    "position": "22.0848\u00b0 / 113.8943\u00b0",
+    "position": "22.08517\u00b0 / 113.894\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
@@ -410,14 +410,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/10/25 01:44",
     "deptTime": "2021/10/24 17:44",
-    "dest": "ID JKT",
+    "dest": "ID JAKARTA ANCH",
     "destLong": "Jakarta",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/02 05:00",
-    "destTime": "2021/11/01 22:00",
-    "position": "-5.781735\u00b0 / 106.9311\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/01 19:33",
+    "destTime": "2021/11/01 12:33",
+    "position": "-6.006853\u00b0 / 106.9026\u00b0",
     "area": "Java Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9731652": {
     "rowidx": 185,
