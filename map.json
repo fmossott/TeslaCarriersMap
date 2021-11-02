@@ -23,9 +23,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/10 20:00",
     "destTime": "2021/11/10 18:00",
-    "position": "5.77014\u00b0 / 88.22288\u00b0",
+    "position": "5.473292\u00b0 / 80.2047\u00b0",
     "area": "Malacca Strait",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9330616": {
     "rowidx": 7,
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/02 01:17",
     "destTime": "2021/11/02 00:17",
-    "position": "51.3039\u00b0 / 3.22948\u00b0",
+    "position": "51.30389\u00b0 / 3.229485\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/01 07:37",
     "destTime": "2021/11/01 05:37",
-    "position": "36.37297\u00b0 / 21.37893\u00b0",
+    "position": "36.36922\u00b0 / 21.08613\u00b0",
     "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
@@ -387,7 +387,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/02 09:00",
     "destTime": "2021/11/02 01:00",
-    "position": "23.01277\u00b0 / 113.5288\u00b0",
+    "position": "23.01227\u00b0 / 113.5291\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -415,7 +415,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/01 19:33",
     "destTime": "2021/11/01 12:33",
-    "position": "-6.007215\u00b0 / 106.9043\u00b0",
+    "position": "-6.006617\u00b0 / 106.9041\u00b0",
     "area": "Java Sea",
     "status": "Moored"
   },
@@ -573,17 +573,17 @@
     "length": "196.4",
     "breadth": "31.1",
     "grossTonnage": "44,408",
-    "dept": "ES BCN",
-    "deptLong": "Barcelona",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/09/28 20:36",
-    "deptTime": "2021/09/28 18:36",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/01 22:10",
-    "destTime": "2021/11/01 14:10",
-    "position": "31.32351\u00b0 / 121.6795\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/11/01 16:10",
+    "deptTime": "2021/11/01 14:10",
+    "dest": "IT LIV",
+    "destLong": "Livorno",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/25 11:00",
+    "destTime": "2021/11/25 10:00",
+    "position": "31.32351\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
