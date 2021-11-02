@@ -79,8 +79,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/02 10:00",
     "destTime": "2021/11/02 08:00",
-    "position": "29.01828\u00b0 / 32.85378\u00b0",
-    "area": "Laccadive Sea",
+    "position": "29.25589\u00b0 / 32.74183\u00b0",
+    "area": "Red Sea",
     "status": "Underway"
   },
   "9494905": {
@@ -125,19 +125,19 @@
     "length": "176",
     "breadth": "31.1",
     "grossTonnage": "41,009",
-    "dept": "US SFO",
-    "deptLong": "San Francisco",
+    "dept": "TW TPE",
+    "deptLong": "Taipei",
     "deptType": "ATD",
-    "deptLocalTime": "2021/10/14 06:30",
-    "deptTime": "2021/10/14 13:30",
+    "deptLocalTime": "2021/11/02 16:35",
+    "deptTime": "2021/11/02 08:35",
     "dest": "TW TPE",
     "destLong": "Taipei",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/02 07:29",
-    "destTime": "2021/11/01 23:29",
-    "position": "25.15935\u00b0 / 121.3949\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/02 18:00",
+    "destTime": "2021/11/02 10:00",
+    "position": "25.23357\u00b0 / 121.2783\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9311854": {
     "rowidx": 12,
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/02 20:30",
     "destTime": "2021/11/02 17:30",
-    "position": "28.6331\u00b0 / 49.80139\u00b0",
+    "position": "28.8602\u00b0 / 49.54069\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
