@@ -79,9 +79,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/03 16:00",
     "destTime": "2021/11/03 14:00",
-    "position": "30.64269\u00b0 / 32.34179\u00b0",
+    "position": "30.80995\u00b0 / 32.31815\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway by Sail"
+    "status": "Underway"
   },
   "9494905": {
     "rowidx": 9,
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/02 01:17",
     "destTime": "2021/11/02 00:17",
-    "position": "51.3039\u00b0 / 3.229492\u00b0",
+    "position": "51.30387\u00b0 / 3.229493\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/01 07:37",
     "destTime": "2021/11/01 05:37",
-    "position": "36.73483\u00b0 / 13.32817\u00b0",
+    "position": "36.80577\u00b0 / 13.07842\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/02 19:25",
     "destTime": "2021/11/02 16:25",
-    "position": "29.12852\u00b0 / 48.39491\u00b0",
+    "position": "29.03579\u00b0 / 48.64005\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -415,7 +415,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/05 06:00",
     "destTime": "2021/11/04 22:00",
-    "position": "-5.974647\u00b0 / 106.8971\u00b0",
+    "position": "-5.709486\u00b0 / 106.946\u00b0",
     "area": "Java Sea",
     "status": "Underway using Engine"
   },
@@ -443,7 +443,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/03 16:20",
     "destTime": "2021/11/03 08:20",
-    "position": "1.286078\u00b0 / 103.9257\u00b0",
+    "position": "1.285762\u00b0 / 103.9256\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -586,5 +586,33 @@
     "position": "31.30296\u00b0 / 121.7663\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
+  },
+  "9338694": {
+    "rowidx": 191,
+    "num": "-29",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "21Q4",
+    "numDept": "16",
+    "mapStatus": "4",
+    "mtsid": "420493",
+    "name": "Morning Charlotte",
+    "mmsi": "357275000",
+    "length": "199.94",
+    "breadth": "32.26",
+    "grossTonnage": "61,002",
+    "dept": "KR PTK",
+    "deptLong": "Pyeongtaek",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/10/30 17:30",
+    "deptTime": "2021/10/30 08:30",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/03 12:09",
+    "destTime": "2021/11/03 04:09",
+    "position": "31.3234\u00b0 / 121.6796\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
   }
 }
