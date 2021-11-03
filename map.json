@@ -79,9 +79,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/03 16:00",
     "destTime": "2021/11/03 14:00",
-    "position": "30.5506\u00b0 / 32.33875\u00b0",
+    "position": "30.64269\u00b0 / 32.34179\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway"
+    "status": "Underway by Sail"
   },
   "9494905": {
     "rowidx": 9,
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/02 19:25",
     "destTime": "2021/11/02 16:25",
-    "position": "29.35206\u00b0 / 48.13511\u00b0",
+    "position": "29.12852\u00b0 / 48.39491\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -438,14 +438,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/10/29 04:28",
     "deptTime": "2021/10/28 20:28",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/03 13:00",
-    "destTime": "2021/11/03 05:00",
-    "position": "1.279602\u00b0 / 103.935\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/03 16:20",
+    "destTime": "2021/11/03 08:20",
+    "position": "1.286078\u00b0 / 103.9257\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9684990": {
     "rowidx": 186,
@@ -527,7 +527,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/03 06:00",
     "destTime": "2021/11/02 22:00",
-    "position": "38.8489\u00b0 / 119.1653\u00b0",
+    "position": "38.834\u00b0 / 118.9686\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
