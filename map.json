@@ -1,6 +1,34 @@
 {
-  "9590591": {
+  "9731652": {
     "rowidx": 6,
+    "num": "157",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "21Q4",
+    "numDept": "9",
+    "mapStatus": "2",
+    "mtsid": "6449496",
+    "name": "Nabucco",
+    "mmsi": "265021000",
+    "length": "199.9",
+    "breadth": "36",
+    "grossTonnage": "73,358",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/10/29 04:28",
+    "deptTime": "2021/10/28 20:28",
+    "dest": "SG SINGAPORE ANCH",
+    "destLong": "Singapore",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/03 16:20",
+    "destTime": "2021/11/03 08:20",
+    "position": "1.28604\u00b0 / 103.925\u00b0",
+    "area": "Singapore Area",
+    "status": "At Anchor"
+  },
+  "9590591": {
+    "rowidx": 7,
     "num": "156",
     "manDept": "SHG",
     "notes": "",
@@ -28,7 +56,7 @@
     "status": "Underway using Engine"
   },
   "9330616": {
-    "rowidx": 7,
+    "rowidx": 8,
     "num": "155",
     "manDept": "SHG",
     "notes": "",
@@ -56,7 +84,7 @@
     "status": "Out of Range"
   },
   "9713882": {
-    "rowidx": 8,
+    "rowidx": 9,
     "num": "154",
     "manDept": "SHG",
     "notes": "",
@@ -84,7 +112,7 @@
     "status": "Underway by Sail"
   },
   "9494905": {
-    "rowidx": 9,
+    "rowidx": 10,
     "num": "153",
     "manDept": "SHG",
     "notes": "",
@@ -112,7 +140,7 @@
     "status": "Underway using Engine"
   },
   "9361835": {
-    "rowidx": 10,
+    "rowidx": 11,
     "num": "152",
     "manDept": "SFO",
     "notes": "",
@@ -140,7 +168,7 @@
     "status": "Underway using Engine"
   },
   "9311854": {
-    "rowidx": 12,
+    "rowidx": 13,
     "num": "150",
     "manDept": "SHG",
     "notes": "",
@@ -163,12 +191,12 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/02 01:17",
     "destTime": "2021/11/02 00:17",
-    "position": "51.30387\u00b0 / 3.229493\u00b0",
+    "position": "51.30388\u00b0 / 3.229487\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
   "9519107": {
-    "rowidx": 176,
+    "rowidx": 177,
     "num": "-14",
     "manDept": "SHG",
     "notes": "",
@@ -191,12 +219,12 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/01 07:37",
     "destTime": "2021/11/01 05:37",
-    "position": "36.80577\u00b0 / 13.07842\u00b0",
+    "position": "36.90147\u00b0 / 12.70322\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
   "9203590": {
-    "rowidx": 177,
+    "rowidx": 178,
     "num": "-15",
     "manDept": "SHG",
     "notes": "",
@@ -224,7 +252,7 @@
     "status": "Underway using Engine"
   },
   "9441867": {
-    "rowidx": 178,
+    "rowidx": 179,
     "num": "-16",
     "manDept": "SHG",
     "notes": "",
@@ -252,7 +280,7 @@
     "status": "Underway using Engine"
   },
   "9539171": {
-    "rowidx": 179,
+    "rowidx": 180,
     "num": "-17",
     "manDept": "SHG",
     "notes": "",
@@ -280,7 +308,7 @@
     "status": "Underway using Engine"
   },
   "9514999": {
-    "rowidx": 180,
+    "rowidx": 181,
     "num": "-18",
     "manDept": "SHG",
     "notes": "",
@@ -308,7 +336,7 @@
     "status": "Out of Range"
   },
   "9690547": {
-    "rowidx": 181,
+    "rowidx": 182,
     "num": "-19",
     "manDept": "SHG",
     "notes": "",
@@ -336,7 +364,7 @@
     "status": "Out of Range"
   },
   "9293894": {
-    "rowidx": 182,
+    "rowidx": 183,
     "num": "-20",
     "manDept": "SHG",
     "notes": "",
@@ -364,7 +392,7 @@
     "status": "Out of Range"
   },
   "9338838": {
-    "rowidx": 183,
+    "rowidx": 184,
     "num": "-21",
     "manDept": "SHG",
     "notes": "",
@@ -392,7 +420,7 @@
     "status": "Underway using Engine"
   },
   "9293521": {
-    "rowidx": 184,
+    "rowidx": 185,
     "num": "-22",
     "manDept": "SHG",
     "notes": "",
@@ -419,41 +447,13 @@
     "area": "Java Sea",
     "status": "Underway using Engine"
   },
-  "9731652": {
-    "rowidx": 185,
+  "9684990": {
+    "rowidx": 186,
     "num": "-23",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
     "numDept": "10",
-    "mapStatus": "4",
-    "mtsid": "6449496",
-    "name": "Nabucco",
-    "mmsi": "265021000",
-    "length": "199.9",
-    "breadth": "36",
-    "grossTonnage": "73,358",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/10/29 04:28",
-    "deptTime": "2021/10/28 20:28",
-    "dest": "SG SINGAPORE ANCH",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/03 16:20",
-    "destTime": "2021/11/03 08:20",
-    "position": "1.28604\u00b0 / 103.925\u00b0",
-    "area": "Singapore Area",
-    "status": "At Anchor"
-  },
-  "9684990": {
-    "rowidx": 186,
-    "num": "-24",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "21Q4",
-    "numDept": "11",
     "mapStatus": "4",
     "mtsid": "6701824",
     "name": "Hoegh Tracer",
@@ -477,11 +477,11 @@
   },
   "9690559": {
     "rowidx": 187,
-    "num": "-25",
+    "num": "-24",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "12",
+    "numDept": "11",
     "mapStatus": "4",
     "mtsid": "3553106",
     "name": "Hyperion Ray",
@@ -505,11 +505,11 @@
   },
   "9798399": {
     "rowidx": 188,
-    "num": "-26",
+    "num": "-25",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "13",
+    "numDept": "12",
     "mapStatus": "4",
     "mtsid": "5075094",
     "name": "Glovis Safety",
@@ -533,11 +533,11 @@
   },
   "9267912": {
     "rowidx": 189,
-    "num": "-27",
+    "num": "-26",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "14",
+    "numDept": "13",
     "mapStatus": "4",
     "mtsid": "376232",
     "name": "Jasper Arrow",
@@ -561,11 +561,11 @@
   },
   "9279812": {
     "rowidx": 190,
-    "num": "-28",
+    "num": "-27",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "15",
+    "numDept": "14",
     "mapStatus": "4",
     "mtsid": "713302",
     "name": "Neptune Koper",
@@ -589,11 +589,11 @@
   },
   "9338694": {
     "rowidx": 191,
-    "num": "-29",
+    "num": "-28",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "16",
+    "numDept": "15",
     "mapStatus": "4",
     "mtsid": "420493",
     "name": "Morning Charlotte",
