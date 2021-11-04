@@ -79,7 +79,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/09 06:00",
     "destTime": "2021/11/09 03:00",
-    "position": "12.02957\u00b0 / 60.84988\u00b0",
+    "position": "13.22511\u00b0 / 57.43631\u00b0",
     "area": "Malacca Strait",
     "status": "Out of Range"
   },
@@ -191,9 +191,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/04 21:00",
     "destTime": "2021/11/04 19:00",
-    "position": "26.85304\u00b0 / 34.64583\u00b0",
+    "position": "29.06833\u00b0 / 32.825\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9311854": {
     "rowidx": 14,
@@ -219,7 +219,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/02 01:17",
     "destTime": "2021/11/02 00:17",
-    "position": "51.31368\u00b0 / 3.227618\u00b0",
+    "position": "51.3137\u00b0 / 3.227622\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -265,17 +265,17 @@
     "length": "199.97",
     "breadth": "32",
     "grossTonnage": "55,719",
-    "dept": "OM SOH",
-    "deptLong": "Sohar",
+    "dept": "IN MUN",
+    "deptLong": "Mundra",
     "deptType": "ATD",
     "deptLocalTime": "2021/10/31 14:37",
     "deptTime": "2021/10/31 10:37",
-    "dest": "IN MUN",
-    "destLong": "Mundra",
-    "destType": "ATA",
-    "destLocalTime": "2021/10/31 05:28",
-    "destTime": "2021/10/31 01:28",
-    "position": "22.73592\u00b0 / 69.72278\u00b0",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/11 08:01",
+    "destTime": "2021/11/11 00:01",
+    "position": "22.6343\u00b0 / 69.54309\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -639,7 +639,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/04 12:35",
     "destTime": "2021/11/04 04:35",
-    "position": "31.32212\u00b0 / 121.6818\u00b0",
+    "position": "31.32213\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
