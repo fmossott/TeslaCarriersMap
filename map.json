@@ -191,9 +191,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/04 21:08",
     "destTime": "2021/11/04 19:08",
-    "position": "29.845\u00b0 / 32.55833\u00b0",
+    "position": "29.84646\u00b0 / 32.55904\u00b0",
     "area": "Red Sea",
-    "status": "Stopped"
+    "status": "At Anchor"
   },
   "9311854": {
     "rowidx": 14,
@@ -209,19 +209,19 @@
     "length": "199.95",
     "breadth": "32.51",
     "grossTonnage": "57,692",
-    "dept": "GB SOU",
-    "deptLong": "Southampton",
+    "dept": "BE ZEE",
+    "deptLong": "Zeebrugge",
     "deptType": "ATD",
-    "deptLocalTime": "2021/10/30 13:10",
-    "deptTime": "2021/10/30 05:10",
+    "deptLocalTime": "2021/11/05 00:02",
+    "deptTime": "2021/11/04 23:02",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ATA",
     "destLocalTime": "2021/11/02 01:17",
     "destTime": "2021/11/02 00:17",
-    "position": "51.33508\u00b0 / 3.216498\u00b0",
+    "position": "51.40461\u00b0 / 3.028493\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9519107": {
     "rowidx": 178,
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/01 07:37",
     "destTime": "2021/11/01 05:37",
-    "position": "37.37643\u00b0 / 4.84813\u00b0",
+    "position": "36.85025\u00b0 / 0.81553\u00b0",
     "area": "West Mediterranean",
     "status": "Out of Range"
   },
@@ -639,7 +639,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/04 12:35",
     "destTime": "2021/11/04 04:35",
-    "position": "31.32214\u00b0 / 121.6817\u00b0",
+    "position": "31.32211\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
