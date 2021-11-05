@@ -1,6 +1,34 @@
 {
-  "9731652": {
+  "9684990": {
     "rowidx": 6,
+    "num": "158",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "21Q4",
+    "numDept": "11",
+    "mapStatus": "2",
+    "mtsid": "6701824",
+    "name": "Hoegh Tracer",
+    "mmsi": "258628000",
+    "length": "199.9",
+    "breadth": "40.8",
+    "grossTonnage": "76,420",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/10/31 08:51",
+    "deptTime": "2021/10/31 00:51",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/06 10:00",
+    "destTime": "2021/11/06 02:00",
+    "position": "2.72167\u00b0 / 104.80443\u00b0",
+    "area": "East China Sea",
+    "status": "Out of Range"
+  },
+  "9731652": {
+    "rowidx": 7,
     "num": "158",
     "manDept": "SHG",
     "notes": "",
@@ -28,7 +56,7 @@
     "status": "Underway using Engine"
   },
   "9590591": {
-    "rowidx": 7,
+    "rowidx": 8,
     "num": "157",
     "manDept": "SHG",
     "notes": "",
@@ -56,7 +84,7 @@
     "status": "Out of Range"
   },
   "9330616": {
-    "rowidx": 8,
+    "rowidx": 9,
     "num": "156",
     "manDept": "SHG",
     "notes": "",
@@ -79,12 +107,12 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/09 06:00",
     "destTime": "2021/11/09 03:00",
-    "position": "13.62413\u00b0 / 50.39881\u00b0",
+    "position": "12.98204\u00b0 / 48.29915\u00b0",
     "area": "Malacca Strait",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9713882": {
-    "rowidx": 9,
+    "rowidx": 10,
     "num": "155",
     "manDept": "SHG",
     "notes": "",
@@ -112,7 +140,7 @@
     "status": "Underway by Sail"
   },
   "9494905": {
-    "rowidx": 10,
+    "rowidx": 11,
     "num": "154",
     "manDept": "SHG",
     "notes": "",
@@ -140,7 +168,7 @@
     "status": "Underway using Engine"
   },
   "9539171": {
-    "rowidx": 12,
+    "rowidx": 13,
     "num": "152",
     "manDept": "SHG",
     "notes": "",
@@ -168,7 +196,7 @@
     "status": "Underway using Engine"
   },
   "9519107": {
-    "rowidx": 178,
+    "rowidx": 179,
     "num": "-14",
     "manDept": "SHG",
     "notes": "",
@@ -191,12 +219,12 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/01 07:37",
     "destTime": "2021/11/01 05:37",
-    "position": "35.949\u00b0 / -5.9838\u00b0",
+    "position": "35.98193\u00b0 / -6.3227\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
   "9203590": {
-    "rowidx": 179,
+    "rowidx": 180,
     "num": "-15",
     "manDept": "SHG",
     "notes": "",
@@ -224,7 +252,7 @@
     "status": "Underway using Engine"
   },
   "9441867": {
-    "rowidx": 180,
+    "rowidx": 181,
     "num": "-16",
     "manDept": "SHG",
     "notes": "",
@@ -252,7 +280,7 @@
     "status": "Underway using Engine"
   },
   "9514999": {
-    "rowidx": 181,
+    "rowidx": 182,
     "num": "-17",
     "manDept": "SHG",
     "notes": "",
@@ -280,7 +308,7 @@
     "status": "Out of Range"
   },
   "9690547": {
-    "rowidx": 182,
+    "rowidx": 183,
     "num": "-18",
     "manDept": "SHG",
     "notes": "",
@@ -308,7 +336,7 @@
     "status": "Out of Range"
   },
   "9293894": {
-    "rowidx": 183,
+    "rowidx": 184,
     "num": "-19",
     "manDept": "SHG",
     "notes": "",
@@ -336,7 +364,7 @@
     "status": "Underway using Engine"
   },
   "9338838": {
-    "rowidx": 184,
+    "rowidx": 185,
     "num": "-20",
     "manDept": "SHG",
     "notes": "",
@@ -364,7 +392,7 @@
     "status": "Out of Range"
   },
   "9293521": {
-    "rowidx": 185,
+    "rowidx": 186,
     "num": "-21",
     "manDept": "SHG",
     "notes": "",
@@ -391,41 +419,13 @@
     "area": "Singapore Area",
     "status": "Moored"
   },
-  "9684990": {
-    "rowidx": 186,
+  "9690559": {
+    "rowidx": 187,
     "num": "-22",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
     "numDept": "9",
-    "mapStatus": "4",
-    "mtsid": "6701824",
-    "name": "Hoegh Tracer",
-    "mmsi": "258628000",
-    "length": "199.9",
-    "breadth": "40.8",
-    "grossTonnage": "76,420",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/10/31 08:51",
-    "deptTime": "2021/10/31 00:51",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/06 10:00",
-    "destTime": "2021/11/06 02:00",
-    "position": "2.72167\u00b0 / 104.80443\u00b0",
-    "area": "East China Sea",
-    "status": "Out of Range"
-  },
-  "9690559": {
-    "rowidx": 187,
-    "num": "-23",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "21Q4",
-    "numDept": "10",
     "mapStatus": "4",
     "mtsid": "3553106",
     "name": "Hyperion Ray",
@@ -449,11 +449,11 @@
   },
   "9798399": {
     "rowidx": 188,
-    "num": "-24",
+    "num": "-23",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "11",
+    "numDept": "10",
     "mapStatus": "4",
     "mtsid": "5075094",
     "name": "Glovis Safety",
@@ -477,11 +477,11 @@
   },
   "9267912": {
     "rowidx": 189,
-    "num": "-25",
+    "num": "-24",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "12",
+    "numDept": "11",
     "mapStatus": "4",
     "mtsid": "376232",
     "name": "Jasper Arrow",
@@ -505,11 +505,11 @@
   },
   "9279812": {
     "rowidx": 190,
-    "num": "-26",
+    "num": "-25",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "13",
+    "numDept": "12",
     "mapStatus": "4",
     "mtsid": "713302",
     "name": "Neptune Koper",
@@ -533,11 +533,11 @@
   },
   "9780639": {
     "rowidx": 191,
-    "num": "-27",
+    "num": "-26",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "14",
+    "numDept": "13",
     "mapStatus": "4",
     "mtsid": "5073402",
     "name": "Morning Prosperity",
@@ -561,11 +561,11 @@
   },
   "9441520": {
     "rowidx": 192,
-    "num": "-28",
+    "num": "-27",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "15",
+    "numDept": "14",
     "mapStatus": "4",
     "mtsid": "373460",
     "name": "Horizon Leader",
@@ -589,11 +589,11 @@
   },
   "9338632": {
     "rowidx": 193,
-    "num": "-29",
+    "num": "-28",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "16",
+    "numDept": "15",
     "mapStatus": "4",
     "mtsid": "418958",
     "name": "Southern Highway",
