@@ -23,7 +23,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/06 10:12",
     "destTime": "2021/11/06 02:12",
-    "position": "1.286052\u00b0 / 103.7561\u00b0",
+    "position": "1.286055\u00b0 / 103.7561\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/01 07:37",
     "destTime": "2021/11/01 05:37",
-    "position": "37.98337\u00b0 / -9.62875\u00b0",
+    "position": "38.24647\u00b0 / -9.700216\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -359,7 +359,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/06 07:32",
     "destTime": "2021/11/06 04:32",
-    "position": "11.60192\u00b0 / 43.07363\u00b0",
+    "position": "11.60193\u00b0 / 43.07364\u00b0",
     "area": "Gulf of Aden",
     "status": "Moored"
   },
@@ -441,11 +441,11 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2021/11/17 13:30",
-    "destTime": "2021/11/17 11:30",
-    "position": "6.01167\u00b0 / 107.34666\u00b0",
-    "area": "South China",
-    "status": "Out of Range"
+    "destLocalTime": "2021/11/17 18:00",
+    "destTime": "2021/11/17 16:00",
+    "position": "2.491558\u00b0 / 101.6128\u00b0",
+    "area": "Malacca Strait",
+    "status": "Underway using Engine"
   },
   "9798399": {
     "rowidx": 188,
@@ -466,11 +466,11 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/11/01 22:09",
     "deptTime": "2021/11/01 14:09",
-    "dest": "CN TIANJIN ANCH",
+    "dest": "CN TXG",
     "destLong": "Tianjin",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/06 14:21",
-    "destTime": "2021/11/06 06:21",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/06 09:00",
+    "destTime": "2021/11/06 01:00",
     "position": "38.74983\u00b0 / 118.2348\u00b0",
     "area": "Bohai Sea",
     "status": "Underway"
@@ -527,9 +527,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/29 05:00",
     "destTime": "2021/11/29 04:00",
-    "position": "25.25808\u00b0 / 120.2252\u00b0",
+    "position": "15.16141\u00b0 / 112.55441\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9780639": {
     "rowidx": 191,
