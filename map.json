@@ -23,7 +23,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/06 10:12",
     "destTime": "2021/11/06 02:12",
-    "position": "1.286048\u00b0 / 103.7561\u00b0",
+    "position": "1.286043\u00b0 / 103.7561\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/01 07:37",
     "destTime": "2021/11/01 05:37",
-    "position": "36.91543\u00b0 / -9.3086\u00b0",
+    "position": "37.1792\u00b0 / -9.3867\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -359,7 +359,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/06 07:32",
     "destTime": "2021/11/06 04:32",
-    "position": "11.60197\u00b0 / 43.07365\u00b0",
+    "position": "11.60194\u00b0 / 43.07366\u00b0",
     "area": "Gulf of Aden",
     "status": "Moored"
   },
@@ -466,14 +466,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/11/01 22:09",
     "deptTime": "2021/11/01 14:09",
-    "dest": "CN TXG",
+    "dest": "CN TIANJIN ANCH",
     "destLong": "Tianjin",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/06 09:00",
-    "destTime": "2021/11/06 01:00",
-    "position": "38.85672\u00b0 / 118.3351\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/06 14:21",
+    "destTime": "2021/11/06 06:21",
+    "position": "38.75463\u00b0 / 118.2406\u00b0",
     "area": "Bohai Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9267912": {
     "rowidx": 189,
@@ -581,9 +581,9 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2021/11/05 13:40",
-    "destTime": "2021/11/05 05:40",
-    "position": "31.32484\u00b0 / 121.6891\u00b0",
+    "destLocalTime": "2021/11/11 10:00",
+    "destTime": "2021/11/11 02:00",
+    "position": "31.26754\u00b0 / 121.8657\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
