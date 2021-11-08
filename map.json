@@ -1,6 +1,34 @@
 {
-  "9684990": {
+  "9690559": {
     "rowidx": 6,
+    "num": "161",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "21Q4",
+    "numDept": "13",
+    "mapStatus": "2",
+    "mtsid": "3553106",
+    "name": "Hyperion Ray",
+    "mmsi": "311000322",
+    "length": "199.97",
+    "breadth": "35.43",
+    "grossTonnage": "71,177",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/10/31 20:57",
+    "deptTime": "2021/10/31 12:57",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/17 18:00",
+    "destTime": "2021/11/17 16:00",
+    "position": "6.261163\u00b0 / 94.99691\u00b0",
+    "area": "Malacca Strait",
+    "status": "Underway using Engine"
+  },
+  "9684990": {
+    "rowidx": 7,
     "num": "159",
     "manDept": "SHG",
     "notes": "",
@@ -28,7 +56,7 @@
     "status": "Underway using Engine"
   },
   "9731652": {
-    "rowidx": 7,
+    "rowidx": 8,
     "num": "159",
     "manDept": "SHG",
     "notes": "",
@@ -56,7 +84,7 @@
     "status": "Underway using Engine"
   },
   "9590591": {
-    "rowidx": 8,
+    "rowidx": 9,
     "num": "158",
     "manDept": "SHG",
     "notes": "",
@@ -84,7 +112,7 @@
     "status": "Underway using Engine"
   },
   "9690547": {
-    "rowidx": 9,
+    "rowidx": 10,
     "num": "157",
     "manDept": "SHG",
     "notes": "",
@@ -112,7 +140,7 @@
     "status": "Underway using Engine"
   },
   "9330616": {
-    "rowidx": 10,
+    "rowidx": 11,
     "num": "156",
     "manDept": "SHG",
     "notes": "",
@@ -135,12 +163,12 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/08 08:31",
     "destTime": "2021/11/08 05:31",
-    "position": "21.46775\u00b0 / 39.15865\u00b0",
+    "position": "21.46779\u00b0 / 39.15865\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
   "9713882": {
-    "rowidx": 11,
+    "rowidx": 12,
     "num": "155",
     "manDept": "SHG",
     "notes": "",
@@ -168,7 +196,7 @@
     "status": "Underway using Engine"
   },
   "9494905": {
-    "rowidx": 12,
+    "rowidx": 13,
     "num": "154",
     "manDept": "SHG",
     "notes": "",
@@ -196,7 +224,7 @@
     "status": "Underway using Engine"
   },
   "9539171": {
-    "rowidx": 14,
+    "rowidx": 15,
     "num": "152",
     "manDept": "SHG",
     "notes": "",
@@ -219,12 +247,12 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/08 06:04",
     "destTime": "2021/11/08 03:04",
-    "position": "40.74949\u00b0 / 29.83452\u00b0",
+    "position": "40.74949\u00b0 / 29.83451\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
   "9519107": {
-    "rowidx": 180,
+    "rowidx": 181,
     "num": "-14",
     "manDept": "SHG",
     "notes": "",
@@ -252,7 +280,7 @@
     "status": "Underway using Engine"
   },
   "9203590": {
-    "rowidx": 181,
+    "rowidx": 182,
     "num": "-15",
     "manDept": "SHG",
     "notes": "",
@@ -280,7 +308,7 @@
     "status": "Out of Range"
   },
   "9441867": {
-    "rowidx": 182,
+    "rowidx": 183,
     "num": "-16",
     "manDept": "SHG",
     "notes": "",
@@ -308,7 +336,7 @@
     "status": "Out of Range"
   },
   "9514999": {
-    "rowidx": 183,
+    "rowidx": 184,
     "num": "-17",
     "manDept": "SHG",
     "notes": "",
@@ -336,7 +364,7 @@
     "status": "Underway using Engine"
   },
   "9293894": {
-    "rowidx": 184,
+    "rowidx": 185,
     "num": "-18",
     "manDept": "SHG",
     "notes": "",
@@ -364,7 +392,7 @@
     "status": "Underway using Engine"
   },
   "9338838": {
-    "rowidx": 185,
+    "rowidx": 186,
     "num": "-19",
     "manDept": "SHG",
     "notes": "",
@@ -387,12 +415,12 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/08 06:39",
     "destTime": "2021/11/07 22:39",
-    "position": "1.270383\u00b0 / 103.8517\u00b0",
+    "position": "1.270417\u00b0 / 103.8517\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
   "9293521": {
-    "rowidx": 186,
+    "rowidx": 187,
     "num": "-20",
     "manDept": "SHG",
     "notes": "",
@@ -419,41 +447,13 @@
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
-  "9690559": {
-    "rowidx": 187,
+  "9798399": {
+    "rowidx": 188,
     "num": "-21",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
     "numDept": "8",
-    "mapStatus": "4",
-    "mtsid": "3553106",
-    "name": "Hyperion Ray",
-    "mmsi": "311000322",
-    "length": "199.97",
-    "breadth": "35.43",
-    "grossTonnage": "71,177",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/10/31 20:57",
-    "deptTime": "2021/10/31 12:57",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/17 18:00",
-    "destTime": "2021/11/17 16:00",
-    "position": "6.261163\u00b0 / 94.99691\u00b0",
-    "area": "Malacca Strait",
-    "status": "Underway using Engine"
-  },
-  "9798399": {
-    "rowidx": 188,
-    "num": "-22",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "21Q4",
-    "numDept": "9",
     "mapStatus": "4",
     "mtsid": "5075094",
     "name": "Glovis Safety",
@@ -477,11 +477,11 @@
   },
   "9267912": {
     "rowidx": 189,
-    "num": "-23",
+    "num": "-22",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "10",
+    "numDept": "9",
     "mapStatus": "4",
     "mtsid": "376232",
     "name": "Jasper Arrow",
@@ -505,11 +505,11 @@
   },
   "9279812": {
     "rowidx": 190,
-    "num": "-24",
+    "num": "-23",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "11",
+    "numDept": "10",
     "mapStatus": "4",
     "mtsid": "713302",
     "name": "Neptune Koper",
@@ -533,11 +533,11 @@
   },
   "9780639": {
     "rowidx": 191,
-    "num": "-25",
+    "num": "-24",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "12",
+    "numDept": "11",
     "mapStatus": "4",
     "mtsid": "5073402",
     "name": "Morning Prosperity",
@@ -561,11 +561,11 @@
   },
   "9441520": {
     "rowidx": 192,
-    "num": "-26",
+    "num": "-25",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "13",
+    "numDept": "12",
     "mapStatus": "4",
     "mtsid": "373460",
     "name": "Horizon Leader",
@@ -589,11 +589,11 @@
   },
   "9338632": {
     "rowidx": 193,
-    "num": "-27",
+    "num": "-26",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "14",
+    "numDept": "13",
     "mapStatus": "4",
     "mtsid": "418958",
     "name": "Southern Highway",
@@ -617,11 +617,11 @@
   },
   "9409481": {
     "rowidx": 194,
-    "num": "-28",
+    "num": "-27",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "15",
+    "numDept": "14",
     "mapStatus": "4",
     "mtsid": "386635",
     "name": "Sanderling Ace",
@@ -645,11 +645,11 @@
   },
   "9070450": {
     "rowidx": 195,
-    "num": "-29",
+    "num": "-28",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "16",
+    "numDept": "15",
     "mapStatus": "4",
     "mtsid": "732444",
     "name": "Turandot",
@@ -673,11 +673,11 @@
   },
   "9441568": {
     "rowidx": 196,
-    "num": "-30",
+    "num": "-29",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "17",
+    "numDept": "16",
     "mapStatus": "4",
     "mtsid": "373464",
     "name": "Harmony Leader",
