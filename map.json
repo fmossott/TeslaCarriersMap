@@ -135,7 +135,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/09 05:19",
     "destTime": "2021/11/09 03:19",
-    "position": "30.25281\u00b0 / 32.52802\u00b0",
+    "position": "30.32924\u00b0 / 32.39937\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/09 11:00",
     "destTime": "2021/11/09 10:00",
-    "position": "51.15617\u00b0 / 1.847583\u00b0",
+    "position": "51.22203\u00b0 / 2.095177\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/01 07:37",
     "destTime": "2021/11/01 05:37",
-    "position": "51.49458\u00b0 / -2.71445\u00b0",
+    "position": "51.49448\u00b0 / -2.71445\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -659,17 +659,17 @@
     "grossTonnage": "55,598",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/11/08 15:44",
-    "deptTime": "2021/11/08 06:44",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/11/09 14:31",
+    "deptTime": "2021/11/09 06:31",
     "dest": "FJ SUV",
     "destLong": "Suva",
     "destType": "ETA",
     "destLocalTime": "2021/11/21 07:00",
     "destTime": "2021/11/20 18:00",
-    "position": "31.32222\u00b0 / 121.6817\u00b0",
+    "position": "31.31705\u00b0 / 121.7223\u00b0",
     "area": "East China Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9441568": {
     "rowidx": 196,
@@ -695,8 +695,8 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/08 15:30",
     "destTime": "2021/11/08 07:30",
-    "position": "31.32359\u00b0 / 121.6796\u00b0",
+    "position": "31.32477\u00b0 / 121.6809\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
