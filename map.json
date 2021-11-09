@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/10 02:30",
     "destTime": "2021/11/10 00:30",
-    "position": "31.96637\u00b0 / 33.35856\u00b0",
+    "position": "32.041\u00b0 / 33.58232\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -265,18 +265,18 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "60,394",
-    "dept": "TR DRC",
-    "deptLong": "Derince",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/11/09 11:59",
-    "deptTime": "2021/11/09 08:59",
+    "dept": "TR CKZ",
+    "deptLong": "Canakkale",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/11/09 22:26",
+    "deptTime": "2021/11/09 19:26",
     "dest": "GR PIR",
     "destLong": "Piraeus",
     "destType": "ETA",
     "destLocalTime": "2021/11/10 18:00",
     "destTime": "2021/11/10 16:00",
-    "position": "40.61043\u00b0 / 27.20821\u00b0",
-    "area": "Marmara Sea",
+    "position": "40.25266\u00b0 / 26.49776\u00b0",
+    "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
   "9519107": {
@@ -387,9 +387,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/09 19:17",
     "destTime": "2021/11/09 17:17",
-    "position": "29.86285\u00b0 / 32.5699\u00b0",
+    "position": "29.90113\u00b0 / 32.53551\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9293894": {
     "rowidx": 186,
@@ -410,14 +410,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/11/06 22:12",
     "deptTime": "2021/11/06 19:12",
-    "dest": "EG SUEZ SOUTH ANCH",
+    "dest": "EG SUZ",
     "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/09 19:19",
-    "destTime": "2021/11/09 17:19",
-    "position": "29.84737\u00b0 / 32.5629\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/09 18:00",
+    "destTime": "2021/11/09 16:00",
+    "position": "29.84775\u00b0 / 32.56325\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9293521": {
     "rowidx": 187,
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/09 15:45",
     "destTime": "2021/11/09 07:45",
-    "position": "31.32217\u00b0 / 121.6818\u00b0",
+    "position": "31.32218\u00b0 / 121.6819\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -695,7 +695,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/09 16:02",
     "destTime": "2021/11/09 08:02",
-    "position": "31.32359\u00b0 / 121.6797\u00b0",
+    "position": "31.32362\u00b0 / 121.6797\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
