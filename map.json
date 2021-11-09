@@ -132,10 +132,10 @@
     "deptTime": "2021/10/21 16:35",
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/09 05:19",
-    "destTime": "2021/11/09 03:19",
-    "position": "31.17771\u00b0 / 32.33064\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/08 23:00",
+    "destTime": "2021/11/08 21:00",
+    "position": "31.32228\u00b0 / 32.37313\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -219,9 +219,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/09 13:03",
     "destTime": "2021/11/09 12:03",
-    "position": "51.33376\u00b0 / 3.217407\u00b0",
+    "position": "51.32343\u00b0 / 3.221968\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9539171": {
     "rowidx": 15,
@@ -275,7 +275,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/01 07:37",
     "destTime": "2021/11/01 05:37",
-    "position": "51.49462\u00b0 / -2.7144\u00b0",
+    "position": "51.49462\u00b0 / -2.714367\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
