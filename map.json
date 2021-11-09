@@ -130,12 +130,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/10/22 00:35",
     "deptTime": "2021/10/21 16:35",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
+    "dest": "IL ASH",
+    "destLong": "Ashdod",
     "destType": "ETA",
-    "destLocalTime": "2021/11/08 23:00",
-    "destTime": "2021/11/08 21:00",
-    "position": "31.32228\u00b0 / 32.37313\u00b0",
+    "destLocalTime": "2021/11/10 02:30",
+    "destTime": "2021/11/10 00:30",
+    "position": "31.52919\u00b0 / 32.38063\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -219,9 +219,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/09 13:03",
     "destTime": "2021/11/09 12:03",
-    "position": "51.32343\u00b0 / 3.221968\u00b0",
+    "position": "51.30381\u00b0 / 3.229533\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9539171": {
     "rowidx": 15,
@@ -245,9 +245,9 @@
     "dest": "GR PIR",
     "destLong": "Piraeus",
     "destType": "ETA",
-    "destLocalTime": "2021/11/10 14:00",
-    "destTime": "2021/11/10 12:00",
-    "position": "40.72727\u00b0 / 28.85948\u00b0",
+    "destLocalTime": "2021/11/10 18:00",
+    "destTime": "2021/11/10 16:00",
+    "position": "40.80233\u00b0 / 28.00037\u00b0",
     "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
@@ -275,7 +275,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/01 07:37",
     "destTime": "2021/11/01 05:37",
-    "position": "51.49462\u00b0 / -2.714367\u00b0",
+    "position": "51.49463\u00b0 / -2.714433\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
