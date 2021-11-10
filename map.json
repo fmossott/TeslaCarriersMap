@@ -135,7 +135,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/10 13:51",
     "destTime": "2021/11/10 11:51",
-    "position": "29.84857\u00b0 / 32.56204\u00b0",
+    "position": "29.84839\u00b0 / 32.56129\u00b0",
     "area": "Red Sea",
     "status": "Stopped"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/10 04:18",
     "destTime": "2021/11/10 02:18",
-    "position": "31.82494\u00b0 / 34.64301\u00b0",
+    "position": "31.82493\u00b0 / 34.643\u00b0",
     "area": "East Mediterranean",
     "status": "Moored"
   },
@@ -303,7 +303,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/11 08:30",
     "destTime": "2021/11/11 07:30",
-    "position": "50.14443\u00b0 / -1.065633\u00b0",
+    "position": "50.24452\u00b0 / -0.4801167\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -331,8 +331,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/11 05:45",
     "destTime": "2021/11/10 21:45",
-    "position": "1.236528\u00b0 / 103.3693\u00b0",
-    "area": "Malacca Strait",
+    "position": "1.196093\u00b0 / 103.5122\u00b0",
+    "area": "Singapore Area",
     "status": "Underway using Engine"
   },
   "9441867": {
@@ -387,7 +387,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/09 19:17",
     "destTime": "2021/11/09 17:17",
-    "position": "31.51565\u00b0 / 32.30243\u00b0",
+    "position": "31.66707\u00b0 / 32.08762\u00b0",
     "area": "East Mediterranean",
     "status": "Underway"
   },
@@ -657,19 +657,19 @@
     "length": "199.96",
     "breadth": "38",
     "grossTonnage": "72,700",
-    "dept": "KR KAN",
-    "deptLong": "Gwangyang",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2021/11/03 00:54",
-    "deptTime": "2021/11/02 15:54",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/09 15:45",
-    "destTime": "2021/11/09 07:45",
-    "position": "31.32216\u00b0 / 121.6819\u00b0",
+    "deptLocalTime": "2021/11/11 04:53",
+    "deptTime": "2021/11/10 20:53",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/16 06:00",
+    "destTime": "2021/11/15 22:00",
+    "position": "31.31192\u00b0 / 121.7411\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9138525": {
     "rowidx": 196,
