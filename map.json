@@ -135,7 +135,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/10 14:00",
     "destTime": "2021/11/10 12:00",
-    "position": "27.47193\u00b0 / 34.18348\u00b0",
+    "position": "27.56661\u00b0 / 34.06809\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -160,12 +160,12 @@
     "deptTime": "2021/10/21 16:35",
     "dest": "IL ASH",
     "destLong": "Ashdod",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/10 04:00",
-    "destTime": "2021/11/10 02:00",
-    "position": "31.85701\u00b0 / 34.62572\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/10 04:18",
+    "destTime": "2021/11/10 02:18",
+    "position": "31.82523\u00b0 / 34.64299\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9330616": {
     "rowidx": 12,
@@ -303,8 +303,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/11 08:30",
     "destTime": "2021/11/11 07:30",
-    "position": "51.28192\u00b0 / -4.140917\u00b0",
-    "area": "Bristol Channel",
+    "position": "50.70995\u00b0 / -5.389317\u00b0",
+    "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
   "9203590": {
@@ -387,7 +387,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/09 19:17",
     "destTime": "2021/11/09 17:17",
-    "position": "30.23782\u00b0 / 32.54291\u00b0",
+    "position": "30.32644\u00b0 / 32.40897\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -405,17 +405,17 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "60,169",
-    "dept": "EG SUEZ SOUTH ANCH",
+    "dept": "DJ JIB",
     "deptLong": "Djibouti",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/11/09 20:19",
-    "deptTime": "2021/11/09 17:19",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/11/06 22:12",
+    "deptTime": "2021/11/06 19:12",
     "dest": "GR PIR",
     "destLong": "Piraeus",
     "destType": "ETA",
     "destLocalTime": "2021/11/12 06:00",
     "destTime": "2021/11/12 04:00",
-    "position": "29.84686\u00b0 / 32.56036\u00b0",
+    "position": "29.94878\u00b0 / 32.57956\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/09 15:45",
     "destTime": "2021/11/09 07:45",
-    "position": "31.32215\u00b0 / 121.6818\u00b0",
+    "position": "31.32219\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -695,7 +695,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/09 16:02",
     "destTime": "2021/11/09 08:02",
-    "position": "31.3236\u00b0 / 121.6796\u00b0",
+    "position": "31.32361\u00b0 / 121.6797\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
