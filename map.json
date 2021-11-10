@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/12 00:00",
     "destTime": "2021/11/11 23:00",
-    "position": "36.87555\u00b0 / 14.0196\u00b0",
+    "position": "37.39491\u00b0 / 12.62496\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -247,7 +247,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/09 13:03",
     "destTime": "2021/11/09 12:03",
-    "position": "51.30379\u00b0 / 3.229528\u00b0",
+    "position": "51.3038\u00b0 / 3.229525\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/10 18:00",
     "destTime": "2021/11/10 16:00",
-    "position": "38.25709\u00b0 / 24.7678\u00b0",
+    "position": "38.04994\u00b0 / 24.65136\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -671,7 +671,7 @@
     "area": "East China Sea",
     "status": "Moored"
   },
-  "9441582": {
+  "9138525": {
     "rowidx": 196,
     "num": "-28",
     "manDept": "SHG",
@@ -679,24 +679,24 @@
     "quarter": "21Q4",
     "numDept": "15",
     "mapStatus": "4",
-    "mtsid": "373705",
-    "name": "Glovis Clipper",
-    "mmsi": "311054400",
-    "length": "199.99",
+    "mtsid": "728889",
+    "name": "Don Quijote",
+    "mmsi": "564753000",
+    "length": "227.9",
     "breadth": "32.29",
-    "grossTonnage": "58,767",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/11/09 17:02",
-    "deptTime": "2021/11/09 08:02",
-    "dest": "KR KAN",
-    "destLong": "Gwangyang",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/12 05:00",
-    "destTime": "2021/11/11 20:00",
-    "position": "31.32106\u00b0 / 121.7096\u00b0",
+    "grossTonnage": "67,141",
+    "dept": "GT PRQ",
+    "deptLong": "Puerto Quetzal",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/10/18 06:54",
+    "deptTime": "2021/10/18 12:54",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/10 16:20",
+    "destTime": "2021/11/10 08:20",
+    "position": "31.32375\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   }
 }
