@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/11 00:00",
     "destTime": "2021/11/10 22:00",
-    "position": "27.72814\u00b0 / 33.85662\u00b0",
+    "position": "27.90712\u00b0 / 33.67229\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -247,7 +247,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/09 13:03",
     "destTime": "2021/11/09 12:03",
-    "position": "51.30381\u00b0 / 3.229513\u00b0",
+    "position": "51.30377\u00b0 / 3.229528\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/10 18:00",
     "destTime": "2021/11/10 16:00",
-    "position": "37.86298\u00b0 / 24.50309\u00b0",
+    "position": "37.70669\u00b0 / 24.2654\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/11 05:00",
     "destTime": "2021/11/10 21:00",
-    "position": "5.927068\u00b0 / 96.29662\u00b0",
+    "position": "2.57145\u00b0 / 101.4356\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -685,18 +685,18 @@
     "length": "227.9",
     "breadth": "32.29",
     "grossTonnage": "67,141",
-    "dept": "GT PRQ",
-    "deptLong": "Puerto Quetzal",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/10/18 06:54",
-    "deptTime": "2021/10/18 12:54",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/10 16:20",
-    "destTime": "2021/11/10 08:20",
-    "position": "31.32368\u00b0 / 121.6795\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/11/10 02:20",
+    "deptTime": "2021/11/10 08:20",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/17 03:00",
+    "destTime": "2021/11/16 19:00",
+    "position": "31.32371\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
-    "status": "Stopped"
+    "status": "Moored"
   }
 }
