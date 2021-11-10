@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/12 00:00",
     "destTime": "2021/11/11 23:00",
-    "position": "37.39491\u00b0 / 12.62496\u00b0",
+    "position": "37.8649\u00b0 / 11.38538\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -247,7 +247,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/09 13:03",
     "destTime": "2021/11/09 12:03",
-    "position": "51.30379\u00b0 / 3.22953\u00b0",
+    "position": "51.3038\u00b0 / 3.229522\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/10 18:00",
     "destTime": "2021/11/10 16:00",
-    "position": "37.5976\u00b0 / 24.02825\u00b0",
+    "position": "37.62099\u00b0 / 23.80537\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -443,9 +443,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/17 05:00",
     "destTime": "2021/11/17 01:00",
-    "position": "5.70500\u00b0 / 83.94999\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "5.752672\u00b0 / 80.05726\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9798399": {
     "rowidx": 188,
@@ -553,10 +553,10 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2021/11/10 21:00",
-    "destTime": "2021/11/10 13:00",
-    "position": "1.318643\u00b0 / 104.3136\u00b0",
-    "area": "South China",
+    "destLocalTime": "2021/11/10 21:30",
+    "destTime": "2021/11/10 13:30",
+    "position": "1.276068\u00b0 / 104.1026\u00b0",
+    "area": "Singapore Area",
     "status": "Underway using Engine"
   },
   "9338632": {
@@ -695,7 +695,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/17 03:00",
     "destTime": "2021/11/16 19:00",
-    "position": "31.32369\u00b0 / 121.6794\u00b0",
+    "position": "31.32333\u00b0 / 121.6783\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
