@@ -135,9 +135,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/11 05:28",
     "destTime": "2021/11/11 03:28",
-    "position": "30.23347\u00b0 / 32.54575\u00b0",
+    "position": "30.3204\u00b0 / 32.40684\u00b0",
     "area": "Red Sea",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9690547": {
     "rowidx": 11,
@@ -191,7 +191,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/11 05:15",
     "destTime": "2021/11/11 03:15",
-    "position": "30.23385\u00b0 / 32.54545\u00b0",
+    "position": "30.31335\u00b0 / 32.41291\u00b0",
     "area": "Red Sea",
     "status": "Underway"
   },
@@ -247,7 +247,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/09 13:03",
     "destTime": "2021/11/09 12:03",
-    "position": "51.30377\u00b0 / 3.22954\u00b0",
+    "position": "51.3038\u00b0 / 3.229537\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/10 18:00",
     "destTime": "2021/11/10 16:00",
-    "position": "37.11996\u00b0 / 23.65962\u00b0",
+    "position": "37.08986\u00b0 / 23.63004\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -303,8 +303,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/11 08:30",
     "destTime": "2021/11/11 07:30",
-    "position": "51.34135\u00b0 / 2.403383\u00b0",
-    "area": "English Channel",
+    "position": "51.35887\u00b0 / 2.728133\u00b0",
+    "area": "North Sea",
     "status": "Underway using Engine"
   },
   "9203590": {
@@ -321,19 +321,19 @@
     "length": "199.97",
     "breadth": "32",
     "grossTonnage": "55,719",
-    "dept": "IN MUN",
-    "deptLong": "Mundra",
+    "dept": "SG SIN",
+    "deptLong": "Singapore",
     "deptType": "ATD",
-    "deptLocalTime": "2021/10/31 14:37",
-    "deptTime": "2021/10/31 10:37",
+    "deptLocalTime": "2021/11/11 14:30",
+    "deptTime": "2021/11/11 06:30",
     "dest": "SG SIN",
     "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/11 06:37",
-    "destTime": "2021/11/10 22:37",
-    "position": "1.285962\u00b0 / 103.7559\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/11 14:30",
+    "destTime": "2021/11/11 06:30",
+    "position": "1.245403\u00b0 / 103.8065\u00b0",
     "area": "Singapore Area",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9441867": {
     "rowidx": 184,
@@ -413,11 +413,11 @@
     "dest": "GR PIR",
     "destLong": "Piraeus",
     "destType": "ETA",
-    "destLocalTime": "2021/11/12 06:00",
-    "destTime": "2021/11/12 04:00",
-    "position": "31.98592\u00b0 / 31.60894\u00b0",
+    "destLocalTime": "2021/11/12 02:00",
+    "destTime": "2021/11/12 00:00",
+    "position": "34.62345\u00b0 / 27.67056\u00b0",
     "area": "East Mediterranean",
-    "status": "Class B"
+    "status": "Underway using Engine"
   },
   "9293521": {
     "rowidx": 187,
@@ -555,7 +555,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/10 22:26",
     "destTime": "2021/11/10 14:26",
-    "position": "1.280212\u00b0 / 103.8996\u00b0",
+    "position": "1.279977\u00b0 / 103.8997\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -695,7 +695,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/17 03:00",
     "destTime": "2021/11/16 19:00",
-    "position": "31.32371\u00b0 / 121.6795\u00b0",
+    "position": "31.32371\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
