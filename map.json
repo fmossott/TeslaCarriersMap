@@ -23,7 +23,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/11 18:50",
     "destTime": "2021/11/11 10:50",
-    "position": "1.28572\u00b0 / 104.0058\u00b0",
+    "position": "1.285787\u00b0 / 104.0057\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/11 00:00",
     "destTime": "2021/11/10 22:00",
-    "position": "31.56452\u00b0 / 32.19816\u00b0",
+    "position": "31.73081\u00b0 / 32.00213\u00b0",
     "area": "East Mediterranean",
     "status": "Underway"
   },
@@ -239,17 +239,17 @@
     "grossTonnage": "60,387",
     "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/11/09 20:03",
-    "deptTime": "2021/11/09 12:03",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/11/11 16:24",
+    "deptTime": "2021/11/11 15:24",
     "dest": "BE ANR",
     "destLong": "Antwerp",
     "destType": "ETA",
     "destLocalTime": "2021/11/12 00:30",
     "destTime": "2021/11/11 23:30",
-    "position": "51.33386\u00b0 / 3.217568\u00b0",
+    "position": "51.40362\u00b0 / 3.208748\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9539171": {
     "rowidx": 16,
@@ -303,7 +303,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/11 08:53",
     "destTime": "2021/11/11 07:53",
-    "position": "51.29905\u00b0 / 3.23955\u00b0",
+    "position": "51.29905\u00b0 / 3.239533\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/11 14:46",
     "destTime": "2021/11/11 06:46",
-    "position": "1.242035\u00b0 / 103.809\u00b0",
+    "position": "1.242577\u00b0 / 103.8088\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -555,7 +555,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/10 22:26",
     "destTime": "2021/11/10 14:26",
-    "position": "1.279785\u00b0 / 103.8997\u00b0",
+    "position": "1.279575\u00b0 / 103.8995\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
