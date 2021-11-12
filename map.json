@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/10 04:18",
     "destTime": "2021/11/10 02:18",
-    "position": "34.56382\u00b0 / 22.98017\u00b0",
+    "position": "34.58802\u00b0 / 22.86628\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/11 08:30",
     "destTime": "2021/11/11 06:30",
-    "position": "36.23805\u00b0 / 24.8368\u00b0",
+    "position": "36.33293\u00b0 / 24.66623\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/17 17:00",
     "destTime": "2021/11/17 15:00",
-    "position": "41.33177\u00b0 / 2.146218\u00b0",
+    "position": "41.33177\u00b0 / 2.14623\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -265,19 +265,19 @@
     "length": "199.97",
     "breadth": "32",
     "grossTonnage": "55,719",
-    "dept": "SG SINGAPORE ANCH",
+    "dept": "SG SIN",
     "deptLong": "Singapore",
     "deptType": "ATA",
-    "deptLocalTime": "2021/11/11 14:46",
-    "deptTime": "2021/11/11 06:46",
+    "deptLocalTime": "2021/11/13 06:02",
+    "deptTime": "2021/11/12 22:02",
     "dest": "KR KUV",
     "destLong": "Gunsan",
     "destType": "ETA",
     "destLocalTime": "2021/11/19 08:00",
     "destTime": "2021/11/18 23:00",
-    "position": "1.241797\u00b0 / 103.8091\u00b0",
+    "position": "1.220252\u00b0 / 103.7936\u00b0",
     "area": "Singapore Area",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9441867": {
     "rowidx": 183,
@@ -359,9 +359,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/12 22:56",
     "destTime": "2021/11/12 20:56",
-    "position": "37.95329\u00b0 / 23.59926\u00b0",
+    "position": "37.95869\u00b0 / 23.6053\u00b0",
     "area": "Piraeus Area",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9293521": {
     "rowidx": 186,
@@ -405,17 +405,17 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "57,692",
-    "dept": "SG SIN",
-    "deptLong": "Singapore",
+    "dept": "IN ENR",
+    "deptLong": "Ennore",
     "deptType": "ATD",
     "deptLocalTime": "2021/11/07 18:18",
     "deptTime": "2021/11/07 10:18",
     "dest": "IN ENR",
     "destLong": "Ennore",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2021/11/07 03:30",
     "destTime": "2021/11/06 19:30",
-    "position": "13.23629\u00b0 / 80.36791\u00b0",
+    "position": "13.12449\u00b0 / 80.4344\u00b0",
     "area": "Bengal Bay",
     "status": "Underway using Engine"
   },
@@ -639,7 +639,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/12 06:19",
     "destTime": "2021/11/11 22:19",
-    "position": "31.32355\u00b0 / 121.6796\u00b0",
+    "position": "31.32359\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/12 07:25",
     "destTime": "2021/11/11 23:25",
-    "position": "31.32205\u00b0 / 121.6818\u00b0",
+    "position": "31.32202\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
