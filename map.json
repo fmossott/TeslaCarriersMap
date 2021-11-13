@@ -183,17 +183,17 @@
     "grossTonnage": "59,705",
     "dept": "GR PIR",
     "deptLong": "Piraeus",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/11/13 15:53",
-    "deptTime": "2021/11/13 12:53",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/11/13 22:27",
+    "deptTime": "2021/11/13 20:27",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
     "destLocalTime": "2021/11/22 08:00",
     "destTime": "2021/11/22 07:00",
-    "position": "37.96057\u00b0 / 23.60446\u00b0",
+    "position": "37.81613\u00b0 / 23.61873\u00b0",
     "area": "Piraeus Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9713882": {
     "rowidx": 13,
@@ -219,8 +219,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/17 17:00",
     "destTime": "2021/11/17 15:00",
-    "position": "40.29848\u00b0 / 4.51155\u00b0",
-    "area": "Balearic Sea",
+    "position": "38.66468\u00b0 / 8.42801\u00b0",
+    "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
   "9539171": {
@@ -303,9 +303,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/19 21:00",
     "destTime": "2021/11/19 12:00",
-    "position": "1.25872\u00b0 / 104.1406\u00b0",
+    "position": "1.282795\u00b0 / 104.3222\u00b0",
     "area": "Singapore Area",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9514999": {
     "rowidx": 184,
@@ -331,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/09 19:17",
     "destTime": "2021/11/09 17:17",
-    "position": "36.8655\u00b0 / 12.91459\u00b0",
+    "position": "36.94606\u00b0 / 12.64104\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -359,7 +359,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/15 06:00",
     "destTime": "2021/11/15 05:00",
-    "position": "37.26539\u00b0 / 20.5634\u00b0",
+    "position": "38.33809\u00b0 / 19.75998\u00b0",
     "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
@@ -443,8 +443,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/29 05:00",
     "destTime": "2021/11/29 04:00",
-    "position": "5.90943\u00b0 / 83.38031\u00b0",
-    "area": "Malacca Strait",
+    "position": "8.86798\u00b0 / 73.26649\u00b0",
+    "area": "Laccadive Sea",
     "status": "Out of Range"
   },
   "9780639": {
@@ -527,7 +527,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/14 06:00",
     "destTime": "2021/11/13 22:00",
-    "position": "1.292817\u00b0 / 104.1942\u00b0",
+    "position": "1.261533\u00b0 / 104.0036\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
