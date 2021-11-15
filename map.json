@@ -135,7 +135,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/14 19:45",
     "destTime": "2021/11/14 18:45",
-    "position": "45.56684\u00b0 / 13.74406\u00b0",
+    "position": "45.56684\u00b0 / 13.74405\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/15 05:00",
     "destTime": "2021/11/15 04:00",
-    "position": "43.19427\u00b0 / 9.769009\u00b0",
+    "position": "43.33736\u00b0 / 9.98329\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/15 07:00",
     "destTime": "2021/11/15 06:00",
-    "position": "44.96432\u00b0 / 13.36666\u00b0",
+    "position": "45.18948\u00b0 / 13.2239\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -303,9 +303,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/15 04:31",
     "destTime": "2021/11/15 00:31",
-    "position": "24.99647\u00b0 / 55.07989\u00b0",
+    "position": "24.99651\u00b0 / 55.07996\u00b0",
     "area": "Persian Gulf",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9267912": {
     "rowidx": 185,
@@ -603,17 +603,17 @@
     "grossTonnage": "67,264",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/11/13 20:26",
-    "deptTime": "2021/11/13 12:26",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/11/15 10:15",
+    "deptTime": "2021/11/15 02:15",
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
     "destLocalTime": "2021/11/21 16:15",
     "destTime": "2021/11/21 08:15",
-    "position": "31.32191\u00b0 / 121.6818\u00b0",
+    "position": "31.30485\u00b0 / 121.761\u00b0",
     "area": "East China Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9327748": {
     "rowidx": 196,
@@ -631,16 +631,16 @@
     "grossTonnage": "57,692",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/11/14 09:51",
-    "deptTime": "2021/11/14 01:51",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/11/15 09:58",
+    "deptTime": "2021/11/15 01:58",
     "dest": "KR MAS",
     "destLong": "Masan",
     "destType": "ETA",
     "destLocalTime": "2021/11/17 05:00",
     "destTime": "2021/11/16 20:00",
-    "position": "31.32351\u00b0 / 121.6794\u00b0",
+    "position": "31.28781\u00b0 / 121.8073\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
