@@ -21,9 +21,9 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2021/11/22 09:00",
-    "destTime": "2021/11/22 01:00",
-    "position": "31.30258\u00b0 / 121.7663\u00b0",
+    "destLocalTime": "2021/11/21 21:00",
+    "destTime": "2021/11/21 13:00",
+    "position": "31.15995\u00b0 / 122.2065\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -165,7 +165,7 @@
     "destTime": "2021/11/16 15:37",
     "position": "29.857\u00b0 / 32.56233\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9590591": {
     "rowidx": 12,
@@ -443,9 +443,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/20 11:00",
     "destTime": "2021/11/20 07:00",
-    "position": "5.760953\u00b0 / 80.05652\u00b0",
+    "position": "7.63821\u00b0 / 75.99209\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9338632": {
     "rowidx": 190,
@@ -519,15 +519,15 @@
     "grossTonnage": "72,700",
     "dept": "SG SIN",
     "deptLong": "Singapore",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/11/16 12:38",
-    "deptTime": "2021/11/16 04:38",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/11/17 01:09",
+    "deptTime": "2021/11/16 17:09",
     "dest": "IN BOM",
     "destLong": "Mumbai",
     "destType": "ETA",
     "destLocalTime": "2021/11/16 12:38",
     "destTime": "2021/11/16 04:38",
-    "position": "1.239795\u00b0 / 103.7071\u00b0",
+    "position": "1.199195\u00b0 / 103.5436\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
