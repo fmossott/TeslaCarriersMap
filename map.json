@@ -107,7 +107,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/18 21:00",
     "destTime": "2021/11/18 19:00",
-    "position": "22.53505\u00b0 / 37.46622\u00b0",
+    "position": "25.00169\u00b0 / 35.98046\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/10 04:18",
     "destTime": "2021/11/10 02:18",
-    "position": "36.84912\u00b0 / -9.283472\u00b0",
+    "position": "37.06186\u00b0 / -9.368947\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/09 19:17",
     "destTime": "2021/11/09 17:17",
-    "position": "39.3906\u00b0 / -9.845306\u00b0",
+    "position": "39.60664\u00b0 / -9.843502\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/19 01:00",
     "destTime": "2021/11/19 00:00",
-    "position": "39.15793\u00b0 / 17.85486\u00b0",
+    "position": "38.28664\u00b0 / 16.74793\u00b0",
     "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
@@ -351,16 +351,16 @@
     "grossTonnage": "59,160",
     "dept": "AE JEA",
     "deptLong": "Jebel Ali",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/11/15 08:31",
-    "deptTime": "2021/11/15 00:31",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/11/17 18:52",
+    "deptTime": "2021/11/17 14:52",
     "dest": "AE KHL",
     "destLong": "Khalifa",
     "destType": "ETA",
     "destLocalTime": "2021/11/17 21:00",
     "destTime": "2021/11/17 17:00",
-    "position": "25.0121\u00b0 / 55.04455\u00b0",
-    "area": "Persian Gulf",
+    "position": "25.09387\u00b0 / 54.87525\u00b0",
+    "area": "Dubai Area",
     "status": "Underway using Engine"
   },
   "9267912": {
@@ -659,17 +659,17 @@
     "grossTonnage": "62,571",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/11/16 23:01",
-    "deptTime": "2021/11/16 15:01",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/11/17 23:18",
+    "deptTime": "2021/11/17 15:18",
     "dest": "JP MIZ",
     "destLong": "Mizushima",
     "destType": "ETA",
     "destLocalTime": "2021/11/21 05:00",
     "destTime": "2021/11/20 20:00",
-    "position": "31.32341\u00b0 / 121.6795\u00b0",
+    "position": "31.32085\u00b0 / 121.7177\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9782091": {
     "rowidx": 198,
@@ -695,7 +695,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/17 11:31",
     "destTime": "2021/11/17 03:31",
-    "position": "31.32197\u00b0 / 121.6818\u00b0",
+    "position": "31.32199\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
