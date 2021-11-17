@@ -6,6 +6,7 @@
     "notes": "",
     "quarter": "21Q4",
     "numDept": "18",
+    "mapStatus": "0",
     "mtsid": "3391300",
     "name": "Viking Bravery",
     "mmsi": "565806000",
@@ -22,7 +23,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/17 05:00",
     "destTime": "2021/11/16 21:00",
-    "position": "",
+    "position": "31.19239\u00b0 / 123.15217\u00b0",
     "area": "East China Sea",
     "status": "Out of Range"
   },
@@ -610,7 +611,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/18 00:41",
     "destTime": "2021/11/17 17:41",
-    "position": "-6.098767\u00b0 / 106.9166\u00b0",
+    "position": "-6.098733\u00b0 / 106.9166\u00b0",
     "area": "Java Sea",
     "status": "Moored"
   },
