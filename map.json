@@ -23,9 +23,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/21 21:00",
     "destTime": "2021/11/21 13:00",
-    "position": "26.43333\u00b0 / 123.34666\u00b0",
+    "position": "24.72594\u00b0 / 119.8529\u00b0",
     "area": "East China Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9355238": {
     "rowidx": 7,
@@ -135,9 +135,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/18 09:00",
     "destTime": "2021/11/18 06:00",
-    "position": "12.8841\u00b0 / 43.24698\u00b0",
+    "position": "16.91137\u00b0 / 40.82055\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9731652": {
     "rowidx": 11,
@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/18 02:00",
     "destTime": "2021/11/18 01:00",
-    "position": "37.9152\u00b0 / 16.84686\u00b0",
+    "position": "37.58836\u00b0 / 16.50998\u00b0",
     "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/10 04:18",
     "destTime": "2021/11/10 02:18",
-    "position": "37.06186\u00b0 / -9.368947\u00b0",
+    "position": "37.26252\u00b0 / -9.43041\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/09 19:17",
     "destTime": "2021/11/09 17:17",
-    "position": "39.60664\u00b0 / -9.843502\u00b0",
+    "position": "39.80795\u00b0 / -9.842836\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -359,7 +359,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/17 21:00",
     "destTime": "2021/11/17 17:00",
-    "position": "25.09387\u00b0 / 54.87525\u00b0",
+    "position": "25.00671\u00b0 / 54.62729\u00b0",
     "area": "Dubai Area",
     "status": "Underway using Engine"
   },
@@ -685,18 +685,18 @@
     "length": "199.96",
     "breadth": "38",
     "grossTonnage": "72,684",
-    "dept": "JP HHR",
-    "deptLong": "Higashiharima",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/11/13 13:34",
-    "deptTime": "2021/11/13 04:34",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/17 11:31",
-    "destTime": "2021/11/17 03:31",
-    "position": "31.32199\u00b0 / 121.6818\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/11/17 12:31",
+    "deptTime": "2021/11/17 03:31",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/23 23:00",
+    "destTime": "2021/11/23 15:00",
+    "position": "31.32332\u00b0 / 121.684\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
