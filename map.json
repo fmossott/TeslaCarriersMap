@@ -20,10 +20,10 @@
     "deptTime": "2021/10/31 13:42",
     "dest": "CN SHG",
     "destLong": "Shanghai",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/18 19:36",
-    "destTime": "2021/11/18 11:36",
-    "position": "31.3225\u00b0 / 121.6876\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/19 01:18",
+    "destTime": "2021/11/18 17:18",
+    "position": "31.32211\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -135,9 +135,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/18 22:00",
     "destTime": "2021/11/18 20:00",
-    "position": "29.39221\u00b0 / 32.6688\u00b0",
+    "position": "29.55\u00b0 / 32.59\u00b0",
     "area": "Red Sea",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9684990": {
     "rowidx": 11,
@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/16 17:37",
     "destTime": "2021/11/16 15:37",
-    "position": "34.28733\u00b0 / 24.33917\u00b0",
+    "position": "34.38167\u00b0 / 24.01417\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -219,7 +219,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/18 02:05",
     "destTime": "2021/11/18 01:05",
-    "position": "35.98288\u00b0 / 14.87744\u00b0",
+    "position": "35.98294\u00b0 / 14.87763\u00b0",
     "area": "West Mediterranean",
     "status": "At Anchor"
   },
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/10 04:18",
     "destTime": "2021/11/10 02:18",
-    "position": "42.43637\u00b0 / -9.777197\u00b0",
+    "position": "42.64917\u00b0 / -9.77857\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -359,7 +359,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/19 01:00",
     "destTime": "2021/11/19 00:00",
-    "position": "42.27534\u00b0 / 9.929178\u00b0",
+    "position": "42.5713\u00b0 / 9.804242\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -639,7 +639,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/21 16:15",
     "destTime": "2021/11/21 08:15",
-    "position": "14.49984\u00b0 / 114.31879\u00b0",
+    "position": "11.60965\u00b0 / 111.88076\u00b0",
     "area": "South China",
     "status": "Out of Range"
   },
