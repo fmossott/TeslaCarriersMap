@@ -23,7 +23,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/19 01:18",
     "destTime": "2021/11/18 17:18",
-    "position": "31.32214\u00b0 / 121.6816\u00b0",
+    "position": "31.32212\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -135,7 +135,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/18 22:18",
     "destTime": "2021/11/18 20:18",
-    "position": "29.85686\u00b0 / 32.5617\u00b0",
+    "position": "29.85667\u00b0 / 32.56167\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/16 17:37",
     "destTime": "2021/11/16 15:37",
-    "position": "34.72783\u00b0 / 22.77117\u00b0",
+    "position": "34.825\u00b0 / 22.40333\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -219,9 +219,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/18 02:05",
     "destTime": "2021/11/18 01:05",
-    "position": "35.98352\u00b0 / 14.87823\u00b0",
+    "position": "35.96524\u00b0 / 14.98869\u00b0",
     "area": "West Mediterranean",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9690547": {
     "rowidx": 14,
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/10 04:18",
     "destTime": "2021/11/10 02:18",
-    "position": "43.42993\u00b0 / -9.590283\u00b0",
+    "position": "43.62806\u00b0 / -9.465511\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -354,14 +354,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/11/16 07:44",
     "deptTime": "2021/11/16 06:44",
-    "dest": "IT LIV",
+    "dest": "IT LIVORNO ANCH",
     "destLong": "Livorno",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/19 01:00",
-    "destTime": "2021/11/19 00:00",
-    "position": "43.46955\u00b0 / 10.23348\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/18 23:07",
+    "destTime": "2021/11/18 22:07",
+    "position": "43.48548\u00b0 / 10.28173\u00b0",
     "area": "Ligurean Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9293521": {
     "rowidx": 187,
@@ -779,7 +779,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/22 06:00",
     "destTime": "2021/11/21 21:00",
-    "position": "31.32336\u00b0 / 121.6796\u00b0",
+    "position": "31.32338\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
