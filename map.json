@@ -6,7 +6,7 @@
     "notes": "",
     "quarter": "21Q4",
     "numDept": "18",
-    "mapStatus": "0",
+    "mapStatus": "1",
     "mtsid": "3391300",
     "name": "Viking Bravery",
     "mmsi": "565806000",
@@ -23,9 +23,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/19 01:18",
     "destTime": "2021/11/18 17:18",
-    "position": "31.32211\u00b0 / 121.6816\u00b0",
+    "position": "31.32213\u00b0 / 121.6815\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9293648": {
     "rowidx": 7,
@@ -51,9 +51,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/21 21:00",
     "destTime": "2021/11/21 13:00",
-    "position": "24.72594\u00b0 / 119.8529\u00b0",
+    "position": "18.53000\u00b0 / 114.85666\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9355238": {
     "rowidx": 8,
@@ -135,7 +135,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/18 22:00",
     "destTime": "2021/11/18 20:00",
-    "position": "29.55\u00b0 / 32.59\u00b0",
+    "position": "29.65\u00b0 / 32.56167\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/16 17:37",
     "destTime": "2021/11/16 15:37",
-    "position": "34.38167\u00b0 / 24.01417\u00b0",
+    "position": "34.472\u00b0 / 23.69133\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -219,7 +219,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/18 02:05",
     "destTime": "2021/11/18 01:05",
-    "position": "35.98294\u00b0 / 14.87763\u00b0",
+    "position": "35.98317\u00b0 / 14.87821\u00b0",
     "area": "West Mediterranean",
     "status": "At Anchor"
   },
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/10 04:18",
     "destTime": "2021/11/10 02:18",
-    "position": "42.64917\u00b0 / -9.77857\u00b0",
+    "position": "42.84588\u00b0 / -9.788722\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/21 20:00",
     "destTime": "2021/11/21 19:00",
-    "position": "36.11685\u00b0 / -4.771002\u00b0",
+    "position": "36.05131\u00b0 / -6.582987\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -359,7 +359,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/19 01:00",
     "destTime": "2021/11/19 00:00",
-    "position": "42.5713\u00b0 / 9.804242\u00b0",
+    "position": "42.88591\u00b0 / 9.6946\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -754,5 +754,33 @@
     "position": "31.32417\u00b0 / 121.6912\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
+  },
+  "9515395": {
+    "rowidx": 201,
+    "num": "-29",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "21Q4",
+    "numDept": "16",
+    "mapStatus": "4",
+    "mtsid": "731702",
+    "name": "Parsifal",
+    "mmsi": "566085000",
+    "length": "265",
+    "breadth": "32.27",
+    "grossTonnage": "75,251",
+    "dept": "SG SIN",
+    "deptLong": "Singapore",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/11/11 19:30",
+    "deptTime": "2021/11/11 11:30",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/19 01:27",
+    "destTime": "2021/11/18 17:27",
+    "position": "31.32336\u00b0 / 121.6796\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
   }
 }
