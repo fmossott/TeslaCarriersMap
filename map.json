@@ -23,7 +23,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/07 05:00",
     "destTime": "2021/12/07 03:00",
-    "position": "31.32213\u00b0 / 121.6816\u00b0",
+    "position": "31.32215\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -130,12 +130,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/10/31 20:57",
     "deptTime": "2021/10/31 12:57",
-    "dest": "EG SUEZ SOUTH ANCH",
+    "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ATA",
-    "destLocalTime": "2021/11/18 22:18",
-    "destTime": "2021/11/18 20:18",
-    "position": "29.91561\u00b0 / 32.54868\u00b0",
+    "destLocalTime": "2021/11/19 04:57",
+    "destTime": "2021/11/19 02:57",
+    "position": "30.03558\u00b0 / 32.57619\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/10 04:18",
     "destTime": "2021/11/10 02:18",
-    "position": "44.34395\u00b0 / -8.906103\u00b0",
+    "position": "44.54141\u00b0 / -8.788959\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -359,7 +359,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/18 23:07",
     "destTime": "2021/11/18 22:07",
-    "position": "43.4858\u00b0 / 10.28138\u00b0",
+    "position": "43.48619\u00b0 / 10.28104\u00b0",
     "area": "Ligurean Sea",
     "status": "At Anchor"
   },
@@ -555,9 +555,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/16 12:38",
     "destTime": "2021/11/16 04:38",
-    "position": "6.146019\u00b0 / 95.09029\u00b0",
+    "position": "6.12009\u00b0 / 94.46598\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9138525": {
     "rowidx": 194,
@@ -779,7 +779,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/22 06:00",
     "destTime": "2021/11/21 21:00",
-    "position": "31.32341\u00b0 / 121.6796\u00b0",
+    "position": "31.32341\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
