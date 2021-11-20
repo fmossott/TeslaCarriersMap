@@ -303,7 +303,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/20 04:12",
     "destTime": "2021/11/20 03:12",
-    "position": "42.23305\u00b0 / -8.749825\u00b0",
+    "position": "42.23167\u00b0 / -8.748333\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Moored"
   },
@@ -387,8 +387,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/23 14:30",
     "destTime": "2021/11/23 11:30",
-    "position": "-21.02841\u00b0 / 57.50385\u00b0",
-    "area": "Bengal Bay",
+    "position": "-22.28047\u00b0 / 54.92916\u00b0",
+    "area": "East Africa",
     "status": "Underway using Engine"
   },
   "9279812": {
@@ -443,7 +443,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/20 14:00",
     "destTime": "2021/11/20 10:00",
-    "position": "25.3392\u00b0 / 54.85037\u00b0",
+    "position": "25.15949\u00b0 / 54.80339\u00b0",
     "area": "Dubai Area",
     "status": "Underway using Engine"
   },
@@ -721,11 +721,11 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2021/11/25 05:00",
-    "destTime": "2021/11/24 21:00",
-    "position": "31.16555\u00b0 / 122.1979\u00b0",
-    "area": "East China Sea",
-    "status": "Out of Range"
+    "destLocalTime": "2021/11/25 03:00",
+    "destTime": "2021/11/24 19:00",
+    "position": "22.92397\u00b0 / 119.5579\u00b0",
+    "area": "South China",
+    "status": "Underway using Engine"
   },
   "9209506": {
     "rowidx": 201,
@@ -863,8 +863,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/21 05:00",
     "destTime": "2021/11/20 20:00",
-    "position": "37.02114\u00b0 / 126.1914\u00b0",
+    "position": "34.28121\u00b0 / 128.06358\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   }
 }
