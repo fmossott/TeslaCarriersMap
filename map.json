@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/16 17:37",
     "destTime": "2021/11/16 15:37",
-    "position": "36.66883\u00b0 / 14.416\u00b0",
+    "position": "36.75067\u00b0 / 14.11333\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -219,8 +219,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/10 04:18",
     "destTime": "2021/11/10 02:18",
-    "position": "48.42407\u00b0 / -5.87691\u00b0",
-    "area": "Biscay Bay",
+    "position": "48.63122\u00b0 / -5.746018\u00b0",
+    "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
   "9514999": {
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/09 19:17",
     "destTime": "2021/11/09 17:17",
-    "position": "49.64617\u00b0 / -3.337182\u00b0",
+    "position": "49.73095\u00b0 / -3.112035\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/19 09:23",
     "destTime": "2021/11/19 08:23",
-    "position": "43.58068\u00b0 / 10.30544\u00b0",
+    "position": "43.58068\u00b0 / 10.30543\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -387,7 +387,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/07 03:30",
     "destTime": "2021/11/06 19:30",
-    "position": "-20.617\u00b0 / 58.02359\u00b0",
+    "position": "-20.81893\u00b0 / 57.77148\u00b0",
     "area": "Bengal Bay",
     "status": "Underway using Engine"
   },
@@ -441,9 +441,9 @@
     "dest": "AE JEA",
     "destLong": "Jebel Ali",
     "destType": "ETA",
-    "destLocalTime": "2021/11/20 11:00",
-    "destTime": "2021/11/20 07:00",
-    "position": "25.87498\u00b0 / 56.83535\u00b0",
+    "destLocalTime": "2021/11/20 14:00",
+    "destTime": "2021/11/20 10:00",
+    "position": "26.12462\u00b0 / 56.806\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -471,9 +471,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/21 20:00",
     "destTime": "2021/11/21 16:00",
-    "position": "15.98058\u00b0 / 71.19915\u00b0",
+    "position": "20.62973\u00b0 / 66.94086\u00b0",
     "area": "West Coast India",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9409481": {
     "rowidx": 192,
@@ -751,7 +751,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/22 05:00",
     "destTime": "2021/11/21 20:00",
-    "position": "31.32339\u00b0 / 121.6795\u00b0",
+    "position": "31.3234\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
