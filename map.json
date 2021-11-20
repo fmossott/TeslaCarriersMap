@@ -135,7 +135,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/18 22:00",
     "destTime": "2021/11/18 20:00",
-    "position": "34.2296\u00b0 / 25.23505\u00b0",
+    "position": "34.24607\u00b0 / 25.1261\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -158,14 +158,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/11/18 15:44",
     "deptTime": "2021/11/18 12:44",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/20 21:00",
-    "destTime": "2021/11/20 19:00",
-    "position": "29.81044\u00b0 / 32.55127\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/20 18:57",
+    "destTime": "2021/11/20 16:57",
+    "position": "29.85044\u00b0 / 32.56127\u00b0",
     "area": "Red Sea",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9731652": {
     "rowidx": 12,
@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/10 04:18",
     "destTime": "2021/11/10 02:18",
-    "position": "50.24621\u00b0 / -1.237113\u00b0",
+    "position": "50.37794\u00b0 / -1.234748\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -244,10 +244,10 @@
     "deptTime": "2021/10/20 16:42",
     "dest": "GB SOU",
     "destLong": "Southampton",
-    "destType": "ETA",
+    "destType": "ATA",
     "destLocalTime": "2021/11/09 19:17",
     "destTime": "2021/11/09 17:17",
-    "position": "50.77327\u00b0 / -1.27092\u00b0",
+    "position": "50.89122\u00b0 / -1.407595\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -321,19 +321,19 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "60,169",
-    "dept": "SI KOP",
-    "deptLong": "Koper",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/11/16 07:44",
-    "deptTime": "2021/11/16 06:44",
-    "dest": "IT LIV",
-    "destLong": "Livorno",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/19 09:23",
-    "destTime": "2021/11/19 08:23",
-    "position": "43.58069\u00b0 / 10.30543\u00b0",
+    "dept": "IT LIV",
+    "deptLong": "Livorno",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/11/19 09:23",
+    "deptTime": "2021/11/19 08:23",
+    "dest": "MA TNG",
+    "destLong": "Tangier",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/22 23:00",
+    "destTime": "2021/11/22 22:00",
+    "position": "43.5709\u00b0 / 10.30637\u00b0",
     "area": "Ligurean Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9293521": {
     "rowidx": 187,
@@ -387,7 +387,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/23 14:30",
     "destTime": "2021/11/23 11:30",
-    "position": "-22.28047\u00b0 / 54.92916\u00b0",
+    "position": "-23.19949\u00b0 / 52.61812\u00b0",
     "area": "East Africa",
     "status": "Underway using Engine"
   },
@@ -527,7 +527,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/16 12:38",
     "destTime": "2021/11/16 04:38",
-    "position": "7.773859\u00b0 / 77.18345\u00b0",
+    "position": "7.976247\u00b0 / 76.9676\u00b0",
     "area": "Laccadive Sea",
     "status": "Underway using Engine"
   },
@@ -807,7 +807,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/20 14:13",
     "destTime": "2021/11/20 06:13",
-    "position": "31.32371\u00b0 / 121.6792\u00b0",
+    "position": "31.32365\u00b0 / 121.6792\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -835,7 +835,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/20 07:56",
     "destTime": "2021/11/19 23:56",
-    "position": "30.83596\u00b0 / 121.8355\u00b0",
+    "position": "30.83598\u00b0 / 121.8355\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -863,8 +863,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/21 05:00",
     "destTime": "2021/11/20 20:00",
-    "position": "34.27203\u00b0 / 128.146\u00b0",
-    "area": "Yellow Sea",
+    "position": "34.30399\u00b0 / 128.1337\u00b0",
+    "area": "East China Sea",
     "status": "Underway using Engine"
   }
 }
