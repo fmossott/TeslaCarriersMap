@@ -69,19 +69,19 @@
     "length": "199.9",
     "breadth": "32.26",
     "grossTonnage": "59,217",
-    "dept": "SG SINGAPORE ANCH",
+    "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/11/19 18:09",
-    "deptTime": "2021/11/19 10:09",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/11/14 09:51",
+    "deptTime": "2021/11/14 01:51",
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
     "destLocalTime": "2021/12/02 22:00",
     "destTime": "2021/12/02 20:00",
-    "position": "1.268033\u00b0 / 103.9014\u00b0",
+    "position": "1.20655\u00b0 / 103.8755\u00b0",
     "area": "Singapore Area",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9441520": {
     "rowidx": 9,
@@ -163,9 +163,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/20 21:00",
     "destTime": "2021/11/20 19:00",
-    "position": "23.56058\u00b0 / 37.07373\u00b0",
+    "position": "27.25966\u00b0 / 34.30068\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9731652": {
     "rowidx": 12,
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/21 10:00",
     "destTime": "2021/11/21 09:00",
-    "position": "46.05204\u00b0 / -7.790953\u00b0",
+    "position": "47.17786\u00b0 / -6.900983\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -303,7 +303,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/20 05:00",
     "destTime": "2021/11/20 04:00",
-    "position": "42.07597\u00b0 / -9.010081\u00b0",
+    "position": "42.14499\u00b0 / -8.929575\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -349,19 +349,19 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "59,160",
-    "dept": "BH KBS",
-    "deptLong": "Khalifa Bin Salman",
+    "dept": "SA DMM",
+    "deptLong": "Dammam",
     "deptType": "ATD",
-    "deptLocalTime": "2021/11/19 01:52",
-    "deptTime": "2021/11/18 22:52",
-    "dest": "SA DMM",
-    "destLong": "Dammam",
-    "destType": "ATA",
+    "deptLocalTime": "2021/11/20 04:10",
+    "deptTime": "2021/11/20 01:10",
+    "dest": "BH MIN",
+    "destLong": "Mina Sulman",
+    "destType": "ETA",
     "destLocalTime": "2021/11/19 09:04",
     "destTime": "2021/11/19 06:04",
-    "position": "26.48945\u00b0 / 50.20074\u00b0",
+    "position": "26.62488\u00b0 / 50.2809\u00b0",
     "area": "Persian Gulf",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9267912": {
     "rowidx": 188,
@@ -443,7 +443,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/20 14:00",
     "destTime": "2021/11/20 10:00",
-    "position": "26.12462\u00b0 / 56.806\u00b0",
+    "position": "26.59906\u00b0 / 56.61518\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -779,7 +779,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/20 00:41",
     "destTime": "2021/11/19 16:41",
-    "position": "31.32209\u00b0 / 121.6816\u00b0",
+    "position": "31.32214\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
