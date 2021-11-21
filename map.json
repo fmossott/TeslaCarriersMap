@@ -443,7 +443,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/20 14:22",
     "destTime": "2021/11/20 10:22",
-    "position": "25.15512\u00b0 / 54.81923\u00b0",
+    "position": "25.15546\u00b0 / 54.81985\u00b0",
     "area": "Dubai Area",
     "status": "At Anchor"
   },
@@ -667,9 +667,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/21 06:00",
     "destTime": "2021/11/20 22:00",
-    "position": "21.76245\u00b0 / 113.8881\u00b0",
+    "position": "21.76279\u00b0 / 113.8806\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9605798": {
     "rowidx": 199,
@@ -807,7 +807,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/21 15:22",
     "destTime": "2021/11/21 07:22",
-    "position": "31.32348\u00b0 / 121.6797\u00b0",
+    "position": "31.32347\u00b0 / 121.6797\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -827,15 +827,15 @@
     "grossTonnage": "47,057",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/11/21 22:10",
-    "deptTime": "2021/11/21 14:10",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/11/21 22:31",
+    "deptTime": "2021/11/21 14:31",
+    "dest": "KR INC",
+    "destLong": "Incheon",
+    "destType": "ETA",
     "destLocalTime": "2021/11/21 22:31",
     "destTime": "2021/11/21 14:31",
-    "position": "31.32216\u00b0 / 121.6817\u00b0",
+    "position": "31.32216\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
