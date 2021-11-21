@@ -51,7 +51,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/21 23:10",
     "destTime": "2021/11/21 15:10",
-    "position": "1.289795\u00b0 / 104.0233\u00b0",
+    "position": "1.289468\u00b0 / 104.0251\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/10 04:18",
     "destTime": "2021/11/10 02:18",
-    "position": "50.64106\u00b0 / -0.91013\u00b0",
+    "position": "50.55123\u00b0 / -0.8898683\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -239,7 +239,7 @@
     "grossTonnage": "39,454",
     "dept": "GB SOU",
     "deptLong": "Southampton",
-    "deptType": "ATA",
+    "deptType": "ATD",
     "deptLocalTime": "2021/11/21 01:31",
     "deptTime": "2021/11/20 17:31",
     "dest": "BE ZEE",
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/22 11:00",
     "destTime": "2021/11/22 10:00",
-    "position": "50.90067\u00b0 / -1.420285\u00b0",
+    "position": "50.78402\u00b0 / -1.31486\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -275,7 +275,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/21 11:44",
     "destTime": "2021/11/21 10:44",
-    "position": "51.30643\u00b0 / 3.227528\u00b0",
+    "position": "51.3064\u00b0 / 3.227572\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -303,8 +303,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/22 21:00",
     "destTime": "2021/11/22 20:00",
-    "position": "44.72303\u00b0 / -8.691292\u00b0",
-    "area": "Biscay Bay",
+    "position": "48.9529\u00b0 / -5.13033\u00b0",
+    "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
   "9293894": {
@@ -471,9 +471,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/22 18:00",
     "destTime": "2021/11/22 14:00",
-    "position": "24.50365\u00b0 / 56.61953\u00b0",
+    "position": "24.52347\u00b0 / 56.629\u00b0",
     "area": "Oman Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9409481": {
     "rowidx": 192,
@@ -527,7 +527,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/16 12:38",
     "destTime": "2021/11/16 04:38",
-    "position": "14.04958\u00b0 / 73.88299\u00b0",
+    "position": "15.03155\u00b0 / 73.51942\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -863,7 +863,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/22 01:32",
     "destTime": "2021/11/21 16:32",
-    "position": "35.52498\u00b0 / 129.3889\u00b0",
+    "position": "35.52497\u00b0 / 129.3889\u00b0",
     "area": "North China",
     "status": "Moored"
   }
