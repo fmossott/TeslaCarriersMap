@@ -46,14 +46,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/11/16 11:19",
     "deptTime": "2021/11/16 03:19",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/21 23:00",
-    "destTime": "2021/11/21 15:00",
-    "position": "1.268727\u00b0 / 104.0134\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/21 23:10",
+    "destTime": "2021/11/21 15:10",
+    "position": "1.289237\u00b0 / 104.0234\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9355238": {
     "rowidx": 8,
@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/10 04:18",
     "destTime": "2021/11/10 02:18",
-    "position": "50.34414\u00b0 / -1.346432\u00b0",
+    "position": "50.35619\u00b0 / -1.254638\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/22 11:00",
     "destTime": "2021/11/22 10:00",
-    "position": "50.90239\u00b0 / -1.422747\u00b0",
+    "position": "50.9024\u00b0 / -1.422753\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -275,7 +275,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/21 11:44",
     "destTime": "2021/11/21 10:44",
-    "position": "51.30636\u00b0 / 3.227628\u00b0",
+    "position": "51.30639\u00b0 / 3.227577\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -359,9 +359,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/20 21:16",
     "destTime": "2021/11/20 18:16",
-    "position": "29.33500\u00b0 / 48.14833\u00b0",
+    "position": "28.50541\u00b0 / 49.88139\u00b0",
     "area": "Persian Gulf",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9267912": {
     "rowidx": 188,
@@ -468,12 +468,12 @@
     "deptTime": "2021/11/12 07:26",
     "dest": "OM SOH",
     "destLong": "Sohar",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/21 20:00",
-    "destTime": "2021/11/21 16:00",
-    "position": "24.5058\u00b0 / 56.62705\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/21 18:23",
+    "destTime": "2021/11/21 14:23",
+    "position": "24.50363\u00b0 / 56.61952\u00b0",
     "area": "Oman Gulf",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9409481": {
     "rowidx": 192,
@@ -527,7 +527,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/16 12:38",
     "destTime": "2021/11/16 04:38",
-    "position": "13.42656\u00b0 / 74.11517\u00b0",
+    "position": "13.63548\u00b0 / 74.04969\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -697,7 +697,7 @@
     "destTime": "2021/11/24 19:00",
     "position": "22.92397\u00b0 / 119.5579\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9209506": {
     "rowidx": 200,
@@ -863,7 +863,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/22 01:00",
     "destTime": "2021/11/21 16:00",
-    "position": "35.08205\u00b0 / 129.344\u00b0",
+    "position": "35.10739\u00b0 / 129.3532\u00b0",
     "area": "North China",
     "status": "Underway using Engine"
   }
