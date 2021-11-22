@@ -219,7 +219,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/10 04:18",
     "destTime": "2021/11/10 02:18",
-    "position": "50.90242\u00b0 / -1.423132\u00b0",
+    "position": "50.90242\u00b0 / -1.423147\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -275,7 +275,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/21 11:44",
     "destTime": "2021/11/21 10:44",
-    "position": "51.30639\u00b0 / 3.227555\u00b0",
+    "position": "51.30641\u00b0 / 3.227602\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -349,19 +349,19 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "59,160",
-    "dept": "KW KWI",
-    "deptLong": "Kuwait",
+    "dept": "QA HMD",
+    "deptLong": "Hamad",
     "deptType": "ATD",
-    "deptLocalTime": "2021/11/21 10:42",
-    "deptTime": "2021/11/21 07:42",
-    "dest": "QA HMD",
-    "destLong": "Hamad",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/22 08:40",
-    "destTime": "2021/11/22 05:40",
-    "position": "25.00573\u00b0 / 51.60016\u00b0",
+    "deptLocalTime": "2021/11/22 23:42",
+    "deptTime": "2021/11/22 20:42",
+    "dest": "PK KHI",
+    "destLong": "Karachi",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/25 01:00",
+    "destTime": "2021/11/24 20:00",
+    "position": "25.11753\u00b0 / 51.70304\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9267912": {
     "rowidx": 188,
@@ -443,7 +443,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/21 22:42",
     "destTime": "2021/11/21 18:42",
-    "position": "24.99645\u00b0 / 55.08006\u00b0",
+    "position": "24.99647\u00b0 / 55.08004\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -527,7 +527,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/16 12:38",
     "destTime": "2021/11/16 04:38",
-    "position": "18.94093\u00b0 / 72.85369\u00b0",
+    "position": "18.94094\u00b0 / 72.85371\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/22 17:04",
     "destTime": "2021/11/22 09:04",
-    "position": "23.01231\u00b0 / 113.5291\u00b0",
+    "position": "23.01237\u00b0 / 113.5291\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -723,9 +723,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/22 16:00",
     "destTime": "2021/11/22 08:00",
-    "position": "38.66398\u00b0 / 120.5701\u00b0",
+    "position": "38.69000\u00b0 / 119.30500\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9176395": {
     "rowidx": 201,
