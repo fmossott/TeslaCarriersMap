@@ -105,10 +105,10 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2021/11/22 22:00",
-    "destTime": "2021/11/22 20:00",
-    "position": "26.34422\u00b0 / 35.07621\u00b0",
-    "area": "Laccadive Sea",
+    "destLocalTime": "2021/11/23 22:00",
+    "destTime": "2021/11/23 20:00",
+    "position": "26.58665\u00b0 / 34.89015\u00b0",
+    "area": "Red Sea",
     "status": "Underway using Engine"
   },
   "9690559": {
@@ -219,7 +219,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/10 04:18",
     "destTime": "2021/11/10 02:18",
-    "position": "50.90244\u00b0 / -1.423143\u00b0",
+    "position": "50.90246\u00b0 / -1.423147\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -267,17 +267,17 @@
     "grossTonnage": "59,705",
     "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/11/21 12:44",
-    "deptTime": "2021/11/21 10:44",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/11/23 01:44",
+    "deptTime": "2021/11/23 00:44",
     "dest": "DE BRV",
     "destLong": "Bremerhaven",
     "destType": "ETA",
     "destLocalTime": "2021/11/23 17:00",
     "destTime": "2021/11/23 16:00",
-    "position": "51.33373\u00b0 / 3.217112\u00b0",
+    "position": "51.40309\u00b0 / 3.048592\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9539171": {
     "rowidx": 20,
@@ -443,7 +443,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/23 17:00",
     "destTime": "2021/11/23 14:00",
-    "position": "24.99571\u00b0 / 55.07938\u00b0",
+    "position": "25.02271\u00b0 / 55.04007\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -527,7 +527,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/16 12:38",
     "destTime": "2021/11/16 04:38",
-    "position": "18.94092\u00b0 / 72.85371\u00b0",
+    "position": "18.94095\u00b0 / 72.85369\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
@@ -583,7 +583,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/29 18:00",
     "destTime": "2021/11/29 14:00",
-    "position": "2.58560\u00b0 / 85.56340\u00b0",
+    "position": "4.04650\u00b0 / 82.73110\u00b0",
     "area": "Java Sea",
     "status": "Out of Range"
   },
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/22 17:04",
     "destTime": "2021/11/22 09:04",
-    "position": "23.01233\u00b0 / 113.5291\u00b0",
+    "position": "23.0124\u00b0 / 113.529\u00b0",
     "area": "South China",
     "status": "Moored"
   },
