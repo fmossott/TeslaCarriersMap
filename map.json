@@ -107,9 +107,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/22 22:00",
     "destTime": "2021/11/22 20:00",
-    "position": "25.58481\u00b0 / 35.65094\u00b0",
+    "position": "26.34422\u00b0 / 35.07621\u00b0",
     "area": "Laccadive Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9690559": {
     "rowidx": 10,
@@ -219,7 +219,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/10 04:18",
     "destTime": "2021/11/10 02:18",
-    "position": "50.90243\u00b0 / -1.42314\u00b0",
+    "position": "50.90244\u00b0 / -1.423143\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/23 17:00",
     "destTime": "2021/11/23 16:00",
-    "position": "51.30637\u00b0 / 3.227585\u00b0",
+    "position": "51.33373\u00b0 / 3.217112\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -433,19 +433,19 @@
     "length": "200",
     "breadth": "35.44",
     "grossTonnage": "66,802",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/11/05 13:38",
-    "deptTime": "2021/11/05 05:38",
-    "dest": "AE JEA",
-    "destLong": "Jebel Ali",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/21 22:42",
-    "destTime": "2021/11/21 18:42",
-    "position": "24.99647\u00b0 / 55.08005\u00b0",
+    "dept": "AE JEA",
+    "deptLong": "Jebel Ali",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/11/22 02:42",
+    "deptTime": "2021/11/21 18:42",
+    "dest": "QA HMD",
+    "destLong": "Hamad",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/23 17:00",
+    "destTime": "2021/11/23 14:00",
+    "position": "24.99571\u00b0 / 55.07938\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9338632": {
     "rowidx": 191,
@@ -527,7 +527,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/16 12:38",
     "destTime": "2021/11/16 04:38",
-    "position": "18.94093\u00b0 / 72.85371\u00b0",
+    "position": "18.94092\u00b0 / 72.85371\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
