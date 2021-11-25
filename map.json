@@ -275,7 +275,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/25 09:10",
     "destTime": "2021/11/25 04:10",
-    "position": "24.62673\u00b0 / 66.90548\u00b0",
+    "position": "24.62661\u00b0 / 66.90544\u00b0",
     "area": "West Coast India",
     "status": "At Anchor"
   },
@@ -359,7 +359,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/25 13:15",
     "destTime": "2021/11/25 10:15",
-    "position": "26.49292\u00b0 / 50.20583\u00b0",
+    "position": "26.49292\u00b0 / 50.20585\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -797,19 +797,19 @@
     "length": "182.8",
     "breadth": "31.74",
     "grossTonnage": "46,800",
-    "dept": "KR BNP",
-    "deptLong": "Busan New Port",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2021/11/21 18:45",
-    "deptTime": "2021/11/21 09:45",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/25 15:52",
-    "destTime": "2021/11/25 07:52",
-    "position": "31.32216\u00b0 / 121.6816\u00b0",
+    "deptLocalTime": "2021/11/26 04:02",
+    "deptTime": "2021/11/25 20:02",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/15 20:00",
+    "destTime": "2021/12/15 18:00",
+    "position": "31.29112\u00b0 / 121.7993\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9367592": {
     "rowidx": 208,
@@ -835,7 +835,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/25 16:08",
     "destTime": "2021/11/25 08:08",
-    "position": "31.32359\u00b0 / 121.6796\u00b0",
+    "position": "31.32333\u00b0 / 121.6783\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
