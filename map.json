@@ -108,8 +108,8 @@
     "destLocalTime": "2021/12/09 13:00",
     "destTime": "2021/12/09 11:00",
     "position": "25.73234\u00b0 / 121.2518\u00b0",
-    "area": "East China Sea",
-    "status": "Underway using Engine"
+    "area": "South China",
+    "status": "Out of Range"
   },
   "9441520": {
     "rowidx": 10,
@@ -713,19 +713,19 @@
     "length": "229.97",
     "breadth": "32.26",
     "grossTonnage": "72,269",
-    "dept": "CN YTG",
-    "deptLong": "Yantai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/11/25 17:30",
-    "deptTime": "2021/11/25 09:30",
-    "dest": "KR MOK",
-    "destLong": "Mokpo",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/26 16:30",
-    "destTime": "2021/11/26 07:30",
-    "position": "34.76191\u00b0 / 126.3502\u00b0",
+    "dept": "KR MOK",
+    "deptLong": "Mokpo",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/11/26 15:30",
+    "deptTime": "2021/11/26 07:30",
+    "dest": "KR KAN",
+    "destLong": "Gwangyang",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/26 16:00",
+    "destTime": "2021/11/26 07:00",
+    "position": "34.76192\u00b0 / 126.3502\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9302205": {
     "rowidx": 205,
@@ -865,7 +865,7 @@
     "destTime": "2021/11/26 08:46",
     "position": "31.32205\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9454723": {
     "rowidx": 210,
