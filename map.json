@@ -189,10 +189,10 @@
     "dest": "IT LIV",
     "destLong": "Livorno",
     "destType": "ETA",
-    "destLocalTime": "2021/11/27 17:00",
-    "destTime": "2021/11/27 16:00",
-    "position": "36.12557\u00b0 / 21.46292\u00b0",
-    "area": "Ionian Sea",
+    "destLocalTime": "2021/11/27 14:00",
+    "destTime": "2021/11/27 13:00",
+    "position": "36.48641\u00b0 / 14.51932\u00b0",
+    "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
   "9731652": {
@@ -359,7 +359,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/16 16:00",
     "destTime": "2021/12/16 09:00",
-    "position": "26.49305\u00b0 / 50.20586\u00b0",
+    "position": "26.493\u00b0 / 50.20568\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -499,9 +499,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 09:00",
     "destTime": "2021/12/03 01:00",
-    "position": "5.78571\u00b0 / 80.00407\u00b0",
+    "position": "7.62236\u00b0 / 74.25473\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway by Sail"
+    "status": "Out of Range"
   },
   "9782091": {
     "rowidx": 197,
@@ -835,7 +835,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/25 16:08",
     "destTime": "2021/11/25 08:08",
-    "position": "31.32358\u00b0 / 121.6795\u00b0",
+    "position": "31.32359\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
