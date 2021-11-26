@@ -135,7 +135,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/23 22:10",
     "destTime": "2021/11/23 20:10",
-    "position": "35.56124\u00b0 / 18.20381\u00b0",
+    "position": "35.65521\u00b0 / 17.84446\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/25 11:11",
     "destTime": "2021/11/25 08:11",
-    "position": "26.48915\u00b0 / 50.20067\u00b0",
+    "position": "26.48915\u00b0 / 50.20068\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -387,7 +387,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/24 19:11",
     "destTime": "2021/11/24 16:11",
-    "position": "21.45858\u00b0 / 39.16645\u00b0",
+    "position": "21.45855\u00b0 / 39.16647\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -407,7 +407,7 @@
     "grossTonnage": "72,700",
     "dept": "IN BOM",
     "deptLong": "Mumbai",
-    "deptType": "ATA",
+    "deptType": "ATD",
     "deptLocalTime": "2021/11/23 00:36",
     "deptTime": "2021/11/22 16:36",
     "dest": "PK KHI",
@@ -415,9 +415,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/27 17:30",
     "destTime": "2021/11/27 12:30",
-    "position": "18.94092\u00b0 / 72.85374\u00b0",
+    "position": "18.8606\u00b0 / 72.82198\u00b0",
     "area": "West Coast India",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9442122": {
     "rowidx": 194,
@@ -525,10 +525,10 @@
     "dest": "JO AQJ",
     "destLong": "Aqaba",
     "destType": "ETA",
-    "destLocalTime": "2021/12/07 22:00",
-    "destTime": "2021/12/07 20:00",
-    "position": "1.19655\u00b0 / 103.5736\u00b0",
-    "area": "Singapore Area",
+    "destLocalTime": "2021/12/08 02:01",
+    "destTime": "2021/12/08 00:01",
+    "position": "5.357378\u00b0 / 97.86425\u00b0",
+    "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
   "9293650": {
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/23 07:35",
     "destTime": "2021/11/22 23:35",
-    "position": "22.08685\u00b0 / 114.2547\u00b0",
+    "position": "22.08676\u00b0 / 114.2549\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
