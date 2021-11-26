@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/01 04:00",
     "destTime": "2021/12/01 03:00",
-    "position": "36.62195\u00b0 / -7.928887\u00b0",
+    "position": "36.63704\u00b0 / -7.90826\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -611,7 +611,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/27 06:35",
     "destTime": "2021/11/26 21:35",
-    "position": "34.514\u00b0 / 137.0582\u00b0",
+    "position": "34.66111\u00b0 / 137.036\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -723,7 +723,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/26 16:00",
     "destTime": "2021/11/26 07:00",
-    "position": "34.7558\u00b0 / 126.3312\u00b0",
+    "position": "33.82579\u00b0 / 126.4073\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -748,12 +748,12 @@
     "deptTime": "2021/11/25 13:21",
     "dest": "KR USN",
     "destLong": "Ulsan",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/27 06:10",
-    "destTime": "2021/11/26 21:10",
-    "position": "35.44562\u00b0 / 129.4065\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/27 06:42",
+    "destTime": "2021/11/26 21:42",
+    "position": "35.52288\u00b0 / 129.3904\u00b0",
     "area": "North China",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9312482": {
     "rowidx": 206,
@@ -863,7 +863,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/26 16:46",
     "destTime": "2021/11/26 08:46",
-    "position": "31.32204\u00b0 / 121.6816\u00b0",
+    "position": "31.32203\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
