@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/27 14:00",
     "destTime": "2021/11/27 13:00",
-    "position": "41.43534\u00b0 / 10.36827\u00b0",
+    "position": "41.7902\u00b0 / 10.20604\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -247,9 +247,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/27 03:00",
     "destTime": "2021/11/27 02:00",
-    "position": "48.30660\u00b0 / -5.97370\u00b0",
+    "position": "48.92221\u00b0 / -5.188462\u00b0",
     "area": "UK Coast & Atlantic",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9293521": {
     "rowidx": 188,
@@ -555,7 +555,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/28 13:00",
     "destTime": "2021/11/28 05:00",
-    "position": "7.03152\u00b0 / 108.90965\u00b0",
+    "position": "5.00854\u00b0 / 106.77737\u00b0",
     "area": "South China",
     "status": "Out of Range"
   },
@@ -601,19 +601,19 @@
     "length": "199.94",
     "breadth": "32.2",
     "grossTonnage": "55,880",
-    "dept": "CN TXG",
-    "deptLong": "Tianjin",
+    "dept": "JP THS",
+    "deptLong": "Toyohashi",
     "deptType": "ATD",
-    "deptLocalTime": "2021/11/23 23:42",
-    "deptTime": "2021/11/23 15:42",
-    "dest": "JP THS",
-    "destLong": "Toyohashi",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/27 08:43",
-    "destTime": "2021/11/26 23:43",
-    "position": "34.73374\u00b0 / 137.3148\u00b0",
+    "deptLocalTime": "2021/11/27 14:38",
+    "deptTime": "2021/11/27 05:38",
+    "dest": "JP HTC",
+    "destLong": "Hitachi",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/29 06:15",
+    "destTime": "2021/11/28 21:15",
+    "position": "34.7363\u00b0 / 137.2854\u00b0",
     "area": "Japan Coast",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9176395": {
     "rowidx": 201,
@@ -720,9 +720,9 @@
     "deptTime": "2021/11/26 17:39",
     "dest": "KR KAN",
     "destLong": "Gwangyang",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/26 16:00",
-    "destTime": "2021/11/26 07:00",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/27 14:22",
+    "destTime": "2021/11/27 05:22",
     "position": "33.82579\u00b0 / 126.4073\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
@@ -751,7 +751,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/27 06:42",
     "destTime": "2021/11/26 21:42",
-    "position": "35.523\u00b0 / 129.3905\u00b0",
+    "position": "35.52295\u00b0 / 129.3905\u00b0",
     "area": "North China",
     "status": "Moored"
   },
@@ -863,7 +863,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/26 16:46",
     "destTime": "2021/11/26 08:46",
-    "position": "31.32206\u00b0 / 121.6816\u00b0",
+    "position": "31.32205\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
