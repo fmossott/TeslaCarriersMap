@@ -219,7 +219,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/16 17:37",
     "destTime": "2021/11/16 15:37",
-    "position": "50.88783\u00b0 / -1.398833\u00b0",
+    "position": "50.8878\u00b0 / -1.39883\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/27 21:00",
     "destTime": "2021/11/27 20:00",
-    "position": "50.38612\u00b0 / -3.071208\u00b0",
+    "position": "50.37886\u00b0 / -2.715575\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -357,10 +357,10 @@
     "dest": "TH LCH",
     "destLong": "Laem Chabang",
     "destType": "ETA",
-    "destLocalTime": "2021/12/09 07:01",
-    "destTime": "2021/12/09 00:01",
-    "position": "26.59063\u00b0 / 50.21333\u00b0",
-    "area": "Persian Gulf",
+    "destLocalTime": "2021/12/09 08:00",
+    "destTime": "2021/12/09 01:00",
+    "position": "25.00012\u00b0 / 57.96419\u00b0",
+    "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
   "9409481": {
@@ -662,14 +662,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/11/27 22:07",
     "deptTime": "2021/11/27 14:07",
-    "dest": "HK HKG",
+    "dest": "HK HONG KONG ANCH",
     "destLong": "Hong Kong",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/28 07:30",
-    "destTime": "2021/11/27 23:30",
-    "position": "22.09035\u00b0 / 114.1715\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/27 23:52",
+    "destTime": "2021/11/27 15:52",
+    "position": "22.0902\u00b0 / 114.1715\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9427952": {
     "rowidx": 203,
@@ -779,7 +779,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/27 16:55",
     "destTime": "2021/11/27 07:55",
-    "position": "35.46052\u00b0 / 139.6886\u00b0",
+    "position": "35.46051\u00b0 / 139.6886\u00b0",
     "area": "Japan Coast",
     "status": "Moored"
   },
