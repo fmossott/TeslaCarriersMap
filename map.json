@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/27 14:00",
     "destTime": "2021/11/27 13:00",
-    "position": "42.31178\u00b0 / 9.966679\u00b0",
+    "position": "42.5919\u00b0 / 9.915465\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -247,8 +247,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/27 03:00",
     "destTime": "2021/11/27 02:00",
-    "position": "49.32413\u00b0 / -4.57219\u00b0",
-    "area": "Celtic Sea",
+    "position": "49.39697\u00b0 / -4.47829\u00b0",
+    "area": "English Channel",
     "status": "Underway using Engine"
   },
   "9293521": {
@@ -275,9 +275,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/26 23:28",
     "destTime": "2021/11/26 18:28",
-    "position": "24.84005\u00b0 / 66.97932\u00b0",
+    "position": "24.83629\u00b0 / 66.97907\u00b0",
     "area": "West Coast India",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9279812": {
     "rowidx": 189,
@@ -751,7 +751,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/27 06:42",
     "destTime": "2021/11/26 21:42",
-    "position": "35.52295\u00b0 / 129.3904\u00b0",
+    "position": "35.52293\u00b0 / 129.3904\u00b0",
     "area": "North China",
     "status": "Moored"
   },
@@ -853,19 +853,19 @@
     "length": "199.98",
     "breadth": "32.3",
     "grossTonnage": "57,542",
-    "dept": "KR GSO",
-    "deptLong": "Goseong",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/11/21 09:29",
-    "deptTime": "2021/11/21 00:29",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/26 16:46",
-    "destTime": "2021/11/26 08:46",
-    "position": "31.32208\u00b0 / 121.6816\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/11/26 17:46",
+    "deptTime": "2021/11/26 08:46",
+    "dest": "KR KUV",
+    "destLong": "Gunsan",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/28 21:00",
+    "destTime": "2021/11/28 12:00",
+    "position": "31.32283\u00b0 / 121.6827\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway"
   },
   "9454723": {
     "rowidx": 210,
