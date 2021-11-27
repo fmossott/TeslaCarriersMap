@@ -321,17 +321,17 @@
     "length": "200",
     "breadth": "35.44",
     "grossTonnage": "66,802",
-    "dept": "QA HMD",
-    "deptLong": "Hamad",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/11/24 10:51",
-    "deptTime": "2021/11/24 07:51",
-    "dest": "SA DMM",
-    "destLong": "Dammam",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/25 11:11",
-    "destTime": "2021/11/25 08:11",
-    "position": "26.48916\u00b0 / 50.20064\u00b0",
+    "dept": "SA DMM",
+    "deptLong": "Dammam",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/11/25 11:11",
+    "deptTime": "2021/11/25 08:11",
+    "dest": "KW KWI",
+    "destLong": "Kuwait",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/28 02:30",
+    "destTime": "2021/11/27 23:30",
+    "position": "26.48917\u00b0 / 50.20064\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -387,7 +387,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/24 19:11",
     "destTime": "2021/11/24 16:11",
-    "position": "21.45857\u00b0 / 39.16647\u00b0",
+    "position": "21.4586\u00b0 / 39.16645\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -664,12 +664,12 @@
     "deptTime": "2021/11/21 00:45",
     "dest": "HK HKG",
     "destLong": "Hong Kong",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/27 21:30",
-    "destTime": "2021/11/27 13:30",
-    "position": "22.2978\u00b0 / 114.0983\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/27 14:13",
+    "destTime": "2021/11/27 06:13",
+    "position": "22.34068\u00b0 / 114.1146\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9427952": {
     "rowidx": 203,
@@ -779,9 +779,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/27 10:05",
     "destTime": "2021/11/27 01:05",
-    "position": "35.42683\u00b0 / 139.7321\u00b0",
+    "position": "35.42724\u00b0 / 139.7325\u00b0",
     "area": "Japan Coast",
-    "status": "Stopped"
+    "status": "At Anchor"
   },
   "9483786": {
     "rowidx": 207,
@@ -891,7 +891,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/26 17:23",
     "destTime": "2021/11/26 09:23",
-    "position": "31.32355\u00b0 / 121.6794\u00b0",
+    "position": "31.32353\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
