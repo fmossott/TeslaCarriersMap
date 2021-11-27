@@ -301,10 +301,10 @@
     "dest": "FR FOS",
     "destLong": "Fos Sur Mer",
     "destType": "ETA",
-    "destLocalTime": "2021/11/28 17:00",
-    "destTime": "2021/11/28 16:00",
-    "position": "37.58534\u00b0 / 16.37891\u00b0",
-    "area": "Ionian Sea",
+    "destLocalTime": "2021/11/28 18:00",
+    "destTime": "2021/11/28 17:00",
+    "position": "38.27751\u00b0 / 15.70824\u00b0",
+    "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
   "9780639": {
@@ -608,12 +608,12 @@
     "deptTime": "2021/11/23 15:42",
     "dest": "JP THS",
     "destLong": "Toyohashi",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/27 06:35",
-    "destTime": "2021/11/26 21:35",
-    "position": "34.73631\u00b0 / 137.279\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/27 08:43",
+    "destTime": "2021/11/26 23:43",
+    "position": "34.73374\u00b0 / 137.3148\u00b0",
     "area": "Japan Coast",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9176395": {
     "rowidx": 201,
@@ -751,7 +751,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/27 06:42",
     "destTime": "2021/11/26 21:42",
-    "position": "35.5229\u00b0 / 129.3904\u00b0",
+    "position": "35.52295\u00b0 / 129.3905\u00b0",
     "area": "North China",
     "status": "Moored"
   },
