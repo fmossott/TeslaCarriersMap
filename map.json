@@ -135,7 +135,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/23 22:10",
     "destTime": "2021/11/23 20:10",
-    "position": "37.43251\u00b0 / 11.25223\u00b0",
+    "position": "37.52687\u00b0 / 10.88109\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/25 11:11",
     "destTime": "2021/11/25 08:11",
-    "position": "26.48912\u00b0 / 50.20064\u00b0",
+    "position": "26.48909\u00b0 / 50.20071\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -387,7 +387,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/24 19:11",
     "destTime": "2021/11/24 16:11",
-    "position": "21.45858\u00b0 / 39.16645\u00b0",
+    "position": "21.45858\u00b0 / 39.16648\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/23 07:35",
     "destTime": "2021/11/22 23:35",
-    "position": "22.08563\u00b0 / 114.2514\u00b0",
+    "position": "22.08557\u00b0 / 114.2514\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
@@ -774,14 +774,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/11/24 03:08",
     "deptTime": "2021/11/23 19:08",
-    "dest": "JP YOK",
+    "dest": "JP YOKOHAMA ANCH",
     "destLong": "Yokohama",
-    "destType": "ETA",
-    "destLocalTime": "2021/11/26 12:00",
-    "destTime": "2021/11/26 03:00",
-    "position": "35.35489\u00b0 / 139.7479\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/11/27 10:05",
+    "destTime": "2021/11/27 01:05",
+    "position": "35.42694\u00b0 / 139.7313\u00b0",
     "area": "Japan Coast",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9483786": {
     "rowidx": 207,
@@ -891,7 +891,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/26 17:23",
     "destTime": "2021/11/26 09:23",
-    "position": "31.32349\u00b0 / 121.6794\u00b0",
+    "position": "31.32352\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
