@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/01 04:00",
     "destTime": "2021/12/01 03:00",
-    "position": "36.63704\u00b0 / -7.90826\u00b0",
+    "position": "36.64549\u00b0 / -7.87891\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -303,7 +303,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/28 18:00",
     "destTime": "2021/11/28 17:00",
-    "position": "38.96342\u00b0 / 14.83911\u00b0",
+    "position": "39.73297\u00b0 / 13.74505\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
@@ -379,17 +379,17 @@
     "grossTonnage": "58,685",
     "dept": "SA JED",
     "deptLong": "Jeddah",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/11/25 00:11",
-    "deptTime": "2021/11/24 16:11",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/11/27 11:51",
+    "deptTime": "2021/11/27 08:51",
     "dest": "JO AQJ",
     "destLong": "Aqaba",
     "destType": "ETA",
-    "destLocalTime": "2021/11/29 05:00",
-    "destTime": "2021/11/29 03:00",
-    "position": "21.45857\u00b0 / 39.16645\u00b0",
+    "destLocalTime": "2021/11/29 06:00",
+    "destTime": "2021/11/29 04:00",
+    "position": "21.48163\u00b0 / 39.0919\u00b0",
     "area": "Red Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9748289": {
     "rowidx": 193,
@@ -443,8 +443,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/29 18:00",
     "destTime": "2021/11/29 14:00",
-    "position": "22.05708\u00b0 / 61.36907\u00b0",
-    "area": "Arabian Gulf",
+    "position": "23.12672\u00b0 / 60.43061\u00b0",
+    "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
   "9138525": {
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/27 14:13",
     "destTime": "2021/11/27 06:13",
-    "position": "22.34063\u00b0 / 114.1147\u00b0",
+    "position": "22.34065\u00b0 / 114.1147\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -779,9 +779,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/27 16:55",
     "destTime": "2021/11/27 07:55",
-    "position": "35.46165\u00b0 / 139.6947\u00b0",
+    "position": "35.46055\u00b0 / 139.6886\u00b0",
     "area": "Japan Coast",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9483786": {
     "rowidx": 207,
@@ -881,18 +881,18 @@
     "length": "182.8",
     "breadth": "32.2",
     "grossTonnage": "51,699",
-    "dept": "CN TXG",
-    "deptLong": "Tianjin",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2021/11/19 18:23",
-    "deptTime": "2021/11/19 10:23",
+    "deptLocalTime": "2021/11/27 16:25",
+    "deptTime": "2021/11/27 08:25",
     "dest": "CN SHG",
     "destLong": "Shanghai",
     "destType": "ATA",
     "destLocalTime": "2021/11/26 17:23",
     "destTime": "2021/11/26 09:23",
-    "position": "31.3235\u00b0 / 121.6794\u00b0",
+    "position": "31.294\u00b0 / 121.7909\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
