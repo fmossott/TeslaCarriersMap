@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/27 14:00",
     "destTime": "2021/11/27 13:00",
-    "position": "43.11745\u00b0 / 10.28247\u00b0",
+    "position": "43.10127\u00b0 / 10.29623\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -247,7 +247,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/28 08:49",
     "destTime": "2021/11/28 07:49",
-    "position": "49.4805\u00b0 / 0.1074217\u00b0",
+    "position": "49.48048\u00b0 / 0.1074183\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -303,7 +303,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/28 20:00",
     "destTime": "2021/11/28 19:00",
-    "position": "43.03871\u00b0 / 8.143534\u00b0",
+    "position": "42.99929\u00b0 / 7.687223\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -471,7 +471,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/29 20:00",
     "destTime": "2021/11/29 18:00",
-    "position": "21.98314\u00b0 / 37.90615\u00b0",
+    "position": "22.91952\u00b0 / 37.3437\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -555,7 +555,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/28 13:48",
     "destTime": "2021/11/28 05:48",
-    "position": "1.27043\u00b0 / 103.8517\u00b0",
+    "position": "1.270433\u00b0 / 103.8517\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -611,7 +611,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/29 06:15",
     "destTime": "2021/11/28 21:15",
-    "position": "35.53765\u00b0 / 141.2067\u00b0",
+    "position": "36.35905\u00b0 / 141.066\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -667,9 +667,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/27 23:52",
     "destTime": "2021/11/27 15:52",
-    "position": "22.09074\u00b0 / 114.1709\u00b0",
+    "position": "22.09039\u00b0 / 114.1709\u00b0",
     "area": "South China",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9427952": {
     "rowidx": 203,
@@ -779,9 +779,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/19 22:00",
     "destTime": "2021/12/20 03:00",
-    "position": "35.46055\u00b0 / 139.6886\u00b0",
+    "position": "35.46047\u00b0 / 139.6915\u00b0",
     "area": "Japan Coast",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9483786": {
     "rowidx": 207,
@@ -891,8 +891,8 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/26 17:23",
     "destTime": "2021/11/26 09:23",
-    "position": "31.294\u00b0 / 121.7909\u00b0",
+    "position": "34.35930\u00b0 / 124.50589\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   }
 }
