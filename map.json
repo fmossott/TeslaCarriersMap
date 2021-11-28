@@ -135,9 +135,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/23 22:10",
     "destTime": "2021/11/23 20:10",
-    "position": "36.46406\u00b0 / -1.15582\u00b0",
+    "position": "36.31939\u00b0 / -2.197817\u00b0",
     "area": "West Mediterranean",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9690559": {
     "rowidx": 11,
@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/27 14:00",
     "destTime": "2021/11/27 13:00",
-    "position": "43.29744\u00b0 / 10.14634\u00b0",
+    "position": "43.30339\u00b0 / 10.204\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -211,17 +211,17 @@
     "grossTonnage": "73,358",
     "dept": "GB SOU",
     "deptLong": "Southampton",
-    "deptType": "ATA",
+    "deptType": "ATD",
     "deptLocalTime": "2021/11/26 10:04",
     "deptTime": "2021/11/26 02:04",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
-    "destLocalTime": "2021/11/29 01:01",
-    "destTime": "2021/11/29 00:01",
-    "position": "50.88783\u00b0 / -1.398833\u00b0",
+    "destLocalTime": "2021/11/29 04:00",
+    "destTime": "2021/11/29 03:00",
+    "position": "50.83467\u00b0 / -1.3175\u00b0",
     "area": "English Channel",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9293894": {
     "rowidx": 187,
@@ -387,7 +387,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/29 06:00",
     "destTime": "2021/11/29 04:00",
-    "position": "26.34498\u00b0 / 35.37688\u00b0",
+    "position": "26.83547\u00b0 / 35.0708\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -555,7 +555,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/28 13:48",
     "destTime": "2021/11/28 05:48",
-    "position": "1.270425\u00b0 / 103.8517\u00b0",
+    "position": "1.270418\u00b0 / 103.8517\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -611,7 +611,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/29 06:15",
     "destTime": "2021/11/28 21:15",
-    "position": "36.37827\u00b0 / 141.0507\u00b0",
+    "position": "36.19932\u00b0 / 141.0791\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/27 23:52",
     "destTime": "2021/11/27 15:52",
-    "position": "22.08974\u00b0 / 114.1713\u00b0",
+    "position": "22.09009\u00b0 / 114.1709\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
@@ -743,15 +743,15 @@
     "grossTonnage": "61,482",
     "dept": "KR USN",
     "deptLong": "Ulsan",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/11/27 06:42",
-    "deptTime": "2021/11/26 21:42",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/11/28 22:54",
+    "deptTime": "2021/11/28 13:54",
     "dest": "KR MOK",
     "destLong": "Mokpo",
     "destType": "ETA",
     "destLocalTime": "2021/11/29 15:30",
     "destTime": "2021/11/29 06:30",
-    "position": "35.45312\u00b0 / 129.399\u00b0",
+    "position": "35.2057\u00b0 / 129.4243\u00b0",
     "area": "North China",
     "status": "Underway using Engine"
   },
@@ -891,7 +891,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/27 17:19",
     "destTime": "2021/11/27 09:19",
-    "position": "31.32345\u00b0 / 121.6794\u00b0",
+    "position": "31.32347\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -919,7 +919,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/28 06:35",
     "destTime": "2021/11/27 22:35",
-    "position": "31.32208\u00b0 / 121.6817\u00b0",
+    "position": "31.3221\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
