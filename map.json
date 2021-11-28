@@ -135,7 +135,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/23 22:10",
     "destTime": "2021/11/23 20:10",
-    "position": "37.09923\u00b0 / 3.52731\u00b0",
+    "position": "36.46406\u00b0 / -1.15582\u00b0",
     "area": "West Mediterranean",
     "status": "Out of Range"
   },
@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/27 14:00",
     "destTime": "2021/11/27 13:00",
-    "position": "43.35357\u00b0 / 10.2042\u00b0",
+    "position": "43.4481\u00b0 / 10.19059\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -237,19 +237,19 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "60,169",
-    "dept": "MA PTM",
-    "deptLong": "Tanger Med",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/11/24 08:53",
-    "deptTime": "2021/11/24 07:53",
-    "dest": "FR LEH",
-    "destLong": "Le Havre",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/28 08:49",
-    "destTime": "2021/11/28 07:49",
-    "position": "49.48049\u00b0 / 0.1074267\u00b0",
+    "dept": "FR LEH",
+    "deptLong": "Le Havre",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/11/28 08:49",
+    "deptTime": "2021/11/28 07:49",
+    "dest": "NL RTM",
+    "destLong": "Rotterdam",
+    "destType": "ETA",
+    "destLocalTime": "2021/11/29 02:00",
+    "destTime": "2021/11/29 01:00",
+    "position": "49.48632\u00b0 / 0.08659\u00b0",
     "area": "English Channel",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9293521": {
     "rowidx": 188,
@@ -555,7 +555,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/28 13:48",
     "destTime": "2021/11/28 05:48",
-    "position": "1.27043\u00b0 / 103.8517\u00b0",
+    "position": "1.270422\u00b0 / 103.8517\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/27 23:52",
     "destTime": "2021/11/27 15:52",
-    "position": "22.09019\u00b0 / 114.171\u00b0",
+    "position": "22.09046\u00b0 / 114.1709\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
@@ -751,7 +751,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/27 06:42",
     "destTime": "2021/11/26 21:42",
-    "position": "35.52297\u00b0 / 129.3904\u00b0",
+    "position": "35.52295\u00b0 / 129.3904\u00b0",
     "area": "North China",
     "status": "Moored"
   },
@@ -891,7 +891,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/27 17:19",
     "destTime": "2021/11/27 09:19",
-    "position": "31.32347\u00b0 / 121.6795\u00b0",
+    "position": "31.32351\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -919,7 +919,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/28 06:35",
     "destTime": "2021/11/27 22:35",
-    "position": "31.32208\u00b0 / 121.6817\u00b0",
+    "position": "31.32213\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
