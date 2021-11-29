@@ -135,7 +135,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/23 22:10",
     "destTime": "2021/11/23 20:10",
-    "position": "36.27868\u00b0 / -7.665576\u00b0",
+    "position": "36.35471\u00b0 / -7.972197\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -191,9 +191,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/27 14:00",
     "destTime": "2021/11/27 13:00",
-    "position": "43.21237\u00b0 / 10.26516\u00b0",
+    "position": "43.20623\u00b0 / 10.27113\u00b0",
     "area": "Ligurean Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9731652": {
     "rowidx": 13,
@@ -247,7 +247,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/29 04:32",
     "destTime": "2021/11/29 03:32",
-    "position": "51.89452\u00b0 / 4.247179\u00b0",
+    "position": "51.89452\u00b0 / 4.247183\u00b0",
     "area": "Rotterdam Area",
     "status": "Underway using Engine"
   },
@@ -265,19 +265,19 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "59,160",
-    "dept": "PK KHI",
-    "deptLong": "Karachi",
+    "dept": "IN MUN",
+    "deptLong": "Mundra",
     "deptType": "ATD",
     "deptLocalTime": "2021/11/27 14:08",
     "deptTime": "2021/11/27 09:08",
-    "dest": "IN MUN",
-    "destLong": "Mundra",
-    "destType": "ATA",
+    "dest": "IN BOM",
+    "destLong": "Mumbai",
+    "destType": "ETA",
     "destLocalTime": "2021/11/26 23:28",
     "destTime": "2021/11/26 18:28",
-    "position": "22.74667\u00b0 / 69.70667\u00b0",
+    "position": "22.68406\u00b0 / 69.69556\u00b0",
     "area": "West Coast India",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9279812": {
     "rowidx": 189,
@@ -417,7 +417,7 @@
     "destTime": "2021/11/28 10:22",
     "position": "24.63725\u00b0 / 66.90932\u00b0",
     "area": "West Coast India",
-    "status": "At Anchor"
+    "status": "Out of Range"
   },
   "9442122": {
     "rowidx": 194,
@@ -639,9 +639,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/10 22:00",
     "destTime": "2021/12/10 20:00",
-    "position": "2.814667\u00b0 / 101.0313\u00b0",
+    "position": "6.33500\u00b0 / 94.38766\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9477725": {
     "rowidx": 202,
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/27 23:52",
     "destTime": "2021/11/27 15:52",
-    "position": "22.09011\u00b0 / 114.171\u00b0",
+    "position": "22.09037\u00b0 / 114.1709\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
