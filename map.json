@@ -135,7 +135,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/23 22:10",
     "destTime": "2021/11/23 20:10",
-    "position": "35.95476\u00b0 / -6.165009\u00b0",
+    "position": "35.96662\u00b0 / -6.34776\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/27 14:00",
     "destTime": "2021/11/27 13:00",
-    "position": "43.20959\u00b0 / 10.22527\u00b0",
+    "position": "43.20967\u00b0 / 10.26568\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -245,9 +245,9 @@
     "dest": "NL RTM",
     "destLong": "Rotterdam",
     "destType": "ETA",
-    "destLocalTime": "2021/11/29 01:00",
-    "destTime": "2021/11/29 00:00",
-    "position": "51.98749\u00b0 / 3.694528\u00b0",
+    "destLocalTime": "2021/11/29 02:00",
+    "destTime": "2021/11/29 01:00",
+    "position": "52.00617\u00b0 / 3.92644\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -331,9 +331,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/28 10:02",
     "destTime": "2021/11/28 07:02",
-    "position": "28.69284\u00b0 / 49.74079\u00b0",
+    "position": "27.68985\u00b0 / 50.96033\u00b0",
     "area": "Persian Gulf",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9338632": {
     "rowidx": 191,
@@ -405,14 +405,14 @@
     "length": "199.96",
     "breadth": "38",
     "grossTonnage": "72,700",
-    "dept": "IN BOM",
-    "deptLong": "Mumbai",
+    "dept": "PK KHI",
+    "deptLong": "Karachi",
     "deptType": "ATD",
-    "deptLocalTime": "2021/11/23 00:36",
-    "deptTime": "2021/11/22 16:36",
+    "deptLocalTime": "2021/11/29 06:03",
+    "deptTime": "2021/11/29 01:03",
     "dest": "PK KHI",
     "destLong": "Karachi",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2021/11/28 15:22",
     "destTime": "2021/11/28 10:22",
     "position": "24.63725\u00b0 / 66.90932\u00b0",
@@ -835,9 +835,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 05:30",
     "destTime": "2021/12/01 22:30",
-    "position": "22.86472\u00b0 / 119.4802\u00b0",
+    "position": "21.90216\u00b0 / 118.61726\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9454723": {
     "rowidx": 209,
