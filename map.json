@@ -191,9 +191,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/30 10:02",
     "destTime": "2021/11/30 09:02",
-    "position": "43.54626\u00b0 / 10.29106\u00b0",
+    "position": "43.58097\u00b0 / 10.30538\u00b0",
     "area": "Ligurean Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9279812": {
     "rowidx": 187,
@@ -237,14 +237,14 @@
     "length": "200",
     "breadth": "35.44",
     "grossTonnage": "66,802",
-    "dept": "KW KWI",
-    "deptLong": "Kuwait",
+    "dept": "OM SOH",
+    "deptLong": "Sohar",
     "deptType": "ATD",
-    "deptLocalTime": "2021/11/28 17:45",
-    "deptTime": "2021/11/28 14:45",
+    "deptLocalTime": "2021/11/30 13:05",
+    "deptTime": "2021/11/30 09:05",
     "dest": "OM SOH",
     "destLong": "Sohar",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2021/11/30 07:54",
     "destTime": "2021/11/30 03:54",
     "position": "24.78321\u00b0 / 56.63555\u00b0",
@@ -359,8 +359,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/01 05:00",
     "destTime": "2021/12/01 01:00",
-    "position": "25.09655\u00b0 / 54.96513\u00b0",
-    "area": "Dubai Area",
+    "position": "25.6438\u00b0 / 55.12802\u00b0",
+    "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
   "9138525": {
@@ -387,7 +387,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/29 19:38",
     "destTime": "2021/11/29 17:38",
-    "position": "30.68333\u00b0 / 32.35\u00b0",
+    "position": "30.83833\u00b0 / 32.31667\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -527,7 +527,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/27 23:52",
     "destTime": "2021/11/27 15:52",
-    "position": "22.08977\u00b0 / 114.1713\u00b0",
+    "position": "22.08921\u00b0 / 114.1716\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
