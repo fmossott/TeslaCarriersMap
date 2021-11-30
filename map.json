@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/01 12:00",
     "destTime": "2021/12/01 11:00",
-    "position": "50.35808\u00b0 / -2.044332\u00b0",
+    "position": "50.33613\u00b0 / -1.523948\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/01 04:00",
     "destTime": "2021/12/01 03:00",
-    "position": "41.76701\u00b0 / 3.204825\u00b0",
+    "position": "41.63346\u00b0 / 2.93673\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -303,9 +303,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/30 09:26",
     "destTime": "2021/11/30 07:26",
-    "position": "29.85628\u00b0 / 32.56218\u00b0",
+    "position": "29.86028\u00b0 / 32.55718\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9748289": {
     "rowidx": 191,
@@ -359,7 +359,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/01 05:00",
     "destTime": "2021/12/01 01:00",
-    "position": "25.65325\u00b0 / 56.71761\u00b0",
+    "position": "25.44258\u00b0 / 56.72652\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -415,7 +415,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 09:00",
     "destTime": "2021/12/03 01:00",
-    "position": "12.40839\u00b0 / 43.87485\u00b0",
+    "position": "15.20168\u00b0 / 41.80187\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
@@ -469,11 +469,11 @@
     "dest": "TH LCH",
     "destLong": "Laem Chabang",
     "destType": "ETA",
-    "destLocalTime": "2021/12/01 11:00",
-    "destTime": "2021/12/01 04:00",
-    "position": "7.90982\u00b0 / 103.36380\u00b0",
-    "area": "Singapore Area",
-    "status": "Out of Range"
+    "destLocalTime": "2021/12/01 09:00",
+    "destTime": "2021/12/01 02:00",
+    "position": "12.87465\u00b0 / 100.5795\u00b0",
+    "area": "Gulf of Thailand",
+    "status": "Underway using Engine"
   },
   "9176395": {
     "rowidx": 197,
@@ -723,7 +723,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/29 20:13",
     "destTime": "2021/11/29 12:13",
-    "position": "31.32215\u00b0 / 121.6818\u00b0",
+    "position": "31.32219\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
