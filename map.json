@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/27 14:00",
     "destTime": "2021/11/27 13:00",
-    "position": "43.10931\u00b0 / 10.2264\u00b0",
+    "position": "43.08846\u00b0 / 10.23905\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/30 07:00",
     "destTime": "2021/11/30 03:00",
-    "position": "24.94251\u00b0 / 56.64341\u00b0",
+    "position": "24.78321\u00b0 / 56.63555\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -387,7 +387,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/28 17:28",
     "destTime": "2021/11/28 13:28",
-    "position": "24.98633\u00b0 / 55.06633\u00b0",
+    "position": "24.98632\u00b0 / 55.06632\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -415,9 +415,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/29 19:38",
     "destTime": "2021/11/29 17:38",
-    "position": "29.85857\u00b0 / 32.56062\u00b0",
+    "position": "29.85857\u00b0 / 32.56017\u00b0",
     "area": "Red Sea",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9176565": {
     "rowidx": 194,
@@ -555,7 +555,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/27 23:52",
     "destTime": "2021/11/27 15:52",
-    "position": "22.08942\u00b0 / 114.1716\u00b0",
+    "position": "22.08961\u00b0 / 114.1715\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
@@ -715,16 +715,16 @@
     "grossTonnage": "67,141",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/11/29 10:06",
-    "deptTime": "2021/11/29 01:06",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/11/30 09:37",
+    "deptTime": "2021/11/30 01:37",
     "dest": "CN XMG",
     "destLong": "Xiamen",
     "destType": "ETA",
     "destLocalTime": "2021/12/02 03:00",
     "destTime": "2021/12/01 19:00",
-    "position": "31.32364\u00b0 / 121.6793\u00b0",
+    "position": "31.28312\u00b0 / 121.8214\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
