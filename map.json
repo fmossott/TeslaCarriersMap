@@ -191,7 +191,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/30 10:02",
     "destTime": "2021/11/30 09:02",
-    "position": "43.58099\u00b0 / 10.30539\u00b0",
+    "position": "43.58097\u00b0 / 10.30538\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -219,9 +219,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/28 21:13",
     "destTime": "2021/11/28 20:13",
-    "position": "43.40039\u00b0 / 4.847438\u00b0",
+    "position": "43.3986\u00b0 / 4.846502\u00b0",
     "area": "West Mediterranean",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9780639": {
     "rowidx": 188,
@@ -377,17 +377,17 @@
     "length": "227.9",
     "breadth": "32.29",
     "grossTonnage": "67,141",
-    "dept": "EG SUZ",
-    "deptLong": "Suez Canal",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/11/30 11:12",
-    "deptTime": "2021/11/30 03:12",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/11/12 05:56",
+    "deptTime": "2021/11/11 21:56",
     "dest": "GB SOU",
     "destLong": "Southampton",
     "destType": "ETA",
     "destLocalTime": "2021/11/29 19:38",
     "destTime": "2021/11/29 17:38",
-    "position": "31.16896\u00b0 / 32.32857\u00b0",
+    "position": "31.3394\u00b0 / 32.37836\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -527,9 +527,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/27 23:52",
     "destTime": "2021/11/27 15:52",
-    "position": "22.08929\u00b0 / 114.1712\u00b0",
+    "position": "22.08902\u00b0 / 114.1727\u00b0",
     "area": "South China",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9427952": {
     "rowidx": 199,
