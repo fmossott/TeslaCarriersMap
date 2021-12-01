@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/01 12:00",
     "destTime": "2021/12/01 11:00",
-    "position": "50.34976\u00b0 / 0.04478\u00b0",
+    "position": "50.43679\u00b0 / 0.474065\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -219,9 +219,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 04:13",
     "destTime": "2021/12/01 03:13",
-    "position": "41.33837\u00b0 / 2.151767\u00b0",
+    "position": "41.33419\u00b0 / 2.146287\u00b0",
     "area": "Balearic Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9780639": {
     "rowidx": 188,
@@ -303,8 +303,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 01:00",
     "destTime": "2021/12/01 23:00",
-    "position": "30.28712\u00b0 / 32.43782\u00b0",
-    "area": "Red Sea",
+    "position": "30.41992\u00b0 / 32.3618\u00b0",
+    "area": "East Mediterranean",
     "status": "Underway"
   },
   "9748289": {
@@ -359,7 +359,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 06:26",
     "destTime": "2021/12/01 02:26",
-    "position": "25.23337\u00b0 / 56.50905\u00b0",
+    "position": "25.2335\u00b0 / 56.50935\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -468,10 +468,10 @@
     "deptTime": "2021/11/29 04:20",
     "dest": "TH LCH",
     "destLong": "Laem Chabang",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/01 09:00",
-    "destTime": "2021/12/01 02:00",
-    "position": "13.06432\u00b0 / 100.7114\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/01 11:34",
+    "destTime": "2021/12/01 04:34",
+    "position": "13.06258\u00b0 / 100.8792\u00b0",
     "area": "Gulf of Thailand",
     "status": "Underway using Engine"
   },
