@@ -135,7 +135,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/23 22:10",
     "destTime": "2021/11/23 20:10",
-    "position": "50.05251\u00b0 / -1.601922\u00b0",
+    "position": "50.13304\u00b0 / -1.195798\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 13:16",
     "destTime": "2021/12/01 12:16",
-    "position": "51.33389\u00b0 / 3.217568\u00b0",
+    "position": "51.30381\u00b0 / 3.229775\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -219,7 +219,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 04:13",
     "destTime": "2021/12/01 03:13",
-    "position": "41.3342\u00b0 / 2.146298\u00b0",
+    "position": "41.33416\u00b0 / 2.146308\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 09:32",
     "destTime": "2021/12/01 05:32",
-    "position": "24.99644\u00b0 / 55.07993\u00b0",
+    "position": "24.99643\u00b0 / 55.07992\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -354,12 +354,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/11/30 11:47",
     "deptTime": "2021/11/30 07:47",
-    "dest": "AE FUJAIRAH ANCH",
-    "destLong": "Fujairah",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/01 06:26",
-    "destTime": "2021/12/01 02:26",
-    "position": "25.23538\u00b0 / 56.61533\u00b0",
+    "dest": "PK KHI",
+    "destLong": "Karachi",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/03 12:00",
+    "destTime": "2021/12/03 07:00",
+    "position": "25.2351\u00b0 / 56.63513\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -751,9 +751,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/30 19:25",
     "destTime": "2021/11/30 11:25",
-    "position": "31.32358\u00b0 / 121.6796\u00b0",
+    "position": "31.32397\u00b0 / 121.6957\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9328728": {
     "rowidx": 207,
@@ -769,18 +769,18 @@
     "length": "180",
     "breadth": "30",
     "grossTonnage": "45,232",
-    "dept": "CN MCI",
-    "deptLong": "Mcid",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2021/11/27 10:08",
-    "deptTime": "2021/11/27 02:08",
+    "deptLocalTime": "2021/12/01 22:06",
+    "deptTime": "2021/12/01 14:06",
     "dest": "CN SHG",
     "destLong": "Shanghai",
     "destType": "ATA",
     "destLocalTime": "2021/12/01 10:29",
     "destTime": "2021/12/01 02:29",
-    "position": "31.32227\u00b0 / 121.6816\u00b0",
+    "position": "31.29945\u00b0 / 121.7763\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
