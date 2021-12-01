@@ -51,7 +51,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 22:00",
     "destTime": "2021/12/03 20:00",
-    "position": "12.68333\u00b0 / 47.38500\u00b0",
+    "position": "15.57167\u00b0 / 41.60500\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
@@ -135,7 +135,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/23 22:10",
     "destTime": "2021/11/23 20:10",
-    "position": "49.97653\u00b0 / -2.015493\u00b0",
+    "position": "50.05251\u00b0 / -1.601922\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -163,9 +163,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 13:16",
     "destTime": "2021/12/01 12:16",
-    "position": "51.33821\u00b0 / 3.213527\u00b0",
+    "position": "51.33389\u00b0 / 3.217568\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9684990": {
     "rowidx": 12,
@@ -189,10 +189,10 @@
     "dest": "ES SDR",
     "destLong": "Santander",
     "destType": "ETA",
-    "destLocalTime": "2021/12/06 06:00",
-    "destTime": "2021/12/06 05:00",
-    "position": "43.45728\u00b0 / 10.16324\u00b0",
-    "area": "Ligurean Sea",
+    "destLocalTime": "2021/12/06 08:00",
+    "destTime": "2021/12/06 07:00",
+    "position": "41.72717\u00b0 / 7.102308\u00b0",
+    "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
   "9279812": {
@@ -219,7 +219,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 04:13",
     "destTime": "2021/12/01 03:13",
-    "position": "41.33426\u00b0 / 2.146278\u00b0",
+    "position": "41.3342\u00b0 / 2.146298\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 09:32",
     "destTime": "2021/12/01 05:32",
-    "position": "24.9964\u00b0 / 55.07993\u00b0",
+    "position": "24.99644\u00b0 / 55.07993\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -359,9 +359,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 06:26",
     "destTime": "2021/12/01 02:26",
-    "position": "25.2333\u00b0 / 56.50808\u00b0",
+    "position": "25.23538\u00b0 / 56.61533\u00b0",
     "area": "Oman Gulf",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9138525": {
     "rowidx": 193,
@@ -382,12 +382,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/11/12 05:56",
     "deptTime": "2021/11/11 21:56",
-    "dest": "GB SOU",
-    "destLong": "Southampton",
+    "dest": "BE ZEE",
+    "destLong": "Zeebrugge",
     "destType": "ETA",
-    "destLocalTime": "2021/11/29 19:38",
-    "destTime": "2021/11/29 17:38",
-    "position": "32\u00b0 / 31.36833\u00b0",
+    "destLocalTime": "2021/12/09 12:00",
+    "destTime": "2021/12/09 11:00",
+    "position": "34.03027\u00b0 / 25.8401\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -415,7 +415,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 09:00",
     "destTime": "2021/12/03 01:00",
-    "position": "15.20168\u00b0 / 41.80187\u00b0",
+    "position": "17.91374\u00b0 / 40.24214\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
@@ -471,7 +471,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 11:34",
     "destTime": "2021/12/01 04:34",
-    "position": "13.05413\u00b0 / 100.9057\u00b0",
+    "position": "13.05414\u00b0 / 100.9057\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -751,7 +751,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/30 19:25",
     "destTime": "2021/11/30 11:25",
-    "position": "31.32357\u00b0 / 121.6796\u00b0",
+    "position": "31.32358\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -779,7 +779,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 10:29",
     "destTime": "2021/12/01 02:29",
-    "position": "31.32225\u00b0 / 121.6817\u00b0",
+    "position": "31.32227\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
