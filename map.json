@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/01 04:00",
     "destTime": "2021/12/01 03:00",
-    "position": "41.5083\u00b0 / 2.685478\u00b0",
+    "position": "41.38988\u00b0 / 2.448992\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -303,9 +303,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 01:00",
     "destTime": "2021/12/01 23:00",
-    "position": "29.96993\u00b0 / 32.58673\u00b0",
+    "position": "30.09312\u00b0 / 32.57087\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9748289": {
     "rowidx": 191,
@@ -359,7 +359,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/01 05:00",
     "destTime": "2021/12/01 01:00",
-    "position": "25.29662\u00b0 / 56.66707\u00b0",
+    "position": "25.22427\u00b0 / 56.56988\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -471,7 +471,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/01 09:00",
     "destTime": "2021/12/01 02:00",
-    "position": "13.11699\u00b0 / 100.5459\u00b0",
+    "position": "13.15384\u00b0 / 100.4768\u00b0",
     "area": "Gulf of Thailand",
     "status": "Underway using Engine"
   },
@@ -713,18 +713,18 @@
     "length": "199.9",
     "breadth": "32.26",
     "grossTonnage": "60,213",
-    "dept": "AU MEL",
-    "deptLong": "Melbourne",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2021/11/15 18:36",
-    "deptTime": "2021/11/15 07:36",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/11/29 20:13",
-    "destTime": "2021/11/29 12:13",
-    "position": "31.32217\u00b0 / 121.6818\u00b0",
+    "deptLocalTime": "2021/12/01 09:20",
+    "deptTime": "2021/12/01 01:20",
+    "dest": "AU BNE",
+    "destLong": "Brisbane",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/12 12:00",
+    "destTime": "2021/12/12 02:00",
+    "position": "31.31613\u00b0 / 121.7275\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
