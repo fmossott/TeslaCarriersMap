@@ -23,7 +23,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/07 21:00",
     "destTime": "2021/12/07 19:00",
-    "position": "8.36167\u00b0 / 72.09167\u00b0",
+    "position": "10.50167\u00b0 / 65.44500\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
@@ -163,8 +163,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/01 12:00",
     "destTime": "2021/12/01 11:00",
-    "position": "51.29999\u00b0 / 2.256997\u00b0",
-    "area": "English Channel",
+    "position": "51.36911\u00b0 / 2.637855\u00b0",
+    "area": "North Sea",
     "status": "Underway using Engine"
   },
   "9684990": {
@@ -219,7 +219,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 04:13",
     "destTime": "2021/12/01 03:13",
-    "position": "41.33423\u00b0 / 2.146322\u00b0",
+    "position": "41.3342\u00b0 / 2.146255\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -293,19 +293,19 @@
     "length": "199.95",
     "breadth": "32.2",
     "grossTonnage": "58,685",
-    "dept": "EG SUZ",
+    "dept": "JO AQABA INDUSTRIAL",
     "deptLong": "Suez Canal",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/12/01 02:27",
-    "deptTime": "2021/12/01 00:27",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/11/29 11:19",
+    "deptTime": "2021/11/29 09:19",
     "dest": "EG ALY",
     "destLong": "Alexandria",
     "destType": "ETA",
     "destLocalTime": "2021/12/02 01:00",
     "destTime": "2021/12/01 23:00",
-    "position": "31.18858\u00b0 / 32.33457\u00b0",
+    "position": "31.30282\u00b0 / 32.36787\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9748289": {
     "rowidx": 191,
@@ -359,7 +359,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 06:26",
     "destTime": "2021/12/01 02:26",
-    "position": "25.23302\u00b0 / 56.50892\u00b0",
+    "position": "25.2333\u00b0 / 56.50893\u00b0",
     "area": "Oman Gulf",
     "status": "At Anchor"
   },
@@ -471,7 +471,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 11:34",
     "destTime": "2021/12/01 04:34",
-    "position": "13.05413\u00b0 / 100.9057\u00b0",
+    "position": "13.05414\u00b0 / 100.9057\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -751,7 +751,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/30 19:25",
     "destTime": "2021/11/30 11:25",
-    "position": "31.32362\u00b0 / 121.6796\u00b0",
+    "position": "31.32355\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -779,7 +779,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 10:29",
     "destTime": "2021/12/01 02:29",
-    "position": "31.32223\u00b0 / 121.6816\u00b0",
+    "position": "31.32223\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
