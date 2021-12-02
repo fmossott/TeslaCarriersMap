@@ -23,7 +23,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/07 21:00",
     "destTime": "2021/12/07 19:00",
-    "position": "11.54000\u00b0 / 62.18333\u00b0",
+    "position": "12.63000\u00b0 / 58.76000\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
@@ -79,7 +79,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 22:00",
     "destTime": "2021/12/02 20:00",
-    "position": "29.42393\u00b0 / 32.65892\u00b0",
+    "position": "29.57773\u00b0 / 32.58137\u00b0",
     "area": "Red Sea",
     "status": "Underway"
   },
@@ -135,7 +135,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/23 22:10",
     "destTime": "2021/11/23 20:10",
-    "position": "50.90417\u00b0 / -1.428513\u00b0",
+    "position": "50.90415\u00b0 / -1.42849\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 13:16",
     "destTime": "2021/12/01 12:16",
-    "position": "51.30381\u00b0 / 3.229817\u00b0",
+    "position": "51.30379\u00b0 / 3.229788\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -303,7 +303,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/02 12:42",
     "destTime": "2021/12/02 10:42",
-    "position": "31.18932\u00b0 / 29.87732\u00b0",
+    "position": "31.1893\u00b0 / 29.87737\u00b0",
     "area": "East Mediterranean",
     "status": "Moored"
   },
@@ -463,17 +463,17 @@
     "grossTonnage": "59,992",
     "dept": "TH LCH",
     "deptLong": "Laem Chabang",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/12/01 12:34",
-    "deptTime": "2021/12/01 04:34",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/12/02 22:40",
+    "deptTime": "2021/12/02 15:40",
     "dest": "NZ AKL",
     "destLong": "Auckland",
     "destType": "ETA",
     "destLocalTime": "2021/12/16 12:00",
     "destTime": "2021/12/15 23:00",
-    "position": "13.0541\u00b0 / 100.9057\u00b0",
+    "position": "13.05327\u00b0 / 100.7859\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9176395": {
     "rowidx": 197,
@@ -639,7 +639,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/02 08:30",
     "destTime": "2021/12/02 01:30",
-    "position": "13.06503\u00b0 / 100.8814\u00b0",
+    "position": "13.06501\u00b0 / 100.8814\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -695,7 +695,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/02 15:09",
     "destTime": "2021/12/02 07:09",
-    "position": "24.54248\u00b0 / 118.0893\u00b0",
+    "position": "24.54246\u00b0 / 118.0893\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -751,9 +751,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/30 19:25",
     "destTime": "2021/11/30 11:25",
-    "position": "31.24545\u00b0 / 122\u00b0",
+    "position": "31.24545\u00b0 / 122.00000\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9328728": {
     "rowidx": 207,
@@ -779,7 +779,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 10:29",
     "destTime": "2021/12/01 02:29",
-    "position": "31.20701\u00b0 / 122.13145\u00b0",
+    "position": "36.17666\u00b0 / 125.65794\u00b0",
     "area": "East China Sea",
     "status": "Out of Range"
   }
