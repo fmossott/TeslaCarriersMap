@@ -135,9 +135,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/23 22:10",
     "destTime": "2021/11/23 20:10",
-    "position": "50.78035\u00b0 / -1.246842\u00b0",
+    "position": "50.77866\u00b0 / -1.268322\u00b0",
     "area": "English Channel",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9690559": {
     "rowidx": 11,
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 13:16",
     "destTime": "2021/12/01 12:16",
-    "position": "51.30382\u00b0 / 3.229787\u00b0",
+    "position": "51.30383\u00b0 / 3.229798\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -191,8 +191,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/06 08:00",
     "destTime": "2021/12/06 07:00",
-    "position": "41.72717\u00b0 / 7.102308\u00b0",
-    "area": "West Mediterranean",
+    "position": "39.49356\u00b0 / 4.667932\u00b0",
+    "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
   "9279812": {
@@ -298,11 +298,11 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/11/29 11:19",
     "deptTime": "2021/11/29 09:19",
-    "dest": "EG ALY",
+    "dest": "EG ALEXANDRIA ANCH",
     "destLong": "Alexandria",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/02 01:00",
-    "destTime": "2021/12/01 23:00",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/02 02:22",
+    "destTime": "2021/12/02 00:22",
     "position": "31.77242\u00b0 / 31.00022\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
@@ -331,7 +331,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 09:32",
     "destTime": "2021/12/01 05:32",
-    "position": "24.9964\u00b0 / 55.07993\u00b0",
+    "position": "24.99646\u00b0 / 55.07991\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -639,7 +639,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 08:15",
     "destTime": "2021/12/02 01:15",
-    "position": "12.79077\u00b0 / 100.7313\u00b0",
+    "position": "13.05971\u00b0 / 100.8301\u00b0",
     "area": "Gulf of Thailand",
     "status": "Underway using Engine"
   },
