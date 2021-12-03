@@ -79,7 +79,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 19:40",
     "destTime": "2021/12/02 17:40",
-    "position": "30.08717\u00b0 / 32.57096\u00b0",
+    "position": "30.21528\u00b0 / 32.55742\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -135,7 +135,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/23 22:10",
     "destTime": "2021/11/23 20:10",
-    "position": "50.90417\u00b0 / -1.428522\u00b0",
+    "position": "50.90418\u00b0 / -1.428485\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -155,15 +155,15 @@
     "grossTonnage": "71,177",
     "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/12/01 20:16",
-    "deptTime": "2021/12/01 12:16",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/12/03 05:49",
+    "deptTime": "2021/12/03 04:49",
     "dest": "GB SOU",
     "destLong": "Southampton",
     "destType": "ETA",
     "destLocalTime": "2021/12/01 13:16",
     "destTime": "2021/12/01 12:16",
-    "position": "51.34517\u00b0 / 3.208732\u00b0",
+    "position": "51.37864\u00b0 / 2.899607\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -191,8 +191,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/06 08:00",
     "destTime": "2021/12/06 07:00",
-    "position": "36.91479\u00b0 / -0.8849633\u00b0",
-    "area": "West Mediterranean",
+    "position": "36.07018\u00b0 / -4.98307\u00b0",
+    "area": "Gibraltar",
     "status": "Underway using Engine"
   },
   "9279812": {
@@ -216,12 +216,12 @@
     "deptTime": "2021/12/01 19:14",
     "dest": "IT LIV",
     "destLong": "Livorno",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/03 05:30",
-    "destTime": "2021/12/03 04:30",
-    "position": "43.53772\u00b0 / 10.28231\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/03 05:42",
+    "destTime": "2021/12/03 04:42",
+    "position": "43.58047\u00b0 / 10.30565\u00b0",
     "area": "Ligurean Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9780639": {
     "rowidx": 188,
@@ -331,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 07:00",
     "destTime": "2021/12/03 04:00",
-    "position": "26.62083\u00b0 / 50.33515\u00b0",
+    "position": "26.62317\u00b0 / 50.35493\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -354,11 +354,11 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/11/30 11:47",
     "deptTime": "2021/11/30 07:47",
-    "dest": "PK KHI",
+    "dest": "PK KARACHI ANCH",
     "destLong": "Karachi",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/03 12:00",
-    "destTime": "2021/12/03 07:00",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/03 10:23",
+    "destTime": "2021/12/03 05:23",
     "position": "24.64578\u00b0 / 66.79328\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
@@ -695,7 +695,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/02 15:09",
     "destTime": "2021/12/02 07:09",
-    "position": "24.54248\u00b0 / 118.0893\u00b0",
+    "position": "24.54249\u00b0 / 118.0893\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -779,7 +779,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/03 11:00",
     "destTime": "2021/12/03 02:00",
-    "position": "37.45813\u00b0 / 126.6237\u00b0",
+    "position": "37.4581\u00b0 / 126.6238\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   }
