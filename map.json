@@ -79,9 +79,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 19:40",
     "destTime": "2021/12/02 17:40",
-    "position": "31.269\u00b0 / 32.35725\u00b0",
+    "position": "31.50968\u00b0 / 32.28732\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9210438": {
     "rowidx": 9,
@@ -135,7 +135,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/23 22:10",
     "destTime": "2021/11/23 20:10",
-    "position": "50.90417\u00b0 / -1.428538\u00b0",
+    "position": "50.90417\u00b0 / -1.428498\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/01 13:16",
     "destTime": "2021/12/01 12:16",
-    "position": "50.60919\u00b0 / 0.4603383\u00b0",
+    "position": "50.54027\u00b0 / 0.02645833\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -219,7 +219,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/03 05:42",
     "destTime": "2021/12/03 04:42",
-    "position": "43.58043\u00b0 / 10.30564\u00b0",
+    "position": "43.58045\u00b0 / 10.30562\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -415,7 +415,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 09:00",
     "destTime": "2021/12/03 01:00",
-    "position": "29.44424\u00b0 / 32.65739\u00b0",
+    "position": "29.64716\u00b0 / 32.56208\u00b0",
     "area": "Red Sea",
     "status": "Underway"
   },
@@ -687,15 +687,15 @@
     "grossTonnage": "67,141",
     "dept": "CN XMG",
     "deptLong": "Xiamen",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/12/02 15:09",
-    "deptTime": "2021/12/02 07:09",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/12/03 22:18",
+    "deptTime": "2021/12/03 14:18",
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
     "destLocalTime": "2021/12/20 16:00",
     "destTime": "2021/12/20 14:00",
-    "position": "24.52691\u00b0 / 118.0792\u00b0",
+    "position": "24.38278\u00b0 / 118.1205\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -779,7 +779,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/03 11:00",
     "destTime": "2021/12/03 02:00",
-    "position": "37.45808\u00b0 / 126.6238\u00b0",
+    "position": "37.4581\u00b0 / 126.6237\u00b0",
     "area": "Yellow Sea",
     "status": "Moored"
   },
@@ -807,9 +807,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/02 22:48",
     "destTime": "2021/12/02 14:48",
-    "position": "31.32217\u00b0 / 121.6818\u00b0",
+    "position": "31.32218\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9712644": {
     "rowidx": 209,
@@ -835,8 +835,8 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/03 11:51",
     "destTime": "2021/12/03 03:51",
-    "position": "31.32331\u00b0 / 121.6796\u00b0",
+    "position": "31.32377\u00b0 / 121.6799\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Stopped"
   }
 }
