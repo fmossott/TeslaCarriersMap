@@ -46,14 +46,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/11/16 11:19",
     "deptTime": "2021/11/16 03:19",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/03 22:00",
-    "destTime": "2021/12/03 20:00",
-    "position": "29.80609\u00b0 / 32.55389\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/03 22:19",
+    "destTime": "2021/12/03 20:19",
+    "position": "29.84957\u00b0 / 32.56283\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9355238": {
     "rowidx": 8,
@@ -135,7 +135,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/23 22:10",
     "destTime": "2021/11/23 20:10",
-    "position": "50.90417\u00b0 / -1.4285\u00b0",
+    "position": "50.90417\u00b0 / -1.428515\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/01 13:16",
     "destTime": "2021/12/01 12:16",
-    "position": "50.58595\u00b0 / -0.7849067\u00b0",
+    "position": "50.57882\u00b0 / -0.76898\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 07:00",
     "destTime": "2021/12/03 04:00",
-    "position": "26.61086\u00b0 / 50.32381\u00b0",
+    "position": "26.60339\u00b0 / 50.33485\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -415,7 +415,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 23:00",
     "destTime": "2021/12/03 15:00",
-    "position": "29.85737\u00b0 / 32.56242\u00b0",
+    "position": "29.85693\u00b0 / 32.56149\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -779,7 +779,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/03 11:00",
     "destTime": "2021/12/03 02:00",
-    "position": "37.45808\u00b0 / 126.6238\u00b0",
+    "position": "37.45807\u00b0 / 126.6237\u00b0",
     "area": "Yellow Sea",
     "status": "Moored"
   },
