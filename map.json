@@ -79,9 +79,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 19:40",
     "destTime": "2021/12/02 17:40",
-    "position": "30.21528\u00b0 / 32.55742\u00b0",
+    "position": "30.27935\u00b0 / 32.4513\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9210438": {
     "rowidx": 9,
@@ -135,7 +135,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/11/23 22:10",
     "destTime": "2021/11/23 20:10",
-    "position": "50.90418\u00b0 / -1.428485\u00b0",
+    "position": "50.90419\u00b0 / -1.428508\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/01 13:16",
     "destTime": "2021/12/01 12:16",
-    "position": "51.37864\u00b0 / 2.899607\u00b0",
+    "position": "51.37933\u00b0 / 2.562338\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -219,7 +219,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/03 05:42",
     "destTime": "2021/12/03 04:42",
-    "position": "43.58047\u00b0 / 10.30565\u00b0",
+    "position": "43.58043\u00b0 / 10.3056\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -499,9 +499,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/10 22:00",
     "destTime": "2021/12/10 20:00",
-    "position": "7.543334\u00b0 / 76.164\u00b0",
+    "position": "10.10533\u00b0 / 68.10766\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9477725": {
     "rowidx": 198,
@@ -695,7 +695,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/02 15:09",
     "destTime": "2021/12/02 07:09",
-    "position": "24.54249\u00b0 / 118.0893\u00b0",
+    "position": "24.54251\u00b0 / 118.0893\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -779,8 +779,8 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/03 11:00",
     "destTime": "2021/12/03 02:00",
-    "position": "37.4581\u00b0 / 126.6238\u00b0",
+    "position": "37.45807\u00b0 / 126.6237\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   }
 }
