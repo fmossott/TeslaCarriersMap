@@ -51,7 +51,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 22:19",
     "destTime": "2021/12/03 20:19",
-    "position": "31.6549\u00b0 / 32.11129\u00b0",
+    "position": "31.85422\u00b0 / 31.84483\u00b0",
     "area": "East Mediterranean",
     "status": "Underway"
   },
@@ -79,7 +79,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 19:40",
     "destTime": "2021/12/02 17:40",
-    "position": "34.291\u00b0 / 24.4614\u00b0",
+    "position": "34.35567\u00b0 / 24.13442\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -135,8 +135,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 17:00",
     "destTime": "2021/12/04 16:00",
-    "position": "51.29269\u00b0 / 2.304825\u00b0",
-    "area": "English Channel",
+    "position": "51.36751\u00b0 / 2.530417\u00b0",
+    "area": "North Sea",
     "status": "Underway using Engine"
   },
   "9690559": {
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 13:16",
     "destTime": "2021/12/01 12:16",
-    "position": "50.90246\u00b0 / -1.423177\u00b0",
+    "position": "50.90245\u00b0 / -1.423185\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 09:30",
     "destTime": "2021/12/04 07:30",
-    "position": "37.52358\u00b0 / 23.81313\u00b0",
+    "position": "37.52431\u00b0 / 23.82433\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -270,12 +270,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/02 15:06",
     "deptTime": "2021/12/02 11:06",
-    "dest": "SA DAMMAM ANCH",
+    "dest": "SA DMM",
     "destLong": "Dammam",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/04 17:53",
-    "destTime": "2021/12/04 14:53",
-    "position": "26.61419\u00b0 / 50.33729\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/03 07:00",
+    "destTime": "2021/12/03 04:00",
+    "position": "26.62093\u00b0 / 50.3287\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 05:36",
     "destTime": "2021/12/04 03:36",
-    "position": "31.59281\u00b0 / 32.16691\u00b0",
+    "position": "31.80093\u00b0 / 31.84136\u00b0",
     "area": "East Mediterranean",
     "status": "Underway"
   },
@@ -603,17 +603,17 @@
     "grossTonnage": "68,871",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/12/04 01:25",
-    "deptTime": "2021/12/03 15:25",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/12/05 00:00",
+    "deptTime": "2021/12/04 16:00",
     "dest": "KR MAS",
     "destLong": "Masan",
     "destType": "ETA",
     "destLocalTime": "2021/12/06 06:00",
     "destTime": "2021/12/05 21:00",
-    "position": "31.32207\u00b0 / 121.6819\u00b0",
+    "position": "31.3194\u00b0 / 121.7171\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9445980": {
     "rowidx": 202,
@@ -629,18 +629,18 @@
     "length": "232.38",
     "breadth": "32.3",
     "grossTonnage": "70,853",
-    "dept": "HK HKG",
-    "deptLong": "Hong Kong",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2021/12/01 10:14",
-    "deptTime": "2021/12/01 02:14",
+    "deptLocalTime": "2021/12/04 23:49",
+    "deptTime": "2021/12/04 15:49",
     "dest": "CN SHG",
     "destLong": "Shanghai",
     "destType": "ATA",
     "destLocalTime": "2021/12/03 23:49",
     "destTime": "2021/12/03 15:49",
-    "position": "31.32344\u00b0 / 121.6793\u00b0",
+    "position": "31.32247\u00b0 / 121.7101\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
