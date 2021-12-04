@@ -23,7 +23,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/07 21:00",
     "destTime": "2021/12/07 19:00",
-    "position": "13.04667\u00b0 / 48.53333\u00b0",
+    "position": "12.07333\u00b0 / 45.35833\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
@@ -51,7 +51,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 22:19",
     "destTime": "2021/12/03 20:19",
-    "position": "30.76833\u00b0 / 32.32833\u00b0",
+    "position": "30.905\u00b0 / 32.31333\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -79,9 +79,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 19:40",
     "destTime": "2021/12/02 17:40",
-    "position": "31.95213\u00b0 / 31.38822\u00b0",
+    "position": "33.91363\u00b0 / 25.76182\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9210438": {
     "rowidx": 9,
@@ -135,7 +135,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 17:00",
     "destTime": "2021/12/04 16:00",
-    "position": "50.56719\u00b0 / 1.107047\u00b0",
+    "position": "50.70635\u00b0 / 1.342353\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 13:16",
     "destTime": "2021/12/01 12:16",
-    "position": "50.90245\u00b0 / -1.423188\u00b0",
+    "position": "50.90246\u00b0 / -1.423167\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/06 06:00",
     "destTime": "2021/12/06 04:00",
-    "position": "41.068\u00b0 / 11.81285\u00b0",
+    "position": "40.12848\u00b0 / 13.17943\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 09:30",
     "destTime": "2021/12/04 07:30",
-    "position": "37.50982\u00b0 / 23.81457\u00b0",
+    "position": "37.53467\u00b0 / 23.8244\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -275,9 +275,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/04 12:52",
     "destTime": "2021/12/04 09:52",
-    "position": "26.62025\u00b0 / 50.3145\u00b0",
+    "position": "26.6001\u00b0 / 50.33487\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9138525": {
     "rowidx": 190,
@@ -611,7 +611,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/03 23:25",
     "destTime": "2021/12/03 15:25",
-    "position": "31.32205\u00b0 / 121.6819\u00b0",
+    "position": "31.32207\u00b0 / 121.6819\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -639,7 +639,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/03 23:49",
     "destTime": "2021/12/03 15:49",
-    "position": "31.32344\u00b0 / 121.6793\u00b0",
+    "position": "31.32345\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
