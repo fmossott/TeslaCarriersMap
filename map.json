@@ -51,7 +51,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 22:19",
     "destTime": "2021/12/03 20:19",
-    "position": "31.99667\u00b0 / 31.60333\u00b0",
+    "position": "33.83487\u00b0 / 24.77969\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -135,7 +135,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/04 19:52",
     "destTime": "2021/12/04 18:52",
-    "position": "51.50291\u00b0 / 2.703165\u00b0",
+    "position": "51.51917\u00b0 / 2.755378\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 13:16",
     "destTime": "2021/12/01 12:16",
-    "position": "50.90245\u00b0 / -1.423188\u00b0",
+    "position": "50.90245\u00b0 / -1.423175\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -247,9 +247,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/05 13:00",
     "destTime": "2021/12/05 11:00",
-    "position": "37.90602\u00b0 / 23.60287\u00b0",
+    "position": "37.90388\u00b0 / 23.60385\u00b0",
     "area": "Piraeus Area",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9748289": {
     "rowidx": 189,
@@ -275,7 +275,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/05 08:31",
     "destTime": "2021/12/05 05:31",
-    "position": "26.49301\u00b0 / 50.20561\u00b0",
+    "position": "26.49302\u00b0 / 50.20559\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -463,15 +463,15 @@
     "grossTonnage": "41,192",
     "dept": "SG SIN",
     "deptLong": "Singapore",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/12/05 08:35",
-    "deptTime": "2021/12/05 01:35",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/12/05 21:20",
+    "deptTime": "2021/12/05 13:20",
     "dest": "ID JKT",
     "destLong": "Jakarta",
     "destType": "ETA",
     "destLocalTime": "2021/12/07 07:00",
     "destTime": "2021/12/07 00:00",
-    "position": "1.22784\u00b0 / 103.7878\u00b0",
+    "position": "1.231797\u00b0 / 103.9719\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
