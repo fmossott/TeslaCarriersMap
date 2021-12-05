@@ -135,7 +135,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/04 19:52",
     "destTime": "2021/12/04 18:52",
-    "position": "51.49484\u00b0 / 2.690633\u00b0",
+    "position": "51.51175\u00b0 / 2.685257\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/01 13:16",
     "destTime": "2021/12/01 12:16",
-    "position": "50.90246\u00b0 / -1.423178\u00b0",
+    "position": "50.90246\u00b0 / -1.42316\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -247,9 +247,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 09:30",
     "destTime": "2021/12/04 07:30",
-    "position": "37.57198\u00b0 / 23.82623\u00b0",
+    "position": "37.5729\u00b0 / 23.84037\u00b0",
     "area": "Aegean Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9748289": {
     "rowidx": 189,
@@ -275,7 +275,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/05 08:31",
     "destTime": "2021/12/05 05:31",
-    "position": "26.49302\u00b0 / 50.20563\u00b0",
+    "position": "26.49305\u00b0 / 50.20561\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -301,10 +301,10 @@
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
-    "destLocalTime": "2021/12/09 12:00",
-    "destTime": "2021/12/09 11:00",
-    "position": "36.74792\u00b0 / 0.4468217\u00b0",
-    "area": "West Mediterranean",
+    "destLocalTime": "2021/12/12 00:30",
+    "destTime": "2021/12/11 23:30",
+    "position": "36.2662\u00b0 / -3.554663\u00b0",
+    "area": "Gibraltar",
     "status": "Underway using Engine"
   },
   "9176565": {
@@ -471,7 +471,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/05 09:35",
     "destTime": "2021/12/05 01:35",
-    "position": "1.285943\u00b0 / 103.7559\u00b0",
+    "position": "1.285965\u00b0 / 103.756\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
