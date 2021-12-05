@@ -79,8 +79,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 19:40",
     "destTime": "2021/12/02 17:40",
-    "position": "36.25978\u00b0 / 15.1754\u00b0",
-    "area": "East Mediterranean",
+    "position": "36.33503\u00b0 / 14.85498\u00b0",
+    "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
   "9210438": {
@@ -132,12 +132,12 @@
     "deptTime": "2021/11/06 05:38",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/04 17:00",
-    "destTime": "2021/12/04 16:00",
-    "position": "51.40088\u00b0 / 3.087262\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/05 20:31",
+    "destTime": "2021/12/05 19:31",
+    "position": "51.33357\u00b0 / 3.217652\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9690559": {
     "rowidx": 11,
@@ -219,7 +219,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/06 06:00",
     "destTime": "2021/12/06 04:00",
-    "position": "36.32327\u00b0 / 22.37436\u00b0",
+    "position": "36.36454\u00b0 / 22.69974\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -275,7 +275,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/05 08:31",
     "destTime": "2021/12/05 05:31",
-    "position": "26.493\u00b0 / 50.2056\u00b0",
+    "position": "26.49302\u00b0 / 50.20557\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -331,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 05:36",
     "destTime": "2021/12/04 03:36",
-    "position": "34.31474\u00b0 / 23.95685\u00b0",
+    "position": "34.37982\u00b0 / 23.63862\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -415,9 +415,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/14 08:00",
     "destTime": "2021/12/14 06:00",
-    "position": "5.92078\u00b0 / 79.92363\u00b0",
+    "position": "9.44998\u00b0 / 70.91164\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9483786": {
     "rowidx": 195,
@@ -583,7 +583,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/05 00:19",
     "destTime": "2021/12/04 16:19",
-    "position": "31.32219\u00b0 / 121.6817\u00b0",
+    "position": "31.32218\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -611,7 +611,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/05 12:57",
     "destTime": "2021/12/05 04:57",
-    "position": "31.32352\u00b0 / 121.6797\u00b0",
+    "position": "31.32355\u00b0 / 121.6797\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
