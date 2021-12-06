@@ -111,6 +111,34 @@
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
+  "9441520": {
+    "rowidx": 10,
+    "num": "163",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "21Q4",
+    "numDept": "15",
+    "mapStatus": "3",
+    "mtsid": "373460",
+    "name": "Horizon Leader",
+    "mmsi": "311040600",
+    "length": "199.95",
+    "breadth": "32.29",
+    "grossTonnage": "58,767",
+    "dept": "GB SOU",
+    "deptLong": "Southampton",
+    "deptType": "ATD",
+    "deptLocalTime": "",
+    "deptTime": "",
+    "dest": "BE ZEE",
+    "destLong": "Zeebrugge",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/05 20:31",
+    "destTime": "2021/12/05 19:31",
+    "position": "51.323\u00b0 / 3.210688\u00b0",
+    "area": "North Sea",
+    "status": "Moored"
+  },
   "9684990": {
     "rowidx": 12,
     "num": "161",
@@ -583,7 +611,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/06 14:41",
     "destTime": "2021/12/06 06:41",
-    "position": "31.32212\u00b0 / 121.6819\u00b0",
+    "position": "31.32212\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
