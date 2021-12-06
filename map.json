@@ -155,17 +155,17 @@
     "grossTonnage": "76,420",
     "dept": "ES SDR",
     "deptLong": "Santander",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/12/06 06:11",
-    "deptTime": "2021/12/06 05:11",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/12/06 18:06",
+    "deptTime": "2021/12/06 17:06",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
     "destLocalTime": "2021/12/08 20:00",
     "destTime": "2021/12/08 19:00",
-    "position": "43.44251\u00b0 / -3.824243\u00b0",
+    "position": "43.51794\u00b0 / -3.76424\u00b0",
     "area": "Biscay Bay",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9279812": {
     "rowidx": 187,
@@ -191,7 +191,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/06 07:26",
     "destTime": "2021/12/06 05:26",
-    "position": "37.9605\u00b0 / 23.60482\u00b0",
+    "position": "37.96049\u00b0 / 23.6048\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -247,7 +247,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/05 08:31",
     "destTime": "2021/12/05 05:31",
-    "position": "26.49302\u00b0 / 50.20559\u00b0",
+    "position": "26.49301\u00b0 / 50.20562\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -499,9 +499,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/11/30 19:25",
     "destTime": "2021/11/30 11:25",
-    "position": "1.49140\u00b0 / 104.54853\u00b0",
-    "area": "East China Sea",
-    "status": "Out of Range"
+    "position": "1.324817\u00b0 / 104.3399\u00b0",
+    "area": "Singapore Area",
+    "status": "Underway using Engine"
   },
   "9712644": {
     "rowidx": 199,
