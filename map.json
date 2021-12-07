@@ -51,7 +51,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 22:19",
     "destTime": "2021/12/03 20:19",
-    "position": "36.50745\u00b0 / 14.1495\u00b0",
+    "position": "36.56093\u00b0 / 13.97283\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -135,7 +135,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/05 20:31",
     "destTime": "2021/12/05 19:31",
-    "position": "51.30389\u00b0 / 3.229827\u00b0",
+    "position": "51.30389\u00b0 / 3.229823\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -191,7 +191,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/06 07:26",
     "destTime": "2021/12/06 05:26",
-    "position": "37.96051\u00b0 / 23.60479\u00b0",
+    "position": "37.96053\u00b0 / 23.60484\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -303,7 +303,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 05:36",
     "destTime": "2021/12/04 03:36",
-    "position": "36.24232\u00b0 / 14.77505\u00b0",
+    "position": "36.30083\u00b0 / 14.51874\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -438,14 +438,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/05 21:20",
     "deptTime": "2021/12/05 13:20",
-    "dest": "ID JKT",
+    "dest": "ID JAKARTA ANCH",
     "destLong": "Jakarta",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/07 07:00",
-    "destTime": "2021/12/07 00:00",
-    "position": "-5.870567\u00b0 / 106.9255\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/07 07:28",
+    "destTime": "2021/12/07 00:28",
+    "position": "-6.022787\u00b0 / 106.9191\u00b0",
     "area": "Java Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9122655": {
     "rowidx": 197,
@@ -499,7 +499,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/07 05:49",
     "destTime": "2021/12/06 21:49",
-    "position": "1.284833\u00b0 / 103.7525\u00b0",
+    "position": "1.284867\u00b0 / 103.7525\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -527,7 +527,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/06 08:30",
     "destTime": "2021/12/06 00:30",
-    "position": "22.86457\u00b0 / 113.547\u00b0",
+    "position": "22.86451\u00b0 / 113.547\u00b0",
     "area": "South China",
     "status": "Moored"
   },
