@@ -79,7 +79,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 19:40",
     "destTime": "2021/12/02 17:40",
-    "position": "37.54733\u00b0 / 5.60425\u00b0",
+    "position": "37.39511\u00b0 / 3.371183\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -135,7 +135,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/05 20:31",
     "destTime": "2021/12/05 19:31",
-    "position": "51.30387\u00b0 / 3.22982\u00b0",
+    "position": "51.30387\u00b0 / 3.229798\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -181,19 +181,19 @@
     "length": "196.4",
     "breadth": "31.1",
     "grossTonnage": "44,408",
-    "dept": "IT LIV",
-    "deptLong": "Livorno",
+    "dept": "GR PIR",
+    "deptLong": "Piraeus",
     "deptType": "ATD",
-    "deptLocalTime": "2021/12/03 19:33",
-    "deptTime": "2021/12/03 18:33",
+    "deptLocalTime": "2021/12/07 15:28",
+    "deptTime": "2021/12/07 13:28",
     "dest": "GR PIR",
     "destLong": "Piraeus",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/06 07:26",
-    "destTime": "2021/12/06 05:26",
-    "position": "37.95881\u00b0 / 23.60239\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/08 15:00",
+    "destTime": "2021/12/08 13:00",
+    "position": "37.7887\u00b0 / 23.63063\u00b0",
     "area": "Piraeus Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9409481": {
     "rowidx": 188,
@@ -303,7 +303,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 05:36",
     "destTime": "2021/12/04 03:36",
-    "position": "37.41609\u00b0 / 11.30248\u00b0",
+    "position": "37.48981\u00b0 / 11.05355\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -443,7 +443,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/07 07:28",
     "destTime": "2021/12/07 00:28",
-    "position": "-6.022775\u00b0 / 106.9194\u00b0",
+    "position": "-6.022827\u00b0 / 106.9195\u00b0",
     "area": "Java Sea",
     "status": "At Anchor"
   },
@@ -499,7 +499,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/07 05:49",
     "destTime": "2021/12/06 21:49",
-    "position": "1.28485\u00b0 / 103.7525\u00b0",
+    "position": "1.284867\u00b0 / 103.7525\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -639,7 +639,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/07 14:18",
     "destTime": "2021/12/07 06:18",
-    "position": "31.3234\u00b0 / 121.6795\u00b0",
+    "position": "31.32344\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/07 14:35",
     "destTime": "2021/12/07 06:35",
-    "position": "31.32203\u00b0 / 121.6817\u00b0",
+    "position": "31.32207\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
