@@ -23,8 +23,8 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/08 05:37",
     "destTime": "2021/12/08 03:37",
-    "position": "30.26131\u00b0 / 32.51213\u00b0",
-    "area": "Red Sea",
+    "position": "30.36691\u00b0 / 32.37262\u00b0",
+    "area": "East Mediterranean",
     "status": "Underway"
   },
   "9293648": {
@@ -135,7 +135,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/05 20:31",
     "destTime": "2021/12/05 19:31",
-    "position": "51.34713\u00b0 / 2.820278\u00b0",
+    "position": "51.55797\u00b0 / 2.707282\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/08 22:00",
     "destTime": "2021/12/08 21:00",
-    "position": "38.80971\u00b0 / -10.09303\u00b0",
+    "position": "38.25439\u00b0 / -10.00579\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -189,9 +189,9 @@
     "dest": "GR PIR",
     "destLong": "Piraeus",
     "destType": "ETA",
-    "destLocalTime": "2021/12/08 16:00",
-    "destTime": "2021/12/08 14:00",
-    "position": "40.37364\u00b0 / 26.6792\u00b0",
+    "destLocalTime": "2021/12/08 15:30",
+    "destTime": "2021/12/08 13:30",
+    "position": "40.46161\u00b0 / 26.84381\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -443,7 +443,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/07 07:28",
     "destTime": "2021/12/07 00:28",
-    "position": "-6.022634\u00b0 / 106.9196\u00b0",
+    "position": "-6.022785\u00b0 / 106.9195\u00b0",
     "area": "Java Sea",
     "status": "At Anchor"
   },
@@ -639,7 +639,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/07 14:18",
     "destTime": "2021/12/07 06:18",
-    "position": "31.32347\u00b0 / 121.6795\u00b0",
+    "position": "31.32342\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -659,16 +659,16 @@
     "grossTonnage": "59,217",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/12/07 15:35",
-    "deptTime": "2021/12/07 06:35",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/12/08 14:59",
+    "deptTime": "2021/12/08 06:59",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
     "destType": "ETA",
     "destLocalTime": "2021/12/09 21:00",
     "destTime": "2021/12/09 12:00",
-    "position": "31.32203\u00b0 / 121.6817\u00b0",
+    "position": "31.32292\u00b0 / 121.6831\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
