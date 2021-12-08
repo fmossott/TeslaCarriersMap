@@ -1,11 +1,11 @@
 {
   "9673020": {
     "rowidx": 6,
-    "num": "166",
+    "num": "167",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "18",
+    "numDept": "19",
     "mapStatus": "2",
     "mtsid": "3391300",
     "name": "Viking Bravery",
@@ -29,11 +29,11 @@
   },
   "9293648": {
     "rowidx": 7,
-    "num": "165",
+    "num": "166",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "17",
+    "numDept": "18",
     "mapStatus": "2",
     "mtsid": "409092",
     "name": "Paradise Ace",
@@ -57,11 +57,11 @@
   },
   "9355238": {
     "rowidx": 8,
-    "num": "164",
+    "num": "165",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "16",
+    "numDept": "17",
     "mapStatus": "2",
     "mtsid": "416239",
     "name": "Grand Dahlia",
@@ -79,17 +79,17 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 19:40",
     "destTime": "2021/12/02 17:40",
-    "position": "36.21107\u00b0 / -3.799267\u00b0",
+    "position": "36.1807\u00b0 / -4.06465\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
   "9210438": {
     "rowidx": 9,
-    "num": "163",
+    "num": "164",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
-    "numDept": "15",
+    "numDept": "16",
     "mapStatus": "2",
     "mtsid": "369106",
     "name": "Platinum Ray",
@@ -111,8 +111,36 @@
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
+  "9684990": {
+    "rowidx": 12,
+    "num": "161",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "21Q4",
+    "numDept": "13",
+    "mapStatus": "2",
+    "mtsid": "6701824",
+    "name": "Hoegh Tracer",
+    "mmsi": "258628000",
+    "length": "199.9",
+    "breadth": "40.8",
+    "grossTonnage": "76,420",
+    "dept": "ES SDR",
+    "deptLong": "Santander",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/12/06 18:06",
+    "deptTime": "2021/12/06 17:06",
+    "dest": "ES SDR",
+    "destLong": "Santander",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/08 22:00",
+    "destTime": "2021/12/08 21:00",
+    "position": "36.72959\u00b0 / -9.503041\u00b0",
+    "area": "UK Coast & Atlantic",
+    "status": "Underway using Engine"
+  },
   "9279812": {
-    "rowidx": 186,
+    "rowidx": 187,
     "num": "-14",
     "manDept": "SHG",
     "notes": "",
@@ -135,12 +163,12 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/08 15:30",
     "destTime": "2021/12/08 13:30",
-    "position": "40.76874\u00b0 / 29.54673\u00b0",
+    "position": "40.7687\u00b0 / 29.54676\u00b0",
     "area": "Marmara Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9409481": {
-    "rowidx": 187,
+    "rowidx": 188,
     "num": "-15",
     "manDept": "SHG",
     "notes": "",
@@ -161,14 +189,14 @@
     "dest": "IT LIV",
     "destLong": "Livorno",
     "destType": "ETA",
-    "destLocalTime": "2021/12/08 17:30",
-    "destTime": "2021/12/08 16:30",
-    "position": "41.23078\u00b0 / 10.39248\u00b0",
-    "area": "Tyrrhenian Sea",
+    "destLocalTime": "2021/12/09 04:00",
+    "destTime": "2021/12/09 03:00",
+    "position": "41.5711\u00b0 / 10.24025\u00b0",
+    "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
   "9748289": {
-    "rowidx": 188,
+    "rowidx": 189,
     "num": "-16",
     "manDept": "SHG",
     "notes": "",
@@ -196,7 +224,7 @@
     "status": "Out of Range"
   },
   "9138525": {
-    "rowidx": 189,
+    "rowidx": 190,
     "num": "-17",
     "manDept": "SHG",
     "notes": "",
@@ -224,7 +252,7 @@
     "status": "Underway using Engine"
   },
   "9176565": {
-    "rowidx": 190,
+    "rowidx": 191,
     "num": "-18",
     "manDept": "SHG",
     "notes": "",
@@ -252,7 +280,7 @@
     "status": "Underway using Engine"
   },
   "9782091": {
-    "rowidx": 191,
+    "rowidx": 192,
     "num": "-19",
     "manDept": "SHG",
     "notes": "",
@@ -270,17 +298,17 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/11/25 06:29",
     "deptTime": "2021/11/24 22:29",
-    "dest": "JO AQJ",
-    "destLong": "Aqaba",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2021/12/08 06:00",
-    "destTime": "2021/12/08 04:00",
-    "position": "28.5724\u00b0 / 34.63257\u00b0",
+    "destLocalTime": "2021/12/09 10:00",
+    "destTime": "2021/12/09 08:00",
+    "position": "28.40149\u00b0 / 34.57748\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
   "9176395": {
-    "rowidx": 192,
+    "rowidx": 193,
     "num": "-20",
     "manDept": "SHG",
     "notes": "",
@@ -308,7 +336,7 @@
     "status": "Underway using Engine"
   },
   "9427952": {
-    "rowidx": 193,
+    "rowidx": 194,
     "num": "-21",
     "manDept": "SHG",
     "notes": "",
@@ -336,7 +364,7 @@
     "status": "Out of Range"
   },
   "9483786": {
-    "rowidx": 194,
+    "rowidx": 195,
     "num": "-22",
     "manDept": "SHG",
     "notes": "",
@@ -364,7 +392,7 @@
     "status": "Underway using Engine"
   },
   "9318515": {
-    "rowidx": 195,
+    "rowidx": 196,
     "num": "-23",
     "manDept": "SHG",
     "notes": "",
@@ -387,12 +415,12 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/08 16:46",
     "destTime": "2021/12/08 09:46",
-    "position": "-6.098797\u00b0 / 106.9167\u00b0",
+    "position": "-6.098802\u00b0 / 106.9167\u00b0",
     "area": "Java Sea",
-    "status": "Underway by Sail"
+    "status": "Moored"
   },
   "9122655": {
-    "rowidx": 196,
+    "rowidx": 197,
     "num": "-24",
     "manDept": "SHG",
     "notes": "",
@@ -420,7 +448,7 @@
     "status": "Underway using Engine"
   },
   "9536959": {
-    "rowidx": 197,
+    "rowidx": 198,
     "num": "-25",
     "manDept": "SHG",
     "notes": "",
@@ -448,7 +476,7 @@
     "status": "Underway using Engine"
   },
   "9712644": {
-    "rowidx": 198,
+    "rowidx": 199,
     "num": "-26",
     "manDept": "SHG",
     "notes": "",
@@ -476,7 +504,7 @@
     "status": "Out of Range"
   },
   "9722302": {
-    "rowidx": 199,
+    "rowidx": 200,
     "num": "-27",
     "manDept": "SHG",
     "notes": "",
@@ -504,7 +532,7 @@
     "status": "Underway using Engine"
   },
   "9443073": {
-    "rowidx": 200,
+    "rowidx": 201,
     "num": "-28",
     "manDept": "SHG",
     "notes": "",
@@ -532,7 +560,7 @@
     "status": "Underway using Engine"
   },
   "9284752": {
-    "rowidx": 201,
+    "rowidx": 202,
     "num": "-29",
     "manDept": "SHG",
     "notes": "",
@@ -560,7 +588,7 @@
     "status": "Underway using Engine"
   },
   "9624029": {
-    "rowidx": 202,
+    "rowidx": 203,
     "num": "-30",
     "manDept": "SHG",
     "notes": "",
@@ -573,22 +601,22 @@
     "length": "199.98",
     "breadth": "32.26",
     "grossTonnage": "58,250",
-    "dept": "ID JKT",
-    "deptLong": "Jakarta",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/11/29 20:08",
-    "deptTime": "2021/11/29 13:08",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/07 14:18",
-    "destTime": "2021/12/07 06:18",
-    "position": "31.32343\u00b0 / 121.6795\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/12/07 13:18",
+    "deptTime": "2021/12/07 06:18",
+    "dest": "EG ALY",
+    "destLong": "Alexandria",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/31 08:00",
+    "destTime": "2021/12/31 06:00",
+    "position": "31.32337\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
   "9889100": {
-    "rowidx": 203,
+    "rowidx": 204,
     "num": "-31",
     "manDept": "SHG",
     "notes": "",
@@ -611,7 +639,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/08 15:43",
     "destTime": "2021/12/08 07:43",
-    "position": "31.322\u00b0 / 121.6817\u00b0",
+    "position": "31.32201\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
