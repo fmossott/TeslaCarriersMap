@@ -18,12 +18,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/11/20 00:35",
     "deptTime": "2021/11/19 16:35",
-    "dest": "EG SUEZ SOUTH ANCH",
+    "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ATA",
-    "destLocalTime": "2021/12/07 21:25",
-    "destTime": "2021/12/07 19:25",
-    "position": "29.87384\u00b0 / 32.55095\u00b0",
+    "destLocalTime": "2021/12/08 05:37",
+    "destTime": "2021/12/08 03:37",
+    "position": "30.02294\u00b0 / 32.57875\u00b0",
     "area": "Red Sea",
     "status": "Underway"
   },
@@ -135,9 +135,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/05 20:31",
     "destTime": "2021/12/05 19:31",
-    "position": "51.30387\u00b0 / 3.22982\u00b0",
+    "position": "51.33399\u00b0 / 3.217113\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9684990": {
     "rowidx": 12,
@@ -181,17 +181,17 @@
     "length": "196.4",
     "breadth": "31.1",
     "grossTonnage": "44,408",
-    "dept": "GR PIR",
-    "deptLong": "Piraeus",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/12/07 15:28",
-    "deptTime": "2021/12/07 13:28",
+    "dept": "TR CKZ",
+    "deptLong": "Canakkale",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/12/08 05:04",
+    "deptTime": "2021/12/08 03:04",
     "dest": "GR PIR",
     "destLong": "Piraeus",
     "destType": "ETA",
     "destLocalTime": "2021/12/08 16:00",
     "destTime": "2021/12/08 14:00",
-    "position": "39.98575\u00b0 / 26.04238\u00b0",
+    "position": "40.16094\u00b0 / 26.38983\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -303,7 +303,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 05:36",
     "destTime": "2021/12/04 03:36",
-    "position": "37.61359\u00b0 / 6.990575\u00b0",
+    "position": "37.60898\u00b0 / 6.947703\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -329,11 +329,11 @@
     "dest": "JO AQJ",
     "destLong": "Aqaba",
     "destType": "ETA",
-    "destLocalTime": "2021/12/08 02:01",
-    "destTime": "2021/12/08 00:01",
-    "position": "13.67751\u00b0 / 58.16521\u00b0",
-    "area": "Laccadive Sea",
-    "status": "Out of Range"
+    "destLocalTime": "2021/12/08 06:00",
+    "destTime": "2021/12/08 04:00",
+    "position": "29.3626\u00b0 / 34.94613\u00b0",
+    "area": "Red Sea",
+    "status": "Underway using Engine"
   },
   "9176395": {
     "rowidx": 193,
@@ -443,7 +443,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/07 07:28",
     "destTime": "2021/12/07 00:28",
-    "position": "-6.022634\u00b0 / 106.9193\u00b0",
+    "position": "-6.022598\u00b0 / 106.9195\u00b0",
     "area": "Java Sea",
     "status": "At Anchor"
   },
@@ -499,7 +499,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/07 05:49",
     "destTime": "2021/12/06 21:49",
-    "position": "2.38535\u00b0 / 101.737\u00b0",
+    "position": "2.5709\u00b0 / 101.5043\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -639,7 +639,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/07 14:18",
     "destTime": "2021/12/07 06:18",
-    "position": "31.32343\u00b0 / 121.6795\u00b0",
+    "position": "31.32342\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/07 14:35",
     "destTime": "2021/12/07 06:35",
-    "position": "31.32203\u00b0 / 121.6817\u00b0",
+    "position": "31.32208\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
