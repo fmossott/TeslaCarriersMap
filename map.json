@@ -23,9 +23,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/08 05:37",
     "destTime": "2021/12/08 03:37",
-    "position": "30.02294\u00b0 / 32.57875\u00b0",
+    "position": "30.15167\u00b0 / 32.56833\u00b0",
     "area": "Red Sea",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9293648": {
     "rowidx": 7,
@@ -127,17 +127,17 @@
     "grossTonnage": "58,767",
     "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "",
-    "deptTime": "",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/12/08 05:58",
+    "deptTime": "2021/12/08 04:58",
     "dest": "GB TEE",
     "destLong": "Tees",
     "destType": "ETA",
     "destLocalTime": "2021/12/05 20:31",
     "destTime": "2021/12/05 19:31",
-    "position": "51.33399\u00b0 / 3.217113\u00b0",
+    "position": "51.39651\u00b0 / 3.130597\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9684990": {
     "rowidx": 12,
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/08 22:00",
     "destTime": "2021/12/08 21:00",
-    "position": "39.36171\u00b0 / -10.10464\u00b0",
+    "position": "38.80971\u00b0 / -10.09303\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/08 16:00",
     "destTime": "2021/12/08 14:00",
-    "position": "40.16094\u00b0 / 26.38983\u00b0",
+    "position": "40.30453\u00b0 / 26.59827\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -321,17 +321,17 @@
     "length": "199.96",
     "breadth": "38",
     "grossTonnage": "72,684",
-    "dept": "SG SIN",
+    "dept": "JO AQABA INDUSTRIAL",
     "deptLong": "Singapore",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/11/25 06:29",
-    "deptTime": "2021/11/24 22:29",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/12/08 12:10",
+    "deptTime": "2021/12/08 04:10",
     "dest": "JO AQJ",
     "destLong": "Aqaba",
     "destType": "ETA",
     "destLocalTime": "2021/12/08 06:00",
     "destTime": "2021/12/08 04:00",
-    "position": "29.3626\u00b0 / 34.94613\u00b0",
+    "position": "29.3622\u00b0 / 34.94919\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -443,7 +443,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/07 07:28",
     "destTime": "2021/12/07 00:28",
-    "position": "-6.022598\u00b0 / 106.9195\u00b0",
+    "position": "-6.02265\u00b0 / 106.9196\u00b0",
     "area": "Java Sea",
     "status": "At Anchor"
   },
@@ -499,7 +499,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/07 05:49",
     "destTime": "2021/12/06 21:49",
-    "position": "2.5709\u00b0 / 101.5043\u00b0",
+    "position": "2.728483\u00b0 / 101.2331\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -639,7 +639,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/07 14:18",
     "destTime": "2021/12/07 06:18",
-    "position": "31.32342\u00b0 / 121.6795\u00b0",
+    "position": "31.32343\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/07 14:35",
     "destTime": "2021/12/07 06:35",
-    "position": "31.32208\u00b0 / 121.6817\u00b0",
+    "position": "31.32205\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
