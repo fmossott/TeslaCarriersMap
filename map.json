@@ -21,11 +21,11 @@
     "dest": "SI KOP",
     "destLong": "Koper",
     "destType": "ETA",
-    "destLocalTime": "2021/12/11 21:00",
-    "destTime": "2021/12/11 20:00",
-    "position": "31.9867\u00b0 / 31.35801\u00b0",
+    "destLocalTime": "2021/12/11 04:00",
+    "destTime": "2021/12/11 03:00",
+    "position": "34.40718\u00b0 / 24.70206\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9293648": {
     "rowidx": 7,
@@ -51,7 +51,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 22:19",
     "destTime": "2021/12/03 20:19",
-    "position": "35.9637\u00b0 / -6.02093\u00b0",
+    "position": "36.00835\u00b0 / -6.333328\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -79,7 +79,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 19:40",
     "destTime": "2021/12/02 17:40",
-    "position": "38.12265\u00b0 / -9.670067\u00b0",
+    "position": "38.4393\u00b0 / -9.76895\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/09 04:00",
     "destTime": "2021/12/09 02:00",
-    "position": "40.74773\u00b0 / 29.84079\u00b0",
+    "position": "40.74757\u00b0 / 29.84045\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -186,12 +186,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/09 13:53",
     "deptTime": "2021/12/09 12:53",
-    "dest": "MA TNG",
-    "destLong": "Tangier",
+    "dest": "MA PTM",
+    "destLong": "Tanger Med",
     "destType": "ETA",
     "destLocalTime": "2021/12/11 14:00",
     "destTime": "2021/12/11 13:00",
-    "position": "43.45282\u00b0 / 10.12045\u00b0",
+    "position": "42.75697\u00b0 / 8.189333\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -219,9 +219,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/22 11:00",
     "destTime": "2021/12/22 02:00",
-    "position": "26.62185\u00b0 / 50.25791\u00b0",
-    "area": "Persian Gulf",
-    "status": "Out of Range"
+    "position": "14.96288\u00b0 / 67.36129\u00b0",
+    "area": "West Coast India",
+    "status": "Underway using Engine"
   },
   "9138525": {
     "rowidx": 190,
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 05:36",
     "destTime": "2021/12/04 03:36",
-    "position": "36.00047\u00b0 / -5.41308\u00b0",
+    "position": "35.95173\u00b0 / -5.914705\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -303,7 +303,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/09 10:12",
     "destTime": "2021/12/09 08:12",
-    "position": "29.84955\u00b0 / 32.56153\u00b0",
+    "position": "29.84944\u00b0 / 32.56179\u00b0",
     "area": "Red Sea",
     "status": "Stopped"
   },
@@ -527,7 +527,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/11 20:00",
     "destTime": "2021/12/11 12:00",
-    "position": "16.19000\u00b0 / 116.30666\u00b0",
+    "position": "13.50333\u00b0 / 114.06666\u00b0",
     "area": "South China",
     "status": "Out of Range"
   },
@@ -667,7 +667,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/09 16:04",
     "destTime": "2021/12/09 08:04",
-    "position": "31.32347\u00b0 / 121.6794\u00b0",
+    "position": "31.3235\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -695,7 +695,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/09 16:36",
     "destTime": "2021/12/09 08:36",
-    "position": "31.32205\u00b0 / 121.6816\u00b0",
+    "position": "31.32209\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
