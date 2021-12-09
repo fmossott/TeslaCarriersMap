@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/09 05:31",
     "destTime": "2021/12/09 02:31",
-    "position": "40.74779\u00b0 / 29.84067\u00b0",
+    "position": "40.74783\u00b0 / 29.84065\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -191,7 +191,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/09 04:05",
     "destTime": "2021/12/09 03:05",
-    "position": "43.58068\u00b0 / 10.30562\u00b0",
+    "position": "43.58068\u00b0 / 10.30558\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -303,7 +303,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/09 10:00",
     "destTime": "2021/12/09 08:00",
-    "position": "29.53924\u00b0 / 32.61151\u00b0",
+    "position": "29.76153\u00b0 / 32.558\u00b0",
     "area": "Red Sea",
     "status": "Underway"
   },
@@ -527,9 +527,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/11 20:00",
     "destTime": "2021/12/11 12:00",
-    "position": "21.95575\u00b0 / 121.1168\u00b0",
+    "position": "16.19000\u00b0 / 116.30666\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9443073": {
     "rowidx": 201,
@@ -550,11 +550,11 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/07 13:44",
     "deptTime": "2021/12/07 05:44",
-    "dest": "CN YTG",
+    "dest": "CN YANTAI ANCH",
     "destLong": "Yantai",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/09 07:30",
-    "destTime": "2021/12/08 23:30",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/09 06:06",
+    "destTime": "2021/12/08 22:06",
     "position": "37.75328\u00b0 / 121.5438\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
@@ -639,7 +639,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/08 15:43",
     "destTime": "2021/12/08 07:43",
-    "position": "31.32203\u00b0 / 121.6817\u00b0",
+    "position": "31.32201\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
