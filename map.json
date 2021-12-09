@@ -51,9 +51,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 22:19",
     "destTime": "2021/12/03 20:19",
-    "position": "37.70554\u00b0 / 6.578947\u00b0",
+    "position": "36.69166\u00b0 / 0.24333\u00b0",
     "area": "West Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9355238": {
     "rowidx": 8,
@@ -160,10 +160,10 @@
     "deptTime": "2021/12/09 00:32",
     "dest": "TR DRC",
     "destLong": "Derince",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/09 05:00",
-    "destTime": "2021/12/09 02:00",
-    "position": "40.74015\u00b0 / 29.81528\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/09 05:31",
+    "destTime": "2021/12/09 02:31",
+    "position": "40.74777\u00b0 / 29.84061\u00b0",
     "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/09 04:00",
     "destTime": "2021/12/09 03:00",
-    "position": "43.45252\u00b0 / 10.16458\u00b0",
+    "position": "43.5475\u00b0 / 10.29155\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -639,7 +639,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/08 15:43",
     "destTime": "2021/12/08 07:43",
-    "position": "31.32202\u00b0 / 121.6817\u00b0",
+    "position": "31.32204\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
