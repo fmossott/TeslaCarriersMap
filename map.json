@@ -51,7 +51,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 22:19",
     "destTime": "2021/12/03 20:19",
-    "position": "39.92363\u00b0 / -9.876028\u00b0",
+    "position": "39.99783\u00b0 / -9.874258\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -79,7 +79,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 19:40",
     "destTime": "2021/12/02 17:40",
-    "position": "42.53178\u00b0 / -9.77638\u00b0",
+    "position": "43.31502\u00b0 / -9.714084\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -104,12 +104,12 @@
     "deptTime": "2021/11/23 09:19",
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/09 23:30",
-    "destTime": "2021/12/09 21:30",
-    "position": "31.31409\u00b0 / 32.37051\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/10 08:11",
+    "destTime": "2021/12/10 06:11",
+    "position": "31.50071\u00b0 / 32.29867\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9684990": {
     "rowidx": 12,
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 05:36",
     "destTime": "2021/12/04 03:36",
-    "position": "39.49517\u00b0 / -9.822995\u00b0",
+    "position": "39.7413\u00b0 / -9.802518\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/10 22:00",
     "destTime": "2021/12/10 20:00",
-    "position": "29.771\u00b0 / 32.54667\u00b0",
+    "position": "29.85167\u00b0 / 32.56\u00b0",
     "area": "Red Sea",
     "status": "Underway"
   },
@@ -415,7 +415,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/08 16:46",
     "destTime": "2021/12/08 09:46",
-    "position": "-0.12710\u00b0 / 108.14548\u00b0",
+    "position": "2.02210\u00b0 / 109.26144\u00b0",
     "area": "Java Sea",
     "status": "Out of Range"
   },
@@ -443,9 +443,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/21 06:00",
     "destTime": "2021/12/21 04:00",
-    "position": "6.20985\u00b0 / 94.90193\u00b0",
+    "position": "6.06427\u00b0 / 90.14774\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9536959": {
     "rowidx": 198,
@@ -695,7 +695,7 @@
     "destType": "ATA",
     "destLocalTime": "",
     "destTime": "",
-    "position": "31.32218\u00b0 / 121.6817\u00b0",
+    "position": "31.32216\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
