@@ -51,7 +51,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 22:19",
     "destTime": "2021/12/03 20:19",
-    "position": "37.94721\u00b0 / -9.607805\u00b0",
+    "position": "38.17943\u00b0 / -9.667372\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -107,7 +107,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/10 08:11",
     "destTime": "2021/12/10 06:11",
-    "position": "30.16603\u00b0 / 32.56909\u00b0",
+    "position": "30.2709\u00b0 / 32.47694\u00b0",
     "area": "Red Sea",
     "status": "Underway"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/10 04:03",
     "destTime": "2021/12/10 01:03",
-    "position": "40.73115\u00b0 / 29.85552\u00b0",
+    "position": "40.73107\u00b0 / 29.85562\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 05:36",
     "destTime": "2021/12/04 03:36",
-    "position": "37.43503\u00b0 / -9.468978\u00b0",
+    "position": "37.67435\u00b0 / -9.54307\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -303,7 +303,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/10 06:05",
     "destTime": "2021/12/10 04:05",
-    "position": "30.38043\u00b0 / 32.36941\u00b0",
+    "position": "30.51937\u00b0 / 32.34513\u00b0",
     "area": "East Mediterranean",
     "status": "Underway"
   },
@@ -670,33 +670,5 @@
     "position": "31.24904\u00b0 / 121.9756\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
-  },
-  "9391593": {
-    "rowidx": 206,
-    "num": "-33",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "21Q4",
-    "numDept": "0",
-    "mapStatus": "4",
-    "mtsid": "372234",
-    "name": "RCC Europe",
-    "mmsi": "311003100",
-    "length": "199.9",
-    "breadth": "32.26",
-    "grossTonnage": "57,692",
-    "dept": "KR MAS",
-    "deptLong": "Masan",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/12/07 18:06",
-    "deptTime": "2021/12/07 09:06",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/10 04:47",
-    "destTime": "2021/12/09 20:47",
-    "position": "31.32219\u00b0 / 121.6815\u00b0",
-    "area": "East China Sea",
-    "status": "Moored"
   }
 }
