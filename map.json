@@ -51,7 +51,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 22:19",
     "destTime": "2021/12/03 20:19",
-    "position": "37.70246\u00b0 / -9.558555\u00b0",
+    "position": "37.94721\u00b0 / -9.607805\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -107,9 +107,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/10 08:11",
     "destTime": "2021/12/10 06:11",
-    "position": "30.07639\u00b0 / 32.57112\u00b0",
+    "position": "30.16603\u00b0 / 32.56909\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9684990": {
     "rowidx": 12,
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/10 04:03",
     "destTime": "2021/12/10 01:03",
-    "position": "40.73111\u00b0 / 29.85555\u00b0",
+    "position": "40.73115\u00b0 / 29.85552\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 05:36",
     "destTime": "2021/12/04 03:36",
-    "position": "37.19838\u00b0 / -9.40671\u00b0",
+    "position": "37.43503\u00b0 / -9.468978\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -303,8 +303,8 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/10 06:05",
     "destTime": "2021/12/10 04:05",
-    "position": "30.28313\u00b0 / 32.44465\u00b0",
-    "area": "Red Sea",
+    "position": "30.38043\u00b0 / 32.36941\u00b0",
+    "area": "East Mediterranean",
     "status": "Underway"
   },
   "9176395": {
@@ -471,7 +471,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/07 05:49",
     "destTime": "2021/12/06 21:49",
-    "position": "9.10455\u00b0 / 93.49648\u00b0",
+    "position": "10.18193\u00b0 / 90.59165\u00b0",
     "area": "Malacca Strait",
     "status": "Out of Range"
   },
@@ -643,37 +643,9 @@
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
-  "9303168": {
+  "9267687": {
     "rowidx": 205,
     "num": "-32",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "21Q4",
-    "numDept": "0",
-    "mapStatus": "4",
-    "mtsid": "412702",
-    "name": "Dream Beauty",
-    "mmsi": "353642000",
-    "length": "186",
-    "breadth": "28.2",
-    "grossTonnage": "41,662",
-    "dept": "JP THS",
-    "deptLong": "Toyohashi",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/12/05 16:47",
-    "deptTime": "2021/12/05 07:47",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/09 16:04",
-    "destTime": "2021/12/09 08:04",
-    "position": "31.3235\u00b0 / 121.6794\u00b0",
-    "area": "East China Sea",
-    "status": "Moored"
-  },
-  "9267687": {
-    "rowidx": 206,
-    "num": "-33",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
@@ -698,5 +670,33 @@
     "position": "31.24904\u00b0 / 121.9756\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
+  },
+  "9303168": {
+    "rowidx": 206,
+    "num": "-33",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "21Q4",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "412702",
+    "name": "Dream Beauty",
+    "mmsi": "353642000",
+    "length": "186",
+    "breadth": "28.2",
+    "grossTonnage": "41,662",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/12/09 17:04",
+    "deptTime": "2021/12/09 08:04",
+    "dest": "KR PTK",
+    "destLong": "Pyeongtaek",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/12 04:30",
+    "destTime": "2021/12/11 19:30",
+    "position": "31.3241\u00b0 / 121.6803\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
   }
 }
