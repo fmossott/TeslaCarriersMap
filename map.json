@@ -23,7 +23,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/11 04:00",
     "destTime": "2021/12/11 03:00",
-    "position": "41.07425\u00b0 / 17.99455\u00b0",
+    "position": "41.35119\u00b0 / 17.56813\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -51,7 +51,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 22:19",
     "destTime": "2021/12/03 20:19",
-    "position": "41.81219\u00b0 / -9.833901\u00b0",
+    "position": "43.08745\u00b0 / -9.811995\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -153,17 +153,17 @@
     "length": "196.4",
     "breadth": "31.1",
     "grossTonnage": "44,408",
-    "dept": "TR FORD OTOSAN",
-    "deptLong": "Derince",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/12/10 17:20",
-    "deptTime": "2021/12/10 14:20",
+    "dept": "TR IST",
+    "deptLong": "Istanbul",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/12/11 08:19",
+    "deptTime": "2021/12/11 05:19",
     "dest": "UA ILK",
     "destLong": "Chornomorsk",
     "destType": "ETA",
     "destLocalTime": "2021/12/12 18:00",
     "destTime": "2021/12/12 16:00",
-    "position": "40.64512\u00b0 / 28.77523\u00b0",
+    "position": "41.04713\u00b0 / 29.03841\u00b0",
     "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 05:36",
     "destTime": "2021/12/04 03:36",
-    "position": "41.39528\u00b0 / -9.814094\u00b0",
+    "position": "42.75592\u00b0 / -9.777918\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -331,9 +331,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/11 04:54",
     "destTime": "2021/12/11 02:54",
-    "position": "30.143\u00b0 / 32.5695\u00b0",
+    "position": "30.29033\u00b0 / 32.43383\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9427952": {
     "rowidx": 194,
@@ -415,7 +415,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/08 16:46",
     "destTime": "2021/12/08 09:46",
-    "position": "2.02210\u00b0 / 109.26144\u00b0",
+    "position": "3.43660\u00b0 / 110.73228\u00b0",
     "area": "Java Sea",
     "status": "Out of Range"
   },
@@ -496,12 +496,12 @@
     "deptTime": "2021/12/03 14:54",
     "dest": "SG SIN",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/11 11:45",
-    "destTime": "2021/12/11 03:45",
-    "position": "1.206125\u00b0 / 103.8377\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/11 12:35",
+    "destTime": "2021/12/11 04:35",
+    "position": "1.284827\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9722302": {
     "rowidx": 200,
@@ -695,7 +695,7 @@
     "destType": "ATA",
     "destLocalTime": "",
     "destTime": "",
-    "position": "31.32218\u00b0 / 121.6817\u00b0",
+    "position": "31.32219\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
