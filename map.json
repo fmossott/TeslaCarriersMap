@@ -23,7 +23,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/11 04:00",
     "destTime": "2021/12/11 03:00",
-    "position": "44.57968\u00b0 / 13.71327\u00b0",
+    "position": "44.80433\u00b0 / 13.51073\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -79,8 +79,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 19:40",
     "destTime": "2021/12/02 17:40",
-    "position": "49.07175\u00b0 / -4.782367\u00b0",
-    "area": "Celtic Sea",
+    "position": "49.19585\u00b0 / -4.435317\u00b0",
+    "area": "English Channel",
     "status": "Underway using Engine"
   },
   "9210438": {
@@ -133,9 +133,9 @@
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
-    "destLocalTime": "2021/12/12 09:00",
-    "destTime": "2021/12/12 08:00",
-    "position": "50.08101\u00b0 / -1.553795\u00b0",
+    "destLocalTime": "2021/12/12 09:30",
+    "destTime": "2021/12/12 08:30",
+    "position": "50.17739\u00b0 / -0.9447783\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -191,7 +191,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/11 17:02",
     "destTime": "2021/12/11 16:02",
-    "position": "35.86855\u00b0 / -5.5972\u00b0",
+    "position": "35.8685\u00b0 / -5.597267\u00b0",
     "area": "Gibraltar",
     "status": "At Anchor"
   },
@@ -275,8 +275,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 05:36",
     "destTime": "2021/12/04 03:36",
-    "position": "44.23065\u00b0 / -9.206137\u00b0",
-    "area": "UK Coast & Atlantic",
+    "position": "46.81185\u00b0 / -7.725242\u00b0",
+    "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
   "9782091": {
@@ -499,7 +499,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/11 12:35",
     "destTime": "2021/12/11 04:35",
-    "position": "1.284832\u00b0 / 103.7527\u00b0",
+    "position": "1.284845\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -637,11 +637,11 @@
     "dest": "CN XNA",
     "destLong": "Xinsha",
     "destType": "ETA",
-    "destLocalTime": "2021/12/12 05:00",
-    "destTime": "2021/12/11 21:00",
-    "position": "22.01383\u00b0 / 113.8712\u00b0",
+    "destLocalTime": "2021/12/12 06:30",
+    "destTime": "2021/12/11 22:30",
+    "position": "22.1008\u00b0 / 113.8175\u00b0",
     "area": "South China",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9267687": {
     "rowidx": 205,
@@ -695,7 +695,7 @@
     "destType": "ATA",
     "destLocalTime": "",
     "destTime": "",
-    "position": "31.3222\u00b0 / 121.6817\u00b0",
+    "position": "31.32216\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
