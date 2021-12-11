@@ -23,7 +23,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/11 04:00",
     "destTime": "2021/12/11 03:00",
-    "position": "42.84577\u00b0 / 15.54121\u00b0",
+    "position": "43.11032\u00b0 / 15.25649\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -135,8 +135,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/12 09:00",
     "destTime": "2021/12/12 08:00",
-    "position": "49.12144\u00b0 / -4.759267\u00b0",
-    "area": "Celtic Sea",
+    "position": "49.47926\u00b0 / -3.82548\u00b0",
+    "area": "English Channel",
     "status": "Underway using Engine"
   },
   "9279812": {
@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/11 16:00",
     "destTime": "2021/12/11 15:00",
-    "position": "36.05443\u00b0 / -5.011983\u00b0",
+    "position": "35.98615\u00b0 / -5.464883\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -301,10 +301,10 @@
     "dest": "TR DRC",
     "destLong": "Derince",
     "destType": "ETA",
-    "destLocalTime": "2021/12/13 00:00",
-    "destTime": "2021/12/12 21:00",
-    "position": "35.16882\u00b0 / 28.21327\u00b0",
-    "area": "East Mediterranean",
+    "destLocalTime": "2021/12/13 03:00",
+    "destTime": "2021/12/13 00:00",
+    "position": "35.98915\u00b0 / 27.30724\u00b0",
+    "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
   "9176395": {
@@ -499,7 +499,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/11 12:35",
     "destTime": "2021/12/11 04:35",
-    "position": "1.284808\u00b0 / 103.7527\u00b0",
+    "position": "1.284843\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -639,7 +639,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/12 05:00",
     "destTime": "2021/12/11 21:00",
-    "position": "24.66745\u00b0 / 119.4208\u00b0",
+    "position": "21.79229\u00b0 / 114.3783\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -665,11 +665,11 @@
     "dest": "CN TXG",
     "destLong": "Tianjin",
     "destType": "ETA",
-    "destLocalTime": "2021/12/12 11:00",
-    "destTime": "2021/12/12 03:00",
-    "position": "37.25089\u00b0 / 123.56026\u00b0",
+    "destLocalTime": "2021/12/12 09:30",
+    "destTime": "2021/12/12 01:30",
+    "position": "38.55169\u00b0 / 121.0605\u00b0",
     "area": "East China Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9702455": {
     "rowidx": 206,
@@ -695,7 +695,7 @@
     "destType": "ATA",
     "destLocalTime": "",
     "destTime": "",
-    "position": "31.32215\u00b0 / 121.6817\u00b0",
+    "position": "31.32218\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
