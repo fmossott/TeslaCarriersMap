@@ -23,7 +23,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/11 04:00",
     "destTime": "2021/12/11 03:00",
-    "position": "42.31559\u00b0 / 16.17865\u00b0",
+    "position": "42.62378\u00b0 / 15.79725\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -51,7 +51,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 22:19",
     "destTime": "2021/12/03 20:19",
-    "position": "44.26739\u00b0 / -9.088304\u00b0",
+    "position": "44.32584\u00b0 / -9.045237\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -102,14 +102,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/11/23 18:19",
     "deptTime": "2021/11/23 09:19",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
+    "dest": "SI KOP",
+    "destLong": "Koper",
     "destType": "ETA",
-    "destLocalTime": "2021/12/09 23:30",
-    "destTime": "2021/12/09 21:30",
-    "position": "31.97696\u00b0 / 31.46884\u00b0",
+    "destLocalTime": "2021/12/13 16:00",
+    "destTime": "2021/12/13 15:00",
+    "position": "34.00352\u00b0 / 26.1023\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9684990": {
     "rowidx": 12,
@@ -133,10 +133,10 @@
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
-    "destLocalTime": "2021/12/12 14:00",
-    "destTime": "2021/12/12 13:00",
-    "position": "44.15497\u00b0 / -9.039842\u00b0",
-    "area": "UK Coast & Atlantic",
+    "destLocalTime": "2021/12/12 09:00",
+    "destTime": "2021/12/12 08:00",
+    "position": "49.12144\u00b0 / -4.759267\u00b0",
+    "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
   "9279812": {
@@ -191,7 +191,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/11 16:00",
     "destTime": "2021/12/11 15:00",
-    "position": "36.1762\u00b0 / -4.135833\u00b0",
+    "position": "36.1018\u00b0 / -4.66305\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 05:36",
     "destTime": "2021/12/04 03:36",
-    "position": "44.02585\u00b0 / -9.316174\u00b0",
+    "position": "44.23065\u00b0 / -9.206137\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -321,19 +321,19 @@
     "length": "199.98",
     "breadth": "32.26",
     "grossTonnage": "57,757",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/11/21 02:14",
-    "deptTime": "2021/11/20 18:14",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/11 04:54",
-    "destTime": "2021/12/11 02:54",
-    "position": "30.8905\u00b0 / 32.31517\u00b0",
+    "dept": "EG SUZ",
+    "deptLong": "Suez Canal",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/12/11 10:54",
+    "deptTime": "2021/12/11 02:54",
+    "dest": "GR PIR",
+    "destLong": "Piraeus",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/13 09:00",
+    "destTime": "2021/12/13 07:00",
+    "position": "31.14883\u00b0 / 32.32217\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9427952": {
     "rowidx": 194,
@@ -499,7 +499,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/11 12:35",
     "destTime": "2021/12/11 04:35",
-    "position": "1.28485\u00b0 / 103.7526\u00b0",
+    "position": "1.284822\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -695,7 +695,7 @@
     "destType": "ATA",
     "destLocalTime": "",
     "destTime": "",
-    "position": "31.32218\u00b0 / 121.6817\u00b0",
+    "position": "31.32216\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
