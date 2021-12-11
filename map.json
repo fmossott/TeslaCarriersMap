@@ -23,7 +23,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/11 04:00",
     "destTime": "2021/12/11 03:00",
-    "position": "43.31635\u00b0 / 15.01717\u00b0",
+    "position": "43.72803\u00b0 / 14.57209\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -79,7 +79,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 19:40",
     "destTime": "2021/12/02 17:40",
-    "position": "48.03385\u00b0 / -6.181083\u00b0",
+    "position": "48.35818\u00b0 / -5.916033\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -135,7 +135,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/12 09:00",
     "destTime": "2021/12/12 08:00",
-    "position": "49.47926\u00b0 / -3.82548\u00b0",
+    "position": "49.80899\u00b0 / -2.871872\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/12 05:00",
     "destTime": "2021/12/12 03:00",
-    "position": "42.40634\u00b0 / 29.62738\u00b0",
+    "position": "43.84295\u00b0 / 30.20417\u00b0",
     "area": "Black Sea",
     "status": "Underway using Engine"
   },
@@ -186,14 +186,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/09 13:53",
     "deptTime": "2021/12/09 12:53",
-    "dest": "MA PTM",
+    "dest": "MA TANGER MED ANCH",
     "destLong": "Tanger Med",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/11 16:00",
-    "destTime": "2021/12/11 15:00",
-    "position": "35.89132\u00b0 / -5.5668\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/11 17:02",
+    "destTime": "2021/12/11 16:02",
+    "position": "35.86833\u00b0 / -5.596967\u00b0",
     "area": "Gibraltar",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9748289": {
     "rowidx": 189,
@@ -415,7 +415,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/08 16:46",
     "destTime": "2021/12/08 09:46",
-    "position": "3.43660\u00b0 / 110.73228\u00b0",
+    "position": "4.89897\u00b0 / 112.94939\u00b0",
     "area": "Java Sea",
     "status": "Out of Range"
   },
@@ -499,7 +499,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/11 12:35",
     "destTime": "2021/12/11 04:35",
-    "position": "1.284853\u00b0 / 103.7527\u00b0",
+    "position": "1.284875\u00b0 / 103.7526\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -527,7 +527,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/11 20:00",
     "destTime": "2021/12/11 12:00",
-    "position": "5.52000\u00b0 / 107.18000\u00b0",
+    "position": "3.09666\u00b0 / 105.02167\u00b0",
     "area": "South China",
     "status": "Out of Range"
   },
@@ -639,8 +639,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/12 05:00",
     "destTime": "2021/12/11 21:00",
-    "position": "21.79229\u00b0 / 114.3783\u00b0",
-    "area": "East China Sea",
+    "position": "21.73116\u00b0 / 113.9224\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   },
   "9267687": {
@@ -667,8 +667,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/12 09:30",
     "destTime": "2021/12/12 01:30",
-    "position": "38.55169\u00b0 / 121.0605\u00b0",
-    "area": "East China Sea",
+    "position": "38.64854\u00b0 / 120.72\u00b0",
+    "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
   "9702455": {
