@@ -23,7 +23,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/12 04:39",
     "destTime": "2021/12/12 03:39",
-    "position": "45.56705\u00b0 / 13.74415\u00b0",
+    "position": "45.56704\u00b0 / 13.74418\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -51,7 +51,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 22:19",
     "destTime": "2021/12/03 20:19",
-    "position": "50.39537\u00b0 / -1.024093\u00b0",
+    "position": "50.39532\u00b0 / -1.0357\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -79,7 +79,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/02 19:40",
     "destTime": "2021/12/02 17:40",
-    "position": "50.90247\u00b0 / -1.423117\u00b0",
+    "position": "50.90248\u00b0 / -1.423133\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -125,19 +125,19 @@
     "length": "199.9",
     "breadth": "40.8",
     "grossTonnage": "76,420",
-    "dept": "ES SDR",
-    "deptLong": "Santander",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/12/06 18:06",
-    "deptTime": "2021/12/06 17:06",
-    "dest": "BE ZEE",
-    "destLong": "Zeebrugge",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/12 13:40",
-    "destTime": "2021/12/12 12:40",
+    "dept": "BE ZEE",
+    "deptLong": "Zeebrugge",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/12/12 13:40",
+    "deptTime": "2021/12/12 12:40",
+    "dest": "ES SDR",
+    "destLong": "Santander",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/12 22:21",
+    "destTime": "2021/12/12 21:21",
     "position": "51.30377\u00b0 / 3.229803\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9279812": {
     "rowidx": 187,
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/12 06:00",
     "destTime": "2021/12/12 04:00",
-    "position": "46.19293\u00b0 / 30.86976\u00b0",
+    "position": "46.182\u00b0 / 30.83305\u00b0",
     "area": "Black Sea",
     "status": "Underway using Engine"
   },
@@ -191,7 +191,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/12 01:31",
     "destTime": "2021/12/12 00:31",
-    "position": "35.89053\u00b0 / -5.500867\u00b0",
+    "position": "35.89048\u00b0 / -5.500834\u00b0",
     "area": "Gibraltar",
     "status": "Moored"
   },
@@ -247,7 +247,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/12 10:49",
     "destTime": "2021/12/12 09:49",
-    "position": "51.31391\u00b0 / 3.227175\u00b0",
+    "position": "51.31391\u00b0 / 3.227137\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 05:36",
     "destTime": "2021/12/04 03:36",
-    "position": "51.32375\u00b0 / -3.739992\u00b0",
+    "position": "51.34111\u00b0 / -3.51768\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -303,7 +303,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/12 12:31",
     "destTime": "2021/12/12 09:31",
-    "position": "40.72641\u00b0 / 29.39786\u00b0",
+    "position": "40.73775\u00b0 / 29.65777\u00b0",
     "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
@@ -331,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/13 07:00",
     "destTime": "2021/12/13 05:00",
-    "position": "36.33067\u00b0 / 24.73173\u00b0",
+    "position": "36.48017\u00b0 / 24.4985\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -527,7 +527,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/12 12:48",
     "destTime": "2021/12/12 04:48",
-    "position": "1.274025\u00b0 / 103.892\u00b0",
+    "position": "1.273827\u00b0 / 103.8921\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -751,7 +751,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/12 06:58",
     "destTime": "2021/12/11 22:58",
-    "position": "31.32223\u00b0 / 121.6818\u00b0",
+    "position": "31.32224\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
