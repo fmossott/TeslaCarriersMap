@@ -107,7 +107,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/13 16:00",
     "destTime": "2021/12/13 15:00",
-    "position": "38.07409\u00b0 / 20.0904\u00b0",
+    "position": "38.9215\u00b0 / 19.60628\u00b0",
     "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
@@ -118,7 +118,7 @@
     "notes": "",
     "quarter": "21Q4",
     "numDept": "13",
-    "mapStatus": "2",
+    "mapStatus": "3",
     "mtsid": "6701824",
     "name": "Hoegh Tracer",
     "mmsi": "258628000",
@@ -331,8 +331,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/13 07:00",
     "destTime": "2021/12/13 05:00",
-    "position": "35.041\u00b0 / 27.05367\u00b0",
-    "area": "East Mediterranean",
+    "position": "35.3575\u00b0 / 26.56\u00b0",
+    "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
   "9427952": {
@@ -693,9 +693,9 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2021/12/18 12:00",
-    "destTime": "2021/12/18 04:00",
-    "position": "31.29867\u00b0 / 121.7779\u00b0",
+    "destLocalTime": "2021/12/18 06:00",
+    "destTime": "2021/12/17 22:00",
+    "position": "31.22251\u00b0 / 122.1059\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -751,7 +751,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/12 06:58",
     "destTime": "2021/12/11 22:58",
-    "position": "31.32224\u00b0 / 121.6818\u00b0",
+    "position": "31.32223\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
