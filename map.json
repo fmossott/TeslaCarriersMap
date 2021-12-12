@@ -23,7 +23,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/11 04:00",
     "destTime": "2021/12/11 03:00",
-    "position": "45.231\u00b0 / 13.22585\u00b0",
+    "position": "45.42123\u00b0 / 13.2236\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -51,7 +51,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 22:19",
     "destTime": "2021/12/03 20:19",
-    "position": "47.71118\u00b0 / -6.441154\u00b0",
+    "position": "47.96029\u00b0 / -6.267941\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -79,7 +79,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 19:40",
     "destTime": "2021/12/02 17:40",
-    "position": "49.44917\u00b0 / -3.742133\u00b0",
+    "position": "49.57203\u00b0 / -3.442267\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -188,12 +188,12 @@
     "deptTime": "2021/12/09 12:53",
     "dest": "MA PTM",
     "destLong": "Tanger Med",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/11 16:00",
-    "destTime": "2021/12/11 15:00",
-    "position": "35.91412\u00b0 / -5.5267\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/12 01:31",
+    "destTime": "2021/12/12 00:31",
+    "position": "35.89062\u00b0 / -5.500767\u00b0",
     "area": "Gibraltar",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9748289": {
     "rowidx": 189,
@@ -499,9 +499,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/19 19:30",
     "destTime": "2021/12/19 15:30",
-    "position": "1.284825\u00b0 / 103.7527\u00b0",
+    "position": "1.284723\u00b0 / 103.7499\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9722302": {
     "rowidx": 200,
@@ -639,7 +639,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/12 06:30",
     "destTime": "2021/12/11 22:30",
-    "position": "22.46813\u00b0 / 113.754\u00b0",
+    "position": "22.64082\u00b0 / 113.6957\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
