@@ -23,7 +23,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/11 04:00",
     "destTime": "2021/12/11 03:00",
-    "position": "45.42123\u00b0 / 13.2236\u00b0",
+    "position": "45.55056\u00b0 / 13.4667\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -51,7 +51,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 22:19",
     "destTime": "2021/12/03 20:19",
-    "position": "47.96029\u00b0 / -6.267941\u00b0",
+    "position": "48.22083\u00b0 / -6.079203\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -79,7 +79,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 19:40",
     "destTime": "2021/12/02 17:40",
-    "position": "49.57203\u00b0 / -3.442267\u00b0",
+    "position": "49.69763\u00b0 / -3.140667\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -135,7 +135,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/12 09:30",
     "destTime": "2021/12/12 08:30",
-    "position": "50.37564\u00b0 / 0.1067383\u00b0",
+    "position": "50.50021\u00b0 / 0.80732\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/12 06:00",
     "destTime": "2021/12/12 04:00",
-    "position": "45.67573\u00b0 / 30.97001\u00b0",
+    "position": "46.05296\u00b0 / 31.0985\u00b0",
     "area": "Black Sea",
     "status": "Underway using Engine"
   },
@@ -191,7 +191,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/12 01:31",
     "destTime": "2021/12/12 00:31",
-    "position": "35.89062\u00b0 / -5.500767\u00b0",
+    "position": "35.89053\u00b0 / -5.500834\u00b0",
     "area": "Gibraltar",
     "status": "Moored"
   },
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/12 10:00",
     "destTime": "2021/12/12 09:00",
-    "position": "50.3971\u00b0 / 0.6024617\u00b0",
+    "position": "50.55931\u00b0 / 1.166557\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 05:36",
     "destTime": "2021/12/04 03:36",
-    "position": "47.17411\u00b0 / -7.519297\u00b0",
+    "position": "47.73275\u00b0 / -7.192427\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -491,15 +491,15 @@
     "grossTonnage": "75,206",
     "dept": "SG SIN",
     "deptLong": "Singapore",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/12/11 12:35",
-    "deptTime": "2021/12/11 04:35",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/12/12 09:35",
+    "deptTime": "2021/12/12 01:35",
     "dest": "OM SOH",
     "destLong": "Sohar",
     "destType": "ETA",
     "destLocalTime": "2021/12/19 19:30",
     "destTime": "2021/12/19 15:30",
-    "position": "1.284723\u00b0 / 103.7499\u00b0",
+    "position": "1.203082\u00b0 / 103.59\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -522,14 +522,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/06 14:30",
     "deptTime": "2021/12/06 06:30",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2021/12/11 20:00",
-    "destTime": "2021/12/11 12:00",
-    "position": "3.09666\u00b0 / 105.02167\u00b0",
+    "destLocalTime": "2021/12/12 12:00",
+    "destTime": "2021/12/12 04:00",
+    "position": "1.287907\u00b0 / 104.196\u00b0",
     "area": "South China",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9443073": {
     "rowidx": 201,
@@ -555,8 +555,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/26 08:00",
     "destTime": "2021/12/26 14:00",
-    "position": "37.73457\u00b0 / 122.024\u00b0",
-    "area": "Yellow Sea",
+    "position": "31.0014\u00b0 / 129.646\u00b0",
+    "area": "East China Sea",
     "status": "Underway using Engine"
   },
   "9284752": {
@@ -639,7 +639,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/12 06:30",
     "destTime": "2021/12/11 22:30",
-    "position": "22.64082\u00b0 / 113.6957\u00b0",
+    "position": "22.79161\u00b0 / 113.621\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
