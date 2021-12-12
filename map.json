@@ -23,7 +23,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/11 04:00",
     "destTime": "2021/12/11 03:00",
-    "position": "45.00846\u00b0 / 13.33103\u00b0",
+    "position": "45.231\u00b0 / 13.22585\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -51,8 +51,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 22:19",
     "destTime": "2021/12/03 20:19",
-    "position": "47.4472\u00b0 / -6.63329\u00b0",
-    "area": "UK Coast & Atlantic",
+    "position": "47.71118\u00b0 / -6.441154\u00b0",
+    "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
   "9355238": {
@@ -79,7 +79,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 19:40",
     "destTime": "2021/12/02 17:40",
-    "position": "49.32288\u00b0 / -4.094567\u00b0",
+    "position": "49.44917\u00b0 / -3.742133\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -186,14 +186,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/09 13:53",
     "deptTime": "2021/12/09 12:53",
-    "dest": "MA TANGER MED ANCH",
+    "dest": "MA PTM",
     "destLong": "Tanger Med",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/11 17:02",
-    "destTime": "2021/12/11 16:02",
-    "position": "35.86875\u00b0 / -5.596217\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/11 16:00",
+    "destTime": "2021/12/11 15:00",
+    "position": "35.91412\u00b0 / -5.5267\u00b0",
     "area": "Gibraltar",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9748289": {
     "rowidx": 189,
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 05:36",
     "destTime": "2021/12/04 03:36",
-    "position": "47.07614\u00b0 / -7.57387\u00b0",
+    "position": "47.17411\u00b0 / -7.519297\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -499,7 +499,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/19 19:30",
     "destTime": "2021/12/19 15:30",
-    "position": "1.284858\u00b0 / 103.7527\u00b0",
+    "position": "1.284825\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -639,7 +639,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/12 06:30",
     "destTime": "2021/12/11 22:30",
-    "position": "22.26333\u00b0 / 113.8089\u00b0",
+    "position": "22.46813\u00b0 / 113.754\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
