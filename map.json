@@ -331,7 +331,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/13 07:00",
     "destTime": "2021/12/13 05:00",
-    "position": "34.7395\u00b0 / 27.52983\u00b0",
+    "position": "35.041\u00b0 / 27.05367\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -611,9 +611,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/28 20:00",
     "destTime": "2021/12/28 18:00",
-    "position": "21.93593\u00b0 / 119.5855\u00b0",
+    "position": "13.91627\u00b0 / 114.24369\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9889100": {
     "rowidx": 204,
@@ -723,9 +723,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/23 06:00",
     "destTime": "2021/12/22 20:00",
-    "position": "31.32343\u00b0 / 121.6796\u00b0",
+    "position": "31.32215\u00b0 / 121.6902\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9782089": {
     "rowidx": 208,
@@ -751,7 +751,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/12 06:58",
     "destTime": "2021/12/11 22:58",
-    "position": "31.32222\u00b0 / 121.6818\u00b0",
+    "position": "31.32224\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
