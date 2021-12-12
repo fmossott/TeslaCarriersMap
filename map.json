@@ -23,7 +23,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/12 04:39",
     "destTime": "2021/12/12 03:39",
-    "position": "45.56706\u00b0 / 13.74417\u00b0",
+    "position": "45.56704\u00b0 / 13.74416\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -51,7 +51,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 22:19",
     "destTime": "2021/12/03 20:19",
-    "position": "50.44551\u00b0 / -1.18909\u00b0",
+    "position": "50.43519\u00b0 / -1.091343\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -125,19 +125,19 @@
     "length": "199.9",
     "breadth": "40.8",
     "grossTonnage": "76,420",
-    "dept": "ES SDR",
-    "deptLong": "Santander",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/12/06 18:06",
-    "deptTime": "2021/12/06 17:06",
-    "dest": "BE ZEE",
-    "destLong": "Zeebrugge",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/12 13:40",
-    "destTime": "2021/12/12 12:40",
-    "position": "51.30377\u00b0 / 3.229805\u00b0",
+    "dept": "BE ZEE",
+    "deptLong": "Zeebrugge",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/12/12 13:40",
+    "deptTime": "2021/12/12 12:40",
+    "dest": "ES SDR",
+    "destLong": "Santander",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/12 22:21",
+    "destTime": "2021/12/12 21:21",
+    "position": "51.30377\u00b0 / 3.2298\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9279812": {
     "rowidx": 187,
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/12 06:00",
     "destTime": "2021/12/12 04:00",
-    "position": "46.18858\u00b0 / 30.80415\u00b0",
+    "position": "46.25014\u00b0 / 30.78499\u00b0",
     "area": "Black Sea",
     "status": "Underway using Engine"
   },
@@ -191,7 +191,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/12 01:31",
     "destTime": "2021/12/12 00:31",
-    "position": "35.8905\u00b0 / -5.500867\u00b0",
+    "position": "35.89053\u00b0 / -5.500867\u00b0",
     "area": "Gibraltar",
     "status": "Moored"
   },
@@ -247,7 +247,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/12 10:49",
     "destTime": "2021/12/12 09:49",
-    "position": "51.31388\u00b0 / 3.2272\u00b0",
+    "position": "51.31394\u00b0 / 3.227147\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -275,8 +275,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/04 05:36",
     "destTime": "2021/12/04 03:36",
-    "position": "50.79567\u00b0 / -5.099728\u00b0",
-    "area": "Celtic Sea",
+    "position": "51.04526\u00b0 / -4.660227\u00b0",
+    "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
   "9782091": {
@@ -303,7 +303,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/12 12:31",
     "destTime": "2021/12/12 09:31",
-    "position": "40.76224\u00b0 / 28.11983\u00b0",
+    "position": "40.73223\u00b0 / 28.62647\u00b0",
     "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
@@ -443,7 +443,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/21 06:00",
     "destTime": "2021/12/21 04:00",
-    "position": "5.937624\u00b0 / 80.07699\u00b0",
+    "position": "5.983037\u00b0 / 79.93358\u00b0",
     "area": "Laccadive Sea",
     "status": "Underway using Engine"
   },
@@ -527,7 +527,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/12 12:48",
     "destTime": "2021/12/12 04:48",
-    "position": "1.273885\u00b0 / 103.8921\u00b0",
+    "position": "1.27398\u00b0 / 103.8921\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -639,7 +639,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/12 12:08",
     "destTime": "2021/12/12 04:08",
-    "position": "23.01237\u00b0 / 113.5291\u00b0",
+    "position": "23.0124\u00b0 / 113.5291\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -751,7 +751,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/12 06:58",
     "destTime": "2021/12/11 22:58",
-    "position": "31.32222\u00b0 / 121.6817\u00b0",
+    "position": "31.32223\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
