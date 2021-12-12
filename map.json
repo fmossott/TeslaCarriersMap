@@ -20,12 +20,12 @@
     "deptTime": "2021/11/19 16:35",
     "dest": "SI KOP",
     "destLong": "Koper",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/11 04:00",
-    "destTime": "2021/12/11 03:00",
-    "position": "45.56816\u00b0 / 13.675\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/12 04:39",
+    "destTime": "2021/12/12 03:39",
+    "position": "45.56652\u00b0 / 13.7424\u00b0",
     "area": "Adriatic Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9293648": {
     "rowidx": 7,
@@ -51,7 +51,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/03 22:19",
     "destTime": "2021/12/03 20:19",
-    "position": "48.46468\u00b0 / -5.905283\u00b0",
+    "position": "48.66123\u00b0 / -5.742028\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -79,7 +79,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/02 19:40",
     "destTime": "2021/12/02 17:40",
-    "position": "49.81758\u00b0 / -2.829917\u00b0",
+    "position": "49.89333\u00b0 / -2.490783\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -135,7 +135,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/12 09:30",
     "destTime": "2021/12/12 08:30",
-    "position": "50.63171\u00b0 / 1.222048\u00b0",
+    "position": "50.872\u00b0 / 1.472585\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -163,7 +163,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/12 06:00",
     "destTime": "2021/12/12 04:00",
-    "position": "46.26626\u00b0 / 30.96923\u00b0",
+    "position": "46.21135\u00b0 / 30.80932\u00b0",
     "area": "Black Sea",
     "status": "Underway using Engine"
   },
@@ -214,13 +214,13 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/06 23:45",
     "deptTime": "2021/12/06 20:45",
-    "dest": "JP YOK",
-    "destLong": "Yokohama",
+    "dest": "CN STG",
+    "destLong": "Shantou",
     "destType": "ETA",
-    "destLocalTime": "2021/12/22 11:00",
-    "destTime": "2021/12/22 02:00",
-    "position": "12.62127\u00b0 / 69.44127\u00b0",
-    "area": "West Coast India",
+    "destLocalTime": "2021/12/20 15:00",
+    "destTime": "2021/12/20 07:00",
+    "position": "5.718865\u00b0 / 80.51276\u00b0",
+    "area": "Laccadive Sea",
     "status": "Underway using Engine"
   },
   "9138525": {
@@ -247,7 +247,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/12 10:00",
     "destTime": "2021/12/12 09:00",
-    "position": "50.68059\u00b0 / 1.377338\u00b0",
+    "position": "50.85033\u00b0 / 1.485137\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -527,7 +527,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/12 12:00",
     "destTime": "2021/12/12 04:00",
-    "position": "1.270097\u00b0 / 104.057\u00b0",
+    "position": "1.265827\u00b0 / 103.9379\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -629,19 +629,19 @@
     "length": "199.96",
     "breadth": "38",
     "grossTonnage": "72,705",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/12/09 16:15",
-    "deptTime": "2021/12/09 08:15",
+    "dept": "CN MCI",
+    "deptLong": "Mcid",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/12/12 12:08",
+    "deptTime": "2021/12/12 04:08",
     "dest": "CN XNA",
     "destLong": "Xinsha",
     "destType": "ETA",
     "destLocalTime": "2021/12/12 06:30",
     "destTime": "2021/12/11 22:30",
-    "position": "22.93502\u00b0 / 113.549\u00b0",
+    "position": "23.01231\u00b0 / 113.5289\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9267687": {
     "rowidx": 205,
