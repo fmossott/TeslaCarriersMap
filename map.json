@@ -23,7 +23,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/12 04:39",
     "destTime": "2021/12/12 03:39",
-    "position": "45.56704\u00b0 / 13.74413\u00b0",
+    "position": "45.56702\u00b0 / 13.74417\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -51,7 +51,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/03 22:19",
     "destTime": "2021/12/03 20:19",
-    "position": "50.90263\u00b0 / -1.423142\u00b0",
+    "position": "50.90263\u00b0 / -1.423127\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -102,14 +102,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/11/23 18:19",
     "deptTime": "2021/11/23 09:19",
-    "dest": "SI KOP",
+    "dest": "SI KOPER ANCH",
     "destLong": "Koper",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/13 19:30",
-    "destTime": "2021/12/13 18:30",
-    "position": "45.56924\u00b0 / 13.67651\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/13 19:53",
+    "destTime": "2021/12/13 18:53",
+    "position": "45.57028\u00b0 / 13.70515\u00b0",
     "area": "Adriatic Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9684990": {
     "rowidx": 12,
@@ -135,7 +135,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/15 20:00",
     "destTime": "2021/12/15 19:00",
-    "position": "51.33072\u00b0 / 3.219922\u00b0",
+    "position": "51.37179\u00b0 / 3.178218\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -163,7 +163,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/13 06:47",
     "destTime": "2021/12/13 04:47",
-    "position": "46.34497\u00b0 / 30.65367\u00b0",
+    "position": "46.34497\u00b0 / 30.65365\u00b0",
     "area": "Black Sea",
     "status": "Moored"
   },
@@ -219,7 +219,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/04 05:36",
     "destTime": "2021/12/04 03:36",
-    "position": "51.49291\u00b0 / -2.717427\u00b0",
+    "position": "51.49291\u00b0 / -2.717418\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -275,7 +275,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/13 07:00",
     "destTime": "2021/12/13 05:00",
-    "position": "37.87067\u00b0 / 23.5975\u00b0",
+    "position": "37.89833\u00b0 / 23.593\u00b0",
     "area": "Piraeus Area",
     "status": "Underway using Engine"
   },
@@ -387,7 +387,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/07 05:49",
     "destTime": "2021/12/06 21:49",
-    "position": "13.26365\u00b0 / 80.41673\u00b0",
+    "position": "13.26312\u00b0 / 80.41705\u00b0",
     "area": "Malacca Strait",
     "status": "Out of Range"
   },
@@ -527,7 +527,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/12 12:08",
     "destTime": "2021/12/12 04:08",
-    "position": "23.01237\u00b0 / 113.5291\u00b0",
+    "position": "23.01238\u00b0 / 113.5291\u00b0",
     "area": "South China",
     "status": "Moored"
   },
