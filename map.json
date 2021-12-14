@@ -1,6 +1,7 @@
 {
   "9673020": {
     "rowidx": 6,
+    "silence": "TRUE",
     "num": "167",
     "manDept": "SHG",
     "notes": "",
@@ -18,17 +19,18 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/14 03:48",
     "deptTime": "2021/12/14 02:48",
-    "dest": "SI KOPER ANCH",
+    "dest": "SI KOP",
     "destLong": "Koper",
     "destType": "ATA",
-    "destLocalTime": "2021/12/14 04:13",
-    "destTime": "2021/12/14 03:13",
-    "position": "45.57723\u00b0 / 13.70555\u00b0",
+    "destLocalTime": "2021/12/14 14:28",
+    "destTime": "2021/12/14 13:28",
+    "position": "45.55139\u00b0 / 13.73307\u00b0",
     "area": "Adriatic Sea",
-    "status": "At Anchor"
+    "status": "Not Under Command"
   },
   "9293648": {
     "rowidx": 7,
+    "silence": "FALSE",
     "num": "166",
     "manDept": "SHG",
     "notes": "",
@@ -57,6 +59,7 @@
   },
   "9355238": {
     "rowidx": 8,
+    "silence": "FALSE",
     "num": "165",
     "manDept": "SHG",
     "notes": "",
@@ -79,12 +82,13 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 03:38",
     "destTime": "2021/12/14 02:38",
-    "position": "51.30383\u00b0 / 3.229767\u00b0",
+    "position": "51.30385\u00b0 / 3.229717\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
   "9210438": {
     "rowidx": 9,
+    "silence": "TRUE",
     "num": "164",
     "manDept": "SHG",
     "notes": "",
@@ -97,22 +101,23 @@
     "length": "199.98",
     "breadth": "32.27",
     "grossTonnage": "57,772",
-    "dept": "KR MAS",
-    "deptLong": "Masan",
+    "dept": "SI KOP",
+    "deptLong": "Koper",
     "deptType": "ATD",
-    "deptLocalTime": "2021/11/23 18:19",
-    "deptTime": "2021/11/23 09:19",
-    "dest": "SI KOP",
-    "destLong": "Koper",
-    "destType": "ATA",
+    "deptLocalTime": "2021/12/14 13:55",
+    "deptTime": "2021/12/14 12:55",
+    "dest": "GB IMM",
+    "destLong": "Immingham",
+    "destType": "ETA",
     "destLocalTime": "2021/12/14 04:04",
     "destTime": "2021/12/14 03:04",
-    "position": "45.56687\u00b0 / 13.74414\u00b0",
+    "position": "45.61416\u00b0 / 13.62742\u00b0",
     "area": "Adriatic Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9279812": {
     "rowidx": 187,
+    "silence": "FALSE",
     "num": "-14",
     "manDept": "SHG",
     "notes": "",
@@ -125,22 +130,23 @@
     "length": "196.4",
     "breadth": "31.1",
     "grossTonnage": "44,408",
-    "dept": "TR FORD OTOSAN",
-    "deptLong": "Istanbul",
+    "dept": "UA ILK",
+    "deptLong": "Chornomorsk",
     "deptType": "ATD",
-    "deptLocalTime": "2021/12/10 17:20",
-    "deptTime": "2021/12/10 14:20",
-    "dest": "UA ILK",
-    "destLong": "Chornomorsk",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/13 06:47",
-    "destTime": "2021/12/13 04:47",
-    "position": "46.34459\u00b0 / 30.65369\u00b0",
+    "deptLocalTime": "2021/12/14 15:03",
+    "deptTime": "2021/12/14 13:03",
+    "dest": "RO CND",
+    "destLong": "Constanta",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/15 06:00",
+    "destTime": "2021/12/15 04:00",
+    "position": "46.23282\u00b0 / 30.75947\u00b0",
     "area": "Black Sea",
-    "status": "Moored"
+    "status": "Underway"
   },
   "9409481": {
     "rowidx": 188,
+    "silence": "FALSE",
     "num": "-15",
     "manDept": "SHG",
     "notes": "",
@@ -169,6 +175,7 @@
   },
   "9176565": {
     "rowidx": 189,
+    "silence": "FALSE",
     "num": "-16",
     "manDept": "SHG",
     "notes": "",
@@ -191,12 +198,13 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/04 05:36",
     "destTime": "2021/12/04 03:36",
-    "position": "51.4929\u00b0 / -2.71741\u00b0",
+    "position": "51.49291\u00b0 / -2.71742\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
   "9782091": {
     "rowidx": 190,
+    "silence": "FALSE",
     "num": "-17",
     "manDept": "SHG",
     "notes": "",
@@ -219,12 +227,13 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/14 16:00",
     "destTime": "2021/12/14 14:00",
-    "position": "37.71426\u00b0 / 23.72647\u00b0",
-    "area": "Aegean Sea",
+    "position": "37.85349\u00b0 / 23.63574\u00b0",
+    "area": "Piraeus Area",
     "status": "Underway using Engine"
   },
   "9176395": {
     "rowidx": 191,
+    "silence": "FALSE",
     "num": "-18",
     "manDept": "SHG",
     "notes": "",
@@ -253,6 +262,7 @@
   },
   "9427952": {
     "rowidx": 192,
+    "silence": "FALSE",
     "num": "-19",
     "manDept": "SHG",
     "notes": "",
@@ -275,12 +285,13 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 13:46",
     "destTime": "2021/12/14 11:46",
-    "position": "29.53153\u00b0 / 34.94186\u00b0",
+    "position": "29.53151\u00b0 / 34.94186\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
   "9483786": {
     "rowidx": 193,
+    "silence": "FALSE",
     "num": "-20",
     "manDept": "SHG",
     "notes": "",
@@ -309,6 +320,7 @@
   },
   "9122655": {
     "rowidx": 194,
+    "silence": "FALSE",
     "num": "-21",
     "manDept": "SHG",
     "notes": "",
@@ -337,6 +349,7 @@
   },
   "9536959": {
     "rowidx": 195,
+    "silence": "FALSE",
     "num": "-22",
     "manDept": "SHG",
     "notes": "",
@@ -365,6 +378,7 @@
   },
   "9712644": {
     "rowidx": 196,
+    "silence": "FALSE",
     "num": "-23",
     "manDept": "SHG",
     "notes": "",
@@ -393,6 +407,7 @@
   },
   "9722302": {
     "rowidx": 197,
+    "silence": "FALSE",
     "num": "-24",
     "manDept": "SHG",
     "notes": "",
@@ -421,6 +436,7 @@
   },
   "9284752": {
     "rowidx": 198,
+    "silence": "FALSE",
     "num": "-25",
     "manDept": "SHG",
     "notes": "",
@@ -443,12 +459,13 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 14:43",
     "destTime": "2021/12/14 06:43",
-    "position": "1.284983\u00b0 / 103.7526\u00b0",
+    "position": "1.28495\u00b0 / 103.7526\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
   "9624029": {
     "rowidx": 199,
+    "silence": "FALSE",
     "num": "-26",
     "manDept": "SHG",
     "notes": "",
@@ -477,6 +494,7 @@
   },
   "9889100": {
     "rowidx": 200,
+    "silence": "FALSE",
     "num": "-27",
     "manDept": "SHG",
     "notes": "",
@@ -505,6 +523,7 @@
   },
   "9267687": {
     "rowidx": 201,
+    "silence": "FALSE",
     "num": "-28",
     "manDept": "SHG",
     "notes": "",
@@ -533,6 +552,7 @@
   },
   "9702455": {
     "rowidx": 202,
+    "silence": "FALSE",
     "num": "-29",
     "manDept": "SHG",
     "notes": "",
@@ -561,6 +581,7 @@
   },
   "9782089": {
     "rowidx": 203,
+    "silence": "FALSE",
     "num": "-30",
     "manDept": "SHG",
     "notes": "",
@@ -583,12 +604,13 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/18 20:00",
     "destTime": "2021/12/18 12:00",
-    "position": "28.52143\u00b0 / 123.38869\u00b0",
-    "area": "East China Sea",
-    "status": "Out of Range"
+    "position": "22.72887\u00b0 / 121.7138\u00b0",
+    "area": "South China",
+    "status": "Underway using Engine"
   },
   "9784049": {
     "rowidx": 204,
+    "silence": "FALSE",
     "num": "-31",
     "manDept": "SHG",
     "notes": "",
@@ -611,12 +633,13 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/12 20:27",
     "destTime": "2021/12/12 12:27",
-    "position": "31.28275\u00b0 / 121.8218\u00b0",
+    "position": "34.10378\u00b0 / 123.04023\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9310109": {
     "rowidx": 205,
+    "silence": "FALSE",
     "num": "-32",
     "manDept": "SHG",
     "notes": "",
@@ -645,6 +668,7 @@
   },
   "9451898": {
     "rowidx": 206,
+    "silence": "FALSE",
     "num": "-33",
     "manDept": "SHG",
     "notes": "",
@@ -667,12 +691,13 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 09:58",
     "destTime": "2021/12/14 01:58",
-    "position": "31.32211\u00b0 / 121.6814\u00b0",
+    "position": "31.32212\u00b0 / 121.6814\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
   "9138513": {
     "rowidx": 207,
+    "silence": "FALSE",
     "num": "-34",
     "manDept": "SHG",
     "notes": "",
@@ -695,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 10:15",
     "destTime": "2021/12/14 02:15",
-    "position": "31.32363\u00b0 / 121.6793\u00b0",
+    "position": "31.32362\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
