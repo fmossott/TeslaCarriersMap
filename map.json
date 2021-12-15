@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 14:28",
     "destTime": "2021/12/14 13:28",
-    "position": "45.55131\u00b0 / 13.73602\u00b0",
+    "position": "45.55129\u00b0 / 13.73602\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/15 02:35",
     "destTime": "2021/12/15 01:35",
-    "position": "51.29674\u00b0 / 3.24145\u00b0",
+    "position": "51.29673\u00b0 / 3.241427\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 03:38",
     "destTime": "2021/12/14 02:38",
-    "position": "51.29902\u00b0 / 3.239383\u00b0",
+    "position": "51.29903\u00b0 / 3.239433\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/14 04:04",
     "destTime": "2021/12/14 03:04",
-    "position": "41.52193\u00b0 / 17.09854\u00b0",
+    "position": "41.30558\u00b0 / 17.38917\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/15 05:41",
     "destTime": "2021/12/15 03:41",
-    "position": "44.10181\u00b0 / 28.65876\u00b0",
+    "position": "44.1018\u00b0 / 28.65883\u00b0",
     "area": "Black Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/16 07:00",
     "destTime": "2021/12/16 06:00",
-    "position": "46.1064\u00b0 / -7.6631\u00b0",
+    "position": "46.93165\u00b0 / -6.996617\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -224,12 +224,12 @@
     "deptTime": "2021/12/13 10:53",
     "dest": "GR PIR",
     "destLong": "Piraeus",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/15 09:00",
-    "destTime": "2021/12/15 07:00",
-    "position": "37.91885\u00b0 / 23.58782\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/15 09:29",
+    "destTime": "2021/12/15 07:29",
+    "position": "37.95899\u00b0 / 23.60547\u00b0",
     "area": "Piraeus Area",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9176395": {
     "rowidx": 191,
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 14:43",
     "destTime": "2021/12/14 06:43",
-    "position": "2.2261\u00b0 / 101.9209\u00b0",
+    "position": "2.377883\u00b0 / 101.7404\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -691,11 +691,11 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 09:58",
     "destTime": "2021/12/14 01:58",
-    "position": "31.32212\u00b0 / 121.6815\u00b0",
+    "position": "31.32214\u00b0 / 121.6815\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
-  "9138513": {
+  "9383106": {
     "rowidx": 207,
     "silence": "FALSE",
     "num": "-34",
@@ -704,24 +704,24 @@
     "quarter": "21Q4",
     "numDept": "0",
     "mapStatus": "4",
-    "mtsid": "732848",
-    "name": "Don Pasquale",
-    "mmsi": "566654000",
-    "length": "227.9",
-    "breadth": "32.29",
-    "grossTonnage": "67,141",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
+    "mtsid": "458972",
+    "name": "Morning Linda",
+    "mmsi": "370567000",
+    "length": "232.37",
+    "breadth": "32.3",
+    "grossTonnage": "68,701",
+    "dept": "HK HKG",
+    "deptLong": "Hong Kong",
     "deptType": "ATD",
-    "deptLocalTime": "2021/12/15 09:51",
-    "deptTime": "2021/12/15 01:51",
-    "dest": "CL SAI",
-    "destLong": "San Antonio",
-    "destType": "ETA",
-    "destLocalTime": "2022/01/11 04:30",
-    "destTime": "2022/01/11 07:30",
-    "position": "31.27281\u00b0 / 121.8469\u00b0",
+    "deptLocalTime": "2021/12/08 19:47",
+    "deptTime": "2021/12/08 11:47",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/15 10:52",
+    "destTime": "2021/12/15 02:52",
+    "position": "31.32351\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   }
 }
