@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 14:28",
     "destTime": "2021/12/14 13:28",
-    "position": "45.55134\u00b0 / 13.736\u00b0",
+    "position": "45.55131\u00b0 / 13.73604\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 03:38",
     "destTime": "2021/12/14 02:38",
-    "position": "51.299\u00b0 / 3.239367\u00b0",
+    "position": "51.29905\u00b0 / 3.239283\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/14 04:04",
     "destTime": "2021/12/14 03:04",
-    "position": "40.20337\u00b0 / 18.62807\u00b0",
+    "position": "39.96389\u00b0 / 18.63246\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/19 06:00",
     "destTime": "2021/12/19 03:00",
-    "position": "44.10184\u00b0 / 28.6588\u00b0",
+    "position": "44.10184\u00b0 / 28.65881\u00b0",
     "area": "Black Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/16 07:00",
     "destTime": "2021/12/16 06:00",
-    "position": "47.94523\u00b0 / -6.245367\u00b0",
+    "position": "48.51657\u00b0 / -5.771283\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/16 17:15",
     "destTime": "2021/12/16 16:15",
-    "position": "50.51334\u00b0 / -5.677886\u00b0",
+    "position": "49.86039\u00b0 / -5.763408\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/15 09:29",
     "destTime": "2021/12/15 07:29",
-    "position": "37.95901\u00b0 / 23.60541\u00b0",
+    "position": "37.959\u00b0 / 23.60541\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -280,11 +280,11 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/15 00:20",
     "deptTime": "2021/12/14 22:20",
-    "dest": "JO AQJ",
+    "dest": "JO AQABA INDUSTRIAL",
     "destLong": "Aqaba",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/15 06:00",
-    "destTime": "2021/12/15 04:00",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/15 07:05",
+    "destTime": "2021/12/15 05:05",
     "position": "29.36731\u00b0 / 34.94071\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/15 10:52",
     "destTime": "2021/12/15 02:52",
-    "position": "31.32351\u00b0 / 121.6793\u00b0",
+    "position": "31.32349\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
