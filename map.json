@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/20 22:00",
     "destTime": "2021/12/20 20:00",
-    "position": "45.55131\u00b0 / 13.73603\u00b0",
+    "position": "45.55133\u00b0 / 13.736\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/15 02:35",
     "destTime": "2021/12/15 01:35",
-    "position": "51.29673\u00b0 / 3.241455\u00b0",
+    "position": "51.29676\u00b0 / 3.241453\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 03:38",
     "destTime": "2021/12/14 02:38",
-    "position": "51.299\u00b0 / 3.239367\u00b0",
+    "position": "51.29902\u00b0 / 3.239367\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/14 04:04",
     "destTime": "2021/12/14 03:04",
-    "position": "36.45104\u00b0 / 14.42592\u00b0",
+    "position": "36.49287\u00b0 / 14.08606\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/19 06:00",
     "destTime": "2021/12/19 03:00",
-    "position": "44.10183\u00b0 / 28.65882\u00b0",
+    "position": "44.10181\u00b0 / 28.65881\u00b0",
     "area": "Black Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/16 07:00",
     "destTime": "2021/12/16 06:00",
-    "position": "49.62902\u00b0 / -0.4624167\u00b0",
+    "position": "49.5939\u00b0 / -0.3460833\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/16 17:15",
     "destTime": "2021/12/16 16:15",
-    "position": "50.31753\u00b0 / 0.08028334\u00b0",
+    "position": "50.43552\u00b0 / 0.7219766\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/15 09:29",
     "destTime": "2021/12/15 07:29",
-    "position": "37.95898\u00b0 / 23.60539\u00b0",
+    "position": "37.959\u00b0 / 23.60541\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/13 23:32",
     "destTime": "2021/12/13 21:32",
-    "position": "36.00667\u00b0 / 22.74417\u00b0",
+    "position": "36.00033\u00b0 / 22.51817\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 14:43",
     "destTime": "2021/12/14 06:43",
-    "position": "5.5892\u00b0 / 97.5745\u00b0",
+    "position": "5.654167\u00b0 / 97.38968\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -710,17 +710,17 @@
     "length": "232.37",
     "breadth": "32.3",
     "grossTonnage": "68,701",
-    "dept": "HK HKG",
-    "deptLong": "Hong Kong",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2021/12/08 19:47",
-    "deptTime": "2021/12/08 11:47",
+    "deptLocalTime": "2021/12/16 13:48",
+    "deptTime": "2021/12/16 05:48",
     "dest": "CN SHG",
     "destLong": "Shanghai",
     "destType": "ATA",
     "destLocalTime": "2021/12/15 10:52",
     "destTime": "2021/12/15 02:52",
-    "position": "31.3246\u00b0 / 121.6842\u00b0",
+    "position": "31.26856\u00b0 / 121.8599\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
