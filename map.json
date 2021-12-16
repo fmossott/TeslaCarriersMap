@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/20 22:00",
     "destTime": "2021/12/20 20:00",
-    "position": "45.55133\u00b0 / 13.736\u00b0",
+    "position": "45.55129\u00b0 / 13.73602\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/15 02:35",
     "destTime": "2021/12/15 01:35",
-    "position": "51.29676\u00b0 / 3.241453\u00b0",
+    "position": "51.29674\u00b0 / 3.241438\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 03:38",
     "destTime": "2021/12/14 02:38",
-    "position": "51.29902\u00b0 / 3.239367\u00b0",
+    "position": "51.299\u00b0 / 3.2394\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/16 07:00",
     "destTime": "2021/12/16 06:00",
-    "position": "49.5939\u00b0 / -0.3460833\u00b0",
+    "position": "49.52135\u00b0 / -0.09583333\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/15 09:29",
     "destTime": "2021/12/15 07:29",
-    "position": "37.959\u00b0 / 23.60541\u00b0",
+    "position": "37.95897\u00b0 / 23.60541\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -666,39 +666,10 @@
     "area": "South China",
     "status": "Underway using Engine"
   },
-  "9451898": {
+  "9383106": {
     "rowidx": 206,
     "silence": "FALSE",
     "num": "-33",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "21Q4",
-    "numDept": "0",
-    "mapStatus": "4",
-    "mtsid": "714338",
-    "name": "Glovis Cougar",
-    "mmsi": "441302000",
-    "length": "199.1",
-    "breadth": "32.26",
-    "grossTonnage": "60,404",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/12/15 19:16",
-    "deptTime": "2021/12/15 11:16",
-    "dest": "KR KAN",
-    "destLong": "Gwangyang",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/17 05:00",
-    "destTime": "2021/12/16 20:00",
-    "position": "31.26907\u00b0 / 121.859\u00b0",
-    "area": "East China Sea",
-    "status": "Underway using Engine"
-  },
-  "9383106": {
-    "rowidx": 207,
-    "silence": "FALSE",
-    "num": "-34",
     "manDept": "SHG",
     "notes": "",
     "quarter": "21Q4",
@@ -720,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/15 10:52",
     "destTime": "2021/12/15 02:52",
-    "position": "31.26856\u00b0 / 121.8599\u00b0",
+    "position": "31.23769\u00b0 / 122.0437\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
