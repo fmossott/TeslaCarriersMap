@@ -55,7 +55,9 @@ class Map {
     this.featureGroupWatchList.clearLayers();
 
     for (const [sid, ship] of Object.entries(ships)) {
-      var fg = (ship.mapStatus < 4 && ship.silence.toLowerCase()!='true') ? this.featureGroupConfirmedShips : this.featureGroupWatchList;
+      if (ship.silence.toLowerCase() == 'true')
+        ship.mapStatus = 4;
+      var fg = ship.mapStatus < 4 ? this.featureGroupConfirmedShips : this.featureGroupWatchList;
       this.addShip(sid, ship, fg, -1);
       this.addShip(sid, ship, fg, 0);
       this.addShip(sid, ship, fg, 1);
