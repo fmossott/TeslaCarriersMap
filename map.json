@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/20 22:00",
     "destTime": "2021/12/20 20:00",
-    "position": "45.55128\u00b0 / 13.73606\u00b0",
+    "position": "45.55132\u00b0 / 13.73598\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/15 02:35",
     "destTime": "2021/12/15 01:35",
-    "position": "51.29673\u00b0 / 3.24145\u00b0",
+    "position": "51.29674\u00b0 / 3.24145\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 03:38",
     "destTime": "2021/12/14 02:38",
-    "position": "51.299\u00b0 / 3.239383\u00b0",
+    "position": "51.29902\u00b0 / 3.2394\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/14 04:04",
     "destTime": "2021/12/14 03:04",
-    "position": "37.05114\u00b0 / 12.22884\u00b0",
+    "position": "37.25472\u00b0 / 11.71131\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/19 06:00",
     "destTime": "2021/12/19 03:00",
-    "position": "44.10183\u00b0 / 28.6588\u00b0",
+    "position": "44.10174\u00b0 / 28.65877\u00b0",
     "area": "Black Sea",
     "status": "Moored"
   },
@@ -169,9 +169,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/16 09:18",
     "destTime": "2021/12/16 08:18",
-    "position": "49.4713\u00b0 / 0.1675667\u00b0",
+    "position": "49.47127\u00b0 / 0.1675667\u00b0",
     "area": "English Channel",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9176565": {
     "rowidx": 189,
@@ -198,8 +198,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/16 17:15",
     "destTime": "2021/12/16 16:15",
-    "position": "51.32301\u00b0 / 2.322232\u00b0",
-    "area": "English Channel",
+    "position": "51.42578\u00b0 / 2.590322\u00b0",
+    "area": "North Sea",
     "status": "Underway using Engine"
   },
   "9782091": {
@@ -219,17 +219,17 @@
     "grossTonnage": "72,684",
     "dept": "GR PIR",
     "deptLong": "Piraeus",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/12/15 10:29",
-    "deptTime": "2021/12/15 07:29",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/12/16 14:44",
+    "deptTime": "2021/12/16 12:44",
     "dest": "IT LIV",
     "destLong": "Livorno",
     "destType": "ETA",
     "destLocalTime": "2021/12/21 06:00",
     "destTime": "2021/12/21 05:00",
-    "position": "37.95898\u00b0 / 23.60539\u00b0",
+    "position": "37.86625\u00b0 / 23.61907\u00b0",
     "area": "Piraeus Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9176395": {
     "rowidx": 191,
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/16 23:00",
     "destTime": "2021/12/16 21:00",
-    "position": "29.19325\u00b0 / 32.7799\u00b0",
+    "position": "29.44855\u00b0 / 32.65127\u00b0",
     "area": "Red Sea",
     "status": "Underway"
   },
@@ -362,14 +362,14 @@
     "length": "199.91",
     "breadth": "32.26",
     "grossTonnage": "58,997",
-    "dept": "IN ENR",
-    "deptLong": "Ennore",
+    "dept": "LK HBA",
+    "deptLong": "Hambantota",
     "deptType": "ATD",
     "deptLocalTime": "2021/12/08 02:50",
     "deptTime": "2021/12/07 18:50",
     "dest": "LK HBA",
     "destLong": "Hambantota",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2021/12/07 05:49",
     "destTime": "2021/12/06 21:49",
     "position": "6.04395\u00b0 / 81.37532\u00b0",
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 14:43",
     "destTime": "2021/12/14 06:43",
-    "position": "6.0877\u00b0 / 96.02966\u00b0",
+    "position": "6.20955\u00b0 / 95.64572\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
