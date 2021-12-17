@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/15 02:35",
     "destTime": "2021/12/15 01:35",
-    "position": "51.3088\u00b0 / 3.225443\u00b0",
+    "position": "51.3088\u00b0 / 3.225447\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/19 06:00",
     "destTime": "2021/12/19 03:00",
-    "position": "44.10181\u00b0 / 28.65884\u00b0",
+    "position": "44.10181\u00b0 / 28.65879\u00b0",
     "area": "Black Sea",
     "status": "Moored"
   },
@@ -101,19 +101,19 @@
     "length": "199.95",
     "breadth": "32.2",
     "grossTonnage": "58,685",
-    "dept": "FR LEH",
+    "dept": "NL ROTTERDAM ANCH",
     "deptLong": "Le Havre",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/12/16 15:49",
-    "deptTime": "2021/12/16 14:49",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/12/17 03:22",
+    "deptTime": "2021/12/17 02:22",
     "dest": "NL RTM",
     "destLong": "Rotterdam",
     "destType": "ETA",
     "destLocalTime": "2021/12/17 03:00",
     "destTime": "2021/12/17 02:00",
-    "position": "51.89935\u00b0 / 3.373083\u00b0",
+    "position": "51.8742\u00b0 / 3.472\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9176565": {
     "rowidx": 189,
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/16 14:14",
     "destTime": "2021/12/16 13:14",
-    "position": "51.42939\u00b0 / 2.58931\u00b0",
+    "position": "51.42937\u00b0 / 2.588635\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/21 12:00",
     "destTime": "2021/12/21 11:00",
-    "position": "29.85756\u00b0 / 32.5605\u00b0",
+    "position": "29.8581\u00b0 / 32.56042\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
