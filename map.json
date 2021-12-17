@@ -1,4 +1,33 @@
 {
+  "9293648": {
+    "rowidx": 7,
+    "silence": "FALSE",
+    "num": "166",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "21Q4",
+    "numDept": "18",
+    "mapStatus": "3",
+    "mtsid": "409092",
+    "name": "Paradise Ace",
+    "mmsi": "352142000",
+    "length": "199.99",
+    "breadth": "32.26",
+    "grossTonnage": "60,175",
+    "dept": "BE ZEE",
+    "deptLong": "Zeebrugge",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/12/17 08:00",
+    "deptTime": "2021/12/17 07:00",
+    "dest": "NO OSL",
+    "destLong": "Oslo",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/18 20:00",
+    "destTime": "2021/12/18 19:00",
+    "position": "52.97377\u00b0 / 4.320222\u00b0",
+    "area": "North Sea",
+    "status": "Underway using Engine"
+  },
   "9279812": {
     "rowidx": 187,
     "silence": "FALSE",
@@ -111,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/19 04:00",
     "destTime": "2021/12/19 03:00",
-    "position": "36.78115\u00b0 / 20.4922\u00b0",
+    "position": "37.54708\u00b0 / 17.14463\u00b0",
     "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
@@ -633,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/17 12:18",
     "destTime": "2021/12/17 04:18",
-    "position": "31.32344\u00b0 / 121.6795\u00b0",
+    "position": "31.32343\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
