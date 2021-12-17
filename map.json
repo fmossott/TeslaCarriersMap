@@ -24,9 +24,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/18 20:00",
     "destTime": "2021/12/18 19:00",
-    "position": "51.32243\u00b0 / 3.223153\u00b0",
+    "position": "51.33438\u00b0 / 3.216773\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9210438": {
     "rowidx": 9,
@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/19 06:00",
     "destTime": "2021/12/19 03:00",
-    "position": "44.10181\u00b0 / 28.65881\u00b0",
+    "position": "44.10182\u00b0 / 28.65878\u00b0",
     "area": "Black Sea",
     "status": "Moored"
   },
@@ -106,13 +106,13 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/16 15:49",
     "deptTime": "2021/12/16 14:49",
-    "dest": "NL ROTTERDAM ANCH",
+    "dest": "NL RTM",
     "destLong": "Rotterdam",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/17 03:22",
-    "destTime": "2021/12/17 02:22",
-    "position": "51.97133\u00b0 / 3.712583\u00b0",
-    "area": "North Sea",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/17 07:00",
+    "destTime": "2021/12/17 06:00",
+    "position": "51.99854\u00b0 / 3.9821\u00b0",
+    "area": "Rotterdam Area",
     "status": "Underway using Engine"
   },
   "9176565": {
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/16 14:14",
     "destTime": "2021/12/16 13:14",
-    "position": "51.42793\u00b0 / 2.588625\u00b0",
+    "position": "51.42759\u00b0 / 2.588542\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -198,8 +198,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/13 23:32",
     "destTime": "2021/12/13 21:32",
-    "position": "36.17628\u00b0 / 15.00361\u00b0",
-    "area": "Ionian Sea",
+    "position": "36.22017\u00b0 / 14.68383\u00b0",
+    "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
   "9427952": {
