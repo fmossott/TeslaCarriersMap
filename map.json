@@ -16,17 +16,17 @@
     "grossTonnage": "60,175",
     "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/12/13 19:32",
-    "deptTime": "2021/12/13 11:32",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/12/17 08:00",
+    "deptTime": "2021/12/17 07:00",
     "dest": "NO OSL",
     "destLong": "Oslo",
     "destType": "ETA",
     "destLocalTime": "2021/12/18 20:00",
     "destTime": "2021/12/18 19:00",
-    "position": "51.33438\u00b0 / 3.216773\u00b0",
+    "position": "51.38509\u00b0 / 2.961862\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9210438": {
     "rowidx": 9,
@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/19 06:00",
     "destTime": "2021/12/19 03:00",
-    "position": "44.10182\u00b0 / 28.65878\u00b0",
+    "position": "44.10184\u00b0 / 28.6588\u00b0",
     "area": "Black Sea",
     "status": "Moored"
   },
@@ -108,10 +108,10 @@
     "deptTime": "2021/12/16 14:49",
     "dest": "NL RTM",
     "destLong": "Rotterdam",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/17 07:00",
-    "destTime": "2021/12/17 06:00",
-    "position": "51.99854\u00b0 / 3.9821\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/17 08:13",
+    "destTime": "2021/12/17 07:13",
+    "position": "51.94007\u00b0 / 4.177233\u00b0",
     "area": "Rotterdam Area",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/16 14:14",
     "destTime": "2021/12/16 13:14",
-    "position": "51.42759\u00b0 / 2.588542\u00b0",
+    "position": "51.42756\u00b0 / 2.588297\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/13 23:32",
     "destTime": "2021/12/13 21:32",
-    "position": "36.22017\u00b0 / 14.68383\u00b0",
+    "position": "36.33067\u00b0 / 14.3875\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/07 05:49",
     "destTime": "2021/12/06 21:49",
-    "position": "4.06855\u00b0 / 80.42895\u00b0",
+    "position": "0.55331\u00b0 / 79.11478\u00b0",
     "area": "Bengal Bay",
     "status": "Out of Range"
   },
@@ -633,8 +633,8 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/15 10:52",
     "destTime": "2021/12/15 02:52",
-    "position": "31.23769\u00b0 / 122.0437\u00b0",
+    "position": "34.23166\u00b0 / 124.68333\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   }
 }
