@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/18 20:00",
     "destTime": "2021/12/18 19:00",
-    "position": "52.97377\u00b0 / 4.320222\u00b0",
+    "position": "53.59786\u00b0 / 4.838047\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -53,9 +53,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/19 06:00",
     "destTime": "2021/12/19 03:00",
-    "position": "44.1018\u00b0 / 28.65883\u00b0",
+    "position": "44.10379\u00b0 / 28.68205\u00b0",
     "area": "Black Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9409481": {
     "rowidx": 188,
@@ -72,19 +72,19 @@
     "length": "199.95",
     "breadth": "32.2",
     "grossTonnage": "58,685",
-    "dept": "NL RTM",
-    "deptLong": "Rotterdam",
+    "dept": "NL ROZ",
+    "deptLong": "Rozenburg",
     "deptType": "ATD",
-    "deptLocalTime": "2021/12/17 09:29",
-    "deptTime": "2021/12/17 08:29",
-    "dest": "NL ROZ",
-    "destLong": "Rozenburg",
+    "deptLocalTime": "2021/12/17 18:40",
+    "deptTime": "2021/12/17 17:40",
+    "dest": "NL RTM",
+    "destLong": "Rotterdam",
     "destType": "ATA",
-    "destLocalTime": "2021/12/17 09:31",
-    "destTime": "2021/12/17 08:31",
-    "position": "51.89465\u00b0 / 4.24725\u00b0",
+    "destLocalTime": "2021/12/17 18:41",
+    "destTime": "2021/12/17 17:41",
+    "position": "51.94143\u00b0 / 4.176133\u00b0",
     "area": "Rotterdam Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9176565": {
     "rowidx": 189,
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/16 14:14",
     "destTime": "2021/12/16 13:14",
-    "position": "51.42707\u00b0 / 2.586923\u00b0",
+    "position": "51.42762\u00b0 / 2.585782\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/13 23:32",
     "destTime": "2021/12/13 21:32",
-    "position": "37.2785\u00b0 / 11.58055\u00b0",
+    "position": "37.42216\u00b0 / 11.323\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/16 21:40",
     "destTime": "2021/12/16 13:40",
-    "position": "31.3221\u00b0 / 121.6819\u00b0",
+    "position": "31.32211\u00b0 / 121.6819\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/17 12:18",
     "destTime": "2021/12/17 04:18",
-    "position": "31.32343\u00b0 / 121.6795\u00b0",
+    "position": "31.32345\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
