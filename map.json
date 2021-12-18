@@ -200,7 +200,7 @@
     "destTime": "2021/12/30 08:00",
     "position": "21.28895\u00b0 / 38.32439\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9483786": {
     "rowidx": 193,
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/18 21:58",
     "destTime": "2021/12/18 13:58",
-    "position": "1.293637\u00b0 / 103.9968\u00b0",
+    "position": "1.293513\u00b0 / 103.9969\u00b0",
     "area": "Singapore Area",
     "status": "Stopped"
   },
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/18 12:44",
     "destTime": "2021/12/18 04:44",
-    "position": "31.32356\u00b0 / 121.6794\u00b0",
+    "position": "31.32353\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -594,17 +594,17 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "60,975",
-    "dept": "KR MOK",
-    "deptLong": "Mokpo",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2021/12/10 20:39",
-    "deptTime": "2021/12/10 11:39",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
+    "deptLocalTime": "2021/12/19 00:10",
+    "deptTime": "2021/12/18 16:10",
+    "dest": "US TIW",
+    "destLong": "Tacoma",
+    "destType": "ETA",
     "destLocalTime": "2021/12/18 13:01",
     "destTime": "2021/12/18 05:01",
-    "position": "31.32265\u00b0 / 121.6854\u00b0",
+    "position": "31.27018\u00b0 / 121.8547\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
