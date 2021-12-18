@@ -43,17 +43,17 @@
     "length": "196.4",
     "breadth": "31.1",
     "grossTonnage": "44,408",
-    "dept": "TR IST",
-    "deptLong": "Istanbul",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/12/18 19:53",
-    "deptTime": "2021/12/18 17:53",
+    "dept": "RO CND",
+    "deptLong": "Constanta",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/12/17 20:23",
+    "deptTime": "2021/12/17 18:23",
     "dest": "TR YAR",
     "destLong": "Yarimca",
     "destType": "ETA",
     "destLocalTime": "2021/12/19 06:00",
     "destTime": "2021/12/19 03:00",
-    "position": "40.99998\u00b0 / 28.99244\u00b0",
+    "position": "40.80753\u00b0 / 29.03842\u00b0",
     "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/19 04:00",
     "destTime": "2021/12/19 03:00",
-    "position": "41.89096\u00b0 / 10.64354\u00b0",
+    "position": "42.02452\u00b0 / 10.42117\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -517,9 +517,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/18 21:58",
     "destTime": "2021/12/18 13:58",
-    "position": "1.293155\u00b0 / 103.9969\u00b0",
+    "position": "1.29319\u00b0 / 103.9969\u00b0",
     "area": "Singapore Area",
-    "status": "Stopped"
+    "status": "At Anchor"
   },
   "9310109": {
     "rowidx": 204,
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/18 12:44",
     "destTime": "2021/12/18 04:44",
-    "position": "31.32355\u00b0 / 121.6794\u00b0",
+    "position": "31.32354\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
