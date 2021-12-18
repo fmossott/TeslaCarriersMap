@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/18 03:47",
     "destTime": "2021/12/18 02:47",
-    "position": "51.32287\u00b0 / 3.2104\u00b0",
+    "position": "51.32285\u00b0 / 3.210417\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/16 14:14",
     "destTime": "2021/12/16 13:14",
-    "position": "51.42717\u00b0 / 2.585985\u00b0",
+    "position": "51.427\u00b0 / 2.586253\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/07 05:49",
     "destTime": "2021/12/06 21:49",
-    "position": "-2.89065\u00b0 / 77.86958\u00b0",
+    "position": "-6.39050\u00b0 / 76.60021\u00b0",
     "area": "Bengal Bay",
     "status": "Out of Range"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/18 06:40",
     "destTime": "2021/12/17 22:40",
-    "position": "1.264445\u00b0 / 103.8477\u00b0",
+    "position": "1.264433\u00b0 / 103.8477\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -478,17 +478,17 @@
     "length": "199.97",
     "breadth": "36.54",
     "grossTonnage": "75,283",
-    "dept": "SG SINGAPORE ANCH",
+    "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/12/18 06:42",
-    "deptTime": "2021/12/17 22:42",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/12/12 06:43",
+    "deptTime": "2021/12/11 22:43",
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
     "destLocalTime": "2021/12/31 17:00",
     "destTime": "2021/12/31 15:00",
-    "position": "1.23852\u00b0 / 103.9315\u00b0",
+    "position": "1.157235\u00b0 / 103.7696\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/19 17:00",
     "destTime": "2021/12/19 08:00",
-    "position": "31.29198\u00b0 / 121.7958\u00b0",
+    "position": "31.28071\u00b0 / 121.8255\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
