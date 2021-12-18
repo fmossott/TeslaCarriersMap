@@ -512,14 +512,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/13 07:52",
     "deptTime": "2021/12/12 23:52",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/18 21:00",
-    "destTime": "2021/12/18 13:00",
-    "position": "1.263052\u00b0 / 103.9724\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/18 21:58",
+    "destTime": "2021/12/18 13:58",
+    "position": "1.293472\u00b0 / 103.9978\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9310109": {
     "rowidx": 204,
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/18 13:01",
     "destTime": "2021/12/18 05:01",
-    "position": "31.32216\u00b0 / 121.6818\u00b0",
+    "position": "31.32217\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
