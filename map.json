@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/19 01:45",
     "destTime": "2021/12/18 22:45",
-    "position": "40.75987\u00b0 / 29.74917\u00b0",
+    "position": "40.75988\u00b0 / 29.74923\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/18 03:47",
     "destTime": "2021/12/18 02:47",
-    "position": "51.32285\u00b0 / 3.2104\u00b0",
+    "position": "51.32287\u00b0 / 3.2104\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -77,12 +77,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/11/15 10:15",
     "deptTime": "2021/11/15 02:15",
-    "dest": "BE ANTWERP ANCH",
+    "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/16 14:14",
-    "destTime": "2021/12/16 13:14",
-    "position": "51.35571\u00b0 / 2.624182\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/16 16:00",
+    "destTime": "2021/12/16 15:00",
+    "position": "51.39385\u00b0 / 3.135317\u00b0",
     "area": "North Sea",
     "status": "Underway"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/19 05:15",
     "destTime": "2021/12/19 04:15",
-    "position": "43.49541\u00b0 / 10.27271\u00b0",
+    "position": "43.49547\u00b0 / 10.27306\u00b0",
     "area": "Ligurean Sea",
     "status": "At Anchor"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/13 23:32",
     "destTime": "2021/12/13 21:32",
-    "position": "36.07633\u00b0 / -4.867167\u00b0",
+    "position": "36.00533\u00b0 / -5.360167\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -285,9 +285,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/20 06:00",
     "destTime": "2021/12/20 02:00",
-    "position": "20.56581\u00b0 / 63.35138\u00b0",
+    "position": "24.49300\u00b0 / 58.30041\u00b0",
     "area": "West Coast India",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9722302": {
     "rowidx": 197,
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 14:43",
     "destTime": "2021/12/14 06:43",
-    "position": "7.918733\u00b0 / 76.78948\u00b0",
+    "position": "8.031484\u00b0 / 76.67995\u00b0",
     "area": "Laccadive Sea",
     "status": "Underway using Engine"
   },
