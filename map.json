@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/19 01:45",
     "destTime": "2021/12/18 22:45",
-    "position": "40.75988\u00b0 / 29.74915\u00b0",
+    "position": "40.75985\u00b0 / 29.74917\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/18 03:47",
     "destTime": "2021/12/18 02:47",
-    "position": "51.32288\u00b0 / 3.210367\u00b0",
+    "position": "51.32288\u00b0 / 3.210433\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -82,9 +82,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/16 14:14",
     "destTime": "2021/12/16 13:14",
-    "position": "51.42643\u00b0 / 2.587537\u00b0",
+    "position": "51.4002\u00b0 / 2.597038\u00b0",
     "area": "North Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9782091": {
     "rowidx": 190,
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/19 05:15",
     "destTime": "2021/12/19 04:15",
-    "position": "43.49564\u00b0 / 10.2729\u00b0",
+    "position": "43.49575\u00b0 / 10.27289\u00b0",
     "area": "Ligurean Sea",
     "status": "At Anchor"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/13 23:32",
     "destTime": "2021/12/13 21:32",
-    "position": "36.17283\u00b0 / -4.1165\u00b0",
+    "position": "36.119\u00b0 / -4.564\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/22 07:00",
     "destTime": "2021/12/22 06:00",
-    "position": "35.76298\u00b0 / 22.38663\u00b0",
+    "position": "36.06623\u00b0 / 21.43985\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/07 05:49",
     "destTime": "2021/12/06 21:49",
-    "position": "-11.93478\u00b0 / 72.08403\u00b0",
+    "position": "-14.08335\u00b0 / 68.96133\u00b0",
     "area": "Bengal Bay",
     "status": "Out of Range"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 14:43",
     "destTime": "2021/12/14 06:43",
-    "position": "5.963316\u00b0 / 79.9716\u00b0",
+    "position": "7.745883\u00b0 / 76.95379\u00b0",
     "area": "Laccadive Sea",
     "status": "Underway using Engine"
   },
@@ -573,10 +573,10 @@
     "dest": "US TIW",
     "destLong": "Tacoma",
     "destType": "ETA",
-    "destLocalTime": "2021/12/18 13:01",
-    "destTime": "2021/12/18 05:01",
-    "position": "30.97881\u00b0 / 128.29866\u00b0",
+    "destLocalTime": "2021/12/31 14:00",
+    "destTime": "2021/12/31 22:00",
+    "position": "30.89869\u00b0 / 130.6658\u00b0",
     "area": "East China Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   }
 }
