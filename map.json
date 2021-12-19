@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/18 23:30",
     "destTime": "2021/12/18 22:30",
-    "position": "59.90632\u00b0 / 10.71272\u00b0",
+    "position": "59.90629\u00b0 / 10.71273\u00b0",
     "area": "Skagerrak",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/19 06:00",
     "destTime": "2021/12/19 03:00",
-    "position": "40.75989\u00b0 / 29.74916\u00b0",
+    "position": "40.75986\u00b0 / 29.74912\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/18 03:47",
     "destTime": "2021/12/18 02:47",
-    "position": "51.32288\u00b0 / 3.210383\u00b0",
+    "position": "51.32287\u00b0 / 3.21045\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/16 14:14",
     "destTime": "2021/12/16 13:14",
-    "position": "51.42922\u00b0 / 2.588858\u00b0",
+    "position": "51.42891\u00b0 / 2.588452\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -135,14 +135,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/16 14:44",
     "deptTime": "2021/12/16 12:44",
-    "dest": "IT LIV",
+    "dest": "IT LIVORNO ANCH",
     "destLong": "Livorno",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/19 04:00",
-    "destTime": "2021/12/19 03:00",
-    "position": "43.44063\u00b0 / 10.21189\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/19 05:15",
+    "destTime": "2021/12/19 04:15",
+    "position": "43.49563\u00b0 / 10.27055\u00b0",
     "area": "Ligurean Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9176395": {
     "rowidx": 191,
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 14:43",
     "destTime": "2021/12/14 06:43",
-    "position": "5.89375\u00b0 / 80.26897\u00b0",
+    "position": "5.933116\u00b0 / 80.20055\u00b0",
     "area": "Laccadive Sea",
     "status": "Underway using Engine"
   },
@@ -401,9 +401,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/28 20:00",
     "destTime": "2021/12/28 18:00",
-    "position": "6.09436\u00b0 / 88.65630\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "5.900407\u00b0 / 80.19951\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9889100": {
     "rowidx": 200,
@@ -565,19 +565,19 @@
     "length": "199.9",
     "breadth": "32.27",
     "grossTonnage": "57,692",
-    "dept": "KR KUV",
-    "deptLong": "Gunsan",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2021/12/13 03:39",
-    "deptTime": "2021/12/12 18:39",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/18 12:44",
-    "destTime": "2021/12/18 04:44",
-    "position": "31.32355\u00b0 / 121.6794\u00b0",
+    "deptLocalTime": "2021/12/19 12:16",
+    "deptTime": "2021/12/19 04:16",
+    "dest": "CL SAI",
+    "destLong": "San Antonio",
+    "destType": "ETA",
+    "destLocalTime": "2022/01/16 03:00",
+    "destTime": "2022/01/16 06:00",
+    "position": "31.31255\u00b0 / 121.7388\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9544920": {
     "rowidx": 206,
