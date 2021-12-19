@@ -14,19 +14,19 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "60,175",
-    "dept": "BE ZEE",
-    "deptLong": "Zeebrugge",
+    "dept": "NO OSL",
+    "deptLong": "Oslo",
     "deptType": "ATD",
-    "deptLocalTime": "2021/12/17 08:00",
-    "deptTime": "2021/12/17 07:00",
-    "dest": "NO OSL",
-    "destLong": "Oslo",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/18 23:30",
-    "destTime": "2021/12/18 22:30",
-    "position": "59.90629\u00b0 / 10.71273\u00b0",
+    "deptLocalTime": "2021/12/19 16:26",
+    "deptTime": "2021/12/19 15:26",
+    "dest": "DE BRV",
+    "destLong": "Bremerhaven",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/20 18:30",
+    "destTime": "2021/12/20 17:30",
+    "position": "59.85999\u00b0 / 10.62094\u00b0",
     "area": "Skagerrak",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9279812": {
     "rowidx": 187,
@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/19 06:00",
     "destTime": "2021/12/19 03:00",
-    "position": "40.75988\u00b0 / 29.74918\u00b0",
+    "position": "40.75989\u00b0 / 29.74914\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/18 03:47",
     "destTime": "2021/12/18 02:47",
-    "position": "51.32287\u00b0 / 3.210433\u00b0",
+    "position": "51.32287\u00b0 / 3.210383\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/16 14:14",
     "destTime": "2021/12/16 13:14",
-    "position": "51.42966\u00b0 / 2.589358\u00b0",
+    "position": "51.42774\u00b0 / 2.588987\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/19 05:15",
     "destTime": "2021/12/19 04:15",
-    "position": "43.49605\u00b0 / 10.2716\u00b0",
+    "position": "43.49611\u00b0 / 10.27156\u00b0",
     "area": "Ligurean Sea",
     "status": "At Anchor"
   },
@@ -488,8 +488,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/31 17:00",
     "destTime": "2021/12/31 15:00",
-    "position": "1.157235\u00b0 / 103.7696\u00b0",
-    "area": "Singapore Area",
+    "position": "2.900873\u00b0 / 100.9405\u00b0",
+    "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
   "9782089": {
