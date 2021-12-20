@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/20 05:30",
     "destTime": "2021/12/20 04:30",
-    "position": "40.41624\u00b0 / 29.0834\u00b0",
+    "position": "40.41614\u00b0 / 29.08353\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/21 06:00",
     "destTime": "2021/12/21 05:00",
-    "position": "51.32287\u00b0 / 3.210383\u00b0",
+    "position": "51.32288\u00b0 / 3.210417\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/19 23:49",
     "destTime": "2021/12/19 22:49",
-    "position": "51.31404\u00b0 / 3.227462\u00b0",
+    "position": "51.31406\u00b0 / 3.227453\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/20 19:49",
     "destTime": "2021/12/20 18:49",
-    "position": "43.58092\u00b0 / 10.3056\u00b0",
+    "position": "43.58092\u00b0 / 10.30559\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/13 23:32",
     "destTime": "2021/12/13 21:32",
-    "position": "39.60817\u00b0 / -9.834333\u00b0",
+    "position": "39.868\u00b0 / -9.841333\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/20 10:41",
     "destTime": "2021/12/20 08:41",
-    "position": "29.85881\u00b0 / 32.56254\u00b0",
+    "position": "29.85795\u00b0 / 32.56342\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/20 09:10",
     "destTime": "2021/12/20 05:10",
-    "position": "26.22517\u00b0 / 55.90457\u00b0",
+    "position": "26.04182\u00b0 / 55.68104\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/14 14:43",
     "destTime": "2021/12/14 06:43",
-    "position": "13.56338\u00b0 / 73.88461\u00b0",
+    "position": "13.76467\u00b0 / 73.80933\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -509,17 +509,17 @@
     "grossTonnage": "61,321",
     "dept": "SG SIN",
     "deptLong": "Singapore",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/12/20 13:59",
-    "deptTime": "2021/12/20 05:59",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/12/21 07:29",
+    "deptTime": "2021/12/20 23:29",
     "dest": "BR SSA",
     "destLong": "Salvador",
     "destType": "ETA",
     "destLocalTime": "2022/01/14 02:00",
     "destTime": "2022/01/14 05:00",
-    "position": "1.286267\u00b0 / 103.7552\u00b0",
+    "position": "1.20325\u00b0 / 103.827\u00b0",
     "area": "Singapore Area",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9476769": {
     "rowidx": 205,
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/20 11:15",
     "destTime": "2021/12/20 02:15",
-    "position": "31.32207\u00b0 / 121.6817\u00b0",
+    "position": "31.32209\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
