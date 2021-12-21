@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/20 05:30",
     "destTime": "2021/12/20 04:30",
-    "position": "40.62558\u00b0 / 28.6116\u00b0",
+    "position": "40.72149\u00b0 / 28.30866\u00b0",
     "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/21 06:00",
     "destTime": "2021/12/21 05:00",
-    "position": "51.38698\u00b0 / 3.154433\u00b0",
+    "position": "51.41782\u00b0 / 3.50065\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/19 23:49",
     "destTime": "2021/12/19 22:49",
-    "position": "51.31405\u00b0 / 3.227468\u00b0",
+    "position": "51.31404\u00b0 / 3.227468\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,9 +111,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/20 19:49",
     "destTime": "2021/12/20 18:49",
-    "position": "43.58094\u00b0 / 10.30556\u00b0",
+    "position": "43.58092\u00b0 / 10.30555\u00b0",
     "area": "Ligurean Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9176395": {
     "rowidx": 191,
@@ -217,17 +217,17 @@
     "length": "227.9",
     "breadth": "32.29",
     "grossTonnage": "67,141",
-    "dept": "CN XMG",
-    "deptLong": "Xiamen",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/12/03 22:18",
-    "deptTime": "2021/12/03 14:18",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/21 05:22",
-    "destTime": "2021/12/21 03:22",
-    "position": "29.98679\u00b0 / 32.5854\u00b0",
+    "dept": "EG SUZ",
+    "deptLong": "Suez Canal",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/12/21 11:22",
+    "deptTime": "2021/12/21 03:22",
+    "dest": "EG ALY",
+    "destLong": "Alexandria",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/22 03:00",
+    "destTime": "2021/12/22 01:00",
+    "position": "30.1266\u00b0 / 32.57027\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/20 09:10",
     "destTime": "2021/12/20 05:10",
-    "position": "25.30824\u00b0 / 54.87838\u00b0",
+    "position": "25.13653\u00b0 / 54.93717\u00b0",
     "area": "Dubai Area",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/20 16:00",
     "destTime": "2021/12/20 08:00",
-    "position": "4.45929\u00b0 / 106.18520\u00b0",
+    "position": "1.72084\u00b0 / 104.68357\u00b0",
     "area": "Philippines",
     "status": "Out of Range"
   },
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/20 11:15",
     "destTime": "2021/12/20 02:15",
-    "position": "31.32203\u00b0 / 121.6817\u00b0",
+    "position": "31.32204\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
