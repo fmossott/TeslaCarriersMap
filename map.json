@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "",
     "destTime": "",
-    "position": "53.63754\u00b0 / -0.1981117\u00b0",
+    "position": "53.6375\u00b0 / -0.1980533\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/21 08:48",
     "destTime": "2021/12/21 07:48",
-    "position": "51.26427\u00b0 / 4.235317\u00b0",
+    "position": "51.26428\u00b0 / 4.235367\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -103,17 +103,17 @@
     "grossTonnage": "67,264",
     "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/11/15 10:15",
-    "deptTime": "2021/11/15 02:15",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/12/22 16:51",
+    "deptTime": "2021/12/22 15:51",
     "dest": "GB SOU",
     "destLong": "Southampton",
     "destType": "ETA",
     "destLocalTime": "2021/12/19 23:49",
     "destTime": "2021/12/19 22:49",
-    "position": "51.33558\u00b0 / 3.21581\u00b0",
+    "position": "51.40471\u00b0 / 3.092887\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9782091": {
     "rowidx": 190,
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/20 19:49",
     "destTime": "2021/12/20 18:49",
-    "position": "38.95732\u00b0 / 3.26891\u00b0",
+    "position": "38.79969\u00b0 / 2.941065\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/13 23:32",
     "destTime": "2021/12/13 21:32",
-    "position": "49.6375\u00b0 / -6.803167\u00b0",
+    "position": "49.88917\u00b0 / -6.681667\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/22 04:28",
     "destTime": "2021/12/22 03:28",
-    "position": "43.40191\u00b0 / 4.844975\u00b0",
+    "position": "43.40193\u00b0 / 4.844988\u00b0",
     "area": "West Mediterranean",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/22 02:18",
     "destTime": "2021/12/22 00:18",
-    "position": "31.19293\u00b0 / 29.8788\u00b0",
+    "position": "31.19292\u00b0 / 29.87881\u00b0",
     "area": "East Mediterranean",
     "status": "Moored"
   },
