@@ -21,12 +21,12 @@
     "deptTime": "2021/12/22 06:34",
     "dest": "BE ANR",
     "destLong": "Antwerp",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/24 08:30",
-    "destTime": "2021/12/24 07:30",
-    "position": "51.38214\u00b0 / 4.160121\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/24 14:23",
+    "destTime": "2021/12/24 13:23",
+    "position": "51.27225\u00b0 / 4.22008\u00b0",
     "area": "Antwerp Area",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9279812": {
     "rowidx": 187,
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/19 23:49",
     "destTime": "2021/12/19 22:49",
-    "position": "50.88525\u00b0 / -1.396828\u00b0",
+    "position": "50.88525\u00b0 / -1.396845\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -140,8 +140,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/20 19:49",
     "destTime": "2021/12/20 18:49",
-    "position": "36.33572\u00b0 / -7.439002\u00b0",
-    "area": "Gibraltar",
+    "position": "36.54082\u00b0 / -8.351503\u00b0",
+    "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
   "9176395": {
@@ -169,8 +169,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/25 17:00",
     "destTime": "2021/12/25 16:00",
-    "position": "49.7145\u00b0 / -5.1035\u00b0",
-    "area": "Celtic Sea",
+    "position": "49.74517\u00b0 / -3.925833\u00b0",
+    "area": "English Channel",
     "status": "Underway using Engine"
   },
   "9427952": {
@@ -227,8 +227,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/26 07:00",
     "destTime": "2021/12/26 06:00",
-    "position": "41.75108\u00b0 / 7.999305\u00b0",
-    "area": "West Mediterranean",
+    "position": "41.23619\u00b0 / 9.895206\u00b0",
+    "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
   "9122655": {
@@ -280,14 +280,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/24 12:07",
     "deptTime": "2021/12/24 09:07",
-    "dest": "SA DMM",
+    "dest": "SA DAMMAM ANCH",
     "destLong": "Dammam",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/24 19:00",
-    "destTime": "2021/12/24 16:00",
-    "position": "26.67153\u00b0 / 51.04947\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/24 19:03",
+    "destTime": "2021/12/24 16:03",
+    "position": "26.60935\u00b0 / 50.27891\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9722302": {
     "rowidx": 196,
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/21 18:02",
     "destTime": "2021/12/21 11:02",
-    "position": "13.04338\u00b0 / 100.8336\u00b0",
+    "position": "13.04282\u00b0 / 100.8342\u00b0",
     "area": "Gulf of Thailand",
     "status": "At Anchor"
   },
