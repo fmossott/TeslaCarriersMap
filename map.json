@@ -22,9 +22,9 @@
     "dest": "BE ANR",
     "destLong": "Antwerp",
     "destType": "ETA",
-    "destLocalTime": "2021/12/24 08:35",
-    "destTime": "2021/12/24 07:35",
-    "position": "52.58695\u00b0 / 2.087605\u00b0",
+    "destLocalTime": "2021/12/24 08:30",
+    "destTime": "2021/12/24 07:30",
+    "position": "52.16684\u00b0 / 2.388978\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/19 23:49",
     "destTime": "2021/12/19 22:49",
-    "position": "50.88528\u00b0 / -1.396833\u00b0",
+    "position": "50.88525\u00b0 / -1.396807\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/20 19:49",
     "destTime": "2021/12/20 18:49",
-    "position": "36.11994\u00b0 / -6.754835\u00b0",
+    "position": "36.1199\u00b0 / -6.693432\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -169,8 +169,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/25 17:00",
     "destTime": "2021/12/25 16:00",
-    "position": "51.28933\u00b0 / -4.182167\u00b0",
-    "area": "Bristol Channel",
+    "position": "50.69183\u00b0 / -5.501833\u00b0",
+    "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
   "9427952": {
@@ -285,9 +285,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/24 05:17",
     "destTime": "2021/12/24 02:17",
-    "position": "26.18826\u00b0 / 50.71087\u00b0",
+    "position": "26.18859\u00b0 / 50.71098\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9722302": {
     "rowidx": 196,
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/14 14:43",
     "destTime": "2021/12/14 06:43",
-    "position": "20.91822\u00b0 / 71.50981\u00b0",
+    "position": "20.9182\u00b0 / 71.5098\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/21 18:02",
     "destTime": "2021/12/21 11:02",
-    "position": "13.04261\u00b0 / 100.8343\u00b0",
+    "position": "13.0427\u00b0 / 100.8343\u00b0",
     "area": "Gulf of Thailand",
     "status": "At Anchor"
   },
@@ -425,12 +425,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/22 14:02",
     "deptTime": "2021/12/22 06:02",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
+    "dest": "TH LCH",
+    "destLong": "Laem Chabang",
     "destType": "ATA",
-    "destLocalTime": "2021/12/21 17:37",
-    "destTime": "2021/12/21 09:37",
-    "position": "12.84658\u00b0 / 100.6938\u00b0",
+    "destLocalTime": "2021/12/24 11:01",
+    "destTime": "2021/12/24 04:01",
+    "position": "13.06138\u00b0 / 100.8838\u00b0",
     "area": "Gulf of Thailand",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/23 02:41",
     "destTime": "2021/12/22 18:41",
-    "position": "31.32206\u00b0 / 121.6817\u00b0",
+    "position": "31.32211\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
