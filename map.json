@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/24 14:23",
     "destTime": "2021/12/24 13:23",
-    "position": "51.27225\u00b0 / 4.220093\u00b0",
+    "position": "51.27224\u00b0 / 4.220052\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -111,8 +111,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/26 04:00",
     "destTime": "2021/12/26 03:00",
-    "position": "51.22243\u00b0 / 2.020187\u00b0",
-    "area": "English Channel",
+    "position": "51.87877\u00b0 / 2.767783\u00b0",
+    "area": "North Sea",
     "status": "Underway using Engine"
   },
   "9782091": {
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/20 19:49",
     "destTime": "2021/12/20 18:49",
-    "position": "39.39241\u00b0 / -9.839527\u00b0",
+    "position": "39.78762\u00b0 / -9.82669\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/25 17:00",
     "destTime": "2021/12/25 16:00",
-    "position": "50.23683\u00b0 / -0.3881667\u00b0",
+    "position": "50.28833\u00b0 / -0.0615\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/26 07:00",
     "destTime": "2021/12/26 06:00",
-    "position": "40.05374\u00b0 / 12.41523\u00b0",
+    "position": "39.76819\u00b0 / 12.99987\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
@@ -287,7 +287,7 @@
     "destTime": "2021/12/24 16:03",
     "position": "26.60936\u00b0 / 50.27965\u00b0",
     "area": "Persian Gulf",
-    "status": "Stopped"
+    "status": "At Anchor"
   },
   "9722302": {
     "rowidx": 196,
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/21 18:02",
     "destTime": "2021/12/21 11:02",
-    "position": "13.04326\u00b0 / 100.8345\u00b0",
+    "position": "13.04325\u00b0 / 100.8346\u00b0",
     "area": "Gulf of Thailand",
     "status": "At Anchor"
   },
@@ -538,15 +538,15 @@
     "grossTonnage": "59,952",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/12/23 03:41",
-    "deptTime": "2021/12/22 18:41",
+    "deptType": "ATD",
+    "deptLocalTime": "2021/12/25 13:43",
+    "deptTime": "2021/12/25 05:43",
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
     "destLocalTime": "2022/01/02 12:00",
     "destTime": "2022/01/02 04:00",
-    "position": "31.32478\u00b0 / 121.6839\u00b0",
+    "position": "31.24265\u00b0 / 122.0148\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
