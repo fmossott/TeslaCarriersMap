@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/24 14:23",
     "destTime": "2021/12/24 13:23",
-    "position": "51.27227\u00b0 / 4.220122\u00b0",
+    "position": "51.27225\u00b0 / 4.220093\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/20 19:49",
     "destTime": "2021/12/20 18:49",
-    "position": "38.98209\u00b0 / -9.860026\u00b0",
+    "position": "39.39241\u00b0 / -9.839527\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/25 17:00",
     "destTime": "2021/12/25 16:00",
-    "position": "50.15434\u00b0 / -0.9151667\u00b0",
+    "position": "50.23683\u00b0 / -0.3881667\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -287,7 +287,7 @@
     "destTime": "2021/12/24 16:03",
     "position": "26.60936\u00b0 / 50.27965\u00b0",
     "area": "Persian Gulf",
-    "status": "At Anchor"
+    "status": "Stopped"
   },
   "9722302": {
     "rowidx": 196,
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/21 18:02",
     "destTime": "2021/12/21 11:02",
-    "position": "13.04313\u00b0 / 100.8345\u00b0",
+    "position": "13.04326\u00b0 / 100.8345\u00b0",
     "area": "Gulf of Thailand",
     "status": "At Anchor"
   },
@@ -420,19 +420,19 @@
     "length": "199.54",
     "breadth": "32.26",
     "grossTonnage": "57,789",
-    "dept": "SG SIN",
-    "deptLong": "Singapore",
+    "dept": "TH LCH",
+    "deptLong": "Laem Chabang",
     "deptType": "ATD",
-    "deptLocalTime": "2021/12/22 14:02",
-    "deptTime": "2021/12/22 06:02",
-    "dest": "TH LCH",
-    "destLong": "Laem Chabang",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/24 11:01",
-    "destTime": "2021/12/24 04:01",
-    "position": "13.06936\u00b0 / 100.8938\u00b0",
+    "deptLocalTime": "2021/12/25 12:32",
+    "deptTime": "2021/12/25 05:32",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/27 17:00",
+    "destTime": "2021/12/27 09:00",
+    "position": "13.07827\u00b0 / 100.8536\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9702455": {
     "rowidx": 201,
@@ -517,9 +517,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/24 03:00",
     "destTime": "2021/12/23 19:00",
-    "position": "31.1125\u00b0 / 122.2865\u00b0",
+    "position": "38.7622\u00b0 / 122.0619\u00b0",
     "area": "East China Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9355185": {
     "rowidx": 204,
@@ -536,19 +536,19 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "59,952",
-    "dept": "JP YOK",
-    "deptLong": "Yokohama",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/12/19 05:29",
-    "deptTime": "2021/12/18 20:29",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/23 02:41",
-    "destTime": "2021/12/22 18:41",
-    "position": "31.32209\u00b0 / 121.6817\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2021/12/23 03:41",
+    "deptTime": "2021/12/22 18:41",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/01/02 12:00",
+    "destTime": "2022/01/02 04:00",
+    "position": "31.32478\u00b0 / 121.6839\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9382102": {
     "rowidx": 205,
@@ -573,9 +573,9 @@
     "dest": "CN DLC",
     "destLong": "Dalian",
     "destType": "ETA",
-    "destLocalTime": "2021/12/25 20:00",
-    "destTime": "2021/12/25 12:00",
-    "position": "37.41767\u00b0 / 122.8713\u00b0",
+    "destLocalTime": "2021/12/26 05:00",
+    "destTime": "2021/12/25 21:00",
+    "position": "37.71897\u00b0 / 122.6751\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   }
