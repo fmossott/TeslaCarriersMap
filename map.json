@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/24 14:23",
     "destTime": "2021/12/24 13:23",
-    "position": "51.27225\u00b0 / 4.220088\u00b0",
+    "position": "51.27223\u00b0 / 4.220117\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/26 04:00",
     "destTime": "2021/12/26 03:00",
-    "position": "53.84128\u00b0 / 7.05977\u00b0",
+    "position": "53.91931\u00b0 / 7.704103\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/20 19:49",
     "destTime": "2021/12/20 18:49",
-    "position": "43.64163\u00b0 / -9.525222\u00b0",
+    "position": "44.03038\u00b0 / -9.299363\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -164,12 +164,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/23 08:46",
     "deptTime": "2021/12/23 06:46",
-    "dest": "BE ANTWERP ANCH",
+    "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/25 21:49",
-    "destTime": "2021/12/25 20:49",
-    "position": "51.3675\u00b0 / 2.7055\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/26 02:00",
+    "destTime": "2021/12/26 01:00",
+    "position": "51.371\u00b0 / 3.179833\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -198,9 +198,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 16:00",
     "destTime": "2021/12/30 08:00",
-    "position": "12.00358\u00b0 / 62.00906\u00b0",
+    "position": "5.670516\u00b0 / 80.41216\u00b0",
     "area": "Red Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9483786": {
     "rowidx": 193,
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/26 07:00",
     "destTime": "2021/12/26 06:00",
-    "position": "38.48153\u00b0 / 15.74127\u00b0",
+    "position": "38.47235\u00b0 / 15.76402\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/21 18:02",
     "destTime": "2021/12/21 11:02",
-    "position": "13.04352\u00b0 / 100.8341\u00b0",
+    "position": "13.04369\u00b0 / 100.8341\u00b0",
     "area": "Gulf of Thailand",
     "status": "At Anchor"
   },
@@ -514,12 +514,12 @@
     "deptTime": "2021/12/22 07:20",
     "dest": "CN DLC",
     "destLong": "Dalian",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/24 03:00",
-    "destTime": "2021/12/23 19:00",
-    "position": "38.94852\u00b0 / 121.9408\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/26 06:09",
+    "destTime": "2021/12/25 22:09",
+    "position": "39.03025\u00b0 / 121.8425\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9355185": {
     "rowidx": 204,
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/25 19:37",
     "destTime": "2021/12/25 11:37",
-    "position": "38.88307\u00b0 / 121.9653\u00b0",
+    "position": "38.88302\u00b0 / 121.9654\u00b0",
     "area": "Yellow Sea",
     "status": "At Anchor"
   }
