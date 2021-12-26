@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/24 14:23",
     "destTime": "2021/12/24 13:23",
-    "position": "51.27228\u00b0 / 4.220048\u00b0",
+    "position": "51.27225\u00b0 / 4.220052\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/26 01:02",
     "destTime": "2021/12/26 00:02",
-    "position": "53.92064\u00b0 / 7.810063\u00b0",
+    "position": "53.92013\u00b0 / 7.80939\u00b0",
     "area": "North Sea",
     "status": "Stopped"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/26 00:11",
     "destTime": "2021/12/25 23:11",
-    "position": "51.304\u00b0 / 3.229667\u00b0",
+    "position": "51.30383\u00b0 / 3.229667\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/26 02:07",
     "destTime": "2021/12/26 01:07",
-    "position": "38.48459\u00b0 / 15.75058\u00b0",
+    "position": "38.48649\u00b0 / 15.75539\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
@@ -254,10 +254,10 @@
     "dest": "BE ANR",
     "destLong": "Antwerp",
     "destType": "ETA",
-    "destLocalTime": "2022/01/01 18:00",
-    "destTime": "2022/01/01 17:00",
-    "position": "33.95501\u00b0 / 21.74762\u00b0",
-    "area": "East Mediterranean",
+    "destLocalTime": "2022/01/01 12:00",
+    "destTime": "2022/01/01 11:00",
+    "position": "36.91\u00b0 / 12.68106\u00b0",
+    "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
   "9712644": {
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/21 18:02",
     "destTime": "2021/12/21 11:02",
-    "position": "13.04253\u00b0 / 100.8339\u00b0",
+    "position": "13.04228\u00b0 / 100.8343\u00b0",
     "area": "Gulf of Thailand",
     "status": "At Anchor"
   },
@@ -517,9 +517,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/27 07:00",
     "destTime": "2021/12/26 22:00",
-    "position": "39.03023\u00b0 / 121.8424\u00b0",
+    "position": "39.03228\u00b0 / 121.8487\u00b0",
     "area": "Yellow Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9355185": {
     "rowidx": 204,
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/25 19:37",
     "destTime": "2021/12/25 11:37",
-    "position": "38.88335\u00b0 / 121.9666\u00b0",
+    "position": "38.88273\u00b0 / 121.9651\u00b0",
     "area": "Yellow Sea",
     "status": "At Anchor"
   }
