@@ -14,17 +14,17 @@
     "length": "199.98",
     "breadth": "32.27",
     "grossTonnage": "57,772",
-    "dept": "GB IMM",
-    "deptLong": "Immingham",
-    "deptType": "ATD",
+    "dept": "BE ANR",
+    "deptLong": "Antwerp",
+    "deptType": "ATA",
     "deptLocalTime": "2021/12/22 07:34",
     "deptTime": "2021/12/22 06:34",
-    "dest": "BE ANR",
-    "destLong": "Antwerp",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/24 14:23",
-    "destTime": "2021/12/24 13:23",
-    "position": "51.27224\u00b0 / 4.22013\u00b0",
+    "dest": "NO DRM",
+    "destLong": "Drammen",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/28 03:00",
+    "destTime": "2021/12/28 02:00",
+    "position": "51.27226\u00b0 / 4.220085\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/27 06:00",
     "destTime": "2021/12/27 05:00",
-    "position": "42.20856\u00b0 / 7.320899\u00b0",
+    "position": "42.34765\u00b0 / 6.738385\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/26 01:02",
     "destTime": "2021/12/26 00:02",
-    "position": "53.91948\u00b0 / 7.80932\u00b0",
+    "position": "53.92112\u00b0 / 7.811358\u00b0",
     "area": "North Sea",
     "status": "Underway"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/20 19:49",
     "destTime": "2021/12/20 18:49",
-    "position": "47.99727\u00b0 / -6.88619\u00b0",
+    "position": "48.24988\u00b0 / -6.732188\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -227,9 +227,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/26 08:54",
     "destTime": "2021/12/26 07:54",
-    "position": "38.47302\u00b0 / 15.91298\u00b0",
+    "position": "38.473\u00b0 / 15.91306\u00b0",
     "area": "Tyrrhenian Sea",
-    "status": "Moored"
+    "status": "At Anchor"
   },
   "9122655": {
     "rowidx": 194,
@@ -285,9 +285,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/24 19:03",
     "destTime": "2021/12/24 16:03",
-    "position": "26.60689\u00b0 / 50.28077\u00b0",
+    "position": "26.60606\u00b0 / 50.28072\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9722302": {
     "rowidx": 196,
@@ -314,9 +314,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/26 13:27",
     "destTime": "2021/12/26 11:27",
-    "position": "29.85811\u00b0 / 32.56059\u00b0",
+    "position": "29.85784\u00b0 / 32.56138\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9284752": {
     "rowidx": 197,
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/21 18:02",
     "destTime": "2021/12/21 11:02",
-    "position": "13.04297\u00b0 / 100.8344\u00b0",
+    "position": "13.04288\u00b0 / 100.8343\u00b0",
     "area": "Gulf of Thailand",
     "status": "At Anchor"
   },
@@ -519,7 +519,7 @@
     "destTime": "2021/12/26 11:33",
     "position": "39.03443\u00b0 / 121.8437\u00b0",
     "area": "Yellow Sea",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9355185": {
     "rowidx": 204,
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/25 16:32",
     "destTime": "2021/12/25 08:32",
-    "position": "31.32214\u00b0 / 121.6816\u00b0",
+    "position": "31.32215\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
