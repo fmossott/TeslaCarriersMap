@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/24 14:23",
     "destTime": "2021/12/24 13:23",
-    "position": "51.27227\u00b0 / 4.220112\u00b0",
+    "position": "51.27223\u00b0 / 4.220135\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/26 01:02",
     "destTime": "2021/12/26 00:02",
-    "position": "53.92044\u00b0 / 7.809637\u00b0",
+    "position": "53.92098\u00b0 / 7.811224\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -227,9 +227,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/26 08:54",
     "destTime": "2021/12/26 07:54",
-    "position": "38.473\u00b0 / 15.91303\u00b0",
+    "position": "38.47302\u00b0 / 15.91303\u00b0",
     "area": "Tyrrhenian Sea",
-    "status": "Moored"
+    "status": "At Anchor"
   },
   "9122655": {
     "rowidx": 194,
@@ -312,9 +312,9 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2021/12/23 06:00",
-    "destTime": "2021/12/23 04:00",
-    "position": "29.58833\u00b0 / 32.57333\u00b0",
+    "destLocalTime": "2021/12/26 13:00",
+    "destTime": "2021/12/26 11:00",
+    "position": "29.77263\u00b0 / 32.54746\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/21 18:02",
     "destTime": "2021/12/21 11:02",
-    "position": "13.04333\u00b0 / 100.8338\u00b0",
+    "position": "13.04326\u00b0 / 100.834\u00b0",
     "area": "Gulf of Thailand",
     "status": "At Anchor"
   },
@@ -517,9 +517,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/25 19:37",
     "destTime": "2021/12/25 11:37",
-    "position": "38.88222\u00b0 / 121.9649\u00b0",
+    "position": "38.8839\u00b0 / 121.9651\u00b0",
     "area": "Yellow Sea",
-    "status": "At Anchor"
+    "status": "Stopped"
   },
   "9355185": {
     "rowidx": 204,
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/25 16:32",
     "destTime": "2021/12/25 08:32",
-    "position": "31.32223\u00b0 / 121.6816\u00b0",
+    "position": "31.32218\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
