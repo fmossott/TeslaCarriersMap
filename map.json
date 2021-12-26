@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/24 14:23",
     "destTime": "2021/12/24 13:23",
-    "position": "51.27223\u00b0 / 4.220135\u00b0",
+    "position": "51.27226\u00b0 / 4.220078\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -111,9 +111,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/26 01:02",
     "destTime": "2021/12/26 00:02",
-    "position": "53.92098\u00b0 / 7.811224\u00b0",
+    "position": "53.92101\u00b0 / 7.811123\u00b0",
     "area": "North Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9782091": {
     "rowidx": 190,
@@ -227,9 +227,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/26 08:54",
     "destTime": "2021/12/26 07:54",
-    "position": "38.47302\u00b0 / 15.91303\u00b0",
+    "position": "38.473\u00b0 / 15.91304\u00b0",
     "area": "Tyrrhenian Sea",
-    "status": "At Anchor"
+    "status": "Moored"
   },
   "9122655": {
     "rowidx": 194,
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/24 19:03",
     "destTime": "2021/12/24 16:03",
-    "position": "26.60717\u00b0 / 50.28033\u00b0",
+    "position": "26.607\u00b0 / 50.27924\u00b0",
     "area": "Persian Gulf",
     "status": "At Anchor"
   },
@@ -309,14 +309,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/06 14:30",
     "deptTime": "2021/12/06 06:30",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/26 13:00",
-    "destTime": "2021/12/26 11:00",
-    "position": "29.77263\u00b0 / 32.54746\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/26 13:27",
+    "destTime": "2021/12/26 11:27",
+    "position": "29.85863\u00b0 / 32.56089\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9284752": {
     "rowidx": 197,
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/21 18:02",
     "destTime": "2021/12/21 11:02",
-    "position": "13.04326\u00b0 / 100.834\u00b0",
+    "position": "13.04339\u00b0 / 100.8342\u00b0",
     "area": "Gulf of Thailand",
     "status": "At Anchor"
   },
@@ -512,14 +512,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/23 23:27",
     "deptTime": "2021/12/23 15:27",
-    "dest": "CN DALIAN ANCH",
+    "dest": "CN DLC",
     "destLong": "Dalian",
     "destType": "ATA",
-    "destLocalTime": "2021/12/25 19:37",
-    "destTime": "2021/12/25 11:37",
-    "position": "38.8839\u00b0 / 121.9651\u00b0",
+    "destLocalTime": "2021/12/26 19:33",
+    "destTime": "2021/12/26 11:33",
+    "position": "39.00005\u00b0 / 121.9061\u00b0",
     "area": "Yellow Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9355185": {
     "rowidx": 204,
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/25 16:32",
     "destTime": "2021/12/25 08:32",
-    "position": "31.32218\u00b0 / 121.6816\u00b0",
+    "position": "31.32217\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/26 17:05",
     "destTime": "2021/12/26 09:05",
-    "position": "31.3234\u00b0 / 121.6796\u00b0",
+    "position": "31.32341\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
