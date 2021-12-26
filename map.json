@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/24 14:23",
     "destTime": "2021/12/24 13:23",
-    "position": "51.27223\u00b0 / 4.220117\u00b0",
+    "position": "51.27227\u00b0 / 4.22009\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -106,14 +106,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/22 16:51",
     "deptTime": "2021/12/22 15:51",
-    "dest": "DE BRV",
+    "dest": "DE NEUE WESER ANCH",
     "destLong": "Bremerhaven",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/26 04:00",
-    "destTime": "2021/12/26 03:00",
-    "position": "53.91931\u00b0 / 7.704103\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/26 01:02",
+    "destTime": "2021/12/26 00:02",
+    "position": "53.91981\u00b0 / 7.813208\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9782091": {
     "rowidx": 190,
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/20 19:49",
     "destTime": "2021/12/20 18:49",
-    "position": "44.03038\u00b0 / -9.299363\u00b0",
+    "position": "44.29384\u00b0 / -9.142649\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -166,12 +166,12 @@
     "deptTime": "2021/12/23 06:46",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/26 02:00",
-    "destTime": "2021/12/26 01:00",
-    "position": "51.371\u00b0 / 3.179833\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/26 00:11",
+    "destTime": "2021/12/25 23:11",
+    "position": "51.33383\u00b0 / 3.217333\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9427952": {
     "rowidx": 192,
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/26 07:00",
     "destTime": "2021/12/26 06:00",
-    "position": "38.47235\u00b0 / 15.76402\u00b0",
+    "position": "38.49419\u00b0 / 15.76339\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/21 18:02",
     "destTime": "2021/12/21 11:02",
-    "position": "13.04369\u00b0 / 100.8341\u00b0",
+    "position": "13.04286\u00b0 / 100.8335\u00b0",
     "area": "Gulf of Thailand",
     "status": "At Anchor"
   },
@@ -517,9 +517,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/26 06:09",
     "destTime": "2021/12/25 22:09",
-    "position": "39.03025\u00b0 / 121.8425\u00b0",
+    "position": "39.03024\u00b0 / 121.8424\u00b0",
     "area": "Yellow Sea",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9355185": {
     "rowidx": 204,
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/25 19:37",
     "destTime": "2021/12/25 11:37",
-    "position": "38.88302\u00b0 / 121.9654\u00b0",
+    "position": "38.88302\u00b0 / 121.9648\u00b0",
     "area": "Yellow Sea",
     "status": "At Anchor"
   }
