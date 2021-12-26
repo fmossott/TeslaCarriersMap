@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/24 14:23",
     "destTime": "2021/12/24 13:23",
-    "position": "51.27225\u00b0 / 4.220078\u00b0",
+    "position": "51.27221\u00b0 / 4.22009\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/26 01:02",
     "destTime": "2021/12/26 00:02",
-    "position": "53.91939\u00b0 / 7.81457\u00b0",
+    "position": "53.91957\u00b0 / 7.811155\u00b0",
     "area": "North Sea",
     "status": "Stopped"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/26 00:11",
     "destTime": "2021/12/25 23:11",
-    "position": "51.30383\u00b0 / 3.229667\u00b0",
+    "position": "51.304\u00b0 / 3.229667\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -222,12 +222,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/23 22:37",
     "deptTime": "2021/12/23 21:37",
-    "dest": "IT GIT",
+    "dest": "IT GIOIA TAURO ANCH",
     "destLong": "Gioia Tauro",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/26 07:00",
-    "destTime": "2021/12/26 06:00",
-    "position": "38.51313\u00b0 / 15.73647\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/26 02:07",
+    "destTime": "2021/12/26 01:07",
+    "position": "38.50753\u00b0 / 15.75078\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
@@ -345,7 +345,7 @@
     "destTime": "2022/01/01 20:00",
     "position": "19.86803\u00b0 / 69.2871\u00b0",
     "area": "West Coast India",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9624029": {
     "rowidx": 198,
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/21 18:02",
     "destTime": "2021/12/21 11:02",
-    "position": "13.04307\u00b0 / 100.8335\u00b0",
+    "position": "13.0427\u00b0 / 100.834\u00b0",
     "area": "Gulf of Thailand",
     "status": "At Anchor"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/26 06:09",
     "destTime": "2021/12/25 22:09",
-    "position": "39.03023\u00b0 / 121.8423\u00b0",
+    "position": "39.03023\u00b0 / 121.8424\u00b0",
     "area": "Yellow Sea",
     "status": "Moored"
   },
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/02 12:00",
     "destTime": "2022/01/02 04:00",
-    "position": "31.24265\u00b0 / 122.0148\u00b0",
+    "position": "31.23836\u00b0 / 122.0424\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/25 19:37",
     "destTime": "2021/12/25 11:37",
-    "position": "38.88313\u00b0 / 121.965\u00b0",
+    "position": "38.88318\u00b0 / 121.9647\u00b0",
     "area": "Yellow Sea",
     "status": "At Anchor"
   }
