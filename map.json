@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/29 16:30",
     "destTime": "2021/12/29 15:30",
-    "position": "58.82344\u00b0 / 10.23992\u00b0",
+    "position": "58.36051\u00b0 / 9.319205\u00b0",
     "area": "Skagerrak",
     "status": "Underway using Engine"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/28 03:59",
     "destTime": "2021/12/28 02:59",
-    "position": "53.57614\u00b0 / 8.55671\u00b0",
+    "position": "53.57615\u00b0 / 8.556705\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 17:00",
     "destTime": "2021/12/30 16:00",
-    "position": "51.4945\u00b0 / -2.714645\u00b0",
+    "position": "51.49449\u00b0 / -2.714598\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/28 19:41",
     "destTime": "2021/12/28 18:41",
-    "position": "53.90112\u00b0 / 7.816401\u00b0",
+    "position": "53.90083\u00b0 / 7.816667\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/29 17:00",
     "destTime": "2021/12/29 14:00",
-    "position": "26.57563\u00b0 / 50.19765\u00b0",
+    "position": "26.8681\u00b0 / 50.68772\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -372,9 +372,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/28 15:43",
     "destTime": "2021/12/28 13:43",
-    "position": "29.85676\u00b0 / 32.5609\u00b0",
+    "position": "29.85681\u00b0 / 32.56102\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9889100": {
     "rowidx": 199,
@@ -396,14 +396,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/19 09:53",
     "deptTime": "2021/12/19 01:53",
-    "dest": "TH LAEM CHABANG ANCH",
+    "dest": "TH LCH",
     "destLong": "Laem Chabang",
     "destType": "ATA",
-    "destLocalTime": "2021/12/21 18:02",
-    "destTime": "2021/12/21 11:02",
-    "position": "13.0736\u00b0 / 100.8507\u00b0",
+    "destLocalTime": "2021/12/29 05:54",
+    "destTime": "2021/12/28 22:54",
+    "position": "13.06927\u00b0 / 100.8937\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9267687": {
     "rowidx": 200,
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/27 11:02",
     "destTime": "2021/12/27 07:02",
-    "position": "24.99645\u00b0 / 55.07989\u00b0",
+    "position": "24.99648\u00b0 / 55.07985\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
