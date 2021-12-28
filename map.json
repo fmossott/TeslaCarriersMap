@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/28 08:30",
     "destTime": "2021/12/28 07:30",
-    "position": "59.62998\u00b0 / 10.41753\u00b0",
+    "position": "59.72141\u00b0 / 10.28504\u00b0",
     "area": "Skagerrak",
     "status": "Underway using Engine"
   },
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/27 06:11",
     "destTime": "2021/12/27 05:11",
-    "position": "43.40033\u00b0 / 3.708\u00b0",
+    "position": "43.40032\u00b0 / 3.708\u00b0",
     "area": "West Mediterranean",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/28 03:59",
     "destTime": "2021/12/28 02:59",
-    "position": "53.57615\u00b0 / 8.556702\u00b0",
+    "position": "53.57615\u00b0 / 8.556699\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/20 19:49",
     "destTime": "2021/12/20 18:49",
-    "position": "51.4945\u00b0 / -2.7146\u00b0",
+    "position": "51.49451\u00b0 / -2.714605\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 05:00",
     "destTime": "2021/12/30 04:00",
-    "position": "38.9566\u00b0 / 14.83992\u00b0",
+    "position": "39.72862\u00b0 / 13.75481\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/27 22:49",
     "destTime": "2021/12/27 19:49",
-    "position": "26.48918\u00b0 / 50.20053\u00b0",
+    "position": "26.48915\u00b0 / 50.20053\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/26 13:27",
     "destTime": "2021/12/26 11:27",
-    "position": "33.73408\u00b0 / 26.05304\u00b0",
+    "position": "33.83279\u00b0 / 25.73784\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/21 18:02",
     "destTime": "2021/12/21 11:02",
-    "position": "13.04248\u00b0 / 100.8333\u00b0",
+    "position": "13.04204\u00b0 / 100.8337\u00b0",
     "area": "Gulf of Thailand",
     "status": "Underway"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/27 22:07",
     "destTime": "2021/12/27 14:07",
-    "position": "1.270587\u00b0 / 103.8517\u00b0",
+    "position": "1.27059\u00b0 / 103.8517\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/27 11:02",
     "destTime": "2021/12/27 07:02",
-    "position": "24.99644\u00b0 / 55.07988\u00b0",
+    "position": "24.99653\u00b0 / 55.0799\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -602,11 +602,11 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2021/12/26 13:38",
-    "destTime": "2021/12/26 05:38",
-    "position": "31.32211\u00b0 / 121.6815\u00b0",
+    "destLocalTime": "2021/12/28 19:00",
+    "destTime": "2021/12/28 11:00",
+    "position": "31.30483\u00b0 / 121.7618\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway by Sail"
   },
   "9574092": {
     "rowidx": 207,
@@ -628,12 +628,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/28 18:38",
     "deptTime": "2021/12/28 10:38",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
+    "dest": "KR PTK",
+    "destLong": "Pyeongtaek",
     "destType": "ETA",
-    "destLocalTime": "2021/12/27 18:22",
-    "destTime": "2021/12/27 10:22",
-    "position": "31.32347\u00b0 / 121.6983\u00b0",
+    "destLocalTime": "2021/12/30 09:01",
+    "destTime": "2021/12/30 00:01",
+    "position": "31.2596\u00b0 / 121.9124\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
