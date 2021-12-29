@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/29 19:00",
     "destTime": "2021/12/29 18:00",
-    "position": "55.08018\u00b0 / 7.363033\u00b0",
+    "position": "55.03284\u00b0 / 7.362037\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -50,12 +50,12 @@
     "deptTime": "2021/12/28 12:24",
     "dest": "ES VLC",
     "destLong": "Valencia",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/29 11:30",
-    "destTime": "2021/12/29 10:30",
-    "position": "39.42292\u00b0 / -0.28754\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/29 11:41",
+    "destTime": "2021/12/29 10:41",
+    "position": "39.4382\u00b0 / -0.3052433\u00b0",
     "area": "Balearic Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9409481": {
     "rowidx": 188,
@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 06:00",
     "destTime": "2021/12/30 05:00",
-    "position": "41.27667\u00b0 / 17.67183\u00b0",
+    "position": "41.92198\u00b0 / 16.77447\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/28 03:59",
     "destTime": "2021/12/28 02:59",
-    "position": "53.57615\u00b0 / 8.55669\u00b0",
+    "position": "53.57615\u00b0 / 8.556713\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/29 04:00",
     "destTime": "2021/12/29 03:00",
-    "position": "53.5755\u00b0 / 8.552834\u00b0",
+    "position": "53.5755\u00b0 / 8.553\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -196,9 +196,9 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2021/12/30 08:01",
-    "destTime": "2021/12/30 00:01",
-    "position": "2.569952\u00b0 / 101.4082\u00b0",
+    "destLocalTime": "2021/12/30 08:30",
+    "destTime": "2021/12/30 00:30",
+    "position": "2.366303\u00b0 / 101.6824\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -372,9 +372,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:00",
     "destTime": "2021/12/30 01:00",
-    "position": "30.6475\u00b0 / 32.34289\u00b0",
+    "position": "31.09667\u00b0 / 32.30843\u00b0",
     "area": "East Mediterranean",
-    "status": "Class B"
+    "status": "Underway using Engine"
   },
   "9889100": {
     "rowidx": 199,
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/29 05:54",
     "destTime": "2021/12/28 22:54",
-    "position": "13.06926\u00b0 / 100.8937\u00b0",
+    "position": "13.06926\u00b0 / 100.8936\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/03 21:00",
     "destTime": "2022/01/03 13:00",
-    "position": "1.264107\u00b0 / 104.2485\u00b0",
+    "position": "1.3338\u00b0 / 104.3759\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/27 11:02",
     "destTime": "2021/12/27 07:02",
-    "position": "24.99645\u00b0 / 55.07989\u00b0",
+    "position": "24.99655\u00b0 / 55.07993\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -635,6 +635,6 @@
     "destTime": "2021/12/30 00:01",
     "position": "31.24693\u00b0 / 121.9885\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   }
 }
