@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/29 16:30",
     "destTime": "2021/12/29 15:30",
-    "position": "58.36051\u00b0 / 9.319205\u00b0",
+    "position": "57.84946\u00b0 / 8.532969\u00b0",
     "area": "Skagerrak",
     "status": "Underway using Engine"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/28 03:59",
     "destTime": "2021/12/28 02:59",
-    "position": "53.57616\u00b0 / 8.556704\u00b0",
+    "position": "53.57613\u00b0 / 8.556713\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,9 +140,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 17:00",
     "destTime": "2021/12/30 16:00",
-    "position": "51.49449\u00b0 / -2.714595\u00b0",
+    "position": "51.49875\u00b0 / -2.725912\u00b0",
     "area": "Bristol Channel",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9176395": {
     "rowidx": 191,
@@ -164,12 +164,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/28 04:27",
     "deptTime": "2021/12/28 03:27",
-    "dest": "DE NEUE WESER ANCH",
+    "dest": "DE BRV",
     "destLong": "Bremerhaven",
-    "destType": "ATA",
-    "destLocalTime": "2021/12/28 19:41",
-    "destTime": "2021/12/28 18:41",
-    "position": "53.89734\u00b0 / 7.826667\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2021/12/29 01:45",
+    "destTime": "2021/12/29 00:45",
+    "position": "53.82472\u00b0 / 8.09664\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -227,8 +227,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 12:00",
     "destTime": "2021/12/30 11:00",
-    "position": "41.2295\u00b0 / 11.60742\u00b0",
-    "area": "Tyrrhenian Sea",
+    "position": "41.74025\u00b0 / 10.86517\u00b0",
+    "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
   "9122655": {
@@ -372,9 +372,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/28 15:43",
     "destTime": "2021/12/28 13:43",
-    "position": "29.85691\u00b0 / 32.56115\u00b0",
+    "position": "29.85698\u00b0 / 32.56111\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9889100": {
     "rowidx": 199,
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/27 11:02",
     "destTime": "2021/12/27 07:02",
-    "position": "24.99644\u00b0 / 55.07986\u00b0",
+    "position": "24.99644\u00b0 / 55.0799\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
