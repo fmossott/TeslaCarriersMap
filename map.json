@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/29 20:49",
     "destTime": "2021/12/29 19:49",
-    "position": "53.57814\u00b0 / 8.551995\u00b0",
+    "position": "53.57811\u00b0 / 8.551911\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -50,12 +50,12 @@
     "deptTime": "2021/12/29 18:46",
     "dest": "ES BCN",
     "destLong": "Barcelona",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/30 11:00",
-    "destTime": "2021/12/30 10:00",
-    "position": "41.30361\u00b0 / 2.176012\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/30 11:11",
+    "destTime": "2021/12/30 10:11",
+    "position": "41.33171\u00b0 / 2.146243\u00b0",
     "area": "Balearic Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9409481": {
     "rowidx": 188,
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/30 06:21",
     "destTime": "2021/12/30 05:21",
-    "position": "45.55145\u00b0 / 13.73637\u00b0",
+    "position": "45.5515\u00b0 / 13.73637\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/28 03:59",
     "destTime": "2021/12/28 02:59",
-    "position": "53.57616\u00b0 / 8.556717\u00b0",
+    "position": "53.57615\u00b0 / 8.556713\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 15:30",
     "destTime": "2021/12/30 14:30",
-    "position": "50.83819\u00b0 / 1.41994\u00b0",
+    "position": "51.05044\u00b0 / 1.666205\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/29 04:00",
     "destTime": "2021/12/29 03:00",
-    "position": "53.5755\u00b0 / 8.552834\u00b0",
+    "position": "53.5755\u00b0 / 8.553\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/30 09:49",
     "destTime": "2021/12/30 01:49",
-    "position": "1.281073\u00b0 / 103.9043\u00b0",
+    "position": "1.281057\u00b0 / 103.9041\u00b0",
     "area": "Singapore Area",
     "status": "Stopped"
   },
@@ -227,9 +227,9 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/30 10:12",
     "destTime": "2021/12/30 09:12",
-    "position": "43.40038\u00b0 / 3.708272\u00b0",
+    "position": "43.4003\u00b0 / 3.708017\u00b0",
     "area": "West Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9122655": {
     "rowidx": 194,
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/26 13:27",
     "destTime": "2021/12/26 11:27",
-    "position": "37.46307\u00b0 / 11.16747\u00b0",
+    "position": "37.50183\u00b0 / 10.88385\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "31.19299\u00b0 / 29.87901\u00b0",
+    "position": "31.19297\u00b0 / 29.87901\u00b0",
     "area": "East Mediterranean",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/29 05:54",
     "destTime": "2021/12/28 22:54",
-    "position": "13.06927\u00b0 / 100.8937\u00b0",
+    "position": "13.06925\u00b0 / 100.8937\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -601,9 +601,9 @@
     "deptTime": "2021/12/28 11:11",
     "dest": "CN TXG",
     "destLong": "Tianjin",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/30 16:00",
-    "destTime": "2021/12/30 08:00",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/30 18:15",
+    "destTime": "2021/12/30 10:15",
     "position": "38.64023\u00b0 / 120.4488\u00b0",
     "area": "Bohai Sea",
     "status": "Underway by Sail"
