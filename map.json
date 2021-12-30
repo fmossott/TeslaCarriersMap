@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/29 20:49",
     "destTime": "2021/12/29 19:49",
-    "position": "53.57809\u00b0 / 8.551995\u00b0",
+    "position": "53.57811\u00b0 / 8.551949\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 11:00",
     "destTime": "2021/12/30 10:00",
-    "position": "40.22341\u00b0 / 0.9007417\u00b0",
+    "position": "40.33465\u00b0 / 1.07915\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 06:00",
     "destTime": "2021/12/30 05:00",
-    "position": "45.0773\u00b0 / 13.31547\u00b0",
+    "position": "45.40953\u00b0 / 13.23593\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/28 03:59",
     "destTime": "2021/12/28 02:59",
-    "position": "53.57615\u00b0 / 8.55672\u00b0",
+    "position": "53.57614\u00b0 / 8.55671\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 16:00",
     "destTime": "2021/12/30 15:00",
-    "position": "49.9003\u00b0 / -2.583102\u00b0",
+    "position": "50.08231\u00b0 / -1.559728\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/29 04:00",
     "destTime": "2021/12/29 03:00",
-    "position": "53.57549\u00b0 / 8.552923\u00b0",
+    "position": "53.5755\u00b0 / 8.552834\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -193,14 +193,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/15 22:15",
     "deptTime": "2021/12/15 20:15",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/30 09:00",
-    "destTime": "2021/12/30 01:00",
-    "position": "1.253755\u00b0 / 103.9521\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/30 09:49",
+    "destTime": "2021/12/30 01:49",
+    "position": "1.280957\u00b0 / 103.9045\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9483786": {
     "rowidx": 193,
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 11:00",
     "destTime": "2021/12/30 10:00",
-    "position": "42.96242\u00b0 / 5.182992\u00b0",
+    "position": "43.02916\u00b0 / 4.925416\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -287,7 +287,7 @@
     "destTime": "2021/12/29 14:00",
     "position": "27.46596\u00b0 / 50.70016\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9722302": {
     "rowidx": 196,
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/26 13:27",
     "destTime": "2021/12/26 11:27",
-    "position": "36.64515\u00b0 / 13.82644\u00b0",
+    "position": "36.76551\u00b0 / 13.34287\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -369,9 +369,9 @@
     "deptTime": "2021/12/08 17:18",
     "dest": "EG ALY",
     "destLong": "Alexandria",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/30 06:00",
-    "destTime": "2021/12/30 04:00",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/30 03:34",
+    "destTime": "2021/12/30 01:34",
     "position": "31.76693\u00b0 / 31.10043\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/29 05:54",
     "destTime": "2021/12/28 22:54",
-    "position": "13.06927\u00b0 / 100.8937\u00b0",
+    "position": "13.06929\u00b0 / 100.8937\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 07:00",
     "destTime": "2021/12/30 04:00",
-    "position": "25.7293\u00b0 / 52.26287\u00b0",
+    "position": "25.29782\u00b0 / 51.88843\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -604,7 +604,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 16:00",
     "destTime": "2021/12/30 08:00",
-    "position": "38.65303\u00b0 / 120.5406\u00b0",
+    "position": "38.64023\u00b0 / 120.4488\u00b0",
     "area": "Bohai Sea",
     "status": "Underway by Sail"
   },
