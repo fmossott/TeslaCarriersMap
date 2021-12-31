@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/29 20:49",
     "destTime": "2021/12/29 19:49",
-    "position": "53.57813\u00b0 / 8.552015\u00b0",
+    "position": "53.57812\u00b0 / 8.55195\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/30 06:21",
     "destTime": "2021/12/30 05:21",
-    "position": "45.55145\u00b0 / 13.73637\u00b0",
+    "position": "45.55148\u00b0 / 13.7364\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/28 03:59",
     "destTime": "2021/12/28 02:59",
-    "position": "53.57615\u00b0 / 8.55672\u00b0",
+    "position": "53.57614\u00b0 / 8.556731\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/30 18:49",
     "destTime": "2021/12/30 17:49",
-    "position": "51.29906\u00b0 / 3.239503\u00b0",
+    "position": "51.29905\u00b0 / 3.239555\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/02 09:00",
     "destTime": "2022/01/02 08:00",
-    "position": "43.40031\u00b0 / 3.70802\u00b0",
+    "position": "43.40033\u00b0 / 3.708025\u00b0",
     "area": "West Mediterranean",
     "status": "Moored"
   },
@@ -285,9 +285,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/29 17:00",
     "destTime": "2021/12/29 14:00",
-    "position": "27.46596\u00b0 / 50.70016\u00b0",
+    "position": "27.40432\u00b0 / 51.29286\u00b0",
     "area": "Persian Gulf",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9722302": {
     "rowidx": 196,
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/26 13:27",
     "destTime": "2021/12/26 11:27",
-    "position": "37.46977\u00b0 / 4.34005\u00b0",
+    "position": "37.43934\u00b0 / 3.86844\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -372,9 +372,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "31.19299\u00b0 / 29.87901\u00b0",
+    "position": "33.46207\u00b0 / 25.33272\u00b0",
     "area": "East Mediterranean",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9889100": {
     "rowidx": 199,
@@ -486,9 +486,9 @@
     "dest": "BH KBS",
     "destLong": "Khalifa Bin Salman",
     "destType": "ETA",
-    "destLocalTime": "2021/12/31 16:00",
-    "destTime": "2021/12/31 13:00",
-    "position": "26.48708\u00b0 / 50.98535\u00b0",
+    "destLocalTime": "2021/12/31 15:30",
+    "destTime": "2021/12/31 12:30",
+    "position": "26.36108\u00b0 / 50.77409\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -517,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/01 07:00",
     "destTime": "2021/12/31 23:00",
-    "position": "22.1418\u00b0 / 114.0933\u00b0",
+    "position": "22.38442\u00b0 / 113.7722\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
