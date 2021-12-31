@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/03 22:00",
     "destTime": "2022/01/03 20:00",
-    "position": "45.55147\u00b0 / 13.73638\u00b0",
+    "position": "45.55147\u00b0 / 13.73637\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/28 03:59",
     "destTime": "2021/12/28 02:59",
-    "position": "53.57613\u00b0 / 8.55672\u00b0",
+    "position": "53.57615\u00b0 / 8.556711\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/30 18:49",
     "destTime": "2021/12/30 17:49",
-    "position": "51.32051\u00b0 / 3.211365\u00b0",
+    "position": "51.32053\u00b0 / 3.211358\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,8 +227,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/01 16:00",
     "destTime": "2022/01/01 15:00",
-    "position": "47.64971\u00b0 / -6.513272\u00b0",
-    "area": "UK Coast & Atlantic",
+    "position": "48.38734\u00b0 / -5.909453\u00b0",
+    "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
   "9712644": {
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/26 13:27",
     "destTime": "2021/12/26 11:27",
-    "position": "37.35833\u00b0 / 2.457955\u00b0",
+    "position": "37.32808\u00b0 / 2.148652\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "34.10776\u00b0 / 24.0027\u00b0",
+    "position": "34.23417\u00b0 / 23.73779\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -425,14 +425,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/12 06:43",
     "deptTime": "2021/12/11 22:43",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2021/12/31 17:00",
-    "destTime": "2021/12/31 15:00",
-    "position": "29.82914\u00b0 / 32.5658\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2021/12/31 17:19",
+    "destTime": "2021/12/31 15:19",
+    "position": "29.83833\u00b0 / 32.57\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9782089": {
     "rowidx": 202,
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/31 10:40",
     "destTime": "2021/12/31 02:40",
-    "position": "31.32194\u00b0 / 121.6818\u00b0",
+    "position": "31.32193\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
