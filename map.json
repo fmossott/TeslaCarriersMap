@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/28 03:59",
     "destTime": "2021/12/28 02:59",
-    "position": "53.57616\u00b0 / 8.556722\u00b0",
+    "position": "53.57615\u00b0 / 8.556708\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/30 18:49",
     "destTime": "2021/12/30 17:49",
-    "position": "51.32053\u00b0 / 3.211322\u00b0",
+    "position": "51.32053\u00b0 / 3.211312\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -142,7 +142,7 @@
     "destTime": "2021/12/29 03:00",
     "position": "54.98517\u00b0 / -1.463667\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9427952": {
     "rowidx": 192,
@@ -225,9 +225,9 @@
     "dest": "BE ANR",
     "destLong": "Antwerp",
     "destType": "ETA",
-    "destLocalTime": "2022/01/01 19:00",
-    "destTime": "2022/01/01 18:00",
-    "position": "51.23927\u00b0 / 2.146923\u00b0",
+    "destLocalTime": "2022/01/01 19:30",
+    "destTime": "2022/01/01 18:30",
+    "position": "51.30659\u00b0 / 2.300588\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/26 13:27",
     "destTime": "2021/12/26 11:27",
-    "position": "36.07718\u00b0 / -5.04819\u00b0",
+    "position": "36.02281\u00b0 / -5.339035\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/01 22:00",
     "destTime": "2022/01/01 20:00",
-    "position": "29.28965\u00b0 / 32.73608\u00b0",
+    "position": "29.47348\u00b0 / 32.6342\u00b0",
     "area": "Red Sea",
     "status": "Underway"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "35.99687\u00b0 / 16.34557\u00b0",
+    "position": "36.05902\u00b0 / 16.03137\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -370,10 +370,10 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/01/02 05:00",
-    "destTime": "2022/01/01 21:00",
-    "position": "1.399427\u00b0 / 104.4251\u00b0",
-    "area": "Gulf of Thailand",
+    "destLocalTime": "2022/01/02 03:30",
+    "destTime": "2022/01/01 19:30",
+    "position": "1.296423\u00b0 / 104.2368\u00b0",
+    "area": "Singapore Area",
     "status": "Underway using Engine"
   },
   "9267687": {
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/01 07:00",
     "destTime": "2021/12/31 23:00",
-    "position": "22.86635\u00b0 / 113.5451\u00b0",
+    "position": "22.86638\u00b0 / 113.5451\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/01 11:34",
     "destTime": "2022/01/01 03:34",
-    "position": "31.3235\u00b0 / 121.6793\u00b0",
+    "position": "31.32355\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Stopped"
   },
