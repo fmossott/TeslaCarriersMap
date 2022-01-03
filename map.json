@@ -14,17 +14,17 @@
     "length": "196.4",
     "breadth": "31.1",
     "grossTonnage": "44,408",
-    "dept": "ES BCN",
-    "deptLong": "Barcelona",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/12/30 19:45",
-    "deptTime": "2021/12/30 18:45",
+    "dept": "TR CKZ",
+    "deptLong": "Canakkale",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/01/03 21:49",
+    "deptTime": "2022/01/03 20:49",
     "dest": "TR YAL",
     "destLong": "Yalova",
     "destType": "ETA",
     "destLocalTime": "2022/01/04 12:00",
     "destTime": "2022/01/04 09:00",
-    "position": "39.73517\u00b0 / 25.79753\u00b0",
+    "position": "40.02674\u00b0 / 26.23347\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/28 03:59",
     "destTime": "2021/12/28 02:59",
-    "position": "53.57615\u00b0 / 8.556706\u00b0",
+    "position": "53.57615\u00b0 / 8.556704\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/29 04:00",
     "destTime": "2021/12/29 03:00",
-    "position": "50.73466\u00b0 / 0.7853333\u00b0",
+    "position": "50.62417\u00b0 / 0.5291666\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/03 07:32",
     "destTime": "2022/01/03 06:32",
-    "position": "35.95309\u00b0 / 14.72618\u00b0",
+    "position": "35.82738\u00b0 / 14.72482\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/02 02:17",
     "destTime": "2022/01/02 01:17",
-    "position": "51.27009\u00b0 / 4.218353\u00b0",
+    "position": "51.27007\u00b0 / 4.218345\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/02 21:46",
     "destTime": "2022/01/02 16:46",
-    "position": "20.4579\u00b0 / 68.44602\u00b0",
+    "position": "20.35344\u00b0 / 68.51263\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "36.70405\u00b0 / -1.041022\u00b0",
+    "position": "36.63389\u00b0 / -1.357257\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -401,8 +401,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/10 01:00",
     "destTime": "2022/01/10 00:00",
-    "position": "34.58742\u00b0 / 22.86516\u00b0",
-    "area": "East Mediterranean",
+    "position": "36.19215\u00b0 / 15.32887\u00b0",
+    "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
   "9782089": {
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/03 17:32",
     "destTime": "2022/01/03 09:32",
-    "position": "1.270478\u00b0 / 103.8517\u00b0",
+    "position": "1.270457\u00b0 / 103.8517\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
