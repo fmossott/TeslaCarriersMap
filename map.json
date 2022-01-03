@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/03 07:30",
     "destTime": "2022/01/03 05:30",
-    "position": "37.43457\u00b0 / 24.00014\u00b0",
+    "position": "37.65181\u00b0 / 24.07697\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2021/12/28 03:59",
     "destTime": "2021/12/28 02:59",
-    "position": "53.57615\u00b0 / 8.556718\u00b0",
+    "position": "53.57615\u00b0 / 8.556711\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/02 16:58",
     "destTime": "2022/01/02 15:58",
-    "position": "51.27479\u00b0 / 4.222558\u00b0",
+    "position": "51.2748\u00b0 / 4.222527\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/29 04:00",
     "destTime": "2021/12/29 03:00",
-    "position": "53.4196\u00b0 / 1.878917\u00b0",
+    "position": "53.2655\u00b0 / 2.125683\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/02 13:00",
     "destTime": "2022/01/02 12:00",
-    "position": "36.00717\u00b0 / 14.75845\u00b0",
+    "position": "36.03537\u00b0 / 14.76039\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/02 02:17",
     "destTime": "2022/01/02 01:17",
-    "position": "51.27007\u00b0 / 4.218352\u00b0",
+    "position": "51.27013\u00b0 / 4.218367\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -248,17 +248,17 @@
     "grossTonnage": "75,206",
     "dept": "PK KHI",
     "deptLong": "Karachi",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/01/02 19:46",
-    "deptTime": "2022/01/02 16:46",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/01/03 09:59",
+    "deptTime": "2022/01/03 04:59",
     "dest": "LK HBA",
     "destLong": "Hambantota",
     "destType": "ETA",
     "destLocalTime": "2022/01/02 21:46",
     "destTime": "2022/01/02 16:46",
-    "position": "24.84016\u00b0 / 66.97919\u00b0",
+    "position": "24.76939\u00b0 / 66.977\u00b0",
     "area": "West Coast India",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9722302": {
     "rowidx": 196,
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/26 13:27",
     "destTime": "2021/12/26 11:27",
-    "position": "41.87228\u00b0 / -9.78723\u00b0",
+    "position": "42.12318\u00b0 / -9.801037\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "37.77794\u00b0 / 4.2616\u00b0",
+    "position": "37.7781\u00b0 / 3.907893\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/01 07:00",
     "destTime": "2021/12/31 23:00",
-    "position": "22.86635\u00b0 / 113.5451\u00b0",
+    "position": "22.8663\u00b0 / 113.5451\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -635,7 +635,7 @@
     "destTime": "2022/01/01 03:34",
     "position": "31.24077\u00b0 / 122.0253\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9445409": {
     "rowidx": 209,
@@ -683,15 +683,15 @@
     "grossTonnage": "39,454",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/01/02 05:52",
-    "deptTime": "2022/01/02 03:52",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/01/03 12:21",
+    "deptTime": "2022/01/03 04:21",
     "dest": "CN XMG",
     "destLong": "Xiamen",
     "destType": "ETA",
     "destLocalTime": "2022/01/04 17:20",
     "destTime": "2022/01/04 09:20",
-    "position": "31.32506\u00b0 / 121.6837\u00b0",
+    "position": "31.31261\u00b0 / 121.7385\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
