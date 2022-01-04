@@ -14,19 +14,19 @@
     "length": "196.4",
     "breadth": "31.1",
     "grossTonnage": "44,408",
-    "dept": "ES BCN",
+    "dept": "TR YALOVA TOWN ANCH",
     "deptLong": "Barcelona",
-    "deptType": "ATD",
-    "deptLocalTime": "2021/12/30 19:45",
-    "deptTime": "2021/12/30 18:45",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/01/04 09:00",
+    "deptTime": "2022/01/04 08:00",
     "dest": "TR YAL",
     "destLong": "Yalova",
     "destType": "ETA",
     "destLocalTime": "2022/01/04 10:45",
     "destTime": "2022/01/04 07:45",
-    "position": "40.6872\u00b0 / 29.28645\u00b0",
+    "position": "40.68288\u00b0 / 29.3141\u00b0",
     "area": "Marmara Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9409481": {
     "rowidx": 188,
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/02 02:17",
     "destTime": "2022/01/02 01:17",
-    "position": "51.27008\u00b0 / 4.218385\u00b0",
+    "position": "51.27011\u00b0 / 4.218369\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -314,9 +314,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/04 07:58",
     "destTime": "2022/01/04 05:58",
-    "position": "31.18922\u00b0 / 29.8772\u00b0",
+    "position": "31.18918\u00b0 / 29.8772\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9624029": {
     "rowidx": 198,
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "36.13023\u00b0 / -4.740465\u00b0",
+    "position": "36.09242\u00b0 / -5.036973\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
