@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/05 16:43",
     "destTime": "2022/01/05 13:43",
-    "position": "40.72346\u00b0 / 29.47637\u00b0",
+    "position": "40.72347\u00b0 / 29.4764\u00b0",
     "area": "Marmara Sea",
     "status": "Stopped"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/05 04:31",
     "destTime": "2022/01/05 03:31",
-    "position": "57.68939\u00b0 / 11.86652\u00b0",
+    "position": "57.68941\u00b0 / 11.86653\u00b0",
     "area": "Kattegat",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/05 18:00",
     "destTime": "2022/01/05 17:00",
-    "position": "51.35733\u00b0 / 2.467667\u00b0",
+    "position": "51.36511\u00b0 / 2.765368\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/02 02:17",
     "destTime": "2022/01/02 01:17",
-    "position": "51.27007\u00b0 / 4.218379\u00b0",
+    "position": "51.27007\u00b0 / 4.218399\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -254,10 +254,10 @@
     "dest": "TH LCH",
     "destLong": "Laem Chabang",
     "destType": "ETA",
-    "destLocalTime": "2022/01/11 23:00",
-    "destTime": "2022/01/11 16:00",
-    "position": "14.12649\u00b0 / 72.44808\u00b0",
-    "area": "West Coast India",
+    "destLocalTime": "2022/01/12 06:00",
+    "destTime": "2022/01/11 23:00",
+    "position": "8.590444\u00b0 / 75.51774\u00b0",
+    "area": "Laccadive Sea",
     "status": "Underway using Engine"
   },
   "9722302": {
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/26 13:27",
     "destTime": "2021/12/26 11:27",
-    "position": "50.55713\u00b0 / -0.431015\u00b0",
+    "position": "50.53868\u00b0 / -0.4491683\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/05 14:35",
     "destTime": "2022/01/05 06:35",
-    "position": "31.32343\u00b0 / 121.6797\u00b0",
+    "position": "31.32345\u00b0 / 121.6797\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -749,7 +749,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/05 14:57",
     "destTime": "2022/01/05 06:57",
-    "position": "31.322\u00b0 / 121.6818\u00b0",
+    "position": "31.32199\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -761,6 +761,7 @@
     "notes": "",
     "quarter": "21Q4",
     "numDept": "0",
+    "mapStatus": "4",
     "mtsid": "4265856",
     "name": "Hoegh Traveller",
     "mmsi": "259075000",
@@ -772,13 +773,13 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/24 15:04",
     "deptTime": "2021/12/24 05:04",
-    "dest": "CN STG",
-    "destLong": "Shantou",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
     "destType": "ETA",
-    "destLocalTime": "2022/01/03 01:00",
-    "destTime": "2022/01/02 17:00",
-    "position": "",
+    "destLocalTime": "2022/01/05 22:20",
+    "destTime": "2022/01/05 14:20",
+    "position": "31.28692\u00b0 / 121.8149\u00b0",
     "area": "East Australia",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   }
 }
