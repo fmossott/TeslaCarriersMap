@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/11 02:00",
     "destTime": "2022/01/10 18:00",
-    "position": "31.32349\u00b0 / 121.6797\u00b0",
+    "position": "31.3235\u00b0 / 121.6797\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/02 02:17",
     "destTime": "2022/01/02 01:17",
-    "position": "51.27009\u00b0 / 4.21837\u00b0",
+    "position": "51.27008\u00b0 / 4.218362\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -159,17 +159,17 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "62,623",
-    "dept": "TR CKZ",
-    "deptLong": "Canakkale",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/01/06 21:07",
-    "deptTime": "2022/01/06 19:07",
+    "dept": "EG ALY",
+    "deptLong": "Alexandria",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/01/05 01:24",
+    "deptTime": "2022/01/04 23:24",
     "dest": "TR DRC",
     "destLong": "Derince",
     "destType": "ETA",
     "destLocalTime": "2022/01/07 10:00",
     "destTime": "2022/01/07 07:00",
-    "position": "40.34877\u00b0 / 26.6486\u00b0",
+    "position": "40.38868\u00b0 / 26.68513\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -256,9 +256,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/06 02:20",
     "destTime": "2022/01/05 23:20",
-    "position": "27.40084\u00b0 / 50.75313\u00b0",
+    "position": "26.76724\u00b0 / 51.28837\u00b0",
     "area": "Persian Gulf",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9355185": {
     "rowidx": 196,
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/11 12:00",
     "destTime": "2022/01/11 04:00",
-    "position": "24.54218\u00b0 / 118.089\u00b0",
+    "position": "24.54217\u00b0 / 118.089\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
