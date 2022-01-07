@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/02 02:17",
     "destTime": "2022/01/02 01:17",
-    "position": "51.27008\u00b0 / 4.218387\u00b0",
+    "position": "51.27009\u00b0 / 4.21836\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -130,9 +130,9 @@
     "length": "199.97",
     "breadth": "36.5",
     "grossTonnage": "75,283",
-    "dept": "GB SOU",
+    "dept": "BE ANTWERP ANCH",
     "deptLong": "Southampton",
-    "deptType": "ATD",
+    "deptType": "ATA",
     "deptLocalTime": "2022/01/06 10:27",
     "deptTime": "2022/01/06 02:27",
     "dest": "BE ZEE",
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/07 10:00",
     "destTime": "2022/01/07 09:00",
-    "position": "51.51359\u00b0 / 2.638563\u00b0",
+    "position": "51.55879\u00b0 / 2.782328\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/07 12:06",
     "destTime": "2022/01/07 09:06",
-    "position": "40.7485\u00b0 / 29.84352\u00b0",
+    "position": "40.7486\u00b0 / 29.84348\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -198,9 +198,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "39.93487\u00b0 / -9.820115\u00b0",
+    "position": "39.74103\u00b0 / -10.34358\u00b0",
     "area": "UK Coast & Atlantic",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9702455": {
     "rowidx": 194,
@@ -256,8 +256,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/08 06:30",
     "destTime": "2022/01/08 02:30",
-    "position": "25.44805\u00b0 / 54.93072\u00b0",
-    "area": "Dubai Area",
+    "position": "25.84241\u00b0 / 55.42945\u00b0",
+    "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
   "9355185": {
@@ -338,14 +338,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/01/02 11:09",
     "deptTime": "2022/01/02 03:09",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/01/01 11:34",
-    "destTime": "2022/01/01 03:34",
-    "position": "22.57593\u00b0 / 119.4814\u00b0",
-    "area": "South China",
-    "status": "Out of Range"
+    "dest": "SA JED",
+    "destLong": "Jeddah",
+    "destType": "ETA",
+    "destLocalTime": "2022/01/19 05:00",
+    "destTime": "2022/01/19 02:00",
+    "position": "1.295633\u00b0 / 104.2503\u00b0",
+    "area": "Singapore Area",
+    "status": "Underway using Engine"
   },
   "9445409": {
     "rowidx": 199,
