@@ -544,10 +544,10 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/01/11 14:30",
-    "destTime": "2022/01/11 06:30",
-    "position": "24.32972\u00b0 / 120.1678\u00b0",
-    "area": "East China Sea",
+    "destLocalTime": "2022/01/11 16:00",
+    "destTime": "2022/01/11 08:00",
+    "position": "22.74557\u00b0 / 119.6577\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   },
   "9728069": {
@@ -602,11 +602,11 @@
     "dest": "CN YTG",
     "destLong": "Yantai",
     "destType": "ETA",
-    "destLocalTime": "2022/01/08 22:00",
-    "destTime": "2022/01/08 14:00",
-    "position": "31.25867\u00b0 / 121.9173\u00b0",
-    "area": "East China Sea",
-    "status": "Out of Range"
+    "destLocalTime": "2022/01/08 07:00",
+    "destTime": "2022/01/07 23:00",
+    "position": "36.28791\u00b0 / 122.9772\u00b0",
+    "area": "Yellow Sea",
+    "status": "Underway using Engine"
   },
   "9419759": {
     "rowidx": 208,
@@ -719,7 +719,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/07 16:15",
     "destTime": "2022/01/07 08:15",
-    "position": "31.32341\u00b0 / 121.6796\u00b0",
+    "position": "31.32338\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
