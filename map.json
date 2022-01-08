@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/02 02:17",
     "destTime": "2022/01/02 01:17",
-    "position": "51.27009\u00b0 / 4.218405\u00b0",
+    "position": "51.27009\u00b0 / 4.218387\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/07 13:28",
     "destTime": "2022/01/07 12:28",
-    "position": "51.55025\u00b0 / 2.773955\u00b0",
+    "position": "51.51417\u00b0 / 2.819608\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/08 02:20",
     "destTime": "2022/01/07 23:20",
-    "position": "40.41628\u00b0 / 29.08352\u00b0",
+    "position": "40.41628\u00b0 / 29.0835\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -690,7 +690,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/07 03:31",
     "destTime": "2022/01/06 19:31",
-    "position": "31.32269\u00b0 / 121.681\u00b0",
+    "position": "31.32272\u00b0 / 121.681\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -709,18 +709,18 @@
     "length": "199.9",
     "breadth": "36",
     "grossTonnage": "65,148",
-    "dept": "CO BUN",
-    "deptLong": "Buenaventura",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2021/12/14 15:47",
-    "deptTime": "2021/12/14 20:47",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/01/07 16:15",
-    "destTime": "2022/01/07 08:15",
-    "position": "31.32336\u00b0 / 121.6796\u00b0",
+    "deptLocalTime": "2022/01/08 16:20",
+    "deptTime": "2022/01/08 08:20",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/01/14 08:00",
+    "destTime": "2022/01/14 00:00",
+    "position": "31.30061\u00b0 / 121.7731\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
