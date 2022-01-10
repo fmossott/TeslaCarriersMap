@@ -110,7 +110,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/02 02:17",
     "destTime": "2022/01/02 01:17",
-    "position": "51.27005\u00b0 / 4.218363\u00b0",
+    "position": "51.27011\u00b0 / 4.218347\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -168,9 +168,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/11 01:30",
     "destTime": "2022/01/11 00:30",
-    "position": "51.45817\u00b0 / 2.624527\u00b0",
+    "position": "51.45289\u00b0 / 2.566875\u00b0",
     "area": "North Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9284752": {
     "rowidx": 193,
@@ -187,19 +187,19 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "62,623",
-    "dept": "TR GEM",
-    "deptLong": "Gemlik",
+    "dept": "GR PIR",
+    "deptLong": "Piraeus",
     "deptType": "ATD",
-    "deptLocalTime": "2022/01/08 14:23",
-    "deptTime": "2022/01/08 11:23",
-    "dest": "GR PIR",
-    "destLong": "Piraeus",
-    "destType": "ATA",
+    "deptLocalTime": "2022/01/10 22:56",
+    "deptTime": "2022/01/10 20:56",
+    "dest": "GB BRS",
+    "destLong": "Bristol",
+    "destType": "ETA",
     "destLocalTime": "2022/01/09 17:51",
     "destTime": "2022/01/09 15:51",
-    "position": "37.95883\u00b0 / 23.60548\u00b0",
+    "position": "37.9222\u00b0 / 23.59498\u00b0",
     "area": "Piraeus Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9624029": {
     "rowidx": 194,
@@ -487,7 +487,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/04 13:40",
     "destTime": "2022/01/04 05:40",
-    "position": "1.185333\u00b0 / 103.6459\u00b0",
+    "position": "1.256567\u00b0 / 103.4101\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
