@@ -76,14 +76,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/01/07 15:38",
     "deptTime": "2022/01/07 07:38",
-    "dest": "PH MNL",
+    "dest": "PH MANILA ANCH",
     "destLong": "Manila",
-    "destType": "ETA",
-    "destLocalTime": "2022/01/11 03:00",
-    "destTime": "2022/01/10 19:00",
-    "position": "14.56622\u00b0 / 120.8527\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/01/11 02:59",
+    "destTime": "2022/01/10 18:59",
+    "position": "14.565\u00b0 / 120.8847\u00b0",
     "area": "Philippines",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9122655": {
     "rowidx": 190,
@@ -342,7 +342,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/13 03:00",
     "destTime": "2022/01/13 00:00",
-    "position": "11.6018\u00b0 / 43.07355\u00b0",
+    "position": "11.6018\u00b0 / 43.07351\u00b0",
     "area": "Gulf of Aden",
     "status": "Moored"
   },
@@ -656,11 +656,11 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/01/09 05:12",
     "deptTime": "2022/01/08 21:12",
-    "dest": "CN TXG",
+    "dest": "CN TIANJIN ANCH",
     "destLong": "Tianjin",
-    "destType": "ETA",
-    "destLocalTime": "2022/01/11 02:30",
-    "destTime": "2022/01/10 18:30",
+    "destType": "ATA",
+    "destLocalTime": "2022/01/11 03:05",
+    "destTime": "2022/01/10 19:05",
     "position": "38.60912\u00b0 / 120.9356\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
@@ -748,7 +748,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/10 06:00",
     "destTime": "2022/01/09 22:00",
-    "position": "31.32355\u00b0 / 121.6795\u00b0",
+    "position": "31.32354\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -777,7 +777,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/10 06:19",
     "destTime": "2022/01/09 22:19",
-    "position": "31.32208\u00b0 / 121.6818\u00b0",
+    "position": "31.32213\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
