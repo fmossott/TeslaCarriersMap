@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/10 11:42",
     "destTime": "2022/01/10 08:42",
-    "position": "11.60179\u00b0 / 43.07353\u00b0",
+    "position": "11.6018\u00b0 / 43.07355\u00b0",
     "area": "Gulf of Aden",
     "status": "Moored"
   },
@@ -374,7 +374,7 @@
     "destTime": "2022/01/29 14:00",
     "position": "37.65533\u00b0 / 121.7129\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9514999": {
     "rowidx": 200,
@@ -633,8 +633,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/12 13:00",
     "destTime": "2022/01/12 21:00",
-    "position": "21.8599\u00b0 / -113.0703\u00b0",
-    "area": "West South America",
+    "position": "23.40977\u00b0 / -114.7962\u00b0",
+    "area": "West Coast Central America",
     "status": "Underway using Engine"
   },
   "9426362": {
@@ -750,7 +750,7 @@
     "destLocalTime": "2022/01/11 02:30",
     "destTime": "2022/01/10 18:30",
     "position": "38.60912\u00b0 / 120.9356\u00b0",
-    "area": "East China Sea",
+    "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
   "9515008": {
@@ -865,7 +865,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/10 06:19",
     "destTime": "2022/01/09 22:19",
-    "position": "31.32206\u00b0 / 121.6817\u00b0",
+    "position": "31.32213\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
