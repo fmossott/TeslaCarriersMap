@@ -52,7 +52,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/12 13:00",
     "destTime": "2022/01/12 21:00",
-    "position": "36.70241\u00b0 / -122.4303\u00b0",
+    "position": "36.95527\u00b0 / -122.5258\u00b0",
     "area": "US West Coast",
     "status": "Underway using Engine"
   },
@@ -110,7 +110,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/02 02:17",
     "destTime": "2022/01/02 01:17",
-    "position": "51.27007\u00b0 / 4.218401\u00b0",
+    "position": "51.27009\u00b0 / 4.2183\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -168,7 +168,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/11 01:46",
     "destTime": "2022/01/11 00:46",
-    "position": "51.31378\u00b0 / 3.2274\u00b0",
+    "position": "51.31376\u00b0 / 3.227395\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -197,7 +197,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/09 17:51",
     "destTime": "2022/01/09 15:51",
-    "position": "37.14913\u00b0 / 12.53855\u00b0",
+    "position": "37.24785\u00b0 / 12.24885\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -226,7 +226,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "53.21864\u00b0 / -5.989598\u00b0",
+    "position": "53.33276\u00b0 / -6.069853\u00b0",
     "area": "Irish Sea",
     "status": "Underway using Engine"
   },
@@ -250,14 +250,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2021/12/12 06:43",
     "deptTime": "2021/12/11 22:43",
-    "dest": "BE ZEE",
+    "dest": "BE ANTWERP ANCH",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2022/01/12 17:30",
-    "destTime": "2022/01/12 16:30",
-    "position": "51.45643\u00b0 / 2.635355\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/01/12 17:41",
+    "destTime": "2022/01/12 16:41",
+    "position": "51.45721\u00b0 / 2.632235\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9782089": {
     "rowidx": 196,
@@ -313,7 +313,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/12 13:59",
     "destTime": "2022/01/12 09:59",
-    "position": "25.14305\u00b0 / 54.86631\u00b0",
+    "position": "25.1431\u00b0 / 54.86637\u00b0",
     "area": "Dubai Area",
     "status": "At Anchor"
   },
@@ -342,7 +342,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/12 18:29",
     "destTime": "2022/01/12 15:29",
-    "position": "21.46778\u00b0 / 39.15894\u00b0",
+    "position": "21.46776\u00b0 / 39.15892\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -516,7 +516,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/11 16:42",
     "destTime": "2022/01/11 08:42",
-    "position": "2.099683\u00b0 / 102.0931\u00b0",
+    "position": "2.289367\u00b0 / 101.8772\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -574,7 +574,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/12 17:05",
     "destTime": "2022/01/12 09:05",
-    "position": "1.282887\u00b0 / 103.7515\u00b0",
+    "position": "1.282902\u00b0 / 103.7515\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
