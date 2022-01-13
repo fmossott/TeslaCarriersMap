@@ -139,7 +139,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/02 02:17",
     "destTime": "2022/01/02 01:17",
-    "position": "51.26178\u00b0 / 4.234342\u00b0",
+    "position": "51.26178\u00b0 / 4.234328\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -197,7 +197,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/11 01:46",
     "destTime": "2022/01/11 00:46",
-    "position": "51.31375\u00b0 / 3.227422\u00b0",
+    "position": "51.31379\u00b0 / 3.227415\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -255,7 +255,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "51.90193\u00b0 / -5.881747\u00b0",
+    "position": "51.79556\u00b0 / -5.925288\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
@@ -284,7 +284,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/12 17:41",
     "destTime": "2022/01/12 16:41",
-    "position": "51.45762\u00b0 / 2.632663\u00b0",
+    "position": "51.45837\u00b0 / 2.633572\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -342,7 +342,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/13 08:02",
     "destTime": "2022/01/13 04:02",
-    "position": "24.99652\u00b0 / 55.08014\u00b0",
+    "position": "24.99654\u00b0 / 55.0801\u00b0",
     "area": "Persian Gulf",
     "status": "Stopped"
   },
@@ -371,7 +371,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/12 18:29",
     "destTime": "2022/01/12 15:29",
-    "position": "21.46772\u00b0 / 39.15893\u00b0",
+    "position": "21.46774\u00b0 / 39.15893\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -685,14 +685,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/01/13 20:30",
     "deptTime": "2022/01/13 12:30",
-    "dest": "CN TXG",
-    "destLong": "Tianjin",
+    "dest": "KR PTK",
+    "destLong": "Pyeongtaek",
     "destType": "ETA",
-    "destLocalTime": "2022/01/12 02:08",
-    "destTime": "2022/01/11 18:08",
-    "position": "38.60912\u00b0 / 120.9356\u00b0",
+    "destLocalTime": "2022/01/15 04:30",
+    "destTime": "2022/01/14 19:30",
+    "position": "38.59308\u00b0 / 120.6763\u00b0",
     "area": "Bohai Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9515008": {
     "rowidx": 211,
@@ -777,7 +777,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/12 20:33",
     "destTime": "2022/01/12 12:33",
-    "position": "31.32346\u00b0 / 121.6795\u00b0",
+    "position": "31.32345\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
