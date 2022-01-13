@@ -52,7 +52,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/12 15:21",
     "destTime": "2022/01/12 23:21",
-    "position": "37.74963\u00b0 / -122.3755\u00b0",
+    "position": "37.74961\u00b0 / -122.3755\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -110,9 +110,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/02 02:17",
     "destTime": "2022/01/02 01:17",
-    "position": "51.2701\u00b0 / 4.218383\u00b0",
+    "position": "51.26185\u00b0 / 4.234687\u00b0",
     "area": "Antwerp Area",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9712644": {
     "rowidx": 191,
@@ -168,7 +168,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/11 01:46",
     "destTime": "2022/01/11 00:46",
-    "position": "51.3138\u00b0 / 3.227397\u00b0",
+    "position": "51.31378\u00b0 / 3.227405\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -226,7 +226,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "52.48897\u00b0 / -5.777312\u00b0",
+    "position": "52.3724\u00b0 / -5.766412\u00b0",
     "area": "Irish Sea",
     "status": "Underway using Engine"
   },
@@ -255,7 +255,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/12 17:41",
     "destTime": "2022/01/12 16:41",
-    "position": "51.45791\u00b0 / 2.633745\u00b0",
+    "position": "51.45778\u00b0 / 2.633657\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -286,7 +286,7 @@
     "destTime": "2022/01/08 03:20",
     "position": "5.616225\u00b0 / 80.258\u00b0",
     "area": "Oman Gulf",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9355185": {
     "rowidx": 197,
@@ -313,7 +313,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/13 08:02",
     "destTime": "2022/01/13 04:02",
-    "position": "24.99655\u00b0 / 55.08016\u00b0",
+    "position": "24.9966\u00b0 / 55.08015\u00b0",
     "area": "Persian Gulf",
     "status": "Stopped"
   },
@@ -342,7 +342,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/12 18:29",
     "destTime": "2022/01/12 15:29",
-    "position": "21.46774\u00b0 / 39.15891\u00b0",
+    "position": "21.46778\u00b0 / 39.15892\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -429,9 +429,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/09 16:39",
     "destTime": "2022/01/09 08:39",
-    "position": "8.243917\u00b0 / 94.69188\u00b0",
-    "area": "Andaman Sea",
-    "status": "Out of Range"
+    "position": "13.24937\u00b0 / 80.41238\u00b0",
+    "area": "Bengal Bay",
+    "status": "Underway using Engine"
   },
   "9460887": {
     "rowidx": 202,
@@ -777,7 +777,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/12 20:33",
     "destTime": "2022/01/12 12:33",
-    "position": "31.32345\u00b0 / 121.6795\u00b0",
+    "position": "31.32344\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
