@@ -168,7 +168,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/16 01:36",
     "destTime": "2022/01/16 00:36",
-    "position": "51.31397\u00b0 / 3.227333\u00b0",
+    "position": "51.31395\u00b0 / 3.227387\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -255,7 +255,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/09 17:51",
     "destTime": "2022/01/09 15:51",
-    "position": "43.30198\u00b0 / -9.7161\u00b0",
+    "position": "43.54593\u00b0 / -9.57555\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -284,7 +284,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "48.96619\u00b0 / -6.411644\u00b0",
+    "position": "45.79655\u00b0 / -8.539512\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
@@ -313,7 +313,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/16 22:00",
     "destTime": "2022/01/16 21:00",
-    "position": "51.45789\u00b0 / 2.634912\u00b0",
+    "position": "51.45808\u00b0 / 2.635055\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -369,9 +369,9 @@
     "dest": "SA DMM",
     "destLong": "Dammam",
     "destType": "ETA",
-    "destLocalTime": "2022/01/17 08:00",
-    "destTime": "2022/01/17 05:00",
-    "position": "25.10103\u00b0 / 54.95856\u00b0",
+    "destLocalTime": "2022/01/17 13:00",
+    "destTime": "2022/01/17 10:00",
+    "position": "25.58827\u00b0 / 54.65887\u00b0",
     "area": "Dubai Area",
     "status": "Underway using Engine"
   },
@@ -545,7 +545,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/04 13:40",
     "destTime": "2022/01/04 05:40",
-    "position": "8.300783\u00b0 / 76.58121\u00b0",
+    "position": "8.324917\u00b0 / 76.5473\u00b0",
     "area": "Laccadive Sea",
     "status": "Underway using Engine"
   },
@@ -661,7 +661,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/16 09:21",
     "destTime": "2022/01/16 01:21",
-    "position": "1.227855\u00b0 / 103.9196\u00b0",
+    "position": "1.13941\u00b0 / 103.7316\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -806,7 +806,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/03 20:00",
     "destTime": "2022/02/03 18:00",
-    "position": "31.32205\u00b0 / 121.6816\u00b0",
+    "position": "31.32208\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -825,18 +825,18 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "59,440",
-    "dept": "JP HIJ",
-    "deptLong": "Hiroshima",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/01/12 20:29",
-    "deptTime": "2022/01/12 11:29",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/01/16 12:28",
-    "destTime": "2022/01/16 04:28",
-    "position": "31.3233\u00b0 / 121.6795\u00b0",
+    "deptLocalTime": "2022/01/17 00:09",
+    "deptTime": "2022/01/16 16:09",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/01/22 20:00",
+    "destTime": "2022/01/22 12:00",
+    "position": "31.2956\u00b0 / 121.7859\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
