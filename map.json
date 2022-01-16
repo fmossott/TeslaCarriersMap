@@ -141,7 +141,7 @@
     "destTime": "2022/01/29 20:00",
     "position": "1.280627\u00b0 / 103.9021\u00b0",
     "area": "Singapore Area",
-    "status": "At Anchor"
+    "status": "Out of Range"
   },
   "9122655": {
     "rowidx": 192,
@@ -168,7 +168,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/16 01:36",
     "destTime": "2022/01/16 00:36",
-    "position": "51.31394\u00b0 / 3.227367\u00b0",
+    "position": "51.31395\u00b0 / 3.227353\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -255,7 +255,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/09 17:51",
     "destTime": "2022/01/09 15:51",
-    "position": "44.2945\u00b0 / -9.245867\u00b0",
+    "position": "44.5132\u00b0 / -9.1525\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -284,8 +284,8 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "45.0316\u00b0 / -9.054212\u00b0",
-    "area": "Biscay Bay",
+    "position": "44.78096\u00b0 / -9.206485\u00b0",
+    "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
   "9702455": {
@@ -313,7 +313,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/16 22:00",
     "destTime": "2022/01/16 21:00",
-    "position": "51.4576\u00b0 / 2.63266\u00b0",
+    "position": "51.45737\u00b0 / 2.632863\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -477,14 +477,14 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "58,990",
-    "dept": "IN ENR",
-    "deptLong": "Ennore",
+    "dept": "LK HBA",
+    "deptLong": "Hambantota",
     "deptType": "ATD",
     "deptLocalTime": "2022/01/10 04:55",
     "deptTime": "2022/01/09 20:55",
     "dest": "LK HBA",
     "destLong": "Hambantota",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2022/01/09 16:39",
     "destTime": "2022/01/09 08:39",
     "position": "13.12265\u00b0 / 80.44303\u00b0",
@@ -661,7 +661,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/16 09:21",
     "destTime": "2022/01/16 01:21",
-    "position": "1.430868\u00b0 / 103.2215\u00b0",
+    "position": "1.457763\u00b0 / 103.1948\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -806,7 +806,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/03 20:00",
     "destTime": "2022/02/03 18:00",
-    "position": "31.32203\u00b0 / 121.6816\u00b0",
+    "position": "31.32207\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
