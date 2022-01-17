@@ -168,7 +168,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/16 01:36",
     "destTime": "2022/01/16 00:36",
-    "position": "51.31395\u00b0 / 3.227365\u00b0",
+    "position": "51.31391\u00b0 / 3.22734\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -197,7 +197,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/18 02:00",
     "destTime": "2022/01/18 01:00",
-    "position": "54.39963\u00b0 / 6.977603\u00b0",
+    "position": "54.00539\u00b0 / 7.58675\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -226,7 +226,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/09 17:51",
     "destTime": "2022/01/09 15:51",
-    "position": "48.1198\u00b0 / -7.526583\u00b0",
+    "position": "48.3918\u00b0 / -7.399533\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -255,7 +255,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "40.78092\u00b0 / -10.08012\u00b0",
+    "position": "40.51458\u00b0 / -10.07202\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -284,7 +284,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/16 22:00",
     "destTime": "2022/01/16 21:00",
-    "position": "51.45761\u00b0 / 2.63454\u00b0",
+    "position": "51.45823\u00b0 / 2.634633\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -477,19 +477,19 @@
     "length": "182.8",
     "breadth": "31.5",
     "grossTonnage": "47,090",
-    "dept": "LK HBA",
-    "deptLong": "Hambantota",
-    "deptType": "ATD",
+    "dept": "IN COK",
+    "deptLong": "Kochi",
+    "deptType": "ATA",
     "deptLocalTime": "2022/01/05 01:44",
     "deptTime": "2022/01/04 17:44",
-    "dest": "IN COK",
-    "destLong": "Kochi",
-    "destType": "ATA",
-    "destLocalTime": "2022/01/04 13:40",
-    "destTime": "2022/01/04 05:40",
-    "position": "9.967317\u00b0 / 76.26957\u00b0",
+    "dest": "IL ETH",
+    "destLong": "Eilat",
+    "destType": "ETA",
+    "destLocalTime": "2022/01/27 06:00",
+    "destTime": "2022/01/27 04:00",
+    "position": "9.970183\u00b0 / 76.268\u00b0",
     "area": "West Coast India",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9283863": {
     "rowidx": 204,
@@ -719,7 +719,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/17 12:33",
     "destTime": "2022/01/17 04:33",
-    "position": "34.75117\u00b0 / 119.3793\u00b0",
+    "position": "34.75118\u00b0 / 119.3792\u00b0",
     "area": "Yellow Sea",
     "status": "Moored"
   },
@@ -806,7 +806,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/17 00:33",
     "destTime": "2022/01/16 16:33",
-    "position": "31.32422\u00b0 / 121.6785\u00b0",
+    "position": "31.32425\u00b0 / 121.6785\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -835,7 +835,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/17 11:30",
     "destTime": "2022/01/17 03:30",
-    "position": "30.83586\u00b0 / 121.8365\u00b0",
+    "position": "30.83589\u00b0 / 121.8364\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -864,7 +864,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/17 12:45",
     "destTime": "2022/01/17 04:45",
-    "position": "31.3221\u00b0 / 121.6816\u00b0",
+    "position": "31.32203\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
