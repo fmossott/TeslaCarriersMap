@@ -7,6 +7,7 @@
     "notes": "",
     "quarter": "22Q1",
     "numDept": "2",
+    "mapStatus": "0",
     "mtsid": "462536",
     "name": "Dream Diamond",
     "mmsi": "372290000",
@@ -21,11 +22,11 @@
     "dest": "US NTD",
     "destLong": "Hueneme",
     "destType": "ETA",
-    "destLocalTime": "2022/01/19 18:00",
-    "destTime": "2022/01/20 02:00",
-    "position": "",
+    "destLocalTime": "2022/01/19 21:00",
+    "destTime": "2022/01/20 05:00",
+    "position": "37.01873\u00b0 / -129.7293\u00b0",
     "area": "Japan Coast",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9419759": {
     "rowidx": 7,
@@ -168,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/16 01:36",
     "destTime": "2022/01/16 00:36",
-    "position": "51.31395\u00b0 / 3.227337\u00b0",
+    "position": "51.31394\u00b0 / 3.227307\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -226,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/09 17:51",
     "destTime": "2022/01/09 15:51",
-    "position": "49.98583\u00b0 / -6.61415\u00b0",
+    "position": "50.2015\u00b0 / -6.382467\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
@@ -255,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "38.73769\u00b0 / -10.09539\u00b0",
+    "position": "38.45273\u00b0 / -10.03374\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -284,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/16 22:00",
     "destTime": "2022/01/16 21:00",
-    "position": "51.45745\u00b0 / 2.633063\u00b0",
+    "position": "51.45742\u00b0 / 2.632913\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -516,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/11 16:42",
     "destTime": "2022/01/11 08:42",
-    "position": "15.17793\u00b0 / 73.12417\u00b0",
+    "position": "15.23233\u00b0 / 73.1023\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -719,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/17 12:33",
     "destTime": "2022/01/17 04:33",
-    "position": "34.7512\u00b0 / 119.3793\u00b0",
+    "position": "34.75116\u00b0 / 119.3792\u00b0",
     "area": "Yellow Sea",
     "status": "Moored"
   },
