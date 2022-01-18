@@ -111,9 +111,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/26 12:00",
     "destTime": "2022/01/26 10:00",
-    "position": "5.615978\u00b0 / 98.2343\u00b0",
+    "position": "5.908562\u00b0 / 80.22392\u00b0",
     "area": "Malacca Strait",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9710737": {
     "rowidx": 10,
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/16 01:36",
     "destTime": "2022/01/16 00:36",
-    "position": "51.31394\u00b0 / 3.227383\u00b0",
+    "position": "51.31396\u00b0 / 3.2274\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/17 16:08",
     "destTime": "2022/01/17 15:08",
-    "position": "53.57721\u00b0 / 8.550663\u00b0",
+    "position": "53.57723\u00b0 / 8.55069\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/09 17:51",
     "destTime": "2022/01/09 15:51",
-    "position": "51.4948\u00b0 / -2.71445\u00b0",
+    "position": "51.49477\u00b0 / -2.714483\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "36.4478\u00b0 / -8.75563\u00b0",
+    "position": "35.89271\u00b0 / -6.551414\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/12 17:41",
     "destTime": "2022/01/12 16:41",
-    "position": "51.45702\u00b0 / 2.633682\u00b0",
+    "position": "51.45738\u00b0 / 2.634145\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -454,13 +454,13 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/01/07 21:11",
     "deptTime": "2022/01/07 13:11",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
+    "dest": "AU BNE",
+    "destLong": "Brisbane",
     "destType": "ETA",
-    "destLocalTime": "2022/01/07 11:00",
-    "destTime": "2022/01/07 03:00",
-    "position": "-26.12012\u00b0 / 153.4802\u00b0",
-    "area": "East China Sea",
+    "destLocalTime": "2022/01/19 10:01",
+    "destTime": "2022/01/19 00:01",
+    "position": "-26.44869\u00b0 / 153.4975\u00b0",
+    "area": "East Australia",
     "status": "Underway using Engine"
   },
   "9448140": {
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/11 16:42",
     "destTime": "2022/01/11 08:42",
-    "position": "18.74938\u00b0 / 72.60553\u00b0",
+    "position": "18.7494\u00b0 / 72.60557\u00b0",
     "area": "West Coast India",
     "status": "At Anchor"
   },
@@ -865,7 +865,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/17 11:30",
     "destTime": "2022/01/17 03:30",
-    "position": "30.83589\u00b0 / 121.8364\u00b0",
+    "position": "30.83592\u00b0 / 121.8364\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -894,7 +894,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/18 13:20",
     "destTime": "2022/01/18 05:20",
-    "position": "31.32204\u00b0 / 121.6817\u00b0",
+    "position": "31.32201\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
