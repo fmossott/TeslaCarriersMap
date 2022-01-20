@@ -21,12 +21,12 @@
     "deptTime": "2022/01/05 14:25",
     "dest": "US NTD",
     "destLong": "Hueneme",
-    "destType": "ETA",
-    "destLocalTime": "2022/01/20 06:00",
-    "destTime": "2022/01/20 14:00",
-    "position": "34.14407\u00b0 / -119.213\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/01/20 06:35",
+    "destTime": "2022/01/20 14:35",
+    "position": "34.14868\u00b0 / -119.2053\u00b0",
     "area": "US West Coast",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9419759": {
     "rowidx": 7,
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/16 01:36",
     "destTime": "2022/01/16 00:36",
-    "position": "50.88512\u00b0 / -1.39281\u00b0",
+    "position": "50.88507\u00b0 / -1.392837\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/17 16:08",
     "destTime": "2022/01/17 15:08",
-    "position": "53.00931\u00b0 / 4.04975\u00b0",
+    "position": "52.66485\u00b0 / 3.542073\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/20 14:00",
     "destTime": "2022/01/20 13:00",
-    "position": "51.52317\u00b0 / 2.755367\u00b0",
+    "position": "51.57642\u00b0 / 2.778017\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "37.13816\u00b0 / 11.81313\u00b0",
+    "position": "37.02431\u00b0 / 12.13664\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/20 07:45",
     "destTime": "2022/01/20 06:45",
-    "position": "51.31256\u00b0 / 3.21612\u00b0",
+    "position": "51.31256\u00b0 / 3.216112\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/19 07:09",
     "destTime": "2022/01/19 04:09",
-    "position": "21.45933\u00b0 / 39.16632\u00b0",
+    "position": "21.45937\u00b0 / 39.16632\u00b0",
     "area": "Red Sea",
     "status": "Stopped"
   },
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/26 08:00",
     "destTime": "2022/01/26 06:00",
-    "position": "12.96007\u00b0 / 62.69447\u00b0",
+    "position": "14.4185\u00b0 / 58.94843\u00b0",
     "area": "East Africa",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/11 16:42",
     "destTime": "2022/01/11 08:42",
-    "position": "20.67887\u00b0 / 71.55106\u00b0",
+    "position": "20.7664\u00b0 / 71.5358\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -807,7 +807,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/20 12:00",
     "destTime": "2022/01/20 04:00",
-    "position": "31.63887\u00b0 / 121.2567\u00b0",
+    "position": "31.63892\u00b0 / 121.2566\u00b0",
     "area": "East China Sea",
     "status": "At Anchor"
   },
@@ -894,7 +894,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/19 12:34",
     "destTime": "2022/01/19 04:34",
-    "position": "30.836\u00b0 / 121.836\u00b0",
+    "position": "30.836\u00b0 / 121.8362\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -923,9 +923,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/26 06:00",
     "destTime": "2022/01/25 22:00",
-    "position": "31.32211\u00b0 / 121.6816\u00b0",
+    "position": "31.32387\u00b0 / 121.6829\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9303194": {
     "rowidx": 219,
@@ -952,7 +952,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/20 02:28",
     "destTime": "2022/01/19 18:28",
-    "position": "31.32349\u00b0 / 121.6796\u00b0",
+    "position": "31.32351\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
