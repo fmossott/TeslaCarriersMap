@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/21 05:21",
     "destTime": "2022/01/21 13:21",
-    "position": "32.65343\u00b0 / -117.1218\u00b0",
+    "position": "32.65338\u00b0 / -117.1217\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/17 16:08",
     "destTime": "2022/01/17 15:08",
-    "position": "50.88527\u00b0 / -1.392732\u00b0",
+    "position": "50.88526\u00b0 / -1.39273\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/21 01:13",
     "destTime": "2022/01/21 00:13",
-    "position": "51.30647\u00b0 / 3.22765\u00b0",
+    "position": "51.30648\u00b0 / 3.227617\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/20 07:45",
     "destTime": "2022/01/20 06:45",
-    "position": "51.31641\u00b0 / 3.225232\u00b0",
+    "position": "51.31642\u00b0 / 3.225223\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -374,7 +374,7 @@
     "destTime": "2022/01/19 04:09",
     "position": "21.07502\u00b0 / 38.86832\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9514999": {
     "rowidx": 200,
@@ -807,7 +807,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/20 12:00",
     "destTime": "2022/01/20 04:00",
-    "position": "31.64073\u00b0 / 121.2537\u00b0",
+    "position": "31.64113\u00b0 / 121.254\u00b0",
     "area": "East China Sea",
     "status": "At Anchor"
   },
@@ -942,19 +942,19 @@
     "length": "199.9",
     "breadth": "32.26",
     "grossTonnage": "59,217",
-    "dept": "JP THS",
-    "deptLong": "Toyohashi",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/01/15 11:33",
-    "deptTime": "2022/01/15 02:33",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/01/20 02:28",
-    "destTime": "2022/01/19 18:28",
-    "position": "31.32352\u00b0 / 121.6796\u00b0",
+    "deptLocalTime": "2022/01/22 02:21",
+    "deptTime": "2022/01/21 18:21",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/01/27 17:00",
+    "destTime": "2022/01/27 09:00",
+    "position": "31.30609\u00b0 / 121.7592\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9361835": {
     "rowidx": 220,
