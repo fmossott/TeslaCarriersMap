@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/21 01:13",
     "destTime": "2022/01/21 00:13",
-    "position": "51.30645\u00b0 / 3.227617\u00b0",
+    "position": "51.30643\u00b0 / 3.22765\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "38.24959\u00b0 / 24.83963\u00b0",
+    "position": "38.56987\u00b0 / 25.12193\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/20 07:45",
     "destTime": "2022/01/20 06:45",
-    "position": "51.31642\u00b0 / 3.225232\u00b0",
+    "position": "51.31641\u00b0 / 3.225238\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -514,9 +514,9 @@
     "deptTime": "2022/01/12 01:26",
     "dest": "OM SOH",
     "destLong": "Sohar",
-    "destType": "ETA",
-    "destLocalTime": "2022/01/22 14:00",
-    "destTime": "2022/01/22 10:00",
+    "destType": "ATA",
+    "destLocalTime": "2022/01/22 14:13",
+    "destTime": "2022/01/22 10:13",
     "position": "24.60879\u00b0 / 56.62654\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
@@ -546,9 +546,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/22 13:57",
     "destTime": "2022/01/22 09:57",
-    "position": "25.19128\u00b0 / 54.90915\u00b0",
+    "position": "25.08028\u00b0 / 54.98204\u00b0",
     "area": "Dubai Area",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9626522": {
     "rowidx": 206,
@@ -749,7 +749,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/22 21:45",
     "destTime": "2022/01/22 13:45",
-    "position": "1.286833\u00b0 / 104.1839\u00b0",
+    "position": "1.2718\u00b0 / 104.0791\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -807,7 +807,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/30 10:00",
     "destTime": "2022/01/30 02:00",
-    "position": "31.64096\u00b0 / 121.2543\u00b0",
+    "position": "31.63907\u00b0 / 121.2564\u00b0",
     "area": "East China Sea",
     "status": "At Anchor"
   },
