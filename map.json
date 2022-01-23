@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/22 13:30",
     "destTime": "2022/01/22 12:30",
-    "position": "51.45417\u00b0 / 2.603923\u00b0",
+    "position": "51.45427\u00b0 / 2.604185\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -217,19 +217,19 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "62,623",
-    "dept": "GB PRU",
-    "deptLong": "Portbury",
-    "deptType": "ATD",
+    "dept": "BE ZEE",
+    "deptLong": "Zeebrugge",
+    "deptType": "ATA",
     "deptLocalTime": "2022/01/18 08:06",
     "deptTime": "2022/01/18 06:06",
-    "dest": "BE ZEE",
-    "destLong": "Zeebrugge",
-    "destType": "ATA",
-    "destLocalTime": "2022/01/21 01:13",
-    "destTime": "2022/01/21 00:13",
-    "position": "51.30642\u00b0 / 3.227633\u00b0",
+    "dest": "DE BRV",
+    "destLong": "Bremerhaven",
+    "destType": "ETA",
+    "destLocalTime": "2022/01/25 06:00",
+    "destTime": "2022/01/25 05:00",
+    "position": "51.31712\u00b0 / 3.2224\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9624029": {
     "rowidx": 195,
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "40.7629\u00b0 / 28.64262\u00b0",
+    "position": "40.75901\u00b0 / 28.64926\u00b0",
     "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/20 07:45",
     "destTime": "2022/01/20 06:45",
-    "position": "51.31641\u00b0 / 3.225233\u00b0",
+    "position": "51.31642\u00b0 / 3.22522\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/23 08:34",
     "destTime": "2022/01/23 04:34",
-    "position": "25.12698\u00b0 / 54.81421\u00b0",
+    "position": "25.12711\u00b0 / 54.8142\u00b0",
     "area": "Dubai Area",
     "status": "At Anchor"
   },
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/22 15:56",
     "destTime": "2022/01/22 11:56",
-    "position": "24.98993\u00b0 / 55.07596\u00b0",
+    "position": "24.98991\u00b0 / 55.07597\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -565,19 +565,19 @@
     "length": "220",
     "breadth": "32.3",
     "grossTonnage": "50,714",
-    "dept": "CN TAG",
-    "deptLong": "Taicang",
+    "dept": "IN ENR",
+    "deptLong": "Ennore",
     "deptType": "ATD",
     "deptLocalTime": "2022/01/09 16:23",
     "deptTime": "2022/01/09 08:23",
     "dest": "IN ENR",
     "destLong": "Ennore",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2022/01/16 09:21",
     "destTime": "2022/01/16 01:21",
-    "position": "13.23467\u00b0 / 80.35584\u00b0",
+    "position": "13.19219\u00b0 / 80.38719\u00b0",
     "area": "Bengal Bay",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9515008": {
     "rowidx": 207,
@@ -896,7 +896,7 @@
     "destTime": "2022/01/25 21:00",
     "position": "23.3625\u00b0 / 121.8802\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9293624": {
     "rowidx": 218,
