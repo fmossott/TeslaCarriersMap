@@ -21,12 +21,12 @@
     "deptTime": "2022/01/22 00:12",
     "dest": "US SFO",
     "destLong": "San Francisco",
-    "destType": "ETA",
-    "destLocalTime": "2022/01/23 18:00",
-    "destTime": "2022/01/24 02:00",
-    "position": "37.7757\u00b0 / -122.3711\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/01/23 19:50",
+    "destTime": "2022/01/24 03:50",
+    "position": "37.7498\u00b0 / -122.3758\u00b0",
     "area": "US West Coast",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9419759": {
     "rowidx": 7,
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/22 13:30",
     "destTime": "2022/01/22 12:30",
-    "position": "51.45587\u00b0 / 2.604562\u00b0",
+    "position": "51.45573\u00b0 / 2.605068\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "40.74269\u00b0 / 28.61954\u00b0",
+    "position": "40.75989\u00b0 / 28.61061\u00b0",
     "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/20 07:45",
     "destTime": "2022/01/20 06:45",
-    "position": "51.31642\u00b0 / 3.225248\u00b0",
+    "position": "51.31643\u00b0 / 3.225237\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/23 08:34",
     "destTime": "2022/01/23 04:34",
-    "position": "25.12649\u00b0 / 54.8141\u00b0",
+    "position": "25.12634\u00b0 / 54.81377\u00b0",
     "area": "Dubai Area",
     "status": "At Anchor"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/23 18:54",
     "destTime": "2022/01/23 14:54",
-    "position": "25.18053\u00b0 / 54.8375\u00b0",
+    "position": "25.18044\u00b0 / 54.83743\u00b0",
     "area": "Dubai Area",
     "status": "At Anchor"
   },
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/22 15:56",
     "destTime": "2022/01/22 11:56",
-    "position": "24.98988\u00b0 / 55.07589\u00b0",
+    "position": "24.98988\u00b0 / 55.07593\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
