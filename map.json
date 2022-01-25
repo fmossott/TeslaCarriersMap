@@ -55,7 +55,7 @@
     "destTime": "2022/02/03 18:00",
     "position": "3.898547\u00b0 / 99.80151\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9419759": {
     "rowidx": 8,
@@ -224,10 +224,10 @@
     "deptTime": "2022/01/23 14:46",
     "dest": "DE BRV",
     "destLong": "Bremerhaven",
-    "destType": "ETA",
-    "destLocalTime": "2022/01/25 10:45",
-    "destTime": "2022/01/25 09:45",
-    "position": "53.71722\u00b0 / 8.2881\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/01/25 12:54",
+    "destTime": "2022/01/25 11:54",
+    "position": "53.58088\u00b0 / 8.5251\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -1010,7 +1010,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/24 16:38",
     "destTime": "2022/01/24 08:38",
-    "position": "31.32215\u00b0 / 121.6819\u00b0",
+    "position": "31.32209\u00b0 / 121.6819\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
