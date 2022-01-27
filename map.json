@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/30 13:30",
     "destTime": "2022/01/30 04:30",
-    "position": "41.43098\u00b0 / 140.4393\u00b0",
+    "position": "41.05585\u00b0 / 139.7774\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/22 13:30",
     "destTime": "2022/01/22 12:30",
-    "position": "51.45584\u00b0 / 2.609273\u00b0",
+    "position": "51.45575\u00b0 / 2.609113\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/25 12:54",
     "destTime": "2022/01/25 11:54",
-    "position": "53.57823\u00b0 / 8.552\u00b0",
+    "position": "53.57825\u00b0 / 8.551983\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "44.7263\u00b0 / 37.78065\u00b0",
+    "position": "44.72629\u00b0 / 37.78069\u00b0",
     "area": "Black Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/27 06:48",
     "destTime": "2022/01/27 05:48",
-    "position": "57.68957\u00b0 / 11.86696\u00b0",
+    "position": "57.68958\u00b0 / 11.86695\u00b0",
     "area": "Kattegat",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/28 12:00",
     "destTime": "2022/01/28 08:00",
-    "position": "24.99637\u00b0 / 55.08022\u00b0",
+    "position": "24.99636\u00b0 / 55.08023\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/26 19:13",
     "destTime": "2022/01/26 17:13",
-    "position": "29.5315\u00b0 / 34.94183\u00b0",
+    "position": "29.53158\u00b0 / 34.94183\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -480,17 +480,17 @@
     "grossTonnage": "76,387",
     "dept": "QA HMD",
     "deptLong": "Hamad",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/01/27 11:27",
-    "deptTime": "2022/01/27 07:27",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/01/27 17:11",
+    "deptTime": "2022/01/27 14:11",
     "dest": "BH KBS",
     "destLong": "Khalifa Bin Salman",
     "destType": "ETA",
-    "destLocalTime": "2022/01/28 02:00",
-    "destTime": "2022/01/27 23:00",
-    "position": "25.00531\u00b0 / 51.6017\u00b0",
+    "destLocalTime": "2022/01/28 03:01",
+    "destTime": "2022/01/28 00:01",
+    "position": "25.15792\u00b0 / 51.71327\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9426362": {
     "rowidx": 204,
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/27 00:35",
     "destTime": "2022/01/26 19:35",
-    "position": "24.84026\u00b0 / 66.97926\u00b0",
+    "position": "24.79301\u00b0 / 66.98388\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
@@ -894,7 +894,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/27 19:13",
     "destTime": "2022/01/27 11:13",
-    "position": "1.30529\u00b0 / 104.0866\u00b0",
+    "position": "1.305325\u00b0 / 104.0866\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -1097,7 +1097,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/26 17:15",
     "destTime": "2022/01/26 09:15",
-    "position": "30.83609\u00b0 / 121.8362\u00b0",
+    "position": "30.83611\u00b0 / 121.8362\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
