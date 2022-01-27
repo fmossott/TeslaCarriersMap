@@ -198,9 +198,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/22 13:30",
     "destTime": "2022/01/22 12:30",
-    "position": "51.45617\u00b0 / 2.607682\u00b0",
+    "position": "51.4566\u00b0 / 2.607768\u00b0",
     "area": "North Sea",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9284752": {
     "rowidx": 194,
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/25 12:54",
     "destTime": "2022/01/25 11:54",
-    "position": "53.57823\u00b0 / 8.551867\u00b0",
+    "position": "53.57827\u00b0 / 8.551933\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,9 +256,9 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "44.26907\u00b0 / 37.59546\u00b0",
+    "position": "44.26964\u00b0 / 37.58998\u00b0",
     "area": "Black Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9702455": {
     "rowidx": 196,
@@ -282,12 +282,12 @@
     "deptTime": "2022/01/25 23:08",
     "dest": "SE GOT",
     "destLong": "Goteborg",
-    "destType": "ETA",
-    "destLocalTime": "2022/01/27 06:00",
-    "destTime": "2022/01/27 05:00",
-    "position": "57.65749\u00b0 / 11.75911\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/01/27 06:48",
+    "destTime": "2022/01/27 05:48",
+    "position": "57.68948\u00b0 / 11.86712\u00b0",
     "area": "Kattegat",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9355185": {
     "rowidx": 197,
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/24 15:45",
     "destTime": "2022/01/24 11:45",
-    "position": "24.99635\u00b0 / 55.08024\u00b0",
+    "position": "24.99635\u00b0 / 55.08025\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/26 19:13",
     "destTime": "2022/01/26 17:13",
-    "position": "29.53143\u00b0 / 34.94185\u00b0",
+    "position": "29.53148\u00b0 / 34.94183\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/27 10:00",
     "destTime": "2022/01/27 07:00",
-    "position": "25.36377\u00b0 / 51.80828\u00b0",
+    "position": "25.15188\u00b0 / 51.69318\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -836,9 +836,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/07 20:00",
     "destTime": "2022/02/07 18:00",
-    "position": "1.2925\u00b0 / 104.002\u00b0",
+    "position": "1.293667\u00b0 / 104.0032\u00b0",
     "area": "Singapore Area",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9293624": {
     "rowidx": 216,
@@ -857,17 +857,17 @@
     "grossTonnage": "61,482",
     "dept": "SG SIN",
     "deptLong": "Singapore",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/01/26 16:35",
-    "deptTime": "2022/01/26 08:35",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/01/27 14:16",
+    "deptTime": "2022/01/27 06:16",
     "dest": "BR SSA",
     "destLong": "Salvador",
     "destType": "ETA",
     "destLocalTime": "2022/02/17 16:00",
     "destTime": "2022/02/17 19:00",
-    "position": "1.287535\u00b0 / 103.7537\u00b0",
+    "position": "1.203737\u00b0 / 103.643\u00b0",
     "area": "Singapore Area",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9303194": {
     "rowidx": 217,
@@ -1068,7 +1068,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/27 07:07",
     "destTime": "2022/01/26 23:07",
-    "position": "31.32364\u00b0 / 121.6796\u00b0",
+    "position": "31.32357\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
