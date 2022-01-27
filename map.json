@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/25 16:15",
     "destTime": "2022/01/25 14:15",
-    "position": "31.98643\u00b0 / 31.40477\u00b0",
+    "position": "33.87389\u00b0 / 24.76761\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/22 13:30",
     "destTime": "2022/01/22 12:30",
-    "position": "51.45511\u00b0 / 2.608227\u00b0",
+    "position": "51.45487\u00b0 / 2.608932\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/25 12:54",
     "destTime": "2022/01/25 11:54",
-    "position": "53.5782\u00b0 / 8.551967\u00b0",
+    "position": "53.57827\u00b0 / 8.55195\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2021/12/30 03:34",
     "destTime": "2021/12/30 01:34",
-    "position": "44.72631\u00b0 / 37.78068\u00b0",
+    "position": "44.72631\u00b0 / 37.78067\u00b0",
     "area": "Black Sea",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/28 12:00",
     "destTime": "2022/01/28 08:00",
-    "position": "24.99632\u00b0 / 55.08021\u00b0",
+    "position": "24.99635\u00b0 / 55.08022\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/26 19:13",
     "destTime": "2022/01/26 17:13",
-    "position": "29.53152\u00b0 / 34.94182\u00b0",
+    "position": "29.5315\u00b0 / 34.9418\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -507,19 +507,19 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "62,993",
-    "dept": "AE JEA",
-    "deptLong": "Jebel Ali",
+    "dept": "PK KHI",
+    "deptLong": "Karachi",
     "deptType": "ATD",
-    "deptLocalTime": "2022/01/24 18:10",
-    "deptTime": "2022/01/24 14:10",
-    "dest": "PK KHI",
-    "destLong": "Karachi",
-    "destType": "ATA",
-    "destLocalTime": "2022/01/27 00:35",
-    "destTime": "2022/01/26 19:35",
+    "deptLocalTime": "2022/01/27 21:36",
+    "deptTime": "2022/01/27 16:36",
+    "dest": "TH LCH",
+    "destLong": "Laem Chabang",
+    "destType": "ETA",
+    "destLocalTime": "2022/02/08 06:00",
+    "destTime": "2022/02/07 23:00",
     "position": "24.79057\u00b0 / 66.98534\u00b0",
     "area": "West Coast India",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9626522": {
     "rowidx": 205,
@@ -809,7 +809,7 @@
     "destTime": "2022/01/31 00:00",
     "position": "2.762393\u00b0 / 101.2425\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9377523": {
     "rowidx": 215,
@@ -894,7 +894,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/27 19:13",
     "destTime": "2022/01/27 11:13",
-    "position": "1.305385\u00b0 / 104.0866\u00b0",
+    "position": "1.305397\u00b0 / 104.0866\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
