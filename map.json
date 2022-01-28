@@ -198,9 +198,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/22 13:30",
     "destTime": "2022/01/22 12:30",
-    "position": "51.45671\u00b0 / 2.608057\u00b0",
+    "position": "51.45593\u00b0 / 2.60927\u00b0",
     "area": "North Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9284752": {
     "rowidx": 194,
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/25 12:54",
     "destTime": "2022/01/25 11:54",
-    "position": "52.18915\u00b0 / 2.979317\u00b0",
+    "position": "51.9947\u00b0 / 2.71795\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/27 13:55",
     "destTime": "2022/01/27 10:55",
-    "position": "44.72629\u00b0 / 37.78068\u00b0",
+    "position": "44.72632\u00b0 / 37.78065\u00b0",
     "area": "Black Sea",
     "status": "Moored"
   },
@@ -275,16 +275,16 @@
     "length": "199.97",
     "breadth": "36.54",
     "grossTonnage": "75,283",
-    "dept": "BE ZEE",
-    "deptLong": "Zeebrugge",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/01/26 00:08",
-    "deptTime": "2022/01/25 23:08",
-    "dest": "SE GOT",
-    "destLong": "Goteborg",
-    "destType": "ATA",
-    "destLocalTime": "2022/01/27 06:48",
-    "destTime": "2022/01/27 05:48",
+    "dept": "SE GOT",
+    "deptLong": "Goteborg",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/01/27 06:48",
+    "deptTime": "2022/01/27 05:48",
+    "dest": "DE BRV",
+    "destLong": "Bremerhaven",
+    "destType": "ETA",
+    "destLocalTime": "2022/02/01 10:00",
+    "destTime": "2022/02/01 09:00",
     "position": "57.68958\u00b0 / 11.86695\u00b0",
     "area": "Kattegat",
     "status": "Moored"
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/26 19:13",
     "destTime": "2022/01/26 17:13",
-    "position": "29.53145\u00b0 / 34.94182\u00b0",
+    "position": "29.53153\u00b0 / 34.94185\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/28 18:17",
     "destTime": "2022/01/28 16:17",
-    "position": "29.85758\u00b0 / 32.56235\u00b0",
+    "position": "29.8577\u00b0 / 32.56235\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/28 21:00",
     "destTime": "2022/01/28 18:00",
-    "position": "26.84776\u00b0 / 50.6473\u00b0",
+    "position": "26.91438\u00b0 / 50.65602\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
