@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/22 13:30",
     "destTime": "2022/01/22 12:30",
-    "position": "51.45637\u00b0 / 2.608603\u00b0",
+    "position": "51.45645\u00b0 / 2.60846\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/25 12:54",
     "destTime": "2022/01/25 11:54",
-    "position": "52.65905\u00b0 / 3.537667\u00b0",
+    "position": "52.43918\u00b0 / 3.2777\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/27 13:55",
     "destTime": "2022/01/27 10:55",
-    "position": "44.72626\u00b0 / 37.78065\u00b0",
+    "position": "44.72631\u00b0 / 37.78069\u00b0",
     "area": "Black Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/27 06:48",
     "destTime": "2022/01/27 05:48",
-    "position": "57.68957\u00b0 / 11.86694\u00b0",
+    "position": "57.68958\u00b0 / 11.86695\u00b0",
     "area": "Kattegat",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/26 19:13",
     "destTime": "2022/01/26 17:13",
-    "position": "29.5315\u00b0 / 34.94187\u00b0",
+    "position": "29.53147\u00b0 / 34.94178\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -454,14 +454,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/01/19 00:17",
     "deptTime": "2022/01/18 16:17",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/01/28 18:30",
-    "destTime": "2022/01/28 16:30",
-    "position": "29.81807\u00b0 / 32.55805\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/01/28 18:17",
+    "destTime": "2022/01/28 16:17",
+    "position": "29.85808\u00b0 / 32.56217\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9728069": {
     "rowidx": 203,
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/28 21:00",
     "destTime": "2022/01/28 18:00",
-    "position": "26.70957\u00b0 / 50.92714\u00b0",
+    "position": "26.76995\u00b0 / 50.68556\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
