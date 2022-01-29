@@ -169,9 +169,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/29 20:40",
     "destTime": "2022/01/29 18:40",
-    "position": "29.85873\u00b0 / 32.56214\u00b0",
+    "position": "29.85833\u00b0 / 32.56167\u00b0",
     "area": "Red Sea",
-    "status": "Stopped"
+    "status": "At Anchor"
   },
   "9722302": {
     "rowidx": 193,
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/29 11:44",
     "destTime": "2022/01/29 10:44",
-    "position": "51.31378\u00b0 / 3.227423\u00b0",
+    "position": "51.31377\u00b0 / 3.22743\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/25 12:54",
     "destTime": "2022/01/25 11:54",
-    "position": "50.90252\u00b0 / -1.42325\u00b0",
+    "position": "50.88787\u00b0 / -1.398883\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/30 05:00",
     "destTime": "2022/01/29 22:00",
-    "position": "13.0339\u00b0 / 100.7661\u00b0",
+    "position": "13.07098\u00b0 / 100.87\u00b0",
     "area": "Gulf of Thailand",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/26 19:13",
     "destTime": "2022/01/26 17:13",
-    "position": "29.53145\u00b0 / 34.9418\u00b0",
+    "position": "29.53148\u00b0 / 34.94182\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -488,9 +488,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/28 21:00",
     "destTime": "2022/01/28 18:00",
-    "position": "26.8214\u00b0 / 50.48115\u00b0",
+    "position": "26.82213\u00b0 / 50.4819\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9426362": {
     "rowidx": 204,
@@ -1070,7 +1070,7 @@
     "destTime": "2022/01/31 18:30",
     "position": "31.08813\u00b0 / 123.0537\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9672404": {
     "rowidx": 224,
@@ -1097,7 +1097,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/30 07:30",
     "destTime": "2022/01/29 23:30",
-    "position": "37.72382\u00b0 / 122.4842\u00b0",
+    "position": "37.69403\u00b0 / 121.8229\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   }
