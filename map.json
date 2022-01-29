@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/29 22:00",
     "destTime": "2022/01/29 20:00",
-    "position": "29.29\u00b0 / 32.72\u00b0",
+    "position": "29.515\u00b0 / 32.61833\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/29 11:44",
     "destTime": "2022/01/29 10:44",
-    "position": "51.31381\u00b0 / 3.227405\u00b0",
+    "position": "51.31377\u00b0 / 3.227418\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/25 12:54",
     "destTime": "2022/01/25 11:54",
-    "position": "50.90253\u00b0 / -1.4233\u00b0",
+    "position": "50.90252\u00b0 / -1.42325\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -391,19 +391,19 @@
     "length": "167.25",
     "breadth": "28",
     "grossTonnage": "39,454",
-    "dept": "AE JEA",
-    "deptLong": "Jebel Ali",
+    "dept": "OM SOH",
+    "deptLong": "Sohar",
     "deptType": "ATD",
-    "deptLocalTime": "2022/01/28 14:51",
-    "deptTime": "2022/01/28 10:51",
+    "deptLocalTime": "2022/01/29 19:53",
+    "deptTime": "2022/01/29 15:53",
     "dest": "OM SOH",
     "destLong": "Sohar",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2022/01/29 07:44",
     "destTime": "2022/01/29 03:44",
-    "position": "24.50367\u00b0 / 56.61965\u00b0",
+    "position": "24.60784\u00b0 / 56.63079\u00b0",
     "area": "Oman Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9448140": {
     "rowidx": 201,
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/26 19:13",
     "destTime": "2022/01/26 17:13",
-    "position": "29.53152\u00b0 / 34.94183\u00b0",
+    "position": "29.53152\u00b0 / 34.9418\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/28 21:00",
     "destTime": "2022/01/28 18:00",
-    "position": "26.82146\u00b0 / 50.48005\u00b0",
+    "position": "26.82158\u00b0 / 50.47995\u00b0",
     "area": "Persian Gulf",
     "status": "At Anchor"
   },
@@ -1097,7 +1097,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/30 02:30",
     "destTime": "2022/01/29 18:30",
-    "position": "37.11251\u00b0 / 123.0619\u00b0",
+    "position": "37.3494\u00b0 / 123.0547\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   }
