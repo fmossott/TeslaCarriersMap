@@ -169,8 +169,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/29 22:00",
     "destTime": "2022/01/29 20:00",
-    "position": "29.125\u00b0 / 32.80667\u00b0",
-    "area": "West Coast India",
+    "position": "29.29\u00b0 / 32.72\u00b0",
+    "area": "Red Sea",
     "status": "Underway using Engine"
   },
   "9722302": {
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/29 11:44",
     "destTime": "2022/01/29 10:44",
-    "position": "51.31377\u00b0 / 3.227428\u00b0",
+    "position": "51.31381\u00b0 / 3.227405\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/25 12:54",
     "destTime": "2022/01/25 11:54",
-    "position": "50.90252\u00b0 / -1.423217\u00b0",
+    "position": "50.90253\u00b0 / -1.4233\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -248,15 +248,15 @@
     "grossTonnage": "58,250",
     "dept": "RU NVS",
     "deptLong": "Novorossiysk",
-    "deptType": "ATA",
-    "deptLocalTime": "2021/12/30 20:17",
-    "deptTime": "2021/12/30 18:17",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/01/29 17:54",
+    "deptTime": "2022/01/29 14:54",
     "dest": "DJ JIB",
     "destLong": "Djibouti",
     "destType": "ETA",
     "destLocalTime": "2022/02/06 06:00",
     "destTime": "2022/02/06 03:00",
-    "position": "44.71485\u00b0 / 37.80366\u00b0",
+    "position": "44.53983\u00b0 / 37.70727\u00b0",
     "area": "Black Sea",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/26 19:13",
     "destTime": "2022/01/26 17:13",
-    "position": "29.53145\u00b0 / 34.9418\u00b0",
+    "position": "29.53152\u00b0 / 34.94183\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -488,9 +488,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/28 21:00",
     "destTime": "2022/01/28 18:00",
-    "position": "26.82143\u00b0 / 50.48015\u00b0",
+    "position": "26.82146\u00b0 / 50.48005\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9426362": {
     "rowidx": 204,
@@ -1097,7 +1097,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/30 02:30",
     "destTime": "2022/01/29 18:30",
-    "position": "36.86441\u00b0 / 123.052\u00b0",
+    "position": "37.11251\u00b0 / 123.0619\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   }
