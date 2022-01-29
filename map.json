@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/29 20:40",
     "destTime": "2022/01/29 18:40",
-    "position": "29.85883\u00b0 / 32.56222\u00b0",
+    "position": "29.85873\u00b0 / 32.56214\u00b0",
     "area": "Red Sea",
     "status": "Stopped"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/29 11:44",
     "destTime": "2022/01/29 10:44",
-    "position": "51.31377\u00b0 / 3.227395\u00b0",
+    "position": "51.31378\u00b0 / 3.227423\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/25 12:54",
     "destTime": "2022/01/25 11:54",
-    "position": "50.90252\u00b0 / -1.423267\u00b0",
+    "position": "50.90252\u00b0 / -1.42325\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/26 19:13",
     "destTime": "2022/01/26 17:13",
-    "position": "29.53153\u00b0 / 34.94172\u00b0",
+    "position": "29.53145\u00b0 / 34.9418\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -488,9 +488,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/28 21:00",
     "destTime": "2022/01/28 18:00",
-    "position": "26.82181\u00b0 / 50.48143\u00b0",
+    "position": "26.8214\u00b0 / 50.48115\u00b0",
     "area": "Persian Gulf",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9426362": {
     "rowidx": 204,
@@ -1095,8 +1095,8 @@
     "dest": "CN YTG",
     "destLong": "Yantai",
     "destType": "ETA",
-    "destLocalTime": "2022/01/30 02:30",
-    "destTime": "2022/01/29 18:30",
+    "destLocalTime": "2022/01/30 07:30",
+    "destTime": "2022/01/29 23:30",
     "position": "37.72382\u00b0 / 122.4842\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
