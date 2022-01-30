@@ -84,7 +84,7 @@
     "destTime": "2022/01/30 04:30",
     "position": "34.5702\u00b0 / 129.037\u00b0",
     "area": "Japan Coast",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9690559": {
     "rowidx": 9,
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/01 07:00",
     "destTime": "2022/02/01 05:00",
-    "position": "30.14667\u00b0 / 32.56833\u00b0",
+    "position": "30.26167\u00b0 / 32.50167\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/29 11:44",
     "destTime": "2022/01/29 10:44",
-    "position": "51.31377\u00b0 / 3.22742\u00b0",
+    "position": "51.31377\u00b0 / 3.22741\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/25 12:54",
     "destTime": "2022/01/25 11:54",
-    "position": "50.88788\u00b0 / -1.398833\u00b0",
+    "position": "50.88792\u00b0 / -1.398867\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -314,9 +314,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/30 05:10",
     "destTime": "2022/01/29 22:10",
-    "position": "13.06929\u00b0 / 100.8937\u00b0",
+    "position": "13.06933\u00b0 / 100.8937\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9312834": {
     "rowidx": 198,
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/29 07:44",
     "destTime": "2022/01/29 03:44",
-    "position": "22.77912\u00b0 / 59.80278\u00b0",
+    "position": "22.62502\u00b0 / 59.92485\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/26 19:13",
     "destTime": "2022/01/26 17:13",
-    "position": "29.53153\u00b0 / 34.94175\u00b0",
+    "position": "29.53143\u00b0 / 34.94187\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -454,11 +454,11 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/01/19 00:17",
     "deptTime": "2022/01/18 16:17",
-    "dest": "EG ALEXANDRIA ANCH",
+    "dest": "EG ALY",
     "destLong": "Alexandria",
     "destType": "ATA",
-    "destLocalTime": "2022/01/30 03:24",
-    "destTime": "2022/01/30 01:24",
+    "destLocalTime": "2022/01/30 08:04",
+    "destTime": "2022/01/30 06:04",
     "position": "31.98485\u00b0 / 31.43585\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/28 21:00",
     "destTime": "2022/01/28 18:00",
-    "position": "26.82209\u00b0 / 50.48213\u00b0",
+    "position": "26.82159\u00b0 / 50.48166\u00b0",
     "area": "Persian Gulf",
     "status": "Underway"
   },
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/30 09:34",
     "destTime": "2022/01/30 01:34",
-    "position": "1.286447\u00b0 / 103.952\u00b0",
+    "position": "1.287095\u00b0 / 103.9522\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
