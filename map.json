@@ -159,17 +159,17 @@
     "length": "199.87",
     "breadth": "40.76",
     "grossTonnage": "76,420",
-    "dept": "EG SUEZ SOUTH ANCH",
+    "dept": "SG SIN",
     "deptLong": "Singapore",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/01/30 02:40",
-    "deptTime": "2022/01/29 18:40",
-    "dest": "GR PIR",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/01/15 14:30",
+    "deptTime": "2022/01/15 06:30",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Piraeus",
-    "destType": "ETA",
-    "destLocalTime": "2022/02/01 07:00",
-    "destTime": "2022/02/01 05:00",
-    "position": "29.85913\u00b0 / 32.56169\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/01/29 20:40",
+    "destTime": "2022/01/29 18:40",
+    "position": "29.85906\u00b0 / 32.56172\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/29 11:44",
     "destTime": "2022/01/29 10:44",
-    "position": "51.31377\u00b0 / 3.227388\u00b0",
+    "position": "51.31375\u00b0 / 3.2274\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/25 12:54",
     "destTime": "2022/01/25 11:54",
-    "position": "50.88788\u00b0 / -1.398883\u00b0",
+    "position": "50.88787\u00b0 / -1.398917\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -314,9 +314,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/30 05:10",
     "destTime": "2022/01/29 22:10",
-    "position": "13.06928\u00b0 / 100.8937\u00b0",
+    "position": "13.06929\u00b0 / 100.8937\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9312834": {
     "rowidx": 198,
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/26 19:13",
     "destTime": "2022/01/26 17:13",
-    "position": "29.53152\u00b0 / 34.94172\u00b0",
+    "position": "29.53152\u00b0 / 34.94176\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -720,7 +720,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/30 09:00",
     "destTime": "2022/01/30 01:00",
-    "position": "1.283898\u00b0 / 104.1439\u00b0",
+    "position": "1.26141\u00b0 / 103.971\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -954,7 +954,7 @@
     "destTime": "2022/02/04 18:00",
     "position": "23.08627\u00b0 / 122.1163\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9731652": {
     "rowidx": 220,
