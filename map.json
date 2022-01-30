@@ -111,9 +111,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/29 21:00",
     "destTime": "2022/01/29 19:00",
-    "position": "5.808177\u00b0 / 80.20616\u00b0",
-    "area": "Laccadive Sea",
-    "status": "Out of Range"
+    "position": "29.195\u00b0 / 32.76667\u00b0",
+    "area": "Red Sea",
+    "status": "Underway using Engine"
   },
   "9796377": {
     "rowidx": 10,
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/25 16:15",
     "destTime": "2022/01/25 14:15",
-    "position": "36.89337\u00b0 / 0.9860983\u00b0",
+    "position": "36.77218\u00b0 / 0.05253333\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/29 11:44",
     "destTime": "2022/01/29 10:44",
-    "position": "51.31376\u00b0 / 3.227445\u00b0",
+    "position": "51.31377\u00b0 / 3.227397\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -219,7 +219,7 @@
     "grossTonnage": "62,623",
     "dept": "GB SOU",
     "deptLong": "Southampton",
-    "deptType": "ATA",
+    "deptType": "ATD",
     "deptLocalTime": "2022/01/29 12:26",
     "deptTime": "2022/01/29 11:26",
     "dest": "EG SUZ",
@@ -227,9 +227,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/07 17:30",
     "destTime": "2022/02/07 15:30",
-    "position": "50.88787\u00b0 / -1.398867\u00b0",
+    "position": "50.72028\u00b0 / -1.012867\u00b0",
     "area": "English Channel",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9624029": {
     "rowidx": 195,
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/01 11:00",
     "destTime": "2022/02/01 10:00",
-    "position": "53.15099\u00b0 / 4.528815\u00b0",
+    "position": "53.65941\u00b0 / 5.996457\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/30 05:10",
     "destTime": "2022/01/29 22:10",
-    "position": "13.06925\u00b0 / 100.8937\u00b0",
+    "position": "13.06928\u00b0 / 100.8937\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/29 07:44",
     "destTime": "2022/01/29 03:44",
-    "position": "21.40108\u00b0 / 60.04381\u00b0",
+    "position": "20.38376\u00b0 / 60.00396\u00b0",
     "area": "Arabian Gulf",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/26 19:13",
     "destTime": "2022/01/26 17:13",
-    "position": "29.53147\u00b0 / 34.94188\u00b0",
+    "position": "29.5315\u00b0 / 34.94187\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -488,9 +488,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/28 21:00",
     "destTime": "2022/01/28 18:00",
-    "position": "26.8216\u00b0 / 50.48145\u00b0",
+    "position": "26.82154\u00b0 / 50.47992\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9426362": {
     "rowidx": 204,
@@ -633,8 +633,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/31 00:00",
     "destTime": "2022/01/30 20:00",
-    "position": "25.68895\u00b0 / 55.17548\u00b0",
-    "area": "Persian Gulf",
+    "position": "25.21135\u00b0 / 54.915\u00b0",
+    "area": "Dubai Area",
     "status": "Underway using Engine"
   },
   "9519119": {
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/30 09:34",
     "destTime": "2022/01/30 01:34",
-    "position": "1.285922\u00b0 / 103.95\u00b0",
+    "position": "1.286415\u00b0 / 103.9499\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -778,8 +778,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/31 04:00",
     "destTime": "2022/01/31 00:00",
-    "position": "6.101092\u00b0 / 79.26612\u00b0",
-    "area": "Laccadive Sea",
+    "position": "11.10722\u00b0 / 73.85423\u00b0",
+    "area": "West Coast India",
     "status": "Underway using Engine"
   },
   "9377523": {
@@ -862,12 +862,12 @@
     "deptTime": "2022/01/24 08:33",
     "dest": "SG SIN",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2022/01/30 20:45",
-    "destTime": "2022/01/30 12:45",
-    "position": "1.220602\u00b0 / 103.879\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/01/30 21:53",
+    "destTime": "2022/01/30 13:53",
+    "position": "1.284898\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9432919": {
     "rowidx": 217,
