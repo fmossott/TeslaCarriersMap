@@ -159,17 +159,17 @@
     "length": "199.87",
     "breadth": "40.76",
     "grossTonnage": "76,420",
-    "dept": "EG SUEZ SOUTH ANCH",
-    "deptLong": "Singapore",
+    "dept": "EG SUZ",
+    "deptLong": "Suez Canal",
     "deptType": "ATA",
-    "deptLocalTime": "2022/01/30 02:40",
-    "deptTime": "2022/01/29 18:40",
+    "deptLocalTime": "2022/01/30 11:39",
+    "deptTime": "2022/01/30 03:39",
     "dest": "GR PIR",
     "destLong": "Piraeus",
     "destType": "ETA",
     "destLocalTime": "2022/02/01 07:00",
     "destTime": "2022/02/01 05:00",
-    "position": "29.89161\u00b0 / 32.54645\u00b0",
+    "position": "30.01418\u00b0 / 32.57985\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/29 11:44",
     "destTime": "2022/01/29 10:44",
-    "position": "51.31377\u00b0 / 3.227412\u00b0",
+    "position": "51.31377\u00b0 / 3.2274\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/25 12:54",
     "destTime": "2022/01/25 11:54",
-    "position": "50.88788\u00b0 / -1.398833\u00b0",
+    "position": "50.88783\u00b0 / -1.398883\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -316,7 +316,7 @@
     "destTime": "2022/01/29 22:10",
     "position": "13.0693\u00b0 / 100.8937\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9312834": {
     "rowidx": 198,
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/16 05:00",
     "destTime": "2022/02/15 20:00",
-    "position": "5.926017\u00b0 / 80.1924\u00b0",
+    "position": "5.642416\u00b0 / 80.44393\u00b0",
     "area": "Laccadive Sea",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/26 19:13",
     "destTime": "2022/01/26 17:13",
-    "position": "29.53147\u00b0 / 34.94173\u00b0",
+    "position": "29.53153\u00b0 / 34.9418\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/30 09:34",
     "destTime": "2022/01/30 01:34",
-    "position": "1.285998\u00b0 / 103.9518\u00b0",
+    "position": "1.286327\u00b0 / 103.952\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
