@@ -140,8 +140,8 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/31 05:28",
     "destTime": "2022/01/31 03:28",
-    "position": "30.39167\u00b0 / 32.36666\u00b0",
-    "area": "Red Sea",
+    "position": "30.54167\u00b0 / 32.34\u00b0",
+    "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
   "9796377": {
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/25 16:15",
     "destTime": "2022/01/25 14:15",
-    "position": "35.96292\u00b0 / -5.754533\u00b0",
+    "position": "35.96695\u00b0 / -6.141887\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/29 11:44",
     "destTime": "2022/01/29 10:44",
-    "position": "51.31378\u00b0 / 3.227382\u00b0",
+    "position": "51.31376\u00b0 / 3.227387\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/28 21:00",
     "destTime": "2022/01/28 18:00",
-    "position": "26.82138\u00b0 / 50.48081\u00b0",
+    "position": "26.8215\u00b0 / 50.48066\u00b0",
     "area": "Persian Gulf",
     "status": "At Anchor"
   },
@@ -575,7 +575,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/31 05:40",
     "destTime": "2022/01/31 03:40",
-    "position": "30.38833\u00b0 / 32.36666\u00b0",
+    "position": "30.52167\u00b0 / 32.34333\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -623,17 +623,17 @@
     "length": "199.9",
     "breadth": "32.26",
     "grossTonnage": "59,217",
-    "dept": "KR MOK",
-    "deptLong": "Mokpo",
+    "dept": "AE JEA",
+    "deptLong": "Jebel Ali",
     "deptType": "ATD",
-    "deptLocalTime": "2022/01/16 10:48",
-    "deptTime": "2022/01/16 01:48",
-    "dest": "AE JEA",
-    "destLong": "Jebel Ali",
-    "destType": "ATA",
-    "destLocalTime": "2022/01/30 22:00",
-    "destTime": "2022/01/30 18:00",
-    "position": "24.99195\u00b0 / 55.05312\u00b0",
+    "deptLocalTime": "2022/01/31 12:00",
+    "deptTime": "2022/01/31 08:00",
+    "dest": "QA HMD",
+    "destLong": "Hamad",
+    "destType": "ETA",
+    "destLocalTime": "2022/02/01 02:00",
+    "destTime": "2022/01/31 23:00",
+    "position": "25.13262\u00b0 / 54.90527\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -720,9 +720,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/31 11:39",
     "destTime": "2022/01/31 03:39",
-    "position": "1.30685\u00b0 / 103.7173\u00b0",
+    "position": "1.299838\u00b0 / 103.7243\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9414876": {
     "rowidx": 212,
@@ -778,7 +778,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/02 20:00",
     "destTime": "2022/02/02 16:00",
-    "position": "13.35696\u00b0 / 71.22678\u00b0",
+    "position": "14.10254\u00b0 / 70.48808\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -865,7 +865,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/30 21:53",
     "destTime": "2022/01/30 13:53",
-    "position": "1.284948\u00b0 / 103.7527\u00b0",
+    "position": "1.28492\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -1034,14 +1034,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/01/31 15:27",
     "deptTime": "2022/01/31 07:27",
-    "dest": "CN YTG",
-    "destLong": "Yantai",
+    "dest": "MX LZC",
+    "destLong": "Lazaro Cardenas",
     "destType": "ETA",
-    "destLocalTime": "2022/01/30 07:42",
-    "destTime": "2022/01/29 23:42",
-    "position": "37.69403\u00b0 / 121.8229\u00b0",
+    "destLocalTime": "2022/02/16 06:00",
+    "destTime": "2022/02/16 12:00",
+    "position": "37.64736\u00b0 / 121.9433\u00b0",
     "area": "Yellow Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9463205": {
     "rowidx": 223,
@@ -1097,7 +1097,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/30 22:47",
     "destTime": "2022/01/30 14:47",
-    "position": "31.32208\u00b0 / 121.6817\u00b0",
+    "position": "31.32167\u00b0 / 121.68\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -1126,7 +1126,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/31 10:36",
     "destTime": "2022/01/31 02:36",
-    "position": "30.83616\u00b0 / 121.8364\u00b0",
+    "position": "30.835\u00b0 / 121.835\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
