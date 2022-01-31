@@ -2,11 +2,11 @@
   "9463205": {
     "rowidx": 6,
     "silence": "FALSE",
-    "num": "175",
+    "num": "176",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
-    "numDept": "6",
+    "numDept": "7",
     "mapStatus": "2",
     "mtsid": "464327",
     "name": "Msc Immacolata",
@@ -31,11 +31,11 @@
   "9293583": {
     "rowidx": 7,
     "silence": "FALSE",
-    "num": "174",
+    "num": "175",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
-    "numDept": "5",
+    "numDept": "6",
     "mapStatus": "2",
     "mtsid": "691199",
     "name": "SFL Composer",
@@ -57,8 +57,37 @@
     "area": "South China",
     "status": "Out of Range"
   },
-  "9325788": {
+  "9690547": {
     "rowidx": 8,
+    "silence": "FALSE",
+    "num": "174",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q1",
+    "numDept": "5",
+    "mapStatus": "2",
+    "mtsid": "3434808",
+    "name": "Helios Ray",
+    "mmsi": "311000321",
+    "length": "199.97",
+    "breadth": "35.4",
+    "grossTonnage": "71,177",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/01/27 20:04",
+    "deptTime": "2022/01/27 12:04",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/02/02 03:00",
+    "destTime": "2022/02/01 19:00",
+    "position": "24.71019\u00b0 / 119.9375\u00b0",
+    "area": "East China Sea",
+    "status": "Out of Range"
+  },
+  "9325788": {
+    "rowidx": 9,
     "silence": "FALSE",
     "num": "173",
     "manDept": "SFO",
@@ -87,7 +116,7 @@
     "status": "Out of Range"
   },
   "9673020": {
-    "rowidx": 9,
+    "rowidx": 10,
     "silence": "FALSE",
     "num": "172",
     "manDept": "SHG",
@@ -116,7 +145,7 @@
     "status": "Out of Range"
   },
   "9419759": {
-    "rowidx": 10,
+    "rowidx": 11,
     "silence": "FALSE",
     "num": "171",
     "manDept": "SFO",
@@ -145,7 +174,7 @@
     "status": "Out of Range"
   },
   "9690559": {
-    "rowidx": 11,
+    "rowidx": 12,
     "silence": "FALSE",
     "num": "170",
     "manDept": "SHG",
@@ -169,12 +198,12 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/31 05:28",
     "destTime": "2022/01/31 03:28",
-    "position": "30.78185\u00b0 / 32.32531\u00b0",
+    "position": "31.1\u00b0 / 32.30833\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
   "9796377": {
-    "rowidx": 12,
+    "rowidx": 13,
     "silence": "FALSE",
     "num": "169",
     "manDept": "SHG",
@@ -198,12 +227,12 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/25 16:15",
     "destTime": "2022/01/25 14:15",
-    "position": "36.12727\u00b0 / -6.853818\u00b0",
+    "position": "36.27987\u00b0 / -7.385175\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
   "9710737": {
-    "rowidx": 13,
+    "rowidx": 14,
     "silence": "FALSE",
     "num": "168",
     "manDept": "SHG",
@@ -227,12 +256,12 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/01 07:00",
     "destTime": "2022/02/01 05:00",
-    "position": "32\u00b0 / 31.63833\u00b0",
+    "position": "35.11591\u00b0 / 26.99511\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
   "9722302": {
-    "rowidx": 195,
+    "rowidx": 196,
     "silence": "FALSE",
     "num": "-14",
     "manDept": "SHG",
@@ -256,12 +285,12 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/29 11:44",
     "destTime": "2022/01/29 10:44",
-    "position": "51.31377\u00b0 / 3.227445\u00b0",
+    "position": "51.31376\u00b0 / 3.227413\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
   "9284752": {
-    "rowidx": 196,
+    "rowidx": 197,
     "silence": "FALSE",
     "num": "-15",
     "manDept": "SHG",
@@ -290,7 +319,7 @@
     "status": "Underway using Engine"
   },
   "9624029": {
-    "rowidx": 197,
+    "rowidx": 198,
     "silence": "FALSE",
     "num": "-16",
     "manDept": "SHG",
@@ -319,7 +348,7 @@
     "status": "Underway using Engine"
   },
   "9702455": {
-    "rowidx": 198,
+    "rowidx": 199,
     "silence": "FALSE",
     "num": "-17",
     "manDept": "SHG",
@@ -343,12 +372,12 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/30 23:17",
     "destTime": "2022/01/30 22:17",
-    "position": "53.91053\u00b0 / 7.823457\u00b0",
+    "position": "53.90985\u00b0 / 7.823313\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
   "9355185": {
-    "rowidx": 199,
+    "rowidx": 200,
     "silence": "FALSE",
     "num": "-18",
     "manDept": "SHG",
@@ -377,7 +406,7 @@
     "status": "Underway"
   },
   "9312834": {
-    "rowidx": 200,
+    "rowidx": 201,
     "silence": "FALSE",
     "num": "-19",
     "manDept": "SHG",
@@ -406,7 +435,7 @@
     "status": "Underway using Engine"
   },
   "9514999": {
-    "rowidx": 201,
+    "rowidx": 202,
     "silence": "FALSE",
     "num": "-20",
     "manDept": "SHG",
@@ -430,12 +459,12 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/03 19:30",
     "destTime": "2022/02/03 16:30",
-    "position": "17.74167\u00b0 / 57.39772\u00b0",
+    "position": "16.95327\u00b0 / 56.32403\u00b0",
     "area": "Arabian Gulf",
     "status": "Underway using Engine"
   },
   "9448140": {
-    "rowidx": 202,
+    "rowidx": 203,
     "silence": "FALSE",
     "num": "-21",
     "manDept": "SHG",
@@ -464,7 +493,7 @@
     "status": "Underway using Engine"
   },
   "9283863": {
-    "rowidx": 203,
+    "rowidx": 204,
     "silence": "FALSE",
     "num": "-22",
     "manDept": "SHG",
@@ -493,7 +522,7 @@
     "status": "Underway using Engine"
   },
   "9728069": {
-    "rowidx": 204,
+    "rowidx": 205,
     "silence": "FALSE",
     "num": "-23",
     "manDept": "SHG",
@@ -517,12 +546,12 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/28 21:00",
     "destTime": "2022/01/28 18:00",
-    "position": "26.82154\u00b0 / 50.48047\u00b0",
+    "position": "26.82151\u00b0 / 50.48046\u00b0",
     "area": "Persian Gulf",
     "status": "At Anchor"
   },
   "9426362": {
-    "rowidx": 205,
+    "rowidx": 206,
     "silence": "FALSE",
     "num": "-24",
     "manDept": "SHG",
@@ -546,12 +575,12 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/08 06:00",
     "destTime": "2022/02/07 23:00",
-    "position": "10.08102\u00b0 / 74.63632\u00b0",
+    "position": "9.153711\u00b0 / 75.34343\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
   "9626522": {
-    "rowidx": 206,
+    "rowidx": 207,
     "silence": "FALSE",
     "num": "-25",
     "manDept": "SHG",
@@ -580,7 +609,7 @@
     "status": "Out of Range"
   },
   "9515008": {
-    "rowidx": 207,
+    "rowidx": 208,
     "silence": "FALSE",
     "num": "-26",
     "manDept": "SHG",
@@ -604,12 +633,12 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/31 05:40",
     "destTime": "2022/01/31 03:40",
-    "position": "30.71139\u00b0 / 32.35061\u00b0",
+    "position": "31.04609\u00b0 / 32.30989\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
   "9427952": {
-    "rowidx": 208,
+    "rowidx": 209,
     "silence": "FALSE",
     "num": "-27",
     "manDept": "SHG",
@@ -631,14 +660,14 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/01/31 18:00",
-    "destTime": "2022/01/31 16:00",
-    "position": "29.45311\u00b0 / 32.64867\u00b0",
+    "destLocalTime": "2022/01/31 16:00",
+    "destTime": "2022/01/31 14:00",
+    "position": "29.79103\u00b0 / 32.54494\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
   "9325233": {
-    "rowidx": 209,
+    "rowidx": 210,
     "silence": "FALSE",
     "num": "-28",
     "manDept": "SHG",
@@ -662,12 +691,12 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/01 02:00",
     "destTime": "2022/01/31 23:00",
-    "position": "25.34897\u00b0 / 54.30337\u00b0",
+    "position": "25.46892\u00b0 / 53.83187\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
   "9519119": {
-    "rowidx": 210,
+    "rowidx": 211,
     "silence": "FALSE",
     "num": "-29",
     "manDept": "SHG",
@@ -696,7 +725,7 @@
     "status": "Out of Range"
   },
   "9338840": {
-    "rowidx": 211,
+    "rowidx": 212,
     "silence": "FALSE",
     "num": "-30",
     "manDept": "SHG",
@@ -725,7 +754,7 @@
     "status": "Out of Range"
   },
   "9620944": {
-    "rowidx": 212,
+    "rowidx": 213,
     "silence": "FALSE",
     "num": "-31",
     "manDept": "SHG",
@@ -749,12 +778,12 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/31 18:19",
     "destTime": "2022/01/31 10:19",
-    "position": "1.249527\u00b0 / 103.8844\u00b0",
+    "position": "1.249688\u00b0 / 103.8842\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9414876": {
-    "rowidx": 213,
+    "rowidx": 214,
     "silence": "FALSE",
     "num": "-32",
     "manDept": "SHG",
@@ -783,7 +812,7 @@
     "status": "Out of Range"
   },
   "9738777": {
-    "rowidx": 214,
+    "rowidx": 215,
     "silence": "FALSE",
     "num": "-33",
     "manDept": "SHG",
@@ -812,7 +841,7 @@
     "status": "Underway using Engine"
   },
   "9377523": {
-    "rowidx": 215,
+    "rowidx": 216,
     "silence": "FALSE",
     "num": "-34",
     "manDept": "SHG",
@@ -841,7 +870,7 @@
     "status": "Out of Range"
   },
   "9303194": {
-    "rowidx": 216,
+    "rowidx": 217,
     "silence": "FALSE",
     "num": "-35",
     "manDept": "SHG",
@@ -870,7 +899,7 @@
     "status": "Out of Range"
   },
   "9713894": {
-    "rowidx": 217,
+    "rowidx": 218,
     "silence": "FALSE",
     "num": "-36",
     "manDept": "SHG",
@@ -884,22 +913,22 @@
     "length": "199.99",
     "breadth": "34.8",
     "grossTonnage": "70,048",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/01/24 16:33",
-    "deptTime": "2022/01/24 08:33",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2022/01/30 21:53",
-    "destTime": "2022/01/30 13:53",
-    "position": "1.284873\u00b0 / 103.7527\u00b0",
+    "dept": "SG SIN",
+    "deptLong": "Singapore",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/01/30 21:53",
+    "deptTime": "2022/01/30 13:53",
+    "dest": "AE AUH",
+    "destLong": "Abu Dhabi",
+    "destType": "ETA",
+    "destLocalTime": "2022/02/09 05:00",
+    "destTime": "2022/02/09 01:00",
+    "position": "1.284885\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
   "9432919": {
-    "rowidx": 218,
+    "rowidx": 219,
     "silence": "FALSE",
     "num": "-37",
     "manDept": "SHG",
@@ -928,7 +957,7 @@
     "status": "Out of Range"
   },
   "9355197": {
-    "rowidx": 219,
+    "rowidx": 220,
     "silence": "FALSE",
     "num": "-38",
     "manDept": "SHG",
@@ -957,7 +986,7 @@
     "status": "Out of Range"
   },
   "9432892": {
-    "rowidx": 220,
+    "rowidx": 221,
     "silence": "FALSE",
     "num": "-39",
     "manDept": "SHG",
@@ -986,7 +1015,7 @@
     "status": "Out of Range"
   },
   "9731652": {
-    "rowidx": 221,
+    "rowidx": 222,
     "silence": "FALSE",
     "num": "-40",
     "manDept": "SHG",
@@ -1014,39 +1043,10 @@
     "area": "South China",
     "status": "Out of Range"
   },
-  "9690547": {
-    "rowidx": 222,
-    "silence": "FALSE",
-    "num": "-41",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "22Q1",
-    "numDept": "0",
-    "mapStatus": "4",
-    "mtsid": "3434808",
-    "name": "Helios Ray",
-    "mmsi": "311000321",
-    "length": "199.97",
-    "breadth": "35.4",
-    "grossTonnage": "71,177",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/01/27 20:04",
-    "deptTime": "2022/01/27 12:04",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2022/02/02 03:00",
-    "destTime": "2022/02/01 19:00",
-    "position": "24.71019\u00b0 / 119.9375\u00b0",
-    "area": "East China Sea",
-    "status": "Out of Range"
-  },
   "9672404": {
     "rowidx": 223,
     "silence": "FALSE",
-    "num": "-42",
+    "num": "-41",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -1075,7 +1075,7 @@
   "9293648": {
     "rowidx": 224,
     "silence": "FALSE",
-    "num": "-43",
+    "num": "-42",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -1097,14 +1097,14 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/30 22:47",
     "destTime": "2022/01/30 14:47",
-    "position": "31.32208\u00b0 / 121.6816\u00b0",
+    "position": "31.32207\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
   "9247572": {
     "rowidx": 225,
     "silence": "FALSE",
-    "num": "-44",
+    "num": "-43",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -1126,7 +1126,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/31 10:36",
     "destTime": "2022/01/31 02:36",
-    "position": "30.83612\u00b0 / 121.8364\u00b0",
+    "position": "30.83607\u00b0 / 121.8364\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
