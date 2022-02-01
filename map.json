@@ -26,7 +26,7 @@
     "destTime": "2022/02/05 12:00",
     "position": "30.53282\u00b0 / 122.3952\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9293583": {
     "rowidx": 7,
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/25 16:15",
     "destTime": "2022/01/25 14:15",
-    "position": "42.65892\u00b0 / -9.803823\u00b0",
+    "position": "42.80992\u00b0 / -9.807325\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/04 20:00",
     "destTime": "2022/02/04 19:00",
-    "position": "37.96084\u00b0 / 23.60501\u00b0",
+    "position": "37.96084\u00b0 / 23.60502\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/01 12:06",
     "destTime": "2022/02/01 11:06",
-    "position": "53.5773\u00b0 / 8.55069\u00b0",
+    "position": "53.57731\u00b0 / 8.550673\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -478,17 +478,17 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "61,854",
-    "dept": "TR CKZ",
-    "deptLong": "Canakkale",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/02/01 13:53",
-    "deptTime": "2022/02/01 11:53",
+    "dept": "EG ALY",
+    "deptLong": "Alexandria",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/01/30 20:27",
+    "deptTime": "2022/01/30 18:27",
     "dest": "TR DRC",
     "destLong": "Derince",
     "destType": "ETA",
     "destLocalTime": "2022/02/02 02:30",
     "destTime": "2022/02/01 23:30",
-    "position": "40.31897\u00b0 / 26.61125\u00b0",
+    "position": "40.38403\u00b0 / 26.67955\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -517,9 +517,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/01 08:34",
     "destTime": "2022/02/01 05:34",
-    "position": "26.53808\u00b0 / 50.174\u00b0",
+    "position": "26.61791\u00b0 / 50.30862\u00b0",
     "area": "Persian Gulf",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9426362": {
     "rowidx": 205,
@@ -749,7 +749,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/31 18:19",
     "destTime": "2022/01/31 10:19",
-    "position": "2.326365\u00b0 / 101.8121\u00b0",
+    "position": "2.463587\u00b0 / 101.6224\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -1068,7 +1068,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/31 10:36",
     "destTime": "2022/01/31 02:36",
-    "position": "30.83609\u00b0 / 121.8364\u00b0",
+    "position": "30.8361\u00b0 / 121.8364\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -1097,7 +1097,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/01 12:11",
     "destTime": "2022/02/01 04:11",
-    "position": "31.32218\u00b0 / 121.6816\u00b0",
+    "position": "31.32216\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
