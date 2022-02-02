@@ -77,14 +77,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/01/27 20:04",
     "deptTime": "2022/01/27 12:04",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2022/02/02 05:30",
-    "destTime": "2022/02/01 21:30",
-    "position": "1.270668\u00b0 / 103.8977\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/02/02 06:51",
+    "destTime": "2022/02/01 22:51",
+    "position": "1.270703\u00b0 / 103.8977\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9325788": {
     "rowidx": 9,
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/25 16:15",
     "destTime": "2022/01/25 14:15",
-    "position": "45.20312\u00b0 / -8.334365\u00b0",
+    "position": "45.34615\u00b0 / -8.23651\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/04 20:00",
     "destTime": "2022/02/04 19:00",
-    "position": "37.96085\u00b0 / 23.60501\u00b0",
+    "position": "37.96084\u00b0 / 23.60501\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/01 12:06",
     "destTime": "2022/02/01 11:06",
-    "position": "53.5773\u00b0 / 8.55068\u00b0",
+    "position": "53.5773\u00b0 / 8.550689\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/02 05:15",
     "destTime": "2022/02/01 21:15",
-    "position": "1.264422\u00b0 / 103.8477\u00b0",
+    "position": "1.264392\u00b0 / 103.8478\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/02 02:30",
     "destTime": "2022/02/01 23:30",
-    "position": "40.73078\u00b0 / 29.17498\u00b0",
+    "position": "40.74697\u00b0 / 29.17535\u00b0",
     "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
@@ -1068,7 +1068,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/31 10:36",
     "destTime": "2022/01/31 02:36",
-    "position": "30.83611\u00b0 / 121.8364\u00b0",
+    "position": "30.83612\u00b0 / 121.8363\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
