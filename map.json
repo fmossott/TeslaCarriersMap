@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/30 13:30",
     "destTime": "2022/01/30 04:30",
-    "position": "36.08392\u00b0 / 125.6154\u00b0",
+    "position": "36.13027\u00b0 / 125.6469\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/25 16:15",
     "destTime": "2022/01/25 14:15",
-    "position": "49.37222\u00b0 / -4.051903\u00b0",
+    "position": "49.54595\u00b0 / -3.619262\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/04 20:00",
     "destTime": "2022/02/04 19:00",
-    "position": "37.96083\u00b0 / 23.60502\u00b0",
+    "position": "37.96083\u00b0 / 23.60503\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/01 12:06",
     "destTime": "2022/02/01 11:06",
-    "position": "53.57731\u00b0 / 8.550685\u00b0",
+    "position": "53.57731\u00b0 / 8.550683\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -362,19 +362,19 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "59,952",
-    "dept": "TH LCH",
-    "deptLong": "Laem Chabang",
+    "dept": "SG SIN",
+    "deptLong": "Singapore",
     "deptType": "ATD",
-    "deptLocalTime": "2022/01/30 23:47",
-    "deptTime": "2022/01/30 16:47",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2022/02/02 06:04",
-    "destTime": "2022/02/01 22:04",
-    "position": "1.263722\u00b0 / 103.8479\u00b0",
+    "deptLocalTime": "2022/02/03 01:56",
+    "deptTime": "2022/02/02 17:56",
+    "dest": "AU FRE",
+    "destLong": "Fremantle",
+    "destType": "ETA",
+    "destLocalTime": "2022/02/09 04:00",
+    "destTime": "2022/02/08 20:00",
+    "position": "1.233378\u00b0 / 103.9581\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9312834": {
     "rowidx": 200,
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/02 07:54",
     "destTime": "2022/02/02 04:54",
-    "position": "40.74918\u00b0 / 29.83398\u00b0",
+    "position": "40.74918\u00b0 / 29.834\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -1126,7 +1126,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/02 12:20",
     "destTime": "2022/02/02 04:20",
-    "position": "30.83607\u00b0 / 121.8364\u00b0",
+    "position": "30.83604\u00b0 / 121.8364\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -1155,7 +1155,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/02 13:38",
     "destTime": "2022/02/02 05:38",
-    "position": "31.32341\u00b0 / 121.6796\u00b0",
+    "position": "31.3234\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
