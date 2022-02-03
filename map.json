@@ -2,11 +2,11 @@
   "9463205": {
     "rowidx": 6,
     "silence": "FALSE",
-    "num": "176",
+    "num": "177",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
-    "numDept": "7",
+    "numDept": "8",
     "mapStatus": "2",
     "mtsid": "464327",
     "name": "Msc Immacolata",
@@ -31,11 +31,11 @@
   "9293583": {
     "rowidx": 7,
     "silence": "FALSE",
-    "num": "175",
+    "num": "176",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
-    "numDept": "6",
+    "numDept": "7",
     "mapStatus": "2",
     "mtsid": "691199",
     "name": "SFL Composer",
@@ -60,11 +60,11 @@
   "9690547": {
     "rowidx": 8,
     "silence": "FALSE",
-    "num": "174",
+    "num": "175",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
-    "numDept": "5",
+    "numDept": "6",
     "mapStatus": "2",
     "mtsid": "3434808",
     "name": "Helios Ray",
@@ -89,7 +89,7 @@
   "9325788": {
     "rowidx": 9,
     "silence": "FALSE",
-    "num": "173",
+    "num": "174",
     "manDept": "SFO",
     "notes": "",
     "quarter": "22Q1",
@@ -115,8 +115,37 @@
     "area": "CIS Pacific",
     "status": "Underway using Engine"
   },
-  "9673020": {
+  "9414876": {
     "rowidx": 10,
+    "silence": "FALSE",
+    "num": "173",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q1",
+    "numDept": "5",
+    "mapStatus": "2",
+    "mtsid": "713335",
+    "name": "Glovis Condor",
+    "mmsi": "441344000",
+    "length": "199.1",
+    "breadth": "32.3",
+    "grossTonnage": "60,396",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/01/19 11:00",
+    "deptTime": "2022/01/19 03:00",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ETA",
+    "destLocalTime": "2022/02/06 03:00",
+    "destTime": "2022/02/06 01:00",
+    "position": "14.27947\u00b0 / 52.47615\u00b0",
+    "area": "Malacca Strait",
+    "status": "Out of Range"
+  },
+  "9673020": {
+    "rowidx": 11,
     "silence": "FALSE",
     "num": "172",
     "manDept": "SHG",
@@ -145,7 +174,7 @@
     "status": "Underway using Engine"
   },
   "9419759": {
-    "rowidx": 11,
+    "rowidx": 12,
     "silence": "FALSE",
     "num": "171",
     "manDept": "SFO",
@@ -174,7 +203,7 @@
     "status": "Underway using Engine"
   },
   "9690559": {
-    "rowidx": 12,
+    "rowidx": 13,
     "silence": "FALSE",
     "num": "170",
     "manDept": "SHG",
@@ -203,7 +232,7 @@
     "status": "Out of Range"
   },
   "9796377": {
-    "rowidx": 13,
+    "rowidx": 14,
     "silence": "FALSE",
     "num": "169",
     "manDept": "SHG",
@@ -232,7 +261,7 @@
     "status": "Underway using Engine"
   },
   "9710737": {
-    "rowidx": 14,
+    "rowidx": 15,
     "silence": "FALSE",
     "num": "168",
     "manDept": "SHG",
@@ -261,7 +290,7 @@
     "status": "Underway using Engine"
   },
   "9284752": {
-    "rowidx": 196,
+    "rowidx": 197,
     "silence": "FALSE",
     "num": "-14",
     "manDept": "SHG",
@@ -290,7 +319,7 @@
     "status": "Underway using Engine"
   },
   "9624029": {
-    "rowidx": 197,
+    "rowidx": 198,
     "silence": "FALSE",
     "num": "-15",
     "manDept": "SHG",
@@ -319,7 +348,7 @@
     "status": "Underway using Engine"
   },
   "9702455": {
-    "rowidx": 198,
+    "rowidx": 199,
     "silence": "FALSE",
     "num": "-16",
     "manDept": "SHG",
@@ -348,7 +377,7 @@
     "status": "Underway using Engine"
   },
   "9355185": {
-    "rowidx": 199,
+    "rowidx": 200,
     "silence": "FALSE",
     "num": "-17",
     "manDept": "SHG",
@@ -377,7 +406,7 @@
     "status": "Underway using Engine"
   },
   "9312834": {
-    "rowidx": 200,
+    "rowidx": 201,
     "silence": "FALSE",
     "num": "-18",
     "manDept": "SHG",
@@ -406,7 +435,7 @@
     "status": "Underway using Engine"
   },
   "9514999": {
-    "rowidx": 201,
+    "rowidx": 202,
     "silence": "FALSE",
     "num": "-19",
     "manDept": "SHG",
@@ -435,7 +464,7 @@
     "status": "Out of Range"
   },
   "9448140": {
-    "rowidx": 202,
+    "rowidx": 203,
     "silence": "FALSE",
     "num": "-20",
     "manDept": "SHG",
@@ -464,7 +493,7 @@
     "status": "Underway using Engine"
   },
   "9283863": {
-    "rowidx": 203,
+    "rowidx": 204,
     "silence": "FALSE",
     "num": "-21",
     "manDept": "SHG",
@@ -493,7 +522,7 @@
     "status": "Underway using Engine"
   },
   "9728069": {
-    "rowidx": 204,
+    "rowidx": 205,
     "silence": "FALSE",
     "num": "-22",
     "manDept": "SHG",
@@ -522,7 +551,7 @@
     "status": "Moored"
   },
   "9426362": {
-    "rowidx": 205,
+    "rowidx": 206,
     "silence": "FALSE",
     "num": "-23",
     "manDept": "SHG",
@@ -551,7 +580,7 @@
     "status": "Out of Range"
   },
   "9626522": {
-    "rowidx": 206,
+    "rowidx": 207,
     "silence": "FALSE",
     "num": "-24",
     "manDept": "SHG",
@@ -577,10 +606,10 @@
     "destTime": "2022/02/05 16:00",
     "position": "-14.55926\u00b0 / 45.70417\u00b0",
     "area": "East Africa",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9515008": {
-    "rowidx": 207,
+    "rowidx": 208,
     "silence": "FALSE",
     "num": "-25",
     "manDept": "SHG",
@@ -609,7 +638,7 @@
     "status": "Out of Range"
   },
   "9427952": {
-    "rowidx": 208,
+    "rowidx": 209,
     "silence": "FALSE",
     "num": "-26",
     "manDept": "SHG",
@@ -638,7 +667,7 @@
     "status": "Moored"
   },
   "9325233": {
-    "rowidx": 209,
+    "rowidx": 210,
     "silence": "FALSE",
     "num": "-27",
     "manDept": "SHG",
@@ -667,7 +696,7 @@
     "status": "At Anchor"
   },
   "9519119": {
-    "rowidx": 210,
+    "rowidx": 211,
     "silence": "FALSE",
     "num": "-28",
     "manDept": "SHG",
@@ -696,7 +725,7 @@
     "status": "Moored"
   },
   "9338840": {
-    "rowidx": 211,
+    "rowidx": 212,
     "silence": "FALSE",
     "num": "-29",
     "manDept": "SHG",
@@ -725,7 +754,7 @@
     "status": "Out of Range"
   },
   "9620944": {
-    "rowidx": 212,
+    "rowidx": 213,
     "silence": "FALSE",
     "num": "-30",
     "manDept": "SHG",
@@ -753,39 +782,10 @@
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
-  "9414876": {
-    "rowidx": 213,
-    "silence": "FALSE",
-    "num": "-31",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "22Q1",
-    "numDept": "0",
-    "mapStatus": "4",
-    "mtsid": "713335",
-    "name": "Glovis Condor",
-    "mmsi": "441344000",
-    "length": "199.1",
-    "breadth": "32.3",
-    "grossTonnage": "60,396",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/01/19 11:00",
-    "deptTime": "2022/01/19 03:00",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/02/06 03:00",
-    "destTime": "2022/02/06 01:00",
-    "position": "14.27947\u00b0 / 52.47615\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
-  },
   "9738777": {
     "rowidx": 214,
     "silence": "FALSE",
-    "num": "-32",
+    "num": "-31",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -814,7 +814,7 @@
   "9377523": {
     "rowidx": 215,
     "silence": "FALSE",
-    "num": "-33",
+    "num": "-32",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -843,7 +843,7 @@
   "9303194": {
     "rowidx": 216,
     "silence": "FALSE",
-    "num": "-34",
+    "num": "-33",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -872,7 +872,7 @@
   "9713894": {
     "rowidx": 217,
     "silence": "FALSE",
-    "num": "-35",
+    "num": "-34",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -901,7 +901,7 @@
   "9432919": {
     "rowidx": 218,
     "silence": "FALSE",
-    "num": "-36",
+    "num": "-35",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -930,7 +930,7 @@
   "9355197": {
     "rowidx": 219,
     "silence": "FALSE",
-    "num": "-37",
+    "num": "-36",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -959,7 +959,7 @@
   "9432892": {
     "rowidx": 220,
     "silence": "FALSE",
-    "num": "-38",
+    "num": "-37",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -988,7 +988,7 @@
   "9731652": {
     "rowidx": 221,
     "silence": "FALSE",
-    "num": "-39",
+    "num": "-38",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -1017,7 +1017,7 @@
   "9293648": {
     "rowidx": 222,
     "silence": "FALSE",
-    "num": "-40",
+    "num": "-39",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -1046,7 +1046,7 @@
   "9247572": {
     "rowidx": 223,
     "silence": "FALSE",
-    "num": "-41",
+    "num": "-40",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -1075,7 +1075,7 @@
   "9483786": {
     "rowidx": 224,
     "silence": "FALSE",
-    "num": "-42",
+    "num": "-41",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -1104,7 +1104,7 @@
   "9176632": {
     "rowidx": 225,
     "silence": "FALSE",
-    "num": "-43",
+    "num": "-42",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -1133,7 +1133,7 @@
   "9493365": {
     "rowidx": 226,
     "silence": "FALSE",
-    "num": "-44",
+    "num": "-43",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -1162,7 +1162,7 @@
   "9332937": {
     "rowidx": 227,
     "silence": "FALSE",
-    "num": "-45",
+    "num": "-44",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
