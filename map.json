@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/03 09:54",
     "destTime": "2022/02/03 01:54",
-    "position": "1.282085\u00b0 / 103.9297\u00b0",
+    "position": "1.282323\u00b0 / 103.9295\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -181,7 +181,7 @@
     "notes": "",
     "quarter": "22Q1",
     "numDept": "1",
-    "mapStatus": "3",
+    "mapStatus": "2",
     "mtsid": "714337",
     "name": "Glovis Cardinal",
     "mmsi": "441304000",
@@ -239,7 +239,7 @@
     "notes": "",
     "quarter": "22Q1",
     "numDept": "2",
-    "mapStatus": "2",
+    "mapStatus": "3",
     "mtsid": "6655570",
     "name": "Grande California",
     "mmsi": "247441300",
@@ -256,9 +256,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/25 16:15",
     "destTime": "2022/01/25 14:15",
-    "position": "50.90257\u00b0 / -1.423065\u00b0",
+    "position": "50.90257\u00b0 / -1.423038\u00b0",
     "area": "English Channel",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9710737": {
     "rowidx": 15,
@@ -285,8 +285,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/05 12:00",
     "destTime": "2022/02/05 11:00",
-    "position": "36.47117\u00b0 / 23.30371\u00b0",
-    "area": "Aegean Sea",
+    "position": "36.59791\u00b0 / 21.36645\u00b0",
+    "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
   "9284752": {
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/01 12:06",
     "destTime": "2022/02/01 11:06",
-    "position": "53.71183\u00b0 / 5.681458\u00b0",
+    "position": "53.62897\u00b0 / 5.260746\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/09 04:00",
     "destTime": "2022/02/08 20:00",
-    "position": "1.233378\u00b0 / 103.9581\u00b0",
+    "position": "1.348228\u00b0 / 104.396\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -490,7 +490,7 @@
     "destTime": "2022/02/14 04:00",
     "position": "19.91667\u00b0 / 39.05017\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9283863": {
     "rowidx": 204,
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/02 00:39",
     "destTime": "2022/02/01 21:39",
-    "position": "26.49287\u00b0 / 50.20576\u00b0",
+    "position": "26.49291\u00b0 / 50.20577\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/02 01:00",
     "destTime": "2022/02/01 22:00",
-    "position": "26.82728\u00b0 / 50.47935\u00b0",
+    "position": "26.82725\u00b0 / 50.47918\u00b0",
     "area": "Persian Gulf",
     "status": "At Anchor"
   },
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/03 07:35",
     "destTime": "2022/02/03 04:35",
-    "position": "21.45852\u00b0 / 39.16642\u00b0",
+    "position": "21.45853\u00b0 / 39.16643\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -778,7 +778,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/02 20:06",
     "destTime": "2022/02/02 16:06",
-    "position": "24.62413\u00b0 / 56.62957\u00b0",
+    "position": "24.91691\u00b0 / 56.72305\u00b0",
     "area": "Arabian Gulf",
     "status": "Underway using Engine"
   },
@@ -1126,7 +1126,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/02 12:20",
     "destTime": "2022/02/02 04:20",
-    "position": "30.8361\u00b0 / 121.8364\u00b0",
+    "position": "30.83615\u00b0 / 121.8364\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -1152,12 +1152,12 @@
     "deptTime": "2021/12/17 08:48",
     "dest": "CN SHG",
     "destLong": "Shanghai",
-    "destType": "ETA",
-    "destLocalTime": "2022/03/02 09:30",
-    "destTime": "2022/03/02 01:30",
-    "position": "31.32202\u00b0 / 121.6818\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/02/03 14:31",
+    "destTime": "2022/02/03 06:31",
+    "position": "31.322\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9338864": {
     "rowidx": 227,
