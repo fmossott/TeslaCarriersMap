@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/06 16:41",
     "destTime": "2022/02/06 14:41",
-    "position": "29.85681\u00b0 / 32.5606\u00b0",
+    "position": "29.85673\u00b0 / 32.56001\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/04 22:35",
     "destTime": "2022/02/04 21:35",
-    "position": "51.30377\u00b0 / 3.229563\u00b0",
+    "position": "51.30375\u00b0 / 3.229522\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/13 06:00",
     "destTime": "2022/02/13 05:00",
-    "position": "43.58078\u00b0 / 10.3054\u00b0",
+    "position": "43.58077\u00b0 / 10.30541\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -370,10 +370,10 @@
     "dest": "ES SDR",
     "destLong": "Santander",
     "destType": "ETA",
-    "destLocalTime": "2022/02/07 12:00",
-    "destTime": "2022/02/07 11:00",
-    "position": "49.30358\u00b0 / -4.785175\u00b0",
-    "area": "English Channel",
+    "destLocalTime": "2022/02/08 06:00",
+    "destTime": "2022/02/08 05:00",
+    "position": "49.11471\u00b0 / -5.227777\u00b0",
+    "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
   "9312834": {
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/01 06:35",
     "destTime": "2022/01/31 22:35",
-    "position": "34.9379\u00b0 / 125.0923\u00b0",
+    "position": "35.21965\u00b0 / 125.1931\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -749,7 +749,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/04 22:11",
     "destTime": "2022/02/04 18:11",
-    "position": "24.99178\u00b0 / 55.07815\u00b0",
+    "position": "24.99179\u00b0 / 55.07815\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -799,15 +799,15 @@
     "grossTonnage": "59,217",
     "dept": "AE JEA",
     "deptLong": "Jebel Ali",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/02/05 20:19",
-    "deptTime": "2022/02/05 12:19",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/02/07 05:17",
+    "deptTime": "2022/02/07 01:17",
     "dest": "SA DMM",
     "destLong": "Dammam",
     "destType": "ETA",
     "destLocalTime": "2022/02/08 01:00",
     "destTime": "2022/02/07 22:00",
-    "position": "24.98962\u00b0 / 55.07398\u00b0",
+    "position": "25.09072\u00b0 / 54.958\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -836,9 +836,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/09 05:00",
     "destTime": "2022/02/09 01:00",
-    "position": "9.88193\u00b0 / 74.8788\u00b0",
+    "position": "18.46899\u00b0 / 65.76546\u00b0",
     "area": "West Coast India",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9432919": {
     "rowidx": 216,
@@ -865,9 +865,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/23 16:44",
     "destTime": "2022/01/23 08:44",
-    "position": "5.856867\u00b0 / 80.12819\u00b0",
+    "position": "10.61465\u00b0 / 68.20185\u00b0",
     "area": "Laccadive Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9355197": {
     "rowidx": 217,
@@ -921,10 +921,10 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/02/16 20:00",
-    "destTime": "2022/02/16 18:00",
-    "position": "1.152883\u00b0 / 103.7563\u00b0",
-    "area": "Singapore Area",
+    "destLocalTime": "2022/02/17 01:00",
+    "destTime": "2022/02/16 23:00",
+    "position": "2.83995\u00b0 / 100.9983\u00b0",
+    "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
   "9731652": {
@@ -952,9 +952,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/13 20:00",
     "destTime": "2022/02/13 18:00",
-    "position": "5.883833\u00b0 / 80.13483\u00b0",
+    "position": "9.505\u00b0 / 68.61517\u00b0",
     "area": "Malacca Strait",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9247572": {
     "rowidx": 220,
