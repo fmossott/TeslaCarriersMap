@@ -517,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/31 05:40",
     "destTime": "2022/01/31 03:40",
-    "position": "40.03754\u00b0 / -9.838038\u00b0",
+    "position": "41.901\u00b0 / -9.801414\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/07 06:00",
     "destTime": "2022/02/07 03:00",
-    "position": "44.32755\u00b0 / 37.17738\u00b0",
+    "position": "44.34948\u00b0 / 37.15329\u00b0",
     "area": "Black Sea",
     "status": "Underway using Engine"
   },
@@ -751,7 +751,7 @@
     "destTime": "2022/02/07 22:10",
     "position": "26.6122\u00b0 / 50.28121\u00b0",
     "area": "Persian Gulf",
-    "status": "At Anchor"
+    "status": "Out of Range"
   },
   "9713894": {
     "rowidx": 215,
@@ -971,17 +971,17 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "59,515",
-    "dept": "CN NANSHA ANCH",
+    "dept": "CN MCI",
     "deptLong": "Mcid",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/02/08 21:17",
-    "deptTime": "2022/02/08 13:17",
-    "dest": "CN GZG",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/02/08 19:32",
+    "deptTime": "2022/02/08 11:32",
+    "dest": "CN NANSHA ANCH",
     "destLong": "Guangzhou",
-    "destType": "ETA",
-    "destLocalTime": "2022/02/08 22:00",
-    "destTime": "2022/02/08 14:00",
-    "position": "22.74936\u00b0 / 113.6451\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/02/08 21:17",
+    "destTime": "2022/02/08 13:17",
+    "position": "22.74934\u00b0 / 113.6451\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
@@ -1126,7 +1126,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/07 22:00",
     "destTime": "2022/02/07 14:00",
-    "position": "29.97883\u00b0 / 122.8019\u00b0",
+    "position": "29.97531\u00b0 / 122.7967\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
