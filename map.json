@@ -517,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/01/31 05:40",
     "destTime": "2022/01/31 03:40",
-    "position": "41.901\u00b0 / -9.801414\u00b0",
+    "position": "42.02974\u00b0 / -9.80029\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/07 06:00",
     "destTime": "2022/02/07 03:00",
-    "position": "44.34948\u00b0 / 37.15329\u00b0",
+    "position": "44.35131\u00b0 / 37.12871\u00b0",
     "area": "Black Sea",
     "status": "Underway using Engine"
   },
@@ -577,7 +577,7 @@
     "destTime": "2022/02/07 06:36",
     "position": "26.60825\u00b0 / 50.2897\u00b0",
     "area": "Persian Gulf",
-    "status": "At Anchor"
+    "status": "Out of Range"
   },
   "9519119": {
     "rowidx": 209,
@@ -691,9 +691,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/09 00:31",
     "destTime": "2022/02/08 21:31",
-    "position": "26.17285\u00b0 / 50.71824\u00b0",
+    "position": "26.18593\u00b0 / 50.71253\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9377523": {
     "rowidx": 213,
@@ -981,7 +981,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/08 21:17",
     "destTime": "2022/02/08 13:17",
-    "position": "22.74934\u00b0 / 113.6451\u00b0",
+    "position": "22.74944\u00b0 / 113.6451\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
@@ -1097,7 +1097,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/08 08:30",
     "destTime": "2022/02/08 00:30",
-    "position": "22.86455\u00b0 / 113.547\u00b0",
+    "position": "22.86456\u00b0 / 113.547\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -1116,17 +1116,17 @@
     "length": "199.96",
     "breadth": "32.26",
     "grossTonnage": "58,767",
-    "dept": "CN SHG",
+    "dept": "CN NINGBO ANCH",
     "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/02/07 13:30",
-    "deptTime": "2022/02/07 05:30",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/02/09 09:10",
+    "deptTime": "2022/02/09 01:10",
     "dest": "CN ZOS",
     "destLong": "Zhoushan",
     "destType": "ETA",
     "destLocalTime": "2022/02/07 22:00",
     "destTime": "2022/02/07 14:00",
-    "position": "29.97531\u00b0 / 122.7967\u00b0",
+    "position": "29.78078\u00b0 / 122.5033\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -1242,7 +1242,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/10 17:00",
     "destTime": "2022/02/10 09:00",
-    "position": "31.3168\u00b0 / 121.7265\u00b0",
+    "position": "31.2473\u00b0 / 121.9871\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
