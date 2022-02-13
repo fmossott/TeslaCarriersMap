@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/14 04:00",
     "destTime": "2022/02/14 03:00",
-    "position": "50.3231\u00b0 / 0.01743333\u00b0",
+    "position": "50.38642\u00b0 / 0.3917167\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -573,10 +573,10 @@
     "dest": "IT LIV",
     "destLong": "Livorno",
     "destType": "ETA",
-    "destLocalTime": "2022/02/16 04:00",
-    "destTime": "2022/02/16 03:00",
-    "position": "37.80542\u00b0 / 23.62358\u00b0",
-    "area": "Piraeus Area",
+    "destLocalTime": "2022/02/16 03:00",
+    "destTime": "2022/02/16 02:00",
+    "position": "36.4047\u00b0 / 22.90687\u00b0",
+    "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
   "9338840": {
@@ -749,7 +749,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/13 19:27",
     "destTime": "2022/02/13 16:27",
-    "position": "21.46563\u00b0 / 39.16503\u00b0",
+    "position": "21.46565\u00b0 / 39.16503\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -1097,9 +1097,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/14 01:00",
     "destTime": "2022/02/13 17:00",
-    "position": "22.45269\u00b0 / 119.4022\u00b0",
+    "position": "1.406935\u00b0 / 104.4236\u00b0",
     "area": "South China",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9277838": {
     "rowidx": 228,
@@ -1152,9 +1152,9 @@
     "deptTime": "2022/02/12 16:39",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
-    "destType": "ETA",
-    "destLocalTime": "2022/02/14 02:00",
-    "destTime": "2022/02/13 17:00",
+    "destType": "ATA",
+    "destLocalTime": "2022/02/14 03:17",
+    "destTime": "2022/02/13 18:17",
     "position": "36.98247\u00b0 / 126.1031\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
