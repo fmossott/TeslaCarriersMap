@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/14 21:41",
     "destTime": "2022/02/14 19:41",
-    "position": "31.76265\u00b0 / 31.93904\u00b0",
+    "position": "31.90264\u00b0 / 31.5202\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/16 03:20",
     "destTime": "2022/02/16 01:20",
-    "position": "31.68333\u00b0 / 32.57667\u00b0",
+    "position": "31.84712\u00b0 / 32.96821\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/16 04:00",
     "destTime": "2022/02/16 03:00",
-    "position": "50.16604\u00b0 / -1.468003\u00b0",
+    "position": "50.25783\u00b0 / -0.6588984\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/15 18:04",
     "destTime": "2022/02/15 17:04",
-    "position": "51.47277\u00b0 / 2.69449\u00b0",
+    "position": "51.47647\u00b0 / 2.694172\u00b0",
     "area": "North Sea",
     "status": "Underway"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/14 15:49",
     "destTime": "2022/02/14 14:49",
-    "position": "51.29664\u00b0 / 3.241452\u00b0",
+    "position": "51.29662\u00b0 / 3.241435\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -449,17 +449,17 @@
     "length": "167.25",
     "breadth": "28",
     "grossTonnage": "39,454",
-    "dept": "GB PRU",
+    "dept": "GB NAB ANCHORAGE",
     "deptLong": "Portbury",
     "deptType": "ATD",
     "deptLocalTime": "2022/02/11 10:29",
     "deptTime": "2022/02/11 02:29",
-    "dest": "GB NAB ANCHORAGE",
+    "dest": "GB SOU",
     "destLong": "Southampton",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2022/01/31 05:40",
     "destTime": "2022/01/31 03:40",
-    "position": "50.67804\u00b0 / -0.98196\u00b0",
+    "position": "50.77209\u00b0 / -1.26302\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/15 17:56",
     "destTime": "2022/02/15 13:56",
-    "position": "24.5015\u00b0 / 56.62115\u00b0",
+    "position": "24.50158\u00b0 / 56.62115\u00b0",
     "area": "Oman Gulf",
     "status": "Moored"
   },
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/16 06:00",
     "destTime": "2022/02/16 05:00",
-    "position": "41.59688\u00b0 / 11.62102\u00b0",
+    "position": "41.6675\u00b0 / 11.52202\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/15 14:45",
     "destTime": "2022/02/15 13:45",
-    "position": "51.26672\u00b0 / 4.237383\u00b0",
+    "position": "51.2667\u00b0 / 4.237383\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -633,7 +633,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/08 05:18",
     "destTime": "2022/02/08 03:18",
-    "position": "49.40267\u00b0 / -4.049167\u00b0",
+    "position": "49.502\u00b0 / -3.805667\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -691,9 +691,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/15 20:24",
     "destTime": "2022/02/15 17:24",
-    "position": "26.49293\u00b0 / 50.20379\u00b0",
+    "position": "26.49279\u00b0 / 50.2056\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9432919": {
     "rowidx": 216,
@@ -807,7 +807,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/13 20:00",
     "destTime": "2022/02/13 18:00",
-    "position": "34.15733\u00b0 / 24.76917\u00b0",
+    "position": "34.253\u00b0 / 24.4565\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -1186,7 +1186,7 @@
     "destTime": "2022/02/18 14:00",
     "position": "23.49113\u00b0 / 119.205\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9312834": {
     "rowidx": 233,
@@ -1300,7 +1300,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/14 10:43",
     "destTime": "2022/02/14 02:43",
-    "position": "30.83596\u00b0 / 121.8363\u00b0",
+    "position": "30.83598\u00b0 / 121.8364\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -1329,7 +1329,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/14 23:23",
     "destTime": "2022/02/14 15:23",
-    "position": "31.32213\u00b0 / 121.6818\u00b0",
+    "position": "31.32219\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
