@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/14 21:41",
     "destTime": "2022/02/14 19:41",
-    "position": "31.30762\u00b0 / 32.36883\u00b0",
+    "position": "31.75071\u00b0 / 31.97259\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/16 04:00",
     "destTime": "2022/02/16 03:00",
-    "position": "50.1817\u00b0 / -1.914545\u00b0",
+    "position": "50.16604\u00b0 / -1.468003\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/26 01:00",
     "destTime": "2022/02/25 17:00",
-    "position": "7.339032\u00b0 / 75.98323\u00b0",
+    "position": "5.750895\u00b0 / 80.30542\u00b0",
     "area": "Laccadive Sea",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/14 15:49",
     "destTime": "2022/02/14 14:49",
-    "position": "51.29663\u00b0 / 3.24143\u00b0",
+    "position": "51.29663\u00b0 / 3.241447\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -459,9 +459,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/31 05:40",
     "destTime": "2022/01/31 03:40",
-    "position": "50.63565\u00b0 / -1.004817\u00b0",
+    "position": "50.63706\u00b0 / -1.006567\u00b0",
     "area": "English Channel",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9427952": {
     "rowidx": 208,
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/15 17:56",
     "destTime": "2022/02/15 13:56",
-    "position": "24.50157\u00b0 / 56.6212\u00b0",
+    "position": "24.5015\u00b0 / 56.62115\u00b0",
     "area": "Oman Gulf",
     "status": "Moored"
   },
@@ -575,9 +575,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/15 14:45",
     "destTime": "2022/02/15 13:45",
-    "position": "51.27768\u00b0 / 4.246333\u00b0",
+    "position": "51.26672\u00b0 / 4.237383\u00b0",
     "area": "Antwerp Area",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9738777": {
     "rowidx": 212,
@@ -633,8 +633,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/08 05:18",
     "destTime": "2022/02/08 03:18",
-    "position": "49.2145\u00b0 / -4.523334\u00b0",
-    "area": "Celtic Sea",
+    "position": "49.30967\u00b0 / -4.284167\u00b0",
+    "area": "English Channel",
     "status": "Underway using Engine"
   },
   "9303194": {
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/12 09:55",
     "destTime": "2022/02/12 06:55",
-    "position": "25.44254\u00b0 / 57.30804\u00b0",
+    "position": "25.35568\u00b0 / 57.63369\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/15 17:30",
     "destTime": "2022/02/15 14:30",
-    "position": "26.62096\u00b0 / 50.30228\u00b0",
+    "position": "26.57266\u00b0 / 50.19397\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -807,7 +807,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/13 20:00",
     "destTime": "2022/02/13 18:00",
-    "position": "33.97583\u00b0 / 25.376\u00b0",
+    "position": "34.0645\u00b0 / 25.08333\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -1269,9 +1269,9 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/03/05 22:00",
-    "destTime": "2022/03/05 20:00",
-    "position": "31.32352\u00b0 / 121.6793\u00b0",
+    "destLocalTime": "2022/03/05 20:00",
+    "destTime": "2022/03/05 18:00",
+    "position": "31.32349\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -1300,7 +1300,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/14 10:43",
     "destTime": "2022/02/14 02:43",
-    "position": "30.83597\u00b0 / 121.8364\u00b0",
+    "position": "30.83595\u00b0 / 121.8364\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
