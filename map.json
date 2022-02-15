@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/14 21:41",
     "destTime": "2022/02/14 19:41",
-    "position": "29.86427\u00b0 / 32.56298\u00b0",
+    "position": "29.86425\u00b0 / 32.56305\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/14 21:59",
     "destTime": "2022/02/14 19:59",
-    "position": "29.84859\u00b0 / 32.559\u00b0",
+    "position": "29.8488\u00b0 / 32.56012\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/15 17:00",
     "destTime": "2022/02/15 16:00",
-    "position": "50.9043\u00b0 / -1.428105\u00b0",
+    "position": "50.90428\u00b0 / -1.428107\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/14 20:26",
     "destTime": "2022/02/14 12:26",
-    "position": "1.2665\u00b0 / 103.8991\u00b0",
+    "position": "1.266667\u00b0 / 103.8991\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/15 00:42",
     "destTime": "2022/02/14 16:42",
-    "position": "1.28213\u00b0 / 104.0089\u00b0",
+    "position": "1.282102\u00b0 / 104.009\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/01/31 05:40",
     "destTime": "2022/01/31 03:40",
-    "position": "50.63464\u00b0 / -1.01321\u00b0",
+    "position": "50.63486\u00b0 / -1.014788\u00b0",
     "area": "English Channel",
     "status": "At Anchor"
   },
@@ -575,7 +575,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/15 07:00",
     "destTime": "2022/02/15 06:00",
-    "position": "50.44988\u00b0 / 0.7926\u00b0",
+    "position": "50.57318\u00b0 / 1.181417\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/12 09:55",
     "destTime": "2022/02/12 06:55",
-    "position": "26.5016\u00b0 / 53.30705\u00b0",
+    "position": "26.41452\u00b0 / 53.59557\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/14 04:21",
     "destTime": "2022/02/14 01:21",
-    "position": "26.18853\u00b0 / 50.71078\u00b0",
+    "position": "26.18855\u00b0 / 50.71075\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/13 19:27",
     "destTime": "2022/02/13 16:27",
-    "position": "21.46562\u00b0 / 39.16505\u00b0",
+    "position": "21.4656\u00b0 / 39.16503\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -741,17 +741,17 @@
     "grossTonnage": "59,952",
     "dept": "AE KHL",
     "deptLong": "Khalifa",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/02/14 15:13",
-    "deptTime": "2022/02/14 11:13",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/02/15 04:54",
+    "deptTime": "2022/02/15 00:54",
     "dest": "KW KWI",
     "destLong": "Kuwait",
     "destType": "ETA",
     "destLocalTime": "2022/02/16 07:00",
     "destTime": "2022/02/16 04:00",
-    "position": "24.82019\u00b0 / 54.66777\u00b0",
+    "position": "24.87781\u00b0 / 54.63787\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9432892": {
     "rowidx": 217,
@@ -981,7 +981,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/22 22:30",
     "destTime": "2022/02/22 18:30",
-    "position": "1.284865\u00b0 / 103.7527\u00b0",
+    "position": "1.285048\u00b0 / 103.7525\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -1329,7 +1329,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/14 10:43",
     "destTime": "2022/02/14 02:43",
-    "position": "30.83596\u00b0 / 121.8364\u00b0",
+    "position": "30.83595\u00b0 / 121.8364\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
