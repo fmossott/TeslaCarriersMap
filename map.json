@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/14 21:41",
     "destTime": "2022/02/14 19:41",
-    "position": "36.60813\u00b0 / 13.46637\u00b0",
+    "position": "36.71003\u00b0 / 13.11601\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/18 07:00",
     "destTime": "2022/02/18 05:00",
-    "position": "51.8532\u00b0 / 2.222443\u00b0",
+    "position": "51.82623\u00b0 / 2.228625\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -256,9 +256,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/17 17:31",
     "destTime": "2022/02/17 16:31",
-    "position": "51.29662\u00b0 / 3.241595\u00b0",
+    "position": "51.2966\u00b0 / 3.241582\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9284752": {
     "rowidx": 201,
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/17 15:40",
     "destTime": "2022/02/17 14:40",
-    "position": "52.4082\u00b0 / 4.816027\u00b0",
+    "position": "52.40816\u00b0 / 4.815987\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/07 06:00",
     "destTime": "2022/02/07 03:00",
-    "position": "44.00211\u00b0 / 37.6553\u00b0",
+    "position": "44.0286\u00b0 / 37.61633\u00b0",
     "area": "Black Sea",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/17 14:49",
     "destTime": "2022/02/17 13:49",
-    "position": "43.58093\u00b0 / 10.30562\u00b0",
+    "position": "43.58095\u00b0 / 10.30558\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -575,9 +575,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/17 20:46",
     "destTime": "2022/02/17 19:46",
-    "position": "51.33373\u00b0 / 3.217433\u00b0",
+    "position": "51.32433\u00b0 / 3.222717\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9738777": {
     "rowidx": 212,
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/12 09:55",
     "destTime": "2022/02/12 06:55",
-    "position": "22.74777\u00b0 / 69.70679\u00b0",
+    "position": "22.7478\u00b0 / 69.70678\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
@@ -749,7 +749,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/17 19:27",
     "destTime": "2022/02/17 16:27",
-    "position": "25.00305\u00b0 / 51.60016\u00b0",
+    "position": "25.00307\u00b0 / 51.60018\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -778,9 +778,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/17 21:54",
     "destTime": "2022/02/17 19:54",
-    "position": "29.84032\u00b0 / 32.55958\u00b0",
+    "position": "29.83997\u00b0 / 32.5588\u00b0",
     "area": "Red Sea",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9731652": {
     "rowidx": 219,
@@ -865,7 +865,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/17 06:09",
     "destTime": "2022/02/16 23:09",
-    "position": "13.06925\u00b0 / 100.8937\u00b0",
+    "position": "13.06926\u00b0 / 100.8936\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -1029,11 +1029,11 @@
     "length": "179.15",
     "breadth": "32.2",
     "grossTonnage": "49,212",
-    "dept": "SG SIN",
+    "dept": "IN ENNORE ANCH",
     "deptLong": "Singapore",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/02/14 04:38",
-    "deptTime": "2022/02/13 20:38",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/02/18 04:48",
+    "deptTime": "2022/02/17 20:48",
     "dest": "LK HBA",
     "destLong": "Hambantota",
     "destType": "ETA",
@@ -1126,7 +1126,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/17 06:10",
     "destTime": "2022/02/16 22:10",
-    "position": "1.283967\u00b0 / 103.9403\u00b0",
+    "position": "1.283893\u00b0 / 103.9403\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
