@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/21 04:00",
     "destTime": "2022/02/20 20:00",
-    "position": "33.7116\u00b0 / 24.81292\u00b0",
+    "position": "33.79216\u00b0 / 24.50386\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/20 12:09",
     "destTime": "2022/02/20 11:09",
-    "position": "45.57935\u00b0 / 13.70471\u00b0",
+    "position": "45.57914\u00b0 / 13.7048\u00b0",
     "area": "Adriatic Sea",
     "status": "At Anchor"
   },
@@ -635,7 +635,7 @@
     "destTime": "2022/03/05 07:00",
     "position": "22.16103\u00b0 / 37.66642\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9355197": {
     "rowidx": 214,
@@ -1266,14 +1266,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/02/19 13:32",
     "deptTime": "2022/02/19 05:32",
-    "dest": "CN LYG",
+    "dest": "CN LIANYUNGANG ANCH",
     "destLong": "Lianyungang",
-    "destType": "ETA",
-    "destLocalTime": "2022/02/21 00:00",
-    "destTime": "2022/02/20 16:00",
-    "position": "34.86551\u00b0 / 119.7597\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/02/20 21:50",
+    "destTime": "2022/02/20 13:50",
+    "position": "34.8813\u00b0 / 119.7573\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9702429": {
     "rowidx": 236,
