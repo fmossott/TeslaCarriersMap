@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 15:35",
     "destTime": "2022/02/25 13:35",
-    "position": "29.85792\u00b0 / 32.56232\u00b0",
+    "position": "29.85715\u00b0 / 32.56159\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/21 04:00",
     "destTime": "2022/02/20 20:00",
-    "position": "36.43345\u00b0 / -7.276043\u00b0",
+    "position": "36.44849\u00b0 / -7.293495\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -198,36 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/25 17:00",
     "destTime": "2022/02/25 16:00",
-    "position": "51.32955\u00b0 / 2.374183\u00b0",
-    "area": "English Channel",
-    "status": "Underway using Engine"
-  },
-  "9414876": {
-    "rowidx": 15,
-    "silence": "FALSE",
-    "num": "173",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "22Q1",
-    "numDept": "5",
-    "mapStatus": "3",
-    "mtsid": "713335",
-    "name": "Glovis Condor",
-    "mmsi": "441344000",
-    "length": "199.1",
-    "breadth": "32.3",
-    "grossTonnage": "60,396",
-    "dept": "BE ZEE",
-    "deptLong": "Zeebrugge",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/02/25 15:38",
-    "deptTime": "2022/02/25 14:38",
-    "dest": "DE BRV",
-    "destLong": "Bremerhaven",
-    "destType": "ETA",
-    "destLocalTime": "2022/02/26 09:00",
-    "destTime": "2022/02/26 08:00",
-    "position": "51.3879\u00b0 / 2.976478\u00b0",
+    "position": "51.40406\u00b0 / 2.590037\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -343,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/17 14:49",
     "destTime": "2022/02/17 13:49",
-    "position": "51.30758\u00b0 / -3.739383\u00b0",
+    "position": "51.29175\u00b0 / -3.79065\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -372,9 +343,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 14:59",
     "destTime": "2022/02/25 13:59",
-    "position": "51.27792\u00b0 / 4.246733\u00b0",
+    "position": "51.26677\u00b0 / 4.23815\u00b0",
     "area": "Antwerp Area",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9738777": {
     "rowidx": 207,
@@ -425,12 +396,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/02/25 01:51",
     "deptTime": "2022/02/25 00:51",
-    "dest": "BE ANR",
+    "dest": "BE ANTWERP ANCH",
     "destLong": "Antwerp",
-    "destType": "ETA",
-    "destLocalTime": "2022/02/25 14:00",
-    "destTime": "2022/02/25 13:00",
-    "position": "51.34733\u00b0 / 2.642833\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/02/25 16:09",
+    "destTime": "2022/02/25 15:09",
+    "position": "51.34383\u00b0 / 2.6485\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -459,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/25 23:00",
     "destTime": "2022/02/25 19:00",
-    "position": "25.99113\u00b0 / 55.55431\u00b0",
+    "position": "25.76573\u00b0 / 55.32689\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -488,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 15:34",
     "destTime": "2022/02/25 13:34",
-    "position": "37.87423\u00b0 / 23.51145\u00b0",
+    "position": "37.8742\u00b0 / 23.51205\u00b0",
     "area": "Piraeus Area",
     "status": "At Anchor"
   },
@@ -546,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/26 13:00",
     "destTime": "2022/02/26 12:00",
-    "position": "42.00171\u00b0 / 16.60066\u00b0",
+    "position": "42.43551\u00b0 / 16.01811\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -633,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 14:33",
     "destTime": "2022/02/25 12:33",
-    "position": "29.53152\u00b0 / 34.94185\u00b0",
+    "position": "29.53152\u00b0 / 34.94183\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -662,7 +633,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/25 22:00",
     "destTime": "2022/02/25 19:00",
-    "position": "26.36064\u00b0 / 51.55888\u00b0",
+    "position": "26.43759\u00b0 / 51.24235\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -691,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 04:44",
     "destTime": "2022/02/25 01:44",
-    "position": "26.4891\u00b0 / 50.20061\u00b0",
+    "position": "26.48908\u00b0 / 50.20065\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -749,7 +720,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/26 22:00",
     "destTime": "2022/02/26 20:00",
-    "position": "22.12849\u00b0 / 37.7718\u00b0",
+    "position": "23.68324\u00b0 / 36.8517\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -1184,7 +1155,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 07:00",
     "destTime": "2022/02/24 23:00",
-    "position": "31.3222\u00b0 / 121.6818\u00b0",
+    "position": "31.32217\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -1213,7 +1184,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/28 03:00",
     "destTime": "2022/02/27 19:00",
-    "position": "31.31433\u00b0 / 121.7346\u00b0",
+    "position": "31.08931\u00b0 / 122.8744\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
