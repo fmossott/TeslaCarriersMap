@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 15:35",
     "destTime": "2022/02/25 13:35",
-    "position": "29.85701\u00b0 / 32.56006\u00b0",
+    "position": "29.85677\u00b0 / 32.5605\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/19 13:00",
     "destTime": "2022/02/19 11:00",
-    "position": "36.51098\u00b0 / -8.376137\u00b0",
+    "position": "36.60195\u00b0 / -8.70394\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 17:09",
     "destTime": "2022/02/25 16:09",
-    "position": "51.40359\u00b0 / 2.588942\u00b0",
+    "position": "51.40431\u00b0 / 2.588507\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -251,13 +251,13 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/02/22 08:17",
     "deptTime": "2022/02/22 07:17",
-    "dest": "EG PSD",
-    "destLong": "Port Said",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
     "destType": "ETA",
     "destLocalTime": "2022/03/05 20:00",
     "destTime": "2022/03/05 18:00",
-    "position": "50.83955\u00b0 / -1.324987\u00b0",
-    "area": "English Channel",
+    "position": "48.76676\u00b0 / -5.878125\u00b0",
+    "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
   "9427952": {
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/17 14:49",
     "destTime": "2022/02/17 13:49",
-    "position": "51.2909\u00b0 / -3.845017\u00b0",
+    "position": "51.31805\u00b0 / -3.65755\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 14:59",
     "destTime": "2022/02/25 13:59",
-    "position": "51.26683\u00b0 / 4.2375\u00b0",
+    "position": "51.26682\u00b0 / 4.2375\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -401,8 +401,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/25 18:30",
     "destTime": "2022/02/25 17:30",
-    "position": "51.42883\u00b0 / 3.605833\u00b0",
-    "area": "North Sea",
+    "position": "51.35717\u00b0 / 3.898333\u00b0",
+    "area": "Antwerp Area",
     "status": "Underway using Engine"
   },
   "9303194": {
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/25 23:00",
     "destTime": "2022/02/25 19:00",
-    "position": "25.14429\u00b0 / 54.939\u00b0",
+    "position": "25.0586\u00b0 / 55.00617\u00b0",
     "area": "Dubai Area",
     "status": "Underway using Engine"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 15:34",
     "destTime": "2022/02/25 13:34",
-    "position": "37.87422\u00b0 / 23.51168\u00b0",
+    "position": "37.87417\u00b0 / 23.51177\u00b0",
     "area": "Piraeus Area",
     "status": "At Anchor"
   },
@@ -541,12 +541,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/02/25 18:51",
     "deptTime": "2022/02/25 16:51",
-    "dest": "JO AQJ",
-    "destLong": "Aqaba",
+    "dest": "IN MUN",
+    "destLong": "Mundra",
     "destType": "ETA",
     "destLocalTime": "2022/02/25 08:32",
     "destTime": "2022/02/25 06:32",
-    "position": "28.54674\u00b0 / 34.64221\u00b0",
+    "position": "28.36741\u00b0 / 34.56301\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -628,14 +628,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/02/25 08:24",
     "deptTime": "2022/02/25 04:24",
-    "dest": "BH SITRAH ANCH",
+    "dest": "BH KBS",
     "destLong": "Khalifa Bin Salman",
     "destType": "ATA",
-    "destLocalTime": "2022/02/25 21:57",
-    "destTime": "2022/02/25 18:57",
-    "position": "26.17602\u00b0 / 50.76151\u00b0",
+    "destLocalTime": "2022/02/25 22:47",
+    "destTime": "2022/02/25 19:47",
+    "position": "26.18682\u00b0 / 50.71195\u00b0",
     "area": "Persian Gulf",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9203576": {
     "rowidx": 217,
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 04:44",
     "destTime": "2022/02/25 01:44",
-    "position": "26.48905\u00b0 / 50.20066\u00b0",
+    "position": "26.48907\u00b0 / 50.20065\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
