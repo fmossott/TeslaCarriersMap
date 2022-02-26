@@ -106,12 +106,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/02/07 13:30",
     "deptTime": "2022/02/07 05:30",
-    "dest": "EG SUEZ SOUTH ANCH",
+    "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ATA",
-    "destLocalTime": "2022/02/25 15:35",
-    "destTime": "2022/02/25 13:35",
-    "position": "29.88279\u00b0 / 32.54817\u00b0",
+    "destLocalTime": "2022/02/26 07:39",
+    "destTime": "2022/02/26 05:39",
+    "position": "30.00167\u00b0 / 32.58167\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/19 13:00",
     "destTime": "2022/02/19 11:00",
-    "position": "38.4696\u00b0 / -9.791311\u00b0",
+    "position": "38.71239\u00b0 / -9.856742\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/21 04:00",
     "destTime": "2022/02/20 20:00",
-    "position": "36.89296\u00b0 / -9.334825\u00b0",
+    "position": "37.10377\u00b0 / -9.422582\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 17:09",
     "destTime": "2022/02/25 16:09",
-    "position": "51.40267\u00b0 / 2.587903\u00b0",
+    "position": "51.40393\u00b0 / 2.588173\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/05 23:09",
     "destTime": "2022/02/05 21:09",
-    "position": "30.87429\u00b0 / 122.8422\u00b0",
+    "position": "30.99571\u00b0 / 122.7741\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/17 14:49",
     "destTime": "2022/02/17 13:49",
-    "position": "51.49462\u00b0 / -2.714383\u00b0",
+    "position": "51.49463\u00b0 / -2.714317\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 14:59",
     "destTime": "2022/02/25 13:59",
-    "position": "51.26683\u00b0 / 4.237484\u00b0",
+    "position": "51.26683\u00b0 / 4.2375\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/26 00:19",
     "destTime": "2022/02/25 20:19",
-    "position": "24.99643\u00b0 / 55.08001\u00b0",
+    "position": "24.99643\u00b0 / 55.08002\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 15:34",
     "destTime": "2022/02/25 13:34",
-    "position": "37.8736\u00b0 / 23.51125\u00b0",
+    "position": "37.87357\u00b0 / 23.5113\u00b0",
     "area": "Piraeus Area",
     "status": "At Anchor"
   },
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 14:33",
     "destTime": "2022/02/25 12:33",
-    "position": "29.53147\u00b0 / 34.94183\u00b0",
+    "position": "29.5315\u00b0 / 34.94187\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -633,9 +633,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/26 15:00",
     "destTime": "2022/02/26 12:00",
-    "position": "26.18681\u00b0 / 50.71195\u00b0",
+    "position": "26.1822\u00b0 / 50.70855\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9203576": {
     "rowidx": 217,
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 04:44",
     "destTime": "2022/02/25 01:44",
-    "position": "26.48905\u00b0 / 50.20067\u00b0",
+    "position": "26.48907\u00b0 / 50.20066\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -1000,14 +1000,14 @@
     "length": "180",
     "breadth": "30",
     "grossTonnage": "43,810",
-    "dept": "PH BTG",
-    "deptLong": "Batangas",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/02/25 02:05",
-    "deptTime": "2022/02/24 18:05",
+    "deptLocalTime": "2022/02/20 14:12",
+    "deptTime": "2022/02/20 06:12",
     "dest": "PH BTG",
     "destLong": "Batangas",
-    "destType": "ETA",
+    "destType": "ATA",
     "destLocalTime": "2022/02/24 00:54",
     "destTime": "2022/02/23 16:54",
     "position": "14.41219\u00b0 / 120.2015\u00b0",
