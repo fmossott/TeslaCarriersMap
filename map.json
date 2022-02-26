@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 15:35",
     "destTime": "2022/02/25 13:35",
-    "position": "29.85645\u00b0 / 32.56168\u00b0",
+    "position": "29.85727\u00b0 / 32.56057\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/19 13:00",
     "destTime": "2022/02/19 11:00",
-    "position": "37.97973\u00b0 / -9.662523\u00b0",
+    "position": "38.22616\u00b0 / -9.730797\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 17:09",
     "destTime": "2022/02/25 16:09",
-    "position": "51.40261\u00b0 / 2.587993\u00b0",
+    "position": "51.40261\u00b0 / 2.587997\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/05 23:09",
     "destTime": "2022/02/05 21:09",
-    "position": "30.60766\u00b0 / 123.0398\u00b0",
+    "position": "30.74825\u00b0 / 122.9369\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -285,9 +285,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/26 05:46",
     "destTime": "2022/02/26 02:46",
-    "position": "40.41733\u00b0 / 29.08017\u00b0",
+    "position": "40.41732\u00b0 / 29.08017\u00b0",
     "area": "Marmara Sea",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9519119": {
     "rowidx": 205,
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/17 14:49",
     "destTime": "2022/02/17 13:49",
-    "position": "51.49462\u00b0 / -2.71435\u00b0",
+    "position": "51.49467\u00b0 / -2.714333\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 14:59",
     "destTime": "2022/02/25 13:59",
-    "position": "51.26683\u00b0 / 4.2375\u00b0",
+    "position": "51.26682\u00b0 / 4.237517\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/26 00:19",
     "destTime": "2022/02/25 20:19",
-    "position": "24.99646\u00b0 / 55.08001\u00b0",
+    "position": "24.99645\u00b0 / 55.08002\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 15:34",
     "destTime": "2022/02/25 13:34",
-    "position": "37.8737\u00b0 / 23.51112\u00b0",
+    "position": "37.87357\u00b0 / 23.51123\u00b0",
     "area": "Piraeus Area",
     "status": "At Anchor"
   },
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 14:33",
     "destTime": "2022/02/25 12:33",
-    "position": "29.53152\u00b0 / 34.94182\u00b0",
+    "position": "29.53148\u00b0 / 34.94187\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -623,17 +623,17 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "59,447",
-    "dept": "AE KHL",
-    "deptLong": "Khalifa",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/02/25 08:24",
-    "deptTime": "2022/02/25 04:24",
-    "dest": "BH KBS",
-    "destLong": "Khalifa Bin Salman",
-    "destType": "ATA",
-    "destLocalTime": "2022/02/25 22:47",
-    "destTime": "2022/02/25 19:47",
-    "position": "26.18682\u00b0 / 50.71193\u00b0",
+    "dept": "BH KBS",
+    "deptLong": "Khalifa Bin Salman",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/02/25 23:47",
+    "deptTime": "2022/02/25 19:47",
+    "dest": "SA DMM",
+    "destLong": "Dammam",
+    "destType": "ETA",
+    "destLocalTime": "2022/02/26 14:00",
+    "destTime": "2022/02/26 11:00",
+    "position": "26.18683\u00b0 / 50.71194\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 04:44",
     "destTime": "2022/02/25 01:44",
-    "position": "26.48906\u00b0 / 50.20063\u00b0",
+    "position": "26.48907\u00b0 / 50.20064\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
