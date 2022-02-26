@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/25 14:00",
     "destTime": "2022/02/25 12:00",
-    "position": "31.37\u00b0 / 32.36833\u00b0",
+    "position": "31.75014\u00b0 / 31.97007\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -198,14 +198,14 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/26 13:40",
     "destTime": "2022/02/26 12:40",
-    "position": "51.30371\u00b0 / 3.22961\u00b0",
+    "position": "51.30372\u00b0 / 3.229593\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
   "9514999": {
-    "rowidx": 202,
+    "rowidx": 236,
     "silence": "FALSE",
-    "num": "-14",
+    "num": "-48",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -218,7 +218,7 @@
     "breadth": "28",
     "grossTonnage": "39,454",
     "dept": "JO AQABA INDUSTRIAL",
-    "deptLong": "Jeddah",
+    "deptLong": "",
     "deptType": "ATD",
     "deptLocalTime": "2022/02/06 07:57",
     "deptTime": "2022/02/06 05:57",
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/26 21:25",
     "destTime": "2022/02/26 13:25",
-    "position": "31.32225\u00b0 / 121.6815\u00b0",
+    "position": "31.32226\u00b0 / 121.6815\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/26 05:46",
     "destTime": "2022/02/26 02:46",
-    "position": "40.41732\u00b0 / 29.08017\u00b0",
+    "position": "40.41733\u00b0 / 29.08016\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/25 14:59",
     "destTime": "2022/02/25 13:59",
-    "position": "51.36475\u00b0 / 2.2121\u00b0",
+    "position": "51.30219\u00b0 / 1.85915\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/26 00:19",
     "destTime": "2022/02/25 20:19",
-    "position": "24.99647\u00b0 / 55.08001\u00b0",
+    "position": "24.99648\u00b0 / 55.08002\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -490,7 +490,7 @@
     "destTime": "2022/02/13 18:00",
     "position": "50.885\u00b0 / -1.397\u00b0",
     "area": "English Channel",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9483786": {
     "rowidx": 212,
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/26 12:47",
     "destTime": "2022/02/26 11:47",
-    "position": "45.58401\u00b0 / 13.66657\u00b0",
+    "position": "45.58486\u00b0 / 13.6666\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway"
   },
@@ -575,7 +575,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/22 07:46",
     "destTime": "2022/02/22 05:46",
-    "position": "36.53135\u00b0 / -0.6050667\u00b0",
+    "position": "36.4508\u00b0 / -1.19715\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 14:33",
     "destTime": "2022/02/25 12:33",
-    "position": "29.5315\u00b0 / 34.94183\u00b0",
+    "position": "29.53148\u00b0 / 34.94183\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/26 15:57",
     "destTime": "2022/02/26 12:57",
-    "position": "26.61108\u00b0 / 50.26945\u00b0",
+    "position": "26.61105\u00b0 / 50.26947\u00b0",
     "area": "Persian Gulf",
     "status": "At Anchor"
   },
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 04:44",
     "destTime": "2022/02/25 01:44",
-    "position": "26.48908\u00b0 / 50.20064\u00b0",
+    "position": "26.48908\u00b0 / 50.20065\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -1187,5 +1187,34 @@
     "position": "37.74156\u00b0 / 123.1149\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
+  },
+  "9624029": {
+    "rowidx": 237,
+    "silence": "FALSE",
+    "num": "-49",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q1",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "713879",
+    "name": "Nocc Oceanic",
+    "mmsi": "257767000",
+    "length": "199.98",
+    "breadth": "32.26",
+    "grossTonnage": "58,250",
+    "dept": "DJ JIB",
+    "deptLong": "Djibouti",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/02/08 21:26",
+    "deptTime": "2022/02/08 18:26",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/02/26 21:40",
+    "destTime": "2022/02/26 13:40",
+    "position": "31.32339\u00b0 / 121.6795\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
   }
 }
