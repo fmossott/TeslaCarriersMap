@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/25 14:00",
     "destTime": "2022/02/25 12:00",
-    "position": "31.985\u00b0 / 31.13167\u00b0",
+    "position": "33.43165\u00b0 / 27.11641\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/26 13:40",
     "destTime": "2022/02/26 12:40",
-    "position": "51.30373\u00b0 / 3.229588\u00b0",
+    "position": "51.30371\u00b0 / 3.229592\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/26 21:25",
     "destTime": "2022/02/26 13:25",
-    "position": "31.32228\u00b0 / 121.6815\u00b0",
+    "position": "31.32231\u00b0 / 121.6815\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/28 12:30",
     "destTime": "2022/02/28 11:30",
-    "position": "51.26908\u00b0 / -4.27\u00b0",
+    "position": "50.71675\u00b0 / -5.316667\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -338,12 +338,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/02/26 11:54",
     "deptTime": "2022/02/26 10:54",
-    "dest": "GB BRX",
-    "destLong": "Brixham",
+    "dest": "SI KOP",
+    "destLong": "Koper",
     "destType": "ETA",
-    "destLocalTime": "2022/02/25 14:59",
-    "destTime": "2022/02/25 13:59",
-    "position": "50.31768\u00b0 / -3.436317\u00b0",
+    "destLocalTime": "2022/03/06 01:01",
+    "destTime": "2022/03/06 00:01",
+    "position": "50.09128\u00b0 / -3.649133\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/26 00:19",
     "destTime": "2022/02/25 20:19",
-    "position": "24.99644\u00b0 / 55.08007\u00b0",
+    "position": "24.99648\u00b0 / 55.08004\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/27 23:00",
     "destTime": "2022/02/27 20:00",
-    "position": "40.2558\u00b0 / 26.52097\u00b0",
+    "position": "40.37583\u00b0 / 26.67343\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/27 08:00",
     "destTime": "2022/02/27 07:00",
-    "position": "51.35983\u00b0 / 2.722\u00b0",
+    "position": "51.38267\u00b0 / 2.982333\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -517,9 +517,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/26 12:47",
     "destTime": "2022/02/26 11:47",
-    "position": "45.58366\u00b0 / 13.66543\u00b0",
+    "position": "45.58389\u00b0 / 13.66492\u00b0",
     "area": "Adriatic Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9176632": {
     "rowidx": 213,
@@ -575,7 +575,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/22 07:46",
     "destTime": "2022/02/22 05:46",
-    "position": "35.98\u00b0 / -6.133283\u00b0",
+    "position": "36.02503\u00b0 / -6.3792\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/26 15:57",
     "destTime": "2022/02/26 12:57",
-    "position": "26.60902\u00b0 / 50.27108\u00b0",
+    "position": "26.60894\u00b0 / 50.271\u00b0",
     "area": "Persian Gulf",
     "status": "At Anchor"
   },
@@ -691,9 +691,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/27 21:00",
     "destTime": "2022/02/27 18:00",
-    "position": "25.00318\u00b0 / 51.6\u00b0",
+    "position": "25.00515\u00b0 / 51.60155\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9673018": {
     "rowidx": 219,
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/27 05:15",
     "destTime": "2022/02/27 03:15",
-    "position": "30.32\u00b0 / 32.40667\u00b0",
+    "position": "30.535\u00b0 / 32.34167\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
