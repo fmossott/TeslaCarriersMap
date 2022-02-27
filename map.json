@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/27 08:00",
     "destTime": "2022/02/27 07:00",
-    "position": "51.38267\u00b0 / 2.982333\u00b0",
+    "position": "51.3155\u00b0 / 3.2135\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/26 15:57",
     "destTime": "2022/02/26 12:57",
-    "position": "26.60894\u00b0 / 50.271\u00b0",
+    "position": "26.60876\u00b0 / 50.2702\u00b0",
     "area": "Persian Gulf",
     "status": "At Anchor"
   },
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/28 02:00",
     "destTime": "2022/02/27 23:00",
-    "position": "26.66763\u00b0 / 50.38072\u00b0",
+    "position": "28.25898\u00b0 / 50.10727\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/27 21:00",
     "destTime": "2022/02/27 18:00",
-    "position": "25.00515\u00b0 / 51.60155\u00b0",
+    "position": "26.54295\u00b0 / 51.25943\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -1153,10 +1153,10 @@
     "dest": "CN TXG",
     "destLong": "Tianjin",
     "destType": "ETA",
-    "destLocalTime": "2022/02/28 03:00",
-    "destTime": "2022/02/27 19:00",
-    "position": "37.92737\u00b0 / 122.8097\u00b0",
-    "area": "Yellow Sea",
+    "destLocalTime": "2022/02/28 05:00",
+    "destTime": "2022/02/27 21:00",
+    "position": "38.80819\u00b0 / 119.4483\u00b0",
+    "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
   "9476769": {
@@ -1203,18 +1203,18 @@
     "length": "199.98",
     "breadth": "32.26",
     "grossTonnage": "58,250",
-    "dept": "DJ JIB",
-    "deptLong": "Djibouti",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/02/08 21:26",
-    "deptTime": "2022/02/08 18:26",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/02/26 21:40",
-    "destTime": "2022/02/26 13:40",
-    "position": "31.32341\u00b0 / 121.6795\u00b0",
+    "deptLocalTime": "2022/02/27 23:34",
+    "deptTime": "2022/02/27 15:34",
+    "dest": "CN LYG",
+    "destLong": "Lianyungang",
+    "destType": "ETA",
+    "destLocalTime": "2022/03/01 09:00",
+    "destTime": "2022/03/01 01:00",
+    "position": "31.31989\u00b0 / 121.7114\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
