@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/19 13:00",
     "destTime": "2022/02/19 11:00",
-    "position": "50.57119\u00b0 / -0.9661133\u00b0",
+    "position": "50.65335\u00b0 / -0.9207867\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/21 04:00",
     "destTime": "2022/02/20 20:00",
-    "position": "50.25659\u00b0 / -0.5418934\u00b0",
+    "position": "50.29127\u00b0 / -0.3262617\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/28 12:24",
     "destTime": "2022/02/28 11:24",
-    "position": "51.42028\u00b0 / 2.579933\u00b0",
+    "position": "51.42023\u00b0 / 2.5798\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/01 00:00",
     "destTime": "2022/02/28 21:00",
-    "position": "40.718\u00b0 / 29.31495\u00b0",
+    "position": "40.74953\u00b0 / 29.50542\u00b0",
     "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
@@ -459,9 +459,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/26 12:47",
     "destTime": "2022/02/26 11:47",
-    "position": "45.58403\u00b0 / 13.66354\u00b0",
+    "position": "45.58391\u00b0 / 13.66318\u00b0",
     "area": "Adriatic Sea",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9176632": {
     "rowidx": 212,
@@ -517,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/22 07:46",
     "destTime": "2022/02/22 05:46",
-    "position": "43.49558\u00b0 / -9.604417\u00b0",
+    "position": "43.70802\u00b0 / -9.49805\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/25 14:33",
     "destTime": "2022/02/25 12:33",
-    "position": "29.53153\u00b0 / 34.94182\u00b0",
+    "position": "29.53155\u00b0 / 34.94188\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/01 12:00",
     "destTime": "2022/03/01 10:00",
-    "position": "35.72562\u00b0 / 27.529\u00b0",
+    "position": "36.04004\u00b0 / 27.07751\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/01 20:00",
     "destTime": "2022/03/01 18:00",
-    "position": "23.28611\u00b0 / 37.10715\u00b0",
+    "position": "24.06003\u00b0 / 36.65342\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -921,9 +921,9 @@
     "dest": "MY PKG",
     "destLong": "Port Klang",
     "destType": "ETA",
-    "destLocalTime": "2022/03/01 19:00",
-    "destTime": "2022/03/01 11:00",
-    "position": "1.231293\u00b0 / 103.8671\u00b0",
+    "destLocalTime": "2022/03/01 18:00",
+    "destTime": "2022/03/01 10:00",
+    "position": "1.281882\u00b0 / 103.3571\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -1070,7 +1070,7 @@
     "destTime": "2022/02/27 21:47",
     "position": "38.93218\u00b0 / 118.0823\u00b0",
     "area": "Bohai Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9476769": {
     "rowidx": 233,
