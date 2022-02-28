@@ -140,8 +140,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/19 13:00",
     "destTime": "2022/02/19 11:00",
-    "position": "49.11798\u00b0 / -4.75282\u00b0",
-    "area": "Celtic Sea",
+    "position": "49.27779\u00b0 / -4.34419\u00b0",
+    "area": "English Channel",
     "status": "Underway using Engine"
   },
   "9463205": {
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/28 17:00",
     "destTime": "2022/02/28 16:00",
-    "position": "51.39624\u00b0 / 3.132068\u00b0",
+    "position": "51.40017\u00b0 / 2.735317\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/28 12:30",
     "destTime": "2022/02/28 11:30",
-    "position": "49.93712\u00b0 / -2.062067\u00b0",
+    "position": "50.10367\u00b0 / -1.074917\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -343,8 +343,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/06 01:01",
     "destTime": "2022/03/06 00:01",
-    "position": "50.09128\u00b0 / -3.649133\u00b0",
-    "area": "English Channel",
+    "position": "48.00134\u00b0 / -6.117017\u00b0",
+    "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
   "9738777": {
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/28 06:45",
     "destTime": "2022/02/28 05:45",
-    "position": "53.55933\u00b0 / 5.45267\u00b0",
+    "position": "53.62017\u00b0 / 5.7215\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -422,17 +422,17 @@
     "grossTonnage": "59,217",
     "dept": "AE KHL",
     "deptLong": "Khalifa",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/02/27 19:45",
-    "deptTime": "2022/02/27 15:45",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/02/28 04:49",
+    "deptTime": "2022/02/28 00:49",
     "dest": "AE AUH",
     "destLong": "Abu Dhabi",
     "destType": "ETA",
     "destLocalTime": "2022/02/27 17:30",
     "destTime": "2022/02/27 13:30",
-    "position": "24.82175\u00b0 / 54.66987\u00b0",
+    "position": "24.87566\u00b0 / 54.63772\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9432892": {
     "rowidx": 210,
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/27 09:53",
     "destTime": "2022/02/27 08:53",
-    "position": "51.3155\u00b0 / 3.2135\u00b0",
+    "position": "51.315\u00b0 / 3.213333\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/26 15:57",
     "destTime": "2022/02/26 12:57",
-    "position": "26.60918\u00b0 / 50.27115\u00b0",
+    "position": "26.60949\u00b0 / 50.27108\u00b0",
     "area": "Persian Gulf",
     "status": "At Anchor"
   },
@@ -807,7 +807,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/02 00:00",
     "destTime": "2022/03/01 20:00",
-    "position": "17.96643\u00b0 / 66.23403\u00b0",
+    "position": "17.9321\u00b0 / 66.27468\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -1010,9 +1010,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/28 05:51",
     "destTime": "2022/02/27 21:51",
-    "position": "1.270608\u00b0 / 103.8518\u00b0",
+    "position": "1.2706\u00b0 / 103.8518\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9441609": {
     "rowidx": 230,
@@ -1034,12 +1034,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/02/22 14:06",
     "deptTime": "2022/02/22 06:06",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2022/02/28 05:00",
-    "destTime": "2022/02/27 21:00",
-    "position": "1.296075\u00b0 / 104.2618\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/02/28 08:00",
+    "destTime": "2022/02/28 00:00",
+    "position": "1.25368\u00b0 / 103.895\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
