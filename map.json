@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/01 16:51",
     "destTime": "2022/03/01 14:51",
-    "position": "29.85507\u00b0 / 32.56916\u00b0",
+    "position": "29.85515\u00b0 / 32.56895\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -132,7 +132,7 @@
     "grossTonnage": "58,947",
     "dept": "GB SOU",
     "deptLong": "Southampton",
-    "deptType": "ATA",
+    "deptType": "ATD",
     "deptLocalTime": "2022/03/01 03:11",
     "deptTime": "2022/02/28 19:11",
     "dest": "BE ZEE",
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/02 12:00",
     "destTime": "2022/03/02 11:00",
-    "position": "50.90489\u00b0 / -1.433378\u00b0",
+    "position": "50.83422\u00b0 / -1.317453\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/01 06:30",
     "destTime": "2022/03/01 05:30",
-    "position": "51.43992\u00b0 / 2.685032\u00b0",
+    "position": "51.44077\u00b0 / 2.68514\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/28 12:24",
     "destTime": "2022/02/28 11:24",
-    "position": "51.41848\u00b0 / 2.579\u00b0",
+    "position": "51.41912\u00b0 / 2.5792\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/27 17:30",
     "destTime": "2022/02/27 13:30",
-    "position": "19.30006\u00b0 / 64.46868\u00b0",
+    "position": "19.061\u00b0 / 64.64943\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/25 08:32",
     "destTime": "2022/02/25 06:32",
-    "position": "15.50478\u00b0 / 55.91918\u00b0",
+    "position": "15.5746\u00b0 / 56.04502\u00b0",
     "area": "East Africa",
     "status": "Underway using Engine"
   },
@@ -517,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/22 07:46",
     "destTime": "2022/02/22 05:46",
-    "position": "51.19967\u00b0 / -4.462633\u00b0",
+    "position": "51.32203\u00b0 / -4.1509\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/01 15:55",
     "destTime": "2022/03/01 12:55",
-    "position": "26.48886\u00b0 / 50.20047\u00b0",
+    "position": "26.48886\u00b0 / 50.20049\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/01 21:16",
     "destTime": "2022/03/01 19:16",
-    "position": "37.96037\u00b0 / 23.60476\u00b0",
+    "position": "37.96038\u00b0 / 23.60475\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -807,9 +807,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/09 10:00",
     "destTime": "2022/03/09 08:00",
-    "position": "2.663133\u00b0 / 101.3342\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "10.13405\u00b0 / 70.65448\u00b0",
+    "area": "West Coast India",
+    "status": "Underway using Engine"
   },
   "9190858": {
     "rowidx": 224,
@@ -923,7 +923,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/01 13:18",
     "destTime": "2022/03/01 05:18",
-    "position": "3.042395\u00b0 / 101.3565\u00b0",
+    "position": "3.042477\u00b0 / 101.3565\u00b0",
     "area": "Malacca Strait",
     "status": "Moored"
   },
@@ -1155,7 +1155,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/01 13:00",
     "destTime": "2022/03/01 05:00",
-    "position": "34.96599\u00b0 / 120.1341\u00b0",
+    "position": "34.96904\u00b0 / 119.9842\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -1271,7 +1271,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/04 08:00",
     "destTime": "2022/03/04 00:00",
-    "position": "31.32303\u00b0 / 121.7067\u00b0",
+    "position": "31.23672\u00b0 / 122.0508\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
