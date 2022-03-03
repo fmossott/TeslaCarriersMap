@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/02 12:53",
     "destTime": "2022/03/02 11:53",
-    "position": "51.42417\u00b0 / 2.654615\u00b0",
+    "position": "51.42357\u00b0 / 2.654713\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/02 15:25",
     "destTime": "2022/03/02 14:25",
-    "position": "51.30384\u00b0 / 3.229562\u00b0",
+    "position": "51.30383\u00b0 / 3.229528\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/02/28 12:24",
     "destTime": "2022/02/28 11:24",
-    "position": "51.41873\u00b0 / 2.582817\u00b0",
+    "position": "51.41891\u00b0 / 2.5829\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -312,8 +312,8 @@
     "dest": "SI KOP",
     "destLong": "Koper",
     "destType": "ETA",
-    "destLocalTime": "2022/03/06 01:01",
-    "destTime": "2022/03/06 00:01",
+    "destLocalTime": "2022/03/07 06:00",
+    "destTime": "2022/03/07 05:00",
     "position": "36.81003\u00b0 / 1.4766\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/27 17:30",
     "destTime": "2022/02/27 13:30",
-    "position": "10.45601\u00b0 / 71.53096\u00b0",
+    "position": "10.29828\u00b0 / 71.65364\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/22 07:46",
     "destTime": "2022/02/22 05:46",
-    "position": "51.49463\u00b0 / -2.714333\u00b0",
+    "position": "51.49463\u00b0 / -2.71435\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -604,9 +604,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/03 12:42",
     "destTime": "2022/03/03 09:42",
-    "position": "29.43245\u00b0 / 48.03339\u00b0",
+    "position": "29.43264\u00b0 / 48.0336\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9203576": {
     "rowidx": 217,
@@ -652,19 +652,19 @@
     "length": "179.15",
     "breadth": "32.2",
     "grossTonnage": "49,212",
-    "dept": "KW KWI",
-    "deptLong": "Kuwait",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/03/02 10:36",
-    "deptTime": "2022/03/02 07:36",
-    "dest": "AE JEA",
-    "destLong": "Jebel Ali",
-    "destType": "ATA",
-    "destLocalTime": "2022/03/03 15:23",
-    "destTime": "2022/03/03 11:23",
-    "position": "24.9863\u00b0 / 55.07093\u00b0",
+    "dept": "AE JEA",
+    "deptLong": "Jebel Ali",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/03/03 14:23",
+    "deptTime": "2022/03/03 11:23",
+    "dest": "OM SOH",
+    "destLong": "Sohar",
+    "destType": "ETA",
+    "destLocalTime": "2022/03/05 13:00",
+    "destTime": "2022/03/05 09:00",
+    "position": "24.98712\u00b0 / 55.0727\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9673018": {
     "rowidx": 219,
@@ -923,7 +923,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/06 18:00",
     "destTime": "2022/03/06 10:00",
-    "position": "3.042478\u00b0 / 101.3565\u00b0",
+    "position": "3.042468\u00b0 / 101.3565\u00b0",
     "area": "Malacca Strait",
     "status": "Moored"
   },
@@ -1068,7 +1068,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/02 08:58",
     "destTime": "2022/03/02 00:58",
-    "position": "34.87967\u00b0 / 119.752\u00b0",
+    "position": "34.87908\u00b0 / 119.7519\u00b0",
     "area": "Yellow Sea",
     "status": "At Anchor"
   },
@@ -1184,7 +1184,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/03 01:11",
     "destTime": "2022/03/02 17:11",
-    "position": "31.32353\u00b0 / 121.6793\u00b0",
+    "position": "31.32348\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -1213,7 +1213,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/03 13:34",
     "destTime": "2022/03/03 05:34",
-    "position": "31.32206\u00b0 / 121.6819\u00b0",
+    "position": "31.32208\u00b0 / 121.6819\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
