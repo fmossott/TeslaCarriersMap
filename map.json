@@ -77,14 +77,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/02/14 09:40",
     "deptTime": "2022/02/14 01:40",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/03/03 20:00",
-    "destTime": "2022/03/03 18:00",
-    "position": "29.83865\u00b0 / 32.55687\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/03/03 20:43",
+    "destTime": "2022/03/03 18:43",
+    "position": "29.8394\u00b0 / 32.5588\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9158604": {
     "rowidx": 9,
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/02 12:53",
     "destTime": "2022/03/02 11:53",
-    "position": "51.42391\u00b0 / 2.652117\u00b0",
+    "position": "51.42385\u00b0 / 2.650027\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/02 15:25",
     "destTime": "2022/03/02 14:25",
-    "position": "51.30381\u00b0 / 3.229525\u00b0",
+    "position": "51.30384\u00b0 / 3.229522\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/03 20:00",
     "destTime": "2022/03/03 19:00",
-    "position": "51.3661\u00b0 / 2.603\u00b0",
+    "position": "51.36435\u00b0 / 2.597283\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/04 04:55",
     "destTime": "2022/03/03 19:55",
-    "position": "35.02657\u00b0 / 139.705\u00b0",
+    "position": "35.14577\u00b0 / 139.7836\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -604,9 +604,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/03 12:42",
     "destTime": "2022/03/03 09:42",
-    "position": "29.43333\u00b0 / 48.03367\u00b0",
+    "position": "29.43327\u00b0 / 48.03291\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9203576": {
     "rowidx": 217,
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/05 13:00",
     "destTime": "2022/03/05 09:00",
-    "position": "24.98708\u00b0 / 55.07268\u00b0",
+    "position": "24.98708\u00b0 / 55.07267\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -691,8 +691,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/01 21:16",
     "destTime": "2022/03/01 19:16",
-    "position": "36.40741\u00b0 / 15.03714\u00b0",
-    "area": "Ionian Sea",
+    "position": "36.43843\u00b0 / 14.69316\u00b0",
+    "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
   "9327748": {
@@ -739,17 +739,17 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "62,571",
-    "dept": "QA HAL",
-    "deptLong": "Halul Island",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/03/03 22:34",
-    "deptTime": "2022/03/03 18:34",
+    "dept": "AE JEA",
+    "deptLong": "Jebel Ali",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/03/03 12:50",
+    "deptTime": "2022/03/03 08:50",
     "dest": "QA HMD",
     "destLong": "Hamad",
     "destType": "ETA",
     "destLocalTime": "2022/03/04 02:00",
     "destTime": "2022/03/03 23:00",
-    "position": "25.61953\u00b0 / 52.425\u00b0",
+    "position": "25.55268\u00b0 / 52.21002\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -1068,7 +1068,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/02 08:58",
     "destTime": "2022/03/02 00:58",
-    "position": "34.87981\u00b0 / 119.7509\u00b0",
+    "position": "34.87957\u00b0 / 119.751\u00b0",
     "area": "Yellow Sea",
     "status": "At Anchor"
   },
