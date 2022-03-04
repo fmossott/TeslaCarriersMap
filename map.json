@@ -229,7 +229,7 @@
     "destTime": "2022/03/05 18:00",
     "position": "36.21755\u00b0 / 15.20306\u00b0",
     "area": "Ionian Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9427952": {
     "rowidx": 204,
@@ -314,8 +314,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/07 06:00",
     "destTime": "2022/03/07 05:00",
-    "position": "36.89507\u00b0 / 12.46835\u00b0",
-    "area": "West Mediterranean",
+    "position": "36.45898\u00b0 / 15.22728\u00b0",
+    "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
   "9738777": {
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/05 00:00",
     "destTime": "2022/03/04 23:00",
-    "position": "52.59417\u00b0 / 3.843833\u00b0",
+    "position": "52.89283\u00b0 / 4.260334\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/04 18:00",
     "destTime": "2022/03/04 17:00",
-    "position": "41.09556\u00b0 / 12.30163\u00b0",
+    "position": "41.3969\u00b0 / 11.93068\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/05 02:00",
     "destTime": "2022/03/05 01:00",
-    "position": "50.0419\u00b0 / -6.009\u00b0",
+    "position": "49.83715\u00b0 / -5.005\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
@@ -892,8 +892,8 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/03/04 18:00",
-    "destTime": "2022/03/04 10:00",
+    "destLocalTime": "2022/03/04 17:00",
+    "destTime": "2022/03/04 09:00",
     "position": "17.16146\u00b0 / 117.1592\u00b0",
     "area": "East China Sea",
     "status": "Out of Range"
