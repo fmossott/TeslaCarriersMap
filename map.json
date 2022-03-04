@@ -72,17 +72,17 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "60,876",
-    "dept": "EG SUEZ SOUTH ANCH",
-    "deptLong": "Shanghai",
+    "dept": "EG SUZ",
+    "deptLong": "Suez Canal",
     "deptType": "ATA",
-    "deptLocalTime": "2022/03/04 02:43",
-    "deptTime": "2022/03/03 18:43",
+    "deptLocalTime": "2022/03/04 10:28",
+    "deptTime": "2022/03/04 02:28",
     "dest": "GB SOU",
     "destLong": "Southampton",
     "destType": "ETA",
     "destLocalTime": "2022/03/03 20:43",
     "destTime": "2022/03/03 18:43",
-    "position": "29.86525\u00b0 / 32.55338\u00b0",
+    "position": "29.96618\u00b0 / 32.58617\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/10 18:00",
     "destTime": "2022/03/10 17:00",
-    "position": "31.98808\u00b0 / 31.43754\u00b0",
+    "position": "34.54379\u00b0 / 22.89845\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/02 12:53",
     "destTime": "2022/03/02 11:53",
-    "position": "51.42391\u00b0 / 2.654633\u00b0",
+    "position": "51.42399\u00b0 / 2.654642\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/02 15:25",
     "destTime": "2022/03/02 14:25",
-    "position": "51.30387\u00b0 / 3.229492\u00b0",
+    "position": "51.30383\u00b0 / 3.229517\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/03 22:40",
     "destTime": "2022/03/03 21:40",
-    "position": "51.29913\u00b0 / 3.239417\u00b0",
+    "position": "51.29912\u00b0 / 3.2395\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/04 06:39",
     "destTime": "2022/03/03 21:39",
-    "position": "35.46001\u00b0 / 139.6942\u00b0",
+    "position": "35.45995\u00b0 / 139.6942\u00b0",
     "area": "Japan Coast",
     "status": "Moored"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/04 18:00",
     "destTime": "2022/03/04 17:00",
-    "position": "40.28762\u00b0 / 13.277\u00b0",
+    "position": "40.6832\u00b0 / 12.79307\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
@@ -517,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/25 08:32",
     "destTime": "2022/02/25 06:32",
-    "position": "21.75155\u00b0 / 68.30334\u00b0",
+    "position": "21.73484\u00b0 / 68.3076\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/03 12:42",
     "destTime": "2022/03/03 09:42",
-    "position": "29.43287\u00b0 / 48.02802\u00b0",
+    "position": "29.43243\u00b0 / 48.02796\u00b0",
     "area": "Persian Gulf",
     "status": "At Anchor"
   },
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/05 13:00",
     "destTime": "2022/03/05 09:00",
-    "position": "24.98703\u00b0 / 55.07265\u00b0",
+    "position": "24.98705\u00b0 / 55.07263\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/01 21:16",
     "destTime": "2022/03/01 19:16",
-    "position": "36.95439\u00b0 / 12.67512\u00b0",
+    "position": "37.05136\u00b0 / 12.32047\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -749,9 +749,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/04 02:41",
     "destTime": "2022/03/03 23:41",
-    "position": "25.00643\u00b0 / 51.6\u00b0",
+    "position": "25.00642\u00b0 / 51.60002\u00b0",
     "area": "Persian Gulf",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9889100": {
     "rowidx": 222,
@@ -1068,7 +1068,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/02 08:58",
     "destTime": "2022/03/02 00:58",
-    "position": "34.88022\u00b0 / 119.7529\u00b0",
+    "position": "34.88031\u00b0 / 119.7527\u00b0",
     "area": "Yellow Sea",
     "status": "At Anchor"
   },
