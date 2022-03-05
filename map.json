@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/04 23:53",
     "destTime": "2022/03/04 22:53",
-    "position": "51.29661\u00b0 / 3.241557\u00b0",
+    "position": "51.29665\u00b0 / 3.241525\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/02 15:25",
     "destTime": "2022/03/02 14:25",
-    "position": "50.90258\u00b0 / -1.423083\u00b0",
+    "position": "50.90258\u00b0 / -1.423077\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/07 04:00",
     "destTime": "2022/03/07 03:00",
-    "position": "43.58073\u00b0 / 10.30556\u00b0",
+    "position": "43.58072\u00b0 / 10.30555\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -517,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/25 08:32",
     "destTime": "2022/02/25 06:32",
-    "position": "21.85934\u00b0 / 68.39685\u00b0",
+    "position": "21.84779\u00b0 / 68.39224\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/05 04:04",
     "destTime": "2022/03/05 03:04",
-    "position": "51.44912\u00b0 / 2.6996\u00b0",
+    "position": "51.44918\u00b0 / 2.6996\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -749,9 +749,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/05 09:01",
     "destTime": "2022/03/05 06:01",
-    "position": "26.16099\u00b0 / 50.77166\u00b0",
+    "position": "26.16098\u00b0 / 50.77153\u00b0",
     "area": "Persian Gulf",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9889100": {
     "rowidx": 222,
@@ -804,10 +804,10 @@
     "deptTime": "2022/02/15 17:10",
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2022/03/05 03:36",
-    "destTime": "2022/03/05 01:36",
-    "position": "31.18333\u00b0 / 32.33167\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2022/03/04 17:00",
+    "destTime": "2022/03/04 15:00",
+    "position": "31.35333\u00b0 / 32.38334\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -952,9 +952,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/11 04:01",
     "destTime": "2022/03/11 00:01",
-    "position": "2.7808\u00b0 / 101.0983\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "5.96095\u00b0 / 79.97221\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9498597": {
     "rowidx": 229,
@@ -1068,7 +1068,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/05 09:41",
     "destTime": "2022/03/05 01:41",
-    "position": "34.75108\u00b0 / 119.3797\u00b0",
+    "position": "34.75101\u00b0 / 119.3797\u00b0",
     "area": "Yellow Sea",
     "status": "Moored"
   },
@@ -1155,7 +1155,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/05 06:10",
     "destTime": "2022/03/04 22:10",
-    "position": "21.98632\u00b0 / 113.9016\u00b0",
+    "position": "21.98675\u00b0 / 113.9011\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
