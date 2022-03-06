@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/04 23:53",
     "destTime": "2022/03/04 22:53",
-    "position": "51.29662\u00b0 / 3.241477\u00b0",
+    "position": "51.29663\u00b0 / 3.24144\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/06 16:39",
     "destTime": "2022/03/06 15:39",
-    "position": "51.43991\u00b0 / 2.654537\u00b0",
+    "position": "51.44065\u00b0 / 2.653513\u00b0",
     "area": "North Sea",
     "status": "Stopped"
   },
@@ -280,14 +280,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/03/05 07:59",
     "deptTime": "2022/03/05 06:59",
-    "dest": "DE NEUE WESER ANCH",
+    "dest": "DE BRV",
     "destLong": "Bremerhaven",
-    "destType": "ATA",
-    "destLocalTime": "2022/03/06 17:12",
-    "destTime": "2022/03/06 16:12",
-    "position": "53.91459\u00b0 / 7.776\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2022/06/04 00:00",
+    "destTime": "2022/06/03 22:00",
+    "position": "53.86618\u00b0 / 7.8699\u00b0",
     "area": "North Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9338840": {
     "rowidx": 206,
@@ -340,10 +340,10 @@
     "deptTime": "2022/03/05 06:11",
     "dest": "JP NGO",
     "destLong": "Nagoya",
-    "destType": "ETA",
-    "destLocalTime": "2022/03/07 03:30",
-    "destTime": "2022/03/06 18:30",
-    "position": "34.94497\u00b0 / 136.7858\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/03/07 06:21",
+    "destTime": "2022/03/06 21:21",
+    "position": "35.04882\u00b0 / 136.8787\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -391,14 +391,14 @@
     "length": "199.9",
     "breadth": "32.26",
     "grossTonnage": "59,217",
-    "dept": "AE KHL",
-    "deptLong": "Khalifa",
+    "dept": "LK HBA",
+    "deptLong": "Hambantota",
     "deptType": "ATD",
     "deptLocalTime": "2022/02/28 04:49",
     "deptTime": "2022/02/28 00:49",
     "dest": "LK HBA",
     "destLong": "Hambantota",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2022/02/27 17:30",
     "destTime": "2022/02/27 13:30",
     "position": "5.711128\u00b0 / 80.28559\u00b0",
@@ -425,12 +425,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/03/05 15:55",
     "deptTime": "2022/03/05 14:55",
-    "dest": "MA PTM",
+    "dest": "MA TANGER MED ANCH",
     "destLong": "Tanger Med",
-    "destType": "ETA",
-    "destLocalTime": "2022/03/06 23:00",
-    "destTime": "2022/03/06 22:00",
-    "position": "35.91213\u00b0 / -5.5549\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/03/06 22:41",
+    "destTime": "2022/03/06 21:41",
+    "position": "35.89383\u00b0 / -5.5707\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -546,9 +546,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/05 04:04",
     "destTime": "2022/03/05 03:04",
-    "position": "51.45292\u00b0 / 2.69405\u00b0",
+    "position": "51.453\u00b0 / 2.6939\u00b0",
     "area": "North Sea",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9432907": {
     "rowidx": 215,
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/01 21:16",
     "destTime": "2022/03/01 19:16",
-    "position": "37.31665\u00b0 / -9.456697\u00b0",
+    "position": "37.54279\u00b0 / -9.532022\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -749,7 +749,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/06 11:04",
     "destTime": "2022/03/06 08:04",
-    "position": "27.90069\u00b0 / 50.55846\u00b0",
+    "position": "28.15947\u00b0 / 50.41604\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -778,7 +778,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/06 21:12",
     "destTime": "2022/03/06 19:12",
-    "position": "29.7338\u00b0 / 32.61563\u00b0",
+    "position": "29.73007\u00b0 / 32.616\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -865,9 +865,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/08 16:00",
     "destTime": "2022/03/08 14:00",
-    "position": "14.19249\u00b0 / 53.8296\u00b0",
-    "area": "East Africa",
-    "status": "Out of Range"
+    "position": "20.65244\u00b0 / 38.57642\u00b0",
+    "area": "Red Sea",
+    "status": "Underway using Engine"
   },
   "9591052": {
     "rowidx": 226,
@@ -923,7 +923,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/06 21:43",
     "destTime": "2022/03/06 13:43",
-    "position": "6.047482\u00b0 / 116.0848\u00b0",
+    "position": "6.047682\u00b0 / 116.0848\u00b0",
     "area": "Riau Archipelago",
     "status": "At Anchor"
   },
@@ -1155,7 +1155,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/06 07:30",
     "destTime": "2022/03/05 23:30",
-    "position": "22.86527\u00b0 / 113.5463\u00b0",
+    "position": "22.86528\u00b0 / 113.5463\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -1213,7 +1213,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/08 02:00",
     "destTime": "2022/03/07 17:00",
-    "position": "38.57937\u00b0 / 120.5495\u00b0",
+    "position": "38.44328\u00b0 / 121.174\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
