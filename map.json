@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/04 23:53",
     "destTime": "2022/03/04 22:53",
-    "position": "51.29661\u00b0 / 3.241523\u00b0",
+    "position": "51.29663\u00b0 / 3.24151\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,8 +198,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/05 13:00",
     "destTime": "2022/03/05 12:00",
-    "position": "51.32917\u00b0 / 2.357662\u00b0",
-    "area": "English Channel",
+    "position": "51.37185\u00b0 / 2.53567\u00b0",
+    "area": "North Sea",
     "status": "Underway using Engine"
   },
   "9515008": {
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/07 05:00",
     "destTime": "2022/03/07 04:00",
-    "position": "42.2647\u00b0 / 16.24808\u00b0",
+    "position": "42.64883\u00b0 / 15.70042\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/07 03:30",
     "destTime": "2022/03/06 18:30",
-    "position": "34.38325\u00b0 / 138.7148\u00b0",
+    "position": "34.3278\u00b0 / 137.6756\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/05 04:04",
     "destTime": "2022/03/05 03:04",
-    "position": "51.45272\u00b0 / 2.694233\u00b0",
+    "position": "51.45292\u00b0 / 2.694217\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -575,7 +575,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/02/25 14:33",
     "destTime": "2022/02/25 12:33",
-    "position": "12.78703\u00b0 / 60.97401\u00b0",
+    "position": "12.44762\u00b0 / 62.25219\u00b0",
     "area": "East Africa",
     "status": "Underway using Engine"
   },
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/01 21:16",
     "destTime": "2022/03/01 19:16",
-    "position": "36.30489\u00b0 / -7.513145\u00b0",
+    "position": "36.39357\u00b0 / -7.886063\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -749,9 +749,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/06 11:04",
     "destTime": "2022/03/06 08:04",
-    "position": "26.49273\u00b0 / 50.20575\u00b0",
+    "position": "26.50427\u00b0 / 50.20627\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9889100": {
     "rowidx": 222,
@@ -778,7 +778,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/06 05:00",
     "destTime": "2022/03/06 03:00",
-    "position": "26.3847\u00b0 / 34.93007\u00b0",
+    "position": "29.16365\u00b0 / 32.80192\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -1118,17 +1118,17 @@
     "grossTonnage": "60,169",
     "dept": "SG SIN",
     "deptLong": "Singapore",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/03/06 09:30",
-    "deptTime": "2022/03/06 01:30",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/03/06 21:54",
+    "deptTime": "2022/03/06 13:54",
     "dest": "AE JEA",
     "destLong": "Jebel Ali",
     "destType": "ETA",
     "destLocalTime": "2022/03/16 06:00",
     "destTime": "2022/03/16 02:00",
-    "position": "1.270527\u00b0 / 103.8517\u00b0",
+    "position": "1.22467\u00b0 / 103.8715\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9294355": {
     "rowidx": 235,
@@ -1155,7 +1155,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/06 07:30",
     "destTime": "2022/03/05 23:30",
-    "position": "22.86533\u00b0 / 113.5463\u00b0",
+    "position": "22.8653\u00b0 / 113.5463\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -1184,7 +1184,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/05 20:00",
     "destTime": "2022/03/05 12:00",
-    "position": "39.02081\u00b0 / 117.7687\u00b0",
+    "position": "39.02083\u00b0 / 117.7687\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -1297,9 +1297,9 @@
     "deptTime": "2022/03/05 05:55",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
-    "destType": "ETA",
-    "destLocalTime": "2022/03/06 21:30",
-    "destTime": "2022/03/06 12:30",
+    "destType": "ATA",
+    "destLocalTime": "2022/03/06 22:18",
+    "destTime": "2022/03/06 13:18",
     "position": "31.19885\u00b0 / 122.1445\u00b0",
     "area": "East China Sea",
     "status": "Out of Range"
