@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/07 17:00",
     "destTime": "2022/03/07 16:00",
-    "position": "49.89557\u00b0 / -0.1064133\u00b0",
+    "position": "50.08133\u00b0 / -0.02879667\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/04 23:53",
     "destTime": "2022/03/04 22:53",
-    "position": "51.29661\u00b0 / 3.241495\u00b0",
+    "position": "51.29661\u00b0 / 3.241505\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/07 04:32",
     "destTime": "2022/03/07 03:32",
-    "position": "43.40194\u00b0 / 4.84491\u00b0",
+    "position": "43.40197\u00b0 / 4.844917\u00b0",
     "area": "West Mediterranean",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/05 04:04",
     "destTime": "2022/03/05 03:04",
-    "position": "51.45402\u00b0 / 2.69375\u00b0",
+    "position": "51.45377\u00b0 / 2.6937\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/07 16:30",
     "destTime": "2022/03/07 12:30",
-    "position": "16.83207\u00b0 / 54.69753\u00b0",
+    "position": "16.88432\u00b0 / 54.3824\u00b0",
     "area": "Arabian Gulf",
     "status": "Underway using Engine"
   },
@@ -427,12 +427,12 @@
     "deptTime": "2022/03/06 14:23",
     "dest": "KW KWI",
     "destLong": "Kuwait",
-    "destType": "ETA",
-    "destLocalTime": "2022/03/07 13:00",
-    "destTime": "2022/03/07 10:00",
-    "position": "29.4107\u00b0 / 47.97706\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/03/07 13:28",
+    "destTime": "2022/03/07 10:28",
+    "position": "29.35296\u00b0 / 47.92351\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9889100": {
     "rowidx": 212,
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/07 02:11",
     "destTime": "2022/03/07 00:11",
-    "position": "29.83725\u00b0 / 32.53194\u00b0",
+    "position": "29.83723\u00b0 / 32.53191\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/06 21:43",
     "destTime": "2022/03/06 13:43",
-    "position": "6.047214\u00b0 / 116.0854\u00b0",
+    "position": "6.047226\u00b0 / 116.0853\u00b0",
     "area": "Riau Archipelago",
     "status": "At Anchor"
   },
