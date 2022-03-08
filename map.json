@@ -138,11 +138,11 @@
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
-    "destLocalTime": "2022/03/07 17:00",
-    "destTime": "2022/03/07 16:00",
-    "position": "50.16947\u00b0 / 0.2148883\u00b0",
+    "destLocalTime": "2022/03/09 12:00",
+    "destTime": "2022/03/09 11:00",
+    "position": "50.16794\u00b0 / 0.22991\u00b0",
     "area": "English Channel",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9247572": {
     "rowidx": 11,
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/04 23:53",
     "destTime": "2022/03/04 22:53",
-    "position": "51.30385\u00b0 / 3.229517\u00b0",
+    "position": "51.30387\u00b0 / 3.229535\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -193,12 +193,12 @@
     "deptType": "ATA",
     "deptLocalTime": "2022/03/08 06:58",
     "deptTime": "2022/03/08 03:58",
-    "dest": "NL VLI",
-    "destLong": "Vlissingen",
+    "dest": "LT KLJ",
+    "destLong": "Klaipeda",
     "destType": "ETA",
-    "destLocalTime": "2022/03/08 02:30",
-    "destTime": "2022/03/08 01:30",
-    "position": "51.39869\u00b0 / 3.751243\u00b0",
+    "destLocalTime": "2022/03/11 21:00",
+    "destTime": "2022/03/11 19:00",
+    "position": "51.39812\u00b0 / 3.752348\u00b0",
     "area": "Antwerp Area",
     "status": "At Anchor"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/08 05:09",
     "destTime": "2022/03/08 04:09",
-    "position": "41.33193\u00b0 / 2.146385\u00b0",
+    "position": "41.33194\u00b0 / 2.14638\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/08 05:55",
     "destTime": "2022/03/08 04:55",
-    "position": "51.30637\u00b0 / 3.227433\u00b0",
+    "position": "51.30633\u00b0 / 3.227417\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/07 20:31",
     "destTime": "2022/03/07 19:31",
-    "position": "45.57025\u00b0 / 13.70631\u00b0",
+    "position": "45.57028\u00b0 / 13.70693\u00b0",
     "area": "Adriatic Sea",
     "status": "At Anchor"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/07 13:28",
     "destTime": "2022/03/07 10:28",
-    "position": "27.0725\u00b0 / 52.2831\u00b0",
+    "position": "26.91517\u00b0 / 52.55405\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/07 02:11",
     "destTime": "2022/03/07 00:11",
-    "position": "29.83794\u00b0 / 32.53201\u00b0",
+    "position": "29.83794\u00b0 / 32.53183\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -517,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/09 05:00",
     "destTime": "2022/03/09 03:00",
-    "position": "26.17457\u00b0 / 35.27797\u00b0",
+    "position": "27.34447\u00b0 / 34.71762\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/08 16:00",
     "destTime": "2022/03/08 14:00",
-    "position": "29.39546\u00b0 / 32.67727\u00b0",
+    "position": "29.6646\u00b0 / 32.5723\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/06 21:43",
     "destTime": "2022/03/06 13:43",
-    "position": "6.046857\u00b0 / 116.0851\u00b0",
+    "position": "6.046797\u00b0 / 116.0851\u00b0",
     "area": "Riau Archipelago",
     "status": "At Anchor"
   },
@@ -894,7 +894,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/07 03:24",
     "destTime": "2022/03/06 19:24",
-    "position": "37.96021\u00b0 / 123.1556\u00b0",
+    "position": "38.07037\u00b0 / 122.8171\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -923,7 +923,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/07 15:15",
     "destTime": "2022/03/07 07:15",
-    "position": "31.32343\u00b0 / 121.6795\u00b0",
+    "position": "31.32339\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
