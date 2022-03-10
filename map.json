@@ -77,14 +77,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/02/16 11:21",
     "deptTime": "2022/02/16 03:21",
-    "dest": "SI KOPER ANCH",
+    "dest": "SI KOP",
     "destLong": "Koper",
     "destType": "ATA",
-    "destLocalTime": "2022/03/09 20:53",
-    "destTime": "2022/03/09 19:53",
-    "position": "45.57146\u00b0 / 13.69247\u00b0",
+    "destLocalTime": "2022/03/10 09:03",
+    "destTime": "2022/03/10 08:03",
+    "position": "45.55152\u00b0 / 13.73613\u00b0",
     "area": "Adriatic Sea",
-    "status": "At Anchor"
+    "status": "Stopped"
   },
   "9338709": {
     "rowidx": 9,
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/09 15:31",
     "destTime": "2022/03/09 14:31",
-    "position": "51.30388\u00b0 / 3.2298\u00b0",
+    "position": "51.30389\u00b0 / 3.229808\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/07 17:19",
     "destTime": "2022/03/07 13:19",
-    "position": "22.29973\u00b0 / 68.58759\u00b0",
+    "position": "22.29977\u00b0 / 68.58753\u00b0",
     "area": "West Coast India",
     "status": "At Anchor"
   },
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/01 21:16",
     "destTime": "2022/03/01 19:16",
-    "position": "51.33119\u00b0 / -4.044458\u00b0",
+    "position": "51.29105\u00b0 / -3.935203\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/07 20:31",
     "destTime": "2022/03/07 19:31",
-    "position": "45.57101\u00b0 / 13.70627\u00b0",
+    "position": "45.57106\u00b0 / 13.70629\u00b0",
     "area": "Adriatic Sea",
     "status": "At Anchor"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/07 13:28",
     "destTime": "2022/03/07 10:28",
-    "position": "20.76859\u00b0 / 62.94787\u00b0",
+    "position": "20.56403\u00b0 / 63.18439\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/11 03:00",
     "destTime": "2022/03/11 01:00",
-    "position": "30.40883\u00b0 / 32.36398\u00b0",
+    "position": "30.60809\u00b0 / 32.3337\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -512,14 +512,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/03/09 14:20",
     "deptTime": "2022/03/09 12:20",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/03/10 10:00",
-    "destTime": "2022/03/10 08:00",
-    "position": "29.8364\u00b0 / 32.55868\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/03/10 10:06",
+    "destTime": "2022/03/10 08:06",
+    "position": "29.85852\u00b0 / 32.5595\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9591052": {
     "rowidx": 216,
@@ -923,7 +923,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/09 16:53",
     "destTime": "2022/03/09 08:53",
-    "position": "31.32213\u00b0 / 121.6816\u00b0",
+    "position": "31.32218\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
