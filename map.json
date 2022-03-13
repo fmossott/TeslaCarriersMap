@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/08 16:40",
     "destTime": "2022/03/08 14:40",
-    "position": "36.40365\u00b0 / -2.534395\u00b0",
+    "position": "36.3969\u00b0 / -2.58428\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/12 04:00",
     "destTime": "2022/03/12 03:00",
-    "position": "50.9043\u00b0 / -1.42835\u00b0",
+    "position": "50.90427\u00b0 / -1.4285\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/11 18:58",
     "destTime": "2022/03/11 17:58",
-    "position": "51.29652\u00b0 / 3.24134\u00b0",
+    "position": "51.29653\u00b0 / 3.24133\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -132,15 +132,15 @@
     "grossTonnage": "58,767",
     "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/03/09 22:31",
-    "deptTime": "2022/03/09 14:31",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/03/13 20:07",
+    "deptTime": "2022/03/13 19:07",
     "dest": "NO OSL",
     "destLong": "Oslo",
     "destType": "ETA",
     "destLocalTime": "2022/03/15 03:00",
     "destTime": "2022/03/15 02:00",
-    "position": "51.37113\u00b0 / 3.179095\u00b0",
+    "position": "51.369\u00b0 / 2.798562\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/11 10:44",
     "destTime": "2022/03/11 08:44",
-    "position": "55.66293\u00b0 / 21.14311\u00b0",
+    "position": "55.66291\u00b0 / 21.14312\u00b0",
     "area": "Baltic Sea",
     "status": "Moored"
   },
@@ -316,7 +316,7 @@
     "destTime": "2022/03/07 13:19",
     "position": "22.74778\u00b0 / 69.70672\u00b0",
     "area": "West Coast India",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9673018": {
     "rowidx": 210,
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/12 07:30",
     "destTime": "2022/03/12 06:30",
-    "position": "45.56688\u00b0 / 13.74444\u00b0",
+    "position": "45.56691\u00b0 / 13.74447\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/13 17:47",
     "destTime": "2022/03/13 13:47",
-    "position": "24.99042\u00b0 / 55.07656\u00b0",
+    "position": "24.99039\u00b0 / 55.07659\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/13 14:45",
     "destTime": "2022/03/13 12:45",
-    "position": "29.85548\u00b0 / 32.56158\u00b0",
+    "position": "29.85557\u00b0 / 32.56157\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -865,7 +865,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/13 19:18",
     "destTime": "2022/03/13 11:18",
-    "position": "39.02102\u00b0 / 117.7688\u00b0",
+    "position": "39.02103\u00b0 / 117.7688\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   }
