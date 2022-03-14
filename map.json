@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/15 01:30",
     "destTime": "2022/03/15 00:30",
-    "position": "57.16105\u00b0 / 7.98931\u00b0",
+    "position": "57.44678\u00b0 / 8.301195\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/15 15:00",
     "destTime": "2022/03/15 07:00",
-    "position": "2.07907\u00b0 / 102.033\u00b0",
+    "position": "1.910577\u00b0 / 102.2114\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -541,14 +541,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/03/12 11:15",
     "deptTime": "2022/03/12 03:15",
-    "dest": "PH MNL",
+    "dest": "PH MANILA ANCH",
     "destLong": "Manila",
-    "destType": "ETA",
-    "destLocalTime": "2022/03/15 09:00",
-    "destTime": "2022/03/15 01:00",
-    "position": "14.51377\u00b0 / 120.819\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/03/15 01:25",
+    "destTime": "2022/03/14 17:25",
+    "position": "14.54752\u00b0 / 120.8953\u00b0",
     "area": "Philippines",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9409481": {
     "rowidx": 218,
@@ -923,7 +923,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/14 09:33",
     "destTime": "2022/03/14 01:33",
-    "position": "30.83595\u00b0 / 121.8341\u00b0",
+    "position": "30.83593\u00b0 / 121.8341\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -952,7 +952,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/14 13:16",
     "destTime": "2022/03/14 05:16",
-    "position": "31.32205\u00b0 / 121.6818\u00b0",
+    "position": "31.32198\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
