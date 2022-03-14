@@ -140,8 +140,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/15 01:30",
     "destTime": "2022/03/15 00:30",
-    "position": "57.72412\u00b0 / 8.59742\u00b0",
-    "area": "North Sea",
+    "position": "57.9967\u00b0 / 8.925377\u00b0",
+    "area": "Skagerrak",
     "status": "Underway using Engine"
   },
   "9427952": {
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/15 07:00",
     "destTime": "2022/03/15 06:00",
-    "position": "41.54115\u00b0 / 3.359498\u00b0",
+    "position": "41.82515\u00b0 / 3.644993\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/15 04:30",
     "destTime": "2022/03/15 03:30",
-    "position": "50.37817\u00b0 / 0.4498133\u00b0",
+    "position": "50.47812\u00b0 / 0.973265\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/15 15:00",
     "destTime": "2022/03/15 14:00",
-    "position": "49.92742\u00b0 / -2.288745\u00b0",
+    "position": "50.08421\u00b0 / -1.392863\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -541,14 +541,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/03/12 11:15",
     "deptTime": "2022/03/12 03:15",
-    "dest": "PH MNL",
+    "dest": "PH MANILA ANCH",
     "destLong": "Manila",
-    "destType": "ETA",
-    "destLocalTime": "2022/03/15 09:00",
-    "destTime": "2022/03/15 01:00",
-    "position": "14.54708\u00b0 / 120.8956\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/03/15 01:25",
+    "destTime": "2022/03/14 17:25",
+    "position": "14.54694\u00b0 / 120.8957\u00b0",
     "area": "Philippines",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9409481": {
     "rowidx": 218,
@@ -923,7 +923,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/14 09:33",
     "destTime": "2022/03/14 01:33",
-    "position": "30.83596\u00b0 / 121.8341\u00b0",
+    "position": "30.83592\u00b0 / 121.8341\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -952,7 +952,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/14 13:16",
     "destTime": "2022/03/14 05:16",
-    "position": "31.322\u00b0 / 121.6818\u00b0",
+    "position": "31.32193\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
