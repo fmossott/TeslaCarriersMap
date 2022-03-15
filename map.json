@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/08 16:40",
     "destTime": "2022/03/08 14:40",
-    "position": "40.0945\u00b0 / -9.848413\u00b0",
+    "position": "40.50778\u00b0 / -9.826141\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/12 04:00",
     "destTime": "2022/03/12 03:00",
-    "position": "50.8879\u00b0 / -1.3987\u00b0",
+    "position": "50.88787\u00b0 / -1.3987\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/11 18:58",
     "destTime": "2022/03/11 17:58",
-    "position": "51.29655\u00b0 / 3.24137\u00b0",
+    "position": "51.29653\u00b0 / 3.24137\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -224,10 +224,10 @@
     "deptTime": "2022/03/13 07:32",
     "dest": "FR FOS",
     "destLong": "Fos Sur Mer",
-    "destType": "ETA",
-    "destLocalTime": "2022/03/15 07:00",
-    "destTime": "2022/03/15 06:00",
-    "position": "43.35665\u00b0 / 4.967733\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/03/15 06:30",
+    "destTime": "2022/03/15 05:30",
+    "position": "43.39899\u00b0 / 4.8463\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/15 15:00",
     "destTime": "2022/03/15 07:00",
-    "position": "1.152712\u00b0 / 103.4786\u00b0",
+    "position": "1.202527\u00b0 / 103.5436\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/15 05:45",
     "destTime": "2022/03/15 04:45",
-    "position": "51.3725\u00b0 / 2.926047\u00b0",
+    "position": "51.40711\u00b0 / 3.279058\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/07 13:28",
     "destTime": "2022/03/07 10:28",
-    "position": "9.344644\u00b0 / 82.05761\u00b0",
+    "position": "9.92093\u00b0 / 81.80598\u00b0",
     "area": "Bengal Bay",
     "status": "Underway using Engine"
   },
@@ -517,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/14 23:00",
     "destTime": "2022/03/14 19:00",
-    "position": "24.82018\u00b0 / 54.66755\u00b0",
+    "position": "24.82016\u00b0 / 54.66755\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -536,19 +536,19 @@
     "length": "180",
     "breadth": "30",
     "grossTonnage": "43,810",
-    "dept": "PH MANILA ANCH",
+    "dept": "MY KCH",
     "deptLong": "Kuching",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/03/15 01:25",
-    "deptTime": "2022/03/14 17:25",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/03/12 11:15",
+    "deptTime": "2022/03/12 03:15",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
     "destType": "ETA",
     "destLocalTime": "2022/03/19 14:00",
     "destTime": "2022/03/19 05:00",
-    "position": "14.54669\u00b0 / 120.8916\u00b0",
+    "position": "14.46879\u00b0 / 120.6916\u00b0",
     "area": "Philippines",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9409481": {
     "rowidx": 218,
@@ -664,7 +664,7 @@
     "destTime": "2022/03/18 04:00",
     "position": "14.35796\u00b0 / 53.30953\u00b0",
     "area": "East Africa",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9624029": {
     "rowidx": 222,
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/15 03:02",
     "destTime": "2022/03/15 00:02",
-    "position": "11.60187\u00b0 / 43.07387\u00b0",
+    "position": "11.60183\u00b0 / 43.07383\u00b0",
     "area": "Gulf of Aden",
     "status": "Moored"
   },
@@ -807,7 +807,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/28 04:00",
     "destTime": "2022/03/28 02:00",
-    "position": "1.282985\u00b0 / 103.7515\u00b0",
+    "position": "1.282982\u00b0 / 103.7515\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
