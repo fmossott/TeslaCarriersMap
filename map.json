@@ -22,10 +22,10 @@
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
-    "destLocalTime": "2022/03/20 02:30",
-    "destTime": "2022/03/20 01:30",
-    "position": "35.96832\u00b0 / -6.206175\u00b0",
-    "area": "Gibraltar",
+    "destLocalTime": "2022/03/20 17:00",
+    "destTime": "2022/03/20 16:00",
+    "position": "36.69969\u00b0 / -8.855581\u00b0",
+    "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
   "9702429": {
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/08 16:40",
     "destTime": "2022/03/08 14:40",
-    "position": "50.90242\u00b0 / -1.423297\u00b0",
+    "position": "50.90243\u00b0 / -1.423317\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/12 04:00",
     "destTime": "2022/03/12 03:00",
-    "position": "50.88783\u00b0 / -1.398683\u00b0",
+    "position": "50.88793\u00b0 / -1.3987\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/11 18:58",
     "destTime": "2022/03/11 17:58",
-    "position": "51.30896\u00b0 / 3.225547\u00b0",
+    "position": "51.30898\u00b0 / 3.225567\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/16 19:39",
     "destTime": "2022/03/16 18:39",
-    "position": "51.3065\u00b0 / 3.22729\u00b0",
+    "position": "51.30649\u00b0 / 3.227283\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/17 17:00",
     "destTime": "2022/03/17 16:00",
-    "position": "41.21753\u00b0 / 2.192692\u00b0",
+    "position": "41.20277\u00b0 / 2.147367\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/15 12:02",
     "destTime": "2022/03/15 11:02",
-    "position": "51.41956\u00b0 / 2.667742\u00b0",
+    "position": "51.41848\u00b0 / 2.667108\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/16 12:00",
     "destTime": "2022/03/16 09:00",
-    "position": "26.8\u00b0 / 50.52783\u00b0",
+    "position": "26.7694\u00b0 / 50.5114\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -362,14 +362,14 @@
     "length": "199.95",
     "breadth": "32.2",
     "grossTonnage": "58,685",
-    "dept": "AE KHL",
-    "deptLong": "Khalifa",
+    "dept": "KW KWI",
+    "deptLong": "Kuwait",
     "deptType": "ATD",
-    "deptLocalTime": "2022/03/14 18:47",
-    "deptTime": "2022/03/14 14:47",
+    "deptLocalTime": "2022/03/17 21:15",
+    "deptTime": "2022/03/17 18:15",
     "dest": "KW KWI",
     "destLong": "Kuwait",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2022/03/17 13:00",
     "destTime": "2022/03/17 10:00",
     "position": "29.0658\u00b0 / 49.29868\u00b0",
@@ -401,9 +401,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/17 03:30",
     "destTime": "2022/03/17 01:30",
-    "position": "37.81822\u00b0 / 23.56672\u00b0",
+    "position": "37.83665\u00b0 / 23.57308\u00b0",
     "area": "Piraeus Area",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9372810": {
     "rowidx": 214,
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/17 10:00",
     "destTime": "2022/03/17 07:00",
-    "position": "21.46778\u00b0 / 39.15872\u00b0",
+    "position": "21.46778\u00b0 / 39.15873\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/15 15:52",
     "destTime": "2022/03/15 11:52",
-    "position": "24.99066\u00b0 / 55.07679\u00b0",
+    "position": "24.99064\u00b0 / 55.07679\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -606,7 +606,7 @@
     "destTime": "2022/03/28 02:00",
     "position": "5.462763\u00b0 / 97.83028\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9448140": {
     "rowidx": 221,
