@@ -36,7 +36,7 @@
     "notes": "",
     "quarter": "22Q1",
     "numDept": "14",
-    "mapStatus": "2",
+    "mapStatus": "3",
     "mtsid": "714694",
     "name": "Glovis Symphony",
     "mmsi": "538005672",
@@ -53,9 +53,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/08 16:40",
     "destTime": "2022/03/08 14:40",
-    "position": "50.88583\u00b0 / -1.401693\u00b0",
+    "position": "50.9024\u00b0 / -1.42332\u00b0",
     "area": "English Channel",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9338709": {
     "rowidx": 9,
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/12 04:00",
     "destTime": "2022/03/12 03:00",
-    "position": "50.88783\u00b0 / -1.39865\u00b0",
+    "position": "50.8879\u00b0 / -1.398683\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/11 18:58",
     "destTime": "2022/03/11 17:58",
-    "position": "51.30896\u00b0 / 3.225563\u00b0",
+    "position": "51.30896\u00b0 / 3.225562\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/07 17:19",
     "destTime": "2022/03/07 13:19",
-    "position": "11.69948\u00b0 / 73.08332\u00b0",
+    "position": "11.49218\u00b0 / 73.29688\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/16 19:39",
     "destTime": "2022/03/16 18:39",
-    "position": "51.30651\u00b0 / 3.227272\u00b0",
+    "position": "51.30649\u00b0 / 3.227278\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/17 17:00",
     "destTime": "2022/03/17 16:00",
-    "position": "41.39511\u00b0 / 2.950013\u00b0",
+    "position": "41.28767\u00b0 / 2.554427\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/15 12:02",
     "destTime": "2022/03/15 11:02",
-    "position": "51.41884\u00b0 / 2.668587\u00b0",
+    "position": "51.41987\u00b0 / 2.66881\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/16 16:55",
     "destTime": "2022/03/16 15:55",
-    "position": "41.90358\u00b0 / 7.266217\u00b0",
+    "position": "41.69152\u00b0 / 7.024167\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/16 12:00",
     "destTime": "2022/03/16 09:00",
-    "position": "26.81772\u00b0 / 50.51897\u00b0",
+    "position": "26.7857\u00b0 / 50.53367\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -401,9 +401,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/17 03:30",
     "destTime": "2022/03/17 01:30",
-    "position": "37.82893\u00b0 / 23.5604\u00b0",
+    "position": "37.82233\u00b0 / 23.55758\u00b0",
     "area": "Piraeus Area",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9372810": {
     "rowidx": 214,
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/17 10:00",
     "destTime": "2022/03/17 07:00",
-    "position": "21.46778\u00b0 / 39.15873\u00b0",
+    "position": "21.46776\u00b0 / 39.15874\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/15 15:52",
     "destTime": "2022/03/15 11:52",
-    "position": "24.99065\u00b0 / 55.07684\u00b0",
+    "position": "24.99066\u00b0 / 55.07685\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
