@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/08 16:40",
     "destTime": "2022/03/08 14:40",
-    "position": "50.9024\u00b0 / -1.423298\u00b0",
+    "position": "50.90243\u00b0 / -1.423315\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -82,13 +82,13 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/12 04:00",
     "destTime": "2022/03/12 03:00",
-    "position": "50.88787\u00b0 / -1.398733\u00b0",
+    "position": "50.88793\u00b0 / -1.398733\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
   "9158604": {
     "rowidx": 10,
-    "silence": "FALSE",
+    "silence": "TRUE",
     "num": "180",
     "manDept": "SHG",
     "notes": "",
@@ -111,9 +111,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/25 23:00",
     "destTime": "2022/03/25 21:00",
-    "position": "51.33387\u00b0 / 3.21692\u00b0",
+    "position": "51.33725\u00b0 / 3.214178\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Underway"
   },
   "9427952": {
     "rowidx": 204,
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/07 17:19",
     "destTime": "2022/03/07 13:19",
-    "position": "7.56215\u00b0 / 77.26196\u00b0",
+    "position": "7.417767\u00b0 / 77.44\u00b0",
     "area": "Laccadive Sea",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/16 19:39",
     "destTime": "2022/03/16 18:39",
-    "position": "51.30652\u00b0 / 3.227255\u00b0",
+    "position": "51.30648\u00b0 / 3.22724\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/17 17:00",
     "destTime": "2022/03/17 16:00",
-    "position": "41.08202\u00b0 / 2.15313\u00b0",
+    "position": "41.08119\u00b0 / 2.078112\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/15 12:02",
     "destTime": "2022/03/15 11:02",
-    "position": "51.41988\u00b0 / 2.667515\u00b0",
+    "position": "51.41967\u00b0 / 2.667525\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/16 12:00",
     "destTime": "2022/03/16 09:00",
-    "position": "26.84143\u00b0 / 50.51743\u00b0",
+    "position": "26.81805\u00b0 / 50.51527\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/17 22:30",
     "destTime": "2022/03/17 20:30",
-    "position": "37.96058\u00b0 / 23.60477\u00b0",
+    "position": "37.96055\u00b0 / 23.6047\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/17 19:14",
     "destTime": "2022/03/17 16:14",
-    "position": "21.54466\u00b0 / 38.94438\u00b0",
+    "position": "21.51909\u00b0 / 38.94688\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/17 10:00",
     "destTime": "2022/03/17 07:00",
-    "position": "21.46776\u00b0 / 39.15874\u00b0",
+    "position": "21.46777\u00b0 / 39.15874\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/15 15:52",
     "destTime": "2022/03/15 11:52",
-    "position": "24.99065\u00b0 / 55.0768\u00b0",
+    "position": "24.99066\u00b0 / 55.07681\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -693,7 +693,7 @@
     "destTime": "2022/03/21 23:00",
     "position": "24.49977\u00b0 / 119.4649\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9827243": {
     "rowidx": 224,
@@ -723,5 +723,34 @@
     "position": "31.21441\u00b0 / 122.1191\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
+  },
+  "9397999": {
+    "rowidx": 225,
+    "silence": "FALSE",
+    "num": "-35",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q1",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "386080",
+    "name": "Amethyst Ace",
+    "mmsi": "352980797",
+    "length": "199.99",
+    "breadth": "32.26",
+    "grossTonnage": "60,143",
+    "dept": "CI ABJ",
+    "deptLong": "Abidjan",
+    "deptType": "ATD",
+    "deptLocalTime": "",
+    "deptTime": "",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/03/18 01:17",
+    "destTime": "2022/03/17 17:17",
+    "position": "31.32354\u00b0 / 121.6795\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
   }
 }
