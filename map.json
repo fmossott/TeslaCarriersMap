@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/20 17:55",
     "destTime": "2022/03/20 16:55",
-    "position": "51.29659\u00b0 / 3.24118\u00b0",
+    "position": "51.2966\u00b0 / 3.241185\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/07 17:19",
     "destTime": "2022/03/07 13:19",
-    "position": "13.25952\u00b0 / 80.33681\u00b0",
+    "position": "13.2595\u00b0 / 80.33678\u00b0",
     "area": "Bengal Bay",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/22 04:34",
     "destTime": "2022/03/22 03:34",
-    "position": "51.27227\u00b0 / 4.22035\u00b0",
+    "position": "51.27227\u00b0 / 4.220332\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/23 17:00",
     "destTime": "2022/03/23 16:00",
-    "position": "40.97377\u00b0 / 2.009942\u00b0",
+    "position": "40.98751\u00b0 / 1.926377\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/15 12:02",
     "destTime": "2022/03/15 11:02",
-    "position": "51.41836\u00b0 / 2.668172\u00b0",
+    "position": "51.41831\u00b0 / 2.668215\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -219,7 +219,7 @@
     "grossTonnage": "59,440",
     "dept": "GB PRU",
     "deptLong": "Portbury",
-    "deptType": "ATA",
+    "deptType": "ATD",
     "deptLocalTime": "2022/03/22 08:45",
     "deptTime": "2022/03/22 07:45",
     "dest": "BE ZEE",
@@ -227,9 +227,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/24 17:00",
     "destTime": "2022/03/24 16:00",
-    "position": "51.49872\u00b0 / -2.726083\u00b0",
+    "position": "51.45795\u00b0 / -2.934483\u00b0",
     "area": "Bristol Channel",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9591052": {
     "rowidx": 211,
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/19 03:59",
     "destTime": "2022/03/19 00:59",
-    "position": "26.49962\u00b0 / 50.2073\u00b0",
+    "position": "26.49957\u00b0 / 50.20732\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/18 22:50",
     "destTime": "2022/03/18 19:50",
-    "position": "17.30015\u00b0 / 69.4974\u00b0",
+    "position": "17.11467\u00b0 / 69.66994\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/13 19:26",
     "destTime": "2022/03/13 11:26",
-    "position": "18.94093\u00b0 / 72.85361\u00b0",
+    "position": "18.94092\u00b0 / 72.85367\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
@@ -688,10 +688,10 @@
     "deptTime": "2022/03/20 04:16",
     "dest": "JP NGO",
     "destLong": "Nagoya",
-    "destType": "ETA",
-    "destLocalTime": "2022/03/23 03:45",
-    "destTime": "2022/03/22 18:45",
-    "position": "34.78869\u00b0 / 136.7839\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/03/23 06:02",
+    "destTime": "2022/03/22 21:02",
+    "position": "35.00909\u00b0 / 136.8338\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -778,7 +778,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/24 10:00",
     "destTime": "2022/03/24 01:00",
-    "position": "38.97505\u00b0 / 117.8176\u00b0",
+    "position": "38.97503\u00b0 / 117.8176\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
