@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/20 17:55",
     "destTime": "2022/03/20 16:55",
-    "position": "51.29657\u00b0 / 3.241182\u00b0",
+    "position": "51.29659\u00b0 / 3.24118\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/07 17:19",
     "destTime": "2022/03/07 13:19",
-    "position": "13.25958\u00b0 / 80.33675\u00b0",
+    "position": "13.25952\u00b0 / 80.33681\u00b0",
     "area": "Bengal Bay",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/22 04:34",
     "destTime": "2022/03/22 03:34",
-    "position": "51.27227\u00b0 / 4.22037\u00b0",
+    "position": "51.27227\u00b0 / 4.22035\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/15 12:02",
     "destTime": "2022/03/15 11:02",
-    "position": "51.41927\u00b0 / 2.669023\u00b0",
+    "position": "51.41836\u00b0 / 2.668172\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -227,9 +227,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/24 17:00",
     "destTime": "2022/03/24 16:00",
-    "position": "51.49285\u00b0 / -2.717633\u00b0",
+    "position": "51.49872\u00b0 / -2.726083\u00b0",
     "area": "Bristol Channel",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9591052": {
     "rowidx": 211,
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/18 22:50",
     "destTime": "2022/03/18 19:50",
-    "position": "17.4847\u00b0 / 69.33266\u00b0",
+    "position": "17.30015\u00b0 / 69.4974\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/22 20:19",
     "destTime": "2022/03/22 17:19",
-    "position": "26.48952\u00b0 / 50.20501\u00b0",
+    "position": "26.48953\u00b0 / 50.20503\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -485,12 +485,12 @@
     "deptTime": "2022/03/21 17:24",
     "dest": "IN BOM",
     "destLong": "Mumbai",
-    "destType": "ETA",
+    "destType": "ATA",
     "destLocalTime": "2022/03/13 19:26",
     "destTime": "2022/03/13 11:26",
-    "position": "18.91803\u00b0 / 72.86341\u00b0",
+    "position": "18.94093\u00b0 / 72.85361\u00b0",
     "area": "West Coast India",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9728069": {
     "rowidx": 220,
@@ -548,7 +548,7 @@
     "destTime": "2022/03/30 16:00",
     "position": "5.848783\u00b0 / 80.09184\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9713894": {
     "rowidx": 222,
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/23 03:45",
     "destTime": "2022/03/22 18:45",
-    "position": "34.57781\u00b0 / 136.9897\u00b0",
+    "position": "34.78869\u00b0 / 136.7839\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
