@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/20 17:55",
     "destTime": "2022/03/20 16:55",
-    "position": "51.29661\u00b0 / 3.241188\u00b0",
+    "position": "51.29657\u00b0 / 3.241182\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/07 17:19",
     "destTime": "2022/03/07 13:19",
-    "position": "13.25953\u00b0 / 80.33678\u00b0",
+    "position": "13.25958\u00b0 / 80.33675\u00b0",
     "area": "Bengal Bay",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/22 04:34",
     "destTime": "2022/03/22 03:34",
-    "position": "51.27225\u00b0 / 4.220362\u00b0",
+    "position": "51.27227\u00b0 / 4.22037\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/15 12:02",
     "destTime": "2022/03/15 11:02",
-    "position": "51.41958\u00b0 / 2.670142\u00b0",
+    "position": "51.41927\u00b0 / 2.669023\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -217,17 +217,17 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "59,440",
-    "dept": "IT LIV",
-    "deptLong": "Livorno",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/03/17 00:48",
-    "deptTime": "2022/03/16 23:48",
-    "dest": "GB PRU",
-    "destLong": "Portbury",
-    "destType": "ATA",
-    "destLocalTime": "2022/03/16 16:55",
-    "destTime": "2022/03/16 15:55",
-    "position": "51.49285\u00b0 / -2.717583\u00b0",
+    "dept": "GB PRU",
+    "deptLong": "Portbury",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/03/22 08:45",
+    "deptTime": "2022/03/22 07:45",
+    "dest": "BE ZEE",
+    "destLong": "Zeebrugge",
+    "destType": "ETA",
+    "destLocalTime": "2022/03/24 17:00",
+    "destTime": "2022/03/24 16:00",
+    "position": "51.49285\u00b0 / -2.717633\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/19 03:59",
     "destTime": "2022/03/19 00:59",
-    "position": "26.4996\u00b0 / 50.20731\u00b0",
+    "position": "26.49962\u00b0 / 50.2073\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/18 22:50",
     "destTime": "2022/03/18 19:50",
-    "position": "17.65832\u00b0 / 69.16645\u00b0",
+    "position": "17.4847\u00b0 / 69.33266\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -459,9 +459,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/22 20:19",
     "destTime": "2022/03/22 17:19",
-    "position": "26.48957\u00b0 / 50.20468\u00b0",
+    "position": "26.48952\u00b0 / 50.20501\u00b0",
     "area": "Persian Gulf",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9355226": {
     "rowidx": 219,
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/13 19:26",
     "destTime": "2022/03/13 11:26",
-    "position": "18.84402\u00b0 / 72.78713\u00b0",
+    "position": "18.91803\u00b0 / 72.86341\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/23 03:45",
     "destTime": "2022/03/22 18:45",
-    "position": "34.44069\u00b0 / 137.1085\u00b0",
+    "position": "34.57781\u00b0 / 136.9897\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -749,9 +749,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/23 01:48",
     "destTime": "2022/03/22 17:48",
-    "position": "38.97852\u00b0 / 117.7941\u00b0",
+    "position": "38.98618\u00b0 / 117.7794\u00b0",
     "area": "Bohai Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9426386": {
     "rowidx": 229,
@@ -778,7 +778,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/24 10:00",
     "destTime": "2022/03/24 01:00",
-    "position": "38.97506\u00b0 / 117.8176\u00b0",
+    "position": "38.97505\u00b0 / 117.8176\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
