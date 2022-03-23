@@ -16,17 +16,17 @@
     "grossTonnage": "58,767",
     "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/03/21 00:55",
-    "deptTime": "2022/03/20 16:55",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/03/23 16:03",
+    "deptTime": "2022/03/23 15:03",
     "dest": "EG PSD",
     "destLong": "Port Said",
     "destType": "ETA",
     "destLocalTime": "2022/03/31 00:01",
     "destTime": "2022/03/30 22:01",
-    "position": "51.33404\u00b0 / 3.217092\u00b0",
+    "position": "51.37737\u00b0 / 3.172203\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9427952": {
     "rowidx": 204,
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/07 17:19",
     "destTime": "2022/03/07 13:19",
-    "position": "13.25953\u00b0 / 80.33685\u00b0",
+    "position": "13.25953\u00b0 / 80.3368\u00b0",
     "area": "Bengal Bay",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/15 12:02",
     "destTime": "2022/03/15 11:02",
-    "position": "51.4185\u00b0 / 2.670523\u00b0",
+    "position": "51.41991\u00b0 / 2.670052\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/22 04:00",
     "destTime": "2022/03/22 02:00",
-    "position": "21.47753\u00b0 / 38.2135\u00b0",
+    "position": "21.22548\u00b0 / 38.35686\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/22 20:19",
     "destTime": "2022/03/22 17:19",
-    "position": "26.48953\u00b0 / 50.20501\u00b0",
+    "position": "26.48953\u00b0 / 50.20502\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/13 19:26",
     "destTime": "2022/03/13 11:26",
-    "position": "18.9409\u00b0 / 72.85363\u00b0",
+    "position": "18.94093\u00b0 / 72.85361\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
@@ -749,7 +749,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/23 01:48",
     "destTime": "2022/03/22 17:48",
-    "position": "38.98621\u00b0 / 117.7794\u00b0",
+    "position": "38.98619\u00b0 / 117.7794\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -778,8 +778,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/24 10:00",
     "destTime": "2022/03/24 01:00",
-    "position": "38.46779\u00b0 / 121.1118\u00b0",
-    "area": "Bohai Sea",
+    "position": "37.98497\u00b0 / 123.1837\u00b0",
+    "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
   "9398321": {
