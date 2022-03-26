@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/15 12:02",
     "destTime": "2022/03/15 11:02",
-    "position": "51.4181\u00b0 / 2.66838\u00b0",
+    "position": "51.41865\u00b0 / 2.669568\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/24 19:21",
     "destTime": "2022/03/24 18:21",
-    "position": "51.29671\u00b0 / 3.241417\u00b0",
+    "position": "51.29671\u00b0 / 3.24145\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,9 +169,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/26 13:40",
     "destTime": "2022/03/26 11:40",
-    "position": "29.85866\u00b0 / 32.56226\u00b0",
+    "position": "29.85827\u00b0 / 32.56263\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9293894": {
     "rowidx": 210,
@@ -256,9 +256,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/28 22:00",
     "destTime": "2022/03/28 20:00",
-    "position": "14.07962\u00b0 / 51.86801\u00b0",
+    "position": "20.71688\u00b0 / 38.58991\u00b0",
     "area": "East Africa",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9448140": {
     "rowidx": 213,
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/26 16:44",
     "destTime": "2022/03/26 08:44",
-    "position": "1.285777\u00b0 / 103.7556\u00b0",
+    "position": "1.285787\u00b0 / 103.7556\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -517,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/27 05:30",
     "destTime": "2022/03/26 21:30",
-    "position": "38.55755\u00b0 / 121.0354\u00b0",
+    "position": "38.85033\u00b0 / 118.3463\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/27 10:00",
     "destTime": "2022/03/27 01:00",
-    "position": "31.19262\u00b0 / 122.1534\u00b0",
+    "position": "35.39342\u00b0 / 125.1957\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
