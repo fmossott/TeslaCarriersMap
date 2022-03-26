@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/15 12:02",
     "destTime": "2022/03/15 11:02",
-    "position": "51.41884\u00b0 / 2.66982\u00b0",
+    "position": "51.41796\u00b0 / 2.667937\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -103,17 +103,17 @@
     "grossTonnage": "59,440",
     "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/03/22 08:45",
-    "deptTime": "2022/03/22 07:45",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/03/26 23:53",
+    "deptTime": "2022/03/26 22:53",
     "dest": "DE BRV",
     "destLong": "Bremerhaven",
     "destType": "ETA",
     "destLocalTime": "2022/03/27 21:00",
     "destTime": "2022/03/27 19:00",
-    "position": "51.33405\u00b0 / 3.216983\u00b0",
+    "position": "51.39532\u00b0 / 3.120417\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9372810": {
     "rowidx": 208,
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/26 13:40",
     "destTime": "2022/03/26 11:40",
-    "position": "29.85841\u00b0 / 32.56299\u00b0",
+    "position": "29.85811\u00b0 / 32.56283\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -514,10 +514,10 @@
     "deptTime": "2022/03/24 20:10",
     "dest": "CN TXG",
     "destLong": "Tianjin",
-    "destType": "ETA",
-    "destLocalTime": "2022/03/27 05:30",
-    "destTime": "2022/03/26 21:30",
-    "position": "38.93589\u00b0 / 118.0229\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/03/27 06:30",
+    "destTime": "2022/03/26 22:30",
+    "position": "38.9733\u00b0 / 117.8171\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/27 10:00",
     "destTime": "2022/03/27 01:00",
-    "position": "36.03269\u00b0 / 125.557\u00b0",
+    "position": "36.28639\u00b0 / 125.7067\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
