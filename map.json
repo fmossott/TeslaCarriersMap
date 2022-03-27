@@ -79,10 +79,10 @@
     "deptTime": "2022/02/15 17:10",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2022/03/15 15:00",
-    "destTime": "2022/03/15 14:00",
-    "position": "51.3851\u00b0 / 2.989132\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/03/27 04:41",
+    "destTime": "2022/03/27 02:41",
+    "position": "51.33515\u00b0 / 3.2158\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -169,9 +169,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/26 13:40",
     "destTime": "2022/03/26 11:40",
-    "position": "29.8591\u00b0 / 32.56159\u00b0",
+    "position": "29.8593\u00b0 / 32.56161\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Stopped"
   },
   "9293894": {
     "rowidx": 210,
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/26 16:44",
     "destTime": "2022/03/26 08:44",
-    "position": "1.285782\u00b0 / 103.7556\u00b0",
+    "position": "1.285798\u00b0 / 103.7556\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/27 14:00",
     "destTime": "2022/03/27 06:00",
-    "position": "1.389483\u00b0 / 104.4105\u00b0",
+    "position": "1.302917\u00b0 / 104.2852\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/27 06:30",
     "destTime": "2022/03/26 22:30",
-    "position": "38.97501\u00b0 / 117.8177\u00b0",
+    "position": "38.97504\u00b0 / 117.8177\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
