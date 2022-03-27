@@ -77,12 +77,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/02/16 01:10",
     "deptTime": "2022/02/15 17:10",
-    "dest": "BE ANTWERP ANCH",
+    "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ATA",
-    "destLocalTime": "2022/03/15 12:02",
-    "destTime": "2022/03/15 11:02",
-    "position": "51.39697\u00b0 / 2.717862\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2022/03/15 15:00",
+    "destTime": "2022/03/15 14:00",
+    "position": "51.3851\u00b0 / 2.989132\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -109,9 +109,9 @@
     "dest": "DE BRV",
     "destLong": "Bremerhaven",
     "destType": "ETA",
-    "destLocalTime": "2022/03/27 21:00",
-    "destTime": "2022/03/27 19:00",
-    "position": "51.39532\u00b0 / 3.120417\u00b0",
+    "destLocalTime": "2022/03/28 12:00",
+    "destTime": "2022/03/28 10:00",
+    "position": "51.68572\u00b0 / 2.69455\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/26 13:40",
     "destTime": "2022/03/26 11:40",
-    "position": "29.85807\u00b0 / 32.56279\u00b0",
+    "position": "29.8591\u00b0 / 32.56159\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/26 16:44",
     "destTime": "2022/03/26 08:44",
-    "position": "1.285765\u00b0 / 103.7556\u00b0",
+    "position": "1.285782\u00b0 / 103.7556\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -459,9 +459,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/27 14:00",
     "destTime": "2022/03/27 06:00",
-    "position": "22.00512\u00b0 / 121.1307\u00b0",
+    "position": "1.389483\u00b0 / 104.4105\u00b0",
     "area": "South China",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9325776": {
     "rowidx": 220,
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/27 06:30",
     "destTime": "2022/03/26 22:30",
-    "position": "38.97503\u00b0 / 117.8177\u00b0",
+    "position": "38.97501\u00b0 / 117.8177\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
