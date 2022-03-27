@@ -82,9 +82,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/27 04:41",
     "destTime": "2022/03/27 02:41",
-    "position": "51.33515\u00b0 / 3.2158\u00b0",
+    "position": "51.33255\u00b0 / 3.218003\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9519107": {
     "rowidx": 207,
@@ -164,14 +164,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/03/06 12:42",
     "deptTime": "2022/03/06 04:42",
-    "dest": "EG SUEZ SOUTH ANCH",
+    "dest": "EG SUZ",
     "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2022/03/26 13:40",
-    "destTime": "2022/03/26 11:40",
-    "position": "29.8593\u00b0 / 32.56161\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2022/03/28 03:00",
+    "destTime": "2022/03/28 01:00",
+    "position": "29.94157\u00b0 / 32.57365\u00b0",
     "area": "Red Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9293894": {
     "rowidx": 210,
@@ -459,8 +459,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/27 14:00",
     "destTime": "2022/03/27 06:00",
-    "position": "1.302917\u00b0 / 104.2852\u00b0",
-    "area": "South China",
+    "position": "1.273367\u00b0 / 104.1289\u00b0",
+    "area": "Singapore Area",
     "status": "Underway using Engine"
   },
   "9325776": {
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/27 06:30",
     "destTime": "2022/03/26 22:30",
-    "position": "38.97504\u00b0 / 117.8177\u00b0",
+    "position": "38.97506\u00b0 / 117.8177\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -543,9 +543,9 @@
     "deptTime": "2022/03/25 21:48",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
-    "destType": "ETA",
-    "destLocalTime": "2022/03/27 10:00",
-    "destTime": "2022/03/27 01:00",
+    "destType": "ATA",
+    "destLocalTime": "2022/03/27 12:10",
+    "destTime": "2022/03/27 03:10",
     "position": "36.28639\u00b0 / 125.7067\u00b0",
     "area": "East China Sea",
     "status": "Out of Range"
