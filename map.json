@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/28 12:00",
     "destTime": "2022/03/28 09:00",
-    "position": "27.53116\u00b0 / 51.01264\u00b0",
+    "position": "27.47046\u00b0 / 51.25153\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -106,14 +106,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/03/15 14:55",
     "deptTime": "2022/03/15 06:55",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/03/28 22:00",
-    "destTime": "2022/03/28 20:00",
-    "position": "29.7857\u00b0 / 32.5518\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/03/28 21:47",
+    "destTime": "2022/03/28 19:47",
+    "position": "29.84679\u00b0 / 32.56258\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9448140": {
     "rowidx": 208,
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/28 20:36",
     "destTime": "2022/03/28 13:36",
-    "position": "13.04742\u00b0 / 100.8332\u00b0",
+    "position": "13.04736\u00b0 / 100.8332\u00b0",
     "area": "Gulf of Thailand",
     "status": "At Anchor"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/27 19:30",
     "destTime": "2022/03/27 11:30",
-    "position": "30.83611\u00b0 / 121.8363\u00b0",
+    "position": "30.83612\u00b0 / 121.8363\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
