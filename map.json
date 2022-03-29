@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/28 12:00",
     "destTime": "2022/03/28 09:00",
-    "position": "26.19756\u00b0 / 52.62114\u00b0",
+    "position": "26.0274\u00b0 / 52.51898\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/01 02:00",
     "destTime": "2022/03/31 23:00",
-    "position": "30.21053\u00b0 / 32.56042\u00b0",
+    "position": "30.28503\u00b0 / 32.44091\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/28 20:36",
     "destTime": "2022/03/28 13:36",
-    "position": "13.04642\u00b0 / 100.834\u00b0",
+    "position": "13.04583\u00b0 / 100.8347\u00b0",
     "area": "Gulf of Thailand",
     "status": "At Anchor"
   },
@@ -287,7 +287,7 @@
     "destTime": "2022/03/26 08:44",
     "position": "4.725353\u00b0 / 98.68885\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9325776": {
     "rowidx": 214,
@@ -375,5 +375,34 @@
     "position": "30.04472\u00b0 / 123.4401\u00b0",
     "area": "East China Sea",
     "status": "Underway"
+  },
+  "9798387": {
+    "rowidx": 217,
+    "silence": "FALSE",
+    "num": "-27",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q1",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "5007304",
+    "name": "Glovis Sonic",
+    "mmsi": "538007414",
+    "length": "229.97",
+    "breadth": "32",
+    "grossTonnage": "72,269",
+    "dept": "KR USN",
+    "deptLong": "Ulsan",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/03/27 23:41",
+    "deptTime": "2022/03/27 14:41",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/03/29 10:30",
+    "destTime": "2022/03/29 02:30",
+    "position": "31.3235\u00b0 / 121.6795\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
   }
 }
