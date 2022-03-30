@@ -21,12 +21,12 @@
     "deptTime": "2022/03/29 00:37",
     "dest": "TR MER",
     "destLong": "Mersin",
-    "destType": "ETA",
-    "destLocalTime": "2022/03/30 16:00",
-    "destTime": "2022/03/30 13:00",
-    "position": "36.75197\u00b0 / 34.68565\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/03/30 16:27",
+    "destTime": "2022/03/30 13:27",
+    "position": "36.80222\u00b0 / 34.65015\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9293894": {
     "rowidx": 205,
@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/31 10:00",
     "destTime": "2022/03/31 06:00",
-    "position": "26.1505\u00b0 / 54.87027\u00b0",
+    "position": "26.14051\u00b0 / 55.39534\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/30 04:56",
     "destTime": "2022/03/29 21:56",
-    "position": "13.06924\u00b0 / 100.8937\u00b0",
+    "position": "13.06925\u00b0 / 100.8937\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/30 10:43",
     "destTime": "2022/03/30 02:43",
-    "position": "1.2847\u00b0 / 103.7526\u00b0",
+    "position": "1.284633\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/31 12:00",
     "destTime": "2022/03/31 04:00",
-    "position": "31.32208\u00b0 / 121.6817\u00b0",
+    "position": "31.32207\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
