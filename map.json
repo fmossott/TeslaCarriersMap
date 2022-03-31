@@ -77,14 +77,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/03/22 01:24",
     "deptTime": "2022/03/21 17:24",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/03/31 21:00",
-    "destTime": "2022/03/31 19:00",
-    "position": "29.86423\u00b0 / 32.56362\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/03/31 21:10",
+    "destTime": "2022/03/31 19:10",
+    "position": "29.86378\u00b0 / 32.56453\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9728069": {
     "rowidx": 207,
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/30 23:00",
     "destTime": "2022/03/30 21:00",
-    "position": "29.53153\u00b0 / 34.94187\u00b0",
+    "position": "29.53155\u00b0 / 34.94168\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -169,9 +169,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/31 22:57",
     "destTime": "2022/03/31 18:57",
-    "position": "25.01561\u00b0 / 55.04263\u00b0",
+    "position": "24.99642\u00b0 / 55.07981\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9584059": {
     "rowidx": 210,
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/30 10:43",
     "destTime": "2022/03/30 02:43",
-    "position": "2.322667\u00b0 / 101.8399\u00b0",
+    "position": "2.467033\u00b0 / 101.6549\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -401,8 +401,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/31 12:00",
     "destTime": "2022/03/31 04:00",
-    "position": "31.20942\u00b0 / 122.1274\u00b0",
+    "position": "29.65585\u00b0 / 122.9024\u00b0",
     "area": "East China Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   }
 }
