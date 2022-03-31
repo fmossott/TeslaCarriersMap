@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/31 10:05",
     "destTime": "2022/03/31 06:05",
-    "position": "24.50324\u00b0 / 56.61987\u00b0",
+    "position": "24.50324\u00b0 / 56.61985\u00b0",
     "area": "Oman Gulf",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/31 21:00",
     "destTime": "2022/03/31 19:00",
-    "position": "29.14253\u00b0 / 32.80308\u00b0",
+    "position": "29.29325\u00b0 / 32.7234\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/30 23:00",
     "destTime": "2022/03/30 21:00",
-    "position": "29.53157\u00b0 / 34.9418\u00b0",
+    "position": "29.53157\u00b0 / 34.94183\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -161,17 +161,17 @@
     "grossTonnage": "70,048",
     "dept": "AE KHL",
     "deptLong": "Khalifa",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/03/31 11:13",
-    "deptTime": "2022/03/31 03:13",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/03/31 18:44",
+    "deptTime": "2022/03/31 14:44",
     "dest": "AE JEA",
     "destLong": "Jebel Ali",
     "destType": "ETA",
     "destLocalTime": "2022/03/31 23:00",
     "destTime": "2022/03/31 19:00",
-    "position": "24.82161\u00b0 / 54.66973\u00b0",
+    "position": "24.88909\u00b0 / 54.63281\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9584059": {
     "rowidx": 210,
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/30 10:43",
     "destTime": "2022/03/30 02:43",
-    "position": "1.534567\u00b0 / 103.0881\u00b0",
+    "position": "1.543467\u00b0 / 103.0787\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
