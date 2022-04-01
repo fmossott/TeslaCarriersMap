@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/02 06:00",
     "destTime": "2022/04/02 04:00",
-    "position": "30.1999\u00b0 / 32.56615\u00b0",
+    "position": "30.28402\u00b0 / 32.44152\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/30 23:00",
     "destTime": "2022/03/30 21:00",
-    "position": "29.53153\u00b0 / 34.94176\u00b0",
+    "position": "29.53153\u00b0 / 34.94183\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/31 22:57",
     "destTime": "2022/03/31 18:57",
-    "position": "24.9965\u00b0 / 55.07995\u00b0",
+    "position": "24.9965\u00b0 / 55.07994\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/06 06:00",
     "destTime": "2022/04/06 03:00",
-    "position": "12.91129\u00b0 / 59.19141\u00b0",
+    "position": "13.95468\u00b0 / 55.6828\u00b0",
     "area": "East Africa",
     "status": "Underway using Engine"
   },
@@ -404,5 +404,34 @@
     "position": "29.75538\u00b0 / 122.3097\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
+  },
+  "9432907": {
+    "rowidx": 218,
+    "silence": "FALSE",
+    "num": "-28",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q1",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "756158",
+    "name": "Tokyo Car",
+    "mmsi": "636016248",
+    "length": "182.8",
+    "breadth": "31.53",
+    "grossTonnage": "46,800",
+    "dept": "KR INC",
+    "deptLong": "Incheon",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/03/29 07:59",
+    "deptTime": "2022/03/28 22:59",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/04/01 00:33",
+    "destTime": "2022/03/31 16:33",
+    "position": "31.32228\u00b0 / 121.6814\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
   }
 }
