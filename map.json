@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/22 06:00",
     "destTime": "2022/04/22 04:00",
-    "position": "30.30811\u00b0 / 32.3852\u00b0",
+    "position": "30.30807\u00b0 / 32.3852\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -77,12 +77,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/03/22 01:24",
     "deptTime": "2022/03/21 17:24",
-    "dest": "EG ALY",
+    "dest": "EG ALEXANDRIA ANCH",
     "destLong": "Alexandria",
-    "destType": "ETA",
-    "destLocalTime": "2022/04/02 06:00",
-    "destTime": "2022/04/02 04:00",
-    "position": "31.21503\u00b0 / 29.79778\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/04/02 10:38",
+    "destTime": "2022/04/02 08:38",
+    "position": "31.17978\u00b0 / 29.79628\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/01 00:44",
     "destTime": "2022/03/31 21:44",
-    "position": "40.79387\u00b0 / 27.92644\u00b0",
+    "position": "40.73871\u00b0 / 27.56894\u00b0",
     "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/30 23:00",
     "destTime": "2022/03/30 21:00",
-    "position": "29.53153\u00b0 / 34.94178\u00b0",
+    "position": "29.5315\u00b0 / 34.94185\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -196,9 +196,9 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/04/03 11:00",
-    "destTime": "2022/04/03 09:00",
-    "position": "24.11212\u00b0 / 36.58445\u00b0",
+    "destLocalTime": "2022/04/03 10:00",
+    "destTime": "2022/04/03 08:00",
+    "position": "24.76067\u00b0 / 36.20173\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -285,8 +285,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/08 21:00",
     "destTime": "2022/04/08 19:00",
-    "position": "10.00294\u00b0 / 71.14344\u00b0",
-    "area": "Laccadive Sea",
+    "position": "11.65401\u00b0 / 66.36034\u00b0",
+    "area": "West Coast India",
     "status": "Underway using Engine"
   },
   "9325776": {
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/01 10:07",
     "destTime": "2022/04/01 02:07",
-    "position": "29.76343\u00b0 / 121.9955\u00b0",
+    "position": "29.76337\u00b0 / 121.9955\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/01 00:33",
     "destTime": "2022/03/31 16:33",
-    "position": "31.32225\u00b0 / 121.6815\u00b0",
+    "position": "31.32225\u00b0 / 121.6814\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
