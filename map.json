@@ -111,9 +111,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/02 15:54",
     "destTime": "2022/04/02 12:54",
-    "position": "37.55919\u00b0 / 23.68893\u00b0",
+    "position": "37.56423\u00b0 / 23.70083\u00b0",
     "area": "Aegean Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9448140": {
     "rowidx": 208,
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/03/30 23:00",
     "destTime": "2022/03/30 21:00",
-    "position": "29.53152\u00b0 / 34.94182\u00b0",
+    "position": "29.53158\u00b0 / 34.94182\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -167,9 +167,9 @@
     "dest": "BH KBS",
     "destLong": "Khalifa Bin Salman",
     "destType": "ETA",
-    "destLocalTime": "2022/04/03 13:00",
-    "destTime": "2022/04/03 10:00",
-    "position": "26.39887\u00b0 / 50.88129\u00b0",
+    "destLocalTime": "2022/04/03 14:15",
+    "destTime": "2022/04/03 11:15",
+    "position": "26.34104\u00b0 / 50.79634\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -193,14 +193,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/03/22 20:47",
     "deptTime": "2022/03/22 12:47",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/04/03 10:00",
-    "destTime": "2022/04/03 08:00",
-    "position": "29.82932\u00b0 / 32.5672\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/04/03 10:59",
+    "destTime": "2022/04/03 08:59",
+    "position": "29.85542\u00b0 / 32.56053\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9827243": {
     "rowidx": 211,
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/02 22:32",
     "destTime": "2022/04/02 14:32",
-    "position": "1.264512\u00b0 / 103.8477\u00b0",
+    "position": "1.264493\u00b0 / 103.8477\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
