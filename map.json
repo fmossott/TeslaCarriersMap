@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/03 22:20",
     "destTime": "2022/04/03 19:20",
-    "position": "37.96061\u00b0 / 23.60493\u00b0",
+    "position": "37.96061\u00b0 / 23.60494\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -167,9 +167,9 @@
     "dest": "KW KWI",
     "destLong": "Kuwait",
     "destType": "ETA",
-    "destLocalTime": "2022/04/04 15:00",
-    "destTime": "2022/04/04 12:00",
-    "position": "28.06355\u00b0 / 50.32065\u00b0",
+    "destLocalTime": "2022/04/04 23:00",
+    "destTime": "2022/04/04 20:00",
+    "position": "28.21717\u00b0 / 50.14844\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/05 07:00",
     "destTime": "2022/04/05 05:00",
-    "position": "30.17708\u00b0 / 32.56917\u00b0",
+    "position": "30.26502\u00b0 / 32.48958\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/06 06:00",
     "destTime": "2022/04/06 03:00",
-    "position": "19.1106\u00b0 / 39.50293\u00b0",
+    "position": "20.28814\u00b0 / 38.80707\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -343,9 +343,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/04 18:00",
     "destTime": "2022/04/04 10:00",
-    "position": "21.94228\u00b0 / 119.5863\u00b0",
+    "position": "1.29668\u00b0 / 104.2853\u00b0",
     "area": "South China",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9610418": {
     "rowidx": 216,
@@ -428,9 +428,9 @@
     "dest": "CN XMG",
     "destLong": "Xiamen",
     "destType": "ETA",
-    "destLocalTime": "2022/04/05 17:00",
-    "destTime": "2022/04/05 09:00",
-    "position": "24.55585\u00b0 / 119.1335\u00b0",
+    "destLocalTime": "2022/04/04 16:00",
+    "destTime": "2022/04/04 08:00",
+    "position": "24.35482\u00b0 / 118.1514\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
