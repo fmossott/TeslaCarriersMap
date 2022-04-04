@@ -101,19 +101,19 @@
     "length": "199.99",
     "breadth": "37.5",
     "grossTonnage": "76,387",
-    "dept": "TR DRC",
-    "deptLong": "Derince",
+    "dept": "GR PIR",
+    "deptLong": "Piraeus",
     "deptType": "ATD",
-    "deptLocalTime": "2022/04/02 05:18",
-    "deptTime": "2022/04/02 02:18",
+    "deptLocalTime": "2022/04/04 15:14",
+    "deptTime": "2022/04/04 12:14",
     "dest": "GR PIR",
     "destLong": "Piraeus",
     "destType": "ATA",
     "destLocalTime": "2022/04/03 22:20",
     "destTime": "2022/04/03 19:20",
-    "position": "37.9521\u00b0 / 23.59776\u00b0",
+    "position": "37.73153\u00b0 / 23.6641\u00b0",
     "area": "Piraeus Area",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9448140": {
     "rowidx": 208,
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/05 07:00",
     "destTime": "2022/04/05 05:00",
-    "position": "31.00495\u00b0 / 32.31161\u00b0",
+    "position": "31.19165\u00b0 / 32.3353\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -314,9 +314,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/30 10:43",
     "destTime": "2022/03/30 02:43",
-    "position": "13.19463\u00b0 / 80.55172\u00b0",
+    "position": "13.2152\u00b0 / 80.5418\u00b0",
     "area": "Bengal Bay",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9832573": {
     "rowidx": 215,
@@ -343,9 +343,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/04 18:54",
     "destTime": "2022/04/04 10:54",
-    "position": "1.28298\u00b0 / 103.7513\u00b0",
+    "position": "1.282903\u00b0 / 103.7515\u00b0",
     "area": "Singapore Area",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9610418": {
     "rowidx": 216,
