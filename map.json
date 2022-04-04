@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/05 01:00",
     "destTime": "2022/04/04 22:00",
-    "position": "39.60705\u00b0 / 25.68412\u00b0",
+    "position": "39.95228\u00b0 / 25.97483\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/03 22:20",
     "destTime": "2022/04/03 19:20",
-    "position": "37.96061\u00b0 / 23.60494\u00b0",
+    "position": "37.9606\u00b0 / 23.60495\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/04 23:00",
     "destTime": "2022/04/04 20:00",
-    "position": "28.21717\u00b0 / 50.14844\u00b0",
+    "position": "28.47581\u00b0 / 49.91681\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/05 07:00",
     "destTime": "2022/04/05 05:00",
-    "position": "30.26502\u00b0 / 32.48958\u00b0",
+    "position": "30.33103\u00b0 / 32.39407\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -314,9 +314,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/03/30 10:43",
     "destTime": "2022/03/30 02:43",
-    "position": "2.467033\u00b0 / 101.6549\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "13.27707\u00b0 / 80.52861\u00b0",
+    "area": "Bengal Bay",
+    "status": "Underway using Engine"
   },
   "9832573": {
     "rowidx": 215,
@@ -343,8 +343,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/04 18:00",
     "destTime": "2022/04/04 10:00",
-    "position": "1.29668\u00b0 / 104.2853\u00b0",
-    "area": "South China",
+    "position": "1.262677\u00b0 / 104.0255\u00b0",
+    "area": "Singapore Area",
     "status": "Underway using Engine"
   },
   "9610418": {
@@ -427,10 +427,10 @@
     "deptTime": "2022/04/02 17:49",
     "dest": "CN XMG",
     "destLong": "Xiamen",
-    "destType": "ETA",
-    "destLocalTime": "2022/04/04 16:00",
-    "destTime": "2022/04/04 08:00",
-    "position": "24.35482\u00b0 / 118.1514\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/04/04 16:25",
+    "destTime": "2022/04/04 08:25",
+    "position": "24.52748\u00b0 / 118.079\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
