@@ -53,8 +53,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/10 06:00",
     "destTime": "2022/04/09 23:00",
-    "position": "1.237923\u00b0 / 103.336\u00b0",
-    "area": "Malacca Strait",
+    "position": "1.333165\u00b0 / 104.3738\u00b0",
+    "area": "Singapore Area",
     "status": "Underway using Engine"
   },
   "9355226": {
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/07 11:04",
     "destTime": "2022/04/07 09:04",
-    "position": "41.33646\u00b0 / 2.146595\u00b0",
+    "position": "41.33648\u00b0 / 2.1466\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -138,11 +138,11 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/04/18 08:00",
-    "destTime": "2022/04/18 00:00",
+    "destLocalTime": "2022/04/18 08:01",
+    "destTime": "2022/04/18 00:01",
     "position": "17.1557\u00b0 / 40.5947\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9713894": {
     "rowidx": 209,
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/08 21:00",
     "destTime": "2022/04/08 19:00",
-    "position": "24.34355\u00b0 / 36.39679\u00b0",
+    "position": "25.32831\u00b0 / 35.79701\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/06 03:29",
     "destTime": "2022/04/05 19:29",
-    "position": "26.17585\u00b0 / 121.4202\u00b0",
+    "position": "26.1214\u00b0 / 121.3775\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
