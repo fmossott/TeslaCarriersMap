@@ -101,17 +101,17 @@
     "length": "199.98",
     "breadth": "37",
     "grossTonnage": "75,528",
-    "dept": "EG SUZ",
+    "dept": "JO AQABA INDUSTRIAL",
     "deptLong": "Suez Canal",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/04/08 06:29",
-    "deptTime": "2022/04/08 03:29",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/04/06 13:21",
+    "deptTime": "2022/04/06 10:21",
     "dest": "TR DRC",
     "destLong": "Derince",
     "destType": "ETA",
     "destLocalTime": "2022/04/10 20:00",
     "destTime": "2022/04/10 17:00",
-    "position": "31.17878\u00b0 / 32.33141\u00b0",
+    "position": "31.35667\u00b0 / 32.38167\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -374,7 +374,7 @@
     "destTime": "2022/04/11 07:00",
     "position": "23.26704\u00b0 / 117.8695\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9460887": {
     "rowidx": 217,
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/08 04:36",
     "destTime": "2022/04/07 20:36",
-    "position": "31.3222\u00b0 / 121.6816\u00b0",
+    "position": "31.32218\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
