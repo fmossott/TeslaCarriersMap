@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/08 21:00",
     "destTime": "2022/04/08 19:00",
-    "position": "29.58764\u00b0 / 32.57735\u00b0",
+    "position": "29.78723\u00b0 / 32.54797\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -171,7 +171,7 @@
     "destTime": "2022/04/11 14:00",
     "position": "7.361833\u00b0 / 76.78207\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9832573": {
     "rowidx": 210,
@@ -509,15 +509,15 @@
     "grossTonnage": "57,718",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/04/07 12:56",
-    "deptTime": "2022/04/07 04:56",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/04/08 04:36",
-    "destTime": "2022/04/07 20:36",
-    "position": "31.32214\u00b0 / 121.6815\u00b0",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/04/08 04:36",
+    "deptTime": "2022/04/07 20:36",
+    "dest": "KR PTK",
+    "destLong": "Pyeongtaek",
+    "destType": "ETA",
+    "destLocalTime": "2022/04/10 10:30",
+    "destTime": "2022/04/10 01:30",
+    "position": "31.32217\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
