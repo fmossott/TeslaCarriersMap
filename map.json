@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/14 16:00",
     "destTime": "2022/04/14 14:00",
-    "position": "37.88072\u00b0 / 7.490033\u00b0",
+    "position": "37.45407\u00b0 / 1.78405\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -53,8 +53,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/12 13:00",
     "destTime": "2022/04/12 12:00",
-    "position": "36.65097\u00b0 / -1.88199\u00b0",
-    "area": "West Mediterranean",
+    "position": "36.33089\u00b0 / -7.640447\u00b0",
+    "area": "Gibraltar",
     "status": "Underway using Engine"
   },
   "9584059": {
@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/11 04:00",
     "destTime": "2022/04/11 02:00",
-    "position": "38.12778\u00b0 / 10.68833\u00b0",
+    "position": "38.37417\u00b0 / 8.3141\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -111,8 +111,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/10 20:00",
     "destTime": "2022/04/10 17:00",
-    "position": "34.59295\u00b0 / 28.97353\u00b0",
-    "area": "East Mediterranean",
+    "position": "37.15649\u00b0 / 26.45313\u00b0",
+    "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
   "9338890": {
@@ -135,14 +135,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/03/27 15:15",
     "deptTime": "2022/03/27 07:15",
-    "dest": "EG SUEZ SOUTH ANCH",
-    "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2022/04/08 21:09",
-    "destTime": "2022/04/08 19:09",
-    "position": "29.86454\u00b0 / 32.56316\u00b0",
-    "area": "Red Sea",
-    "status": "At Anchor"
+    "dest": "EG ALY",
+    "destLong": "Alexandria",
+    "destType": "ETA",
+    "destLocalTime": "2022/04/10 05:57",
+    "destTime": "2022/04/10 03:57",
+    "position": "31.36919\u00b0 / 32.38694\u00b0",
+    "area": "East Mediterranean",
+    "status": "Underway using Engine"
   },
   "9325776": {
     "rowidx": 209,
@@ -169,8 +169,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/11 18:00",
     "destTime": "2022/04/11 14:00",
-    "position": "13.3757\u00b0 / 68.9998\u00b0",
-    "area": "Laccadive Sea",
+    "position": "16.53997\u00b0 / 66.19373\u00b0",
+    "area": "West Coast India",
     "status": "Underway using Engine"
   },
   "9832573": {
@@ -198,8 +198,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/14 06:00",
     "destTime": "2022/04/14 02:00",
-    "position": "6.144\u00b0 / 88.51887\u00b0",
-    "area": "East Asia",
+    "position": "5.864948\u00b0 / 80.10711\u00b0",
+    "area": "Laccadive Sea",
     "status": "Underway"
   },
   "9610418": {
@@ -227,8 +227,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/14 20:00",
     "destTime": "2022/04/14 16:00",
-    "position": "6.11125\u00b0 / 89.22353\u00b0",
-    "area": "East Asia",
+    "position": "5.631717\u00b0 / 80.14162\u00b0",
+    "area": "Laccadive Sea",
     "status": "Underway using Engine"
   },
   "9285495": {
@@ -398,11 +398,11 @@
     "deptTime": "2022/04/07 20:06",
     "dest": "CN TXG",
     "destLong": "Tianjin",
-    "destType": "ETA",
-    "destLocalTime": "2022/04/09 22:00",
-    "destTime": "2022/04/09 14:00",
-    "position": "35.73383\u00b0 / 123.359\u00b0",
-    "area": "East China Sea",
+    "destType": "ATA",
+    "destLocalTime": "2022/04/09 22:24",
+    "destTime": "2022/04/09 14:24",
+    "position": "38.98222\u00b0 / 117.7904\u00b0",
+    "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
   "9402744": {
@@ -430,9 +430,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/06 03:29",
     "destTime": "2022/04/05 19:29",
-    "position": "24.63785\u00b0 / 119.6484\u00b0",
-    "area": "East China Sea",
-    "status": "Out of Range"
+    "position": "22.0571\u00b0 / 113.8839\u00b0",
+    "area": "South China",
+    "status": "At Anchor"
   },
   "9832638": {
     "rowidx": 219,
@@ -457,11 +457,11 @@
     "dest": "CN NSA",
     "destLong": "Nansha",
     "destType": "ETA",
-    "destLocalTime": "2022/04/09 21:30",
-    "destTime": "2022/04/09 13:30",
-    "position": "24.98148\u00b0 / 119.9542\u00b0",
-    "area": "East China Sea",
-    "status": "Underway using Engine"
+    "destLocalTime": "2022/04/09 21:00",
+    "destTime": "2022/04/09 13:00",
+    "position": "22.1018\u00b0 / 113.8751\u00b0",
+    "area": "South China",
+    "status": "At Anchor"
   },
   "9176395": {
     "rowidx": 220,
@@ -486,9 +486,9 @@
     "dest": "KR MAS",
     "destLong": "Masan",
     "destType": "ETA",
-    "destLocalTime": "2022/04/10 14:30",
-    "destTime": "2022/04/10 05:30",
-    "position": "31.34517\u00b0 / 123.6042\u00b0",
+    "destLocalTime": "2022/04/10 14:00",
+    "destTime": "2022/04/10 05:00",
+    "position": "31.53083\u00b0 / 124.0252\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -517,8 +517,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/10 10:30",
     "destTime": "2022/04/10 01:30",
-    "position": "31.16636\u00b0 / 122.7976\u00b0",
-    "area": "East China Sea",
+    "position": "35.35997\u00b0 / 125.1732\u00b0",
+    "area": "Yellow Sea",
     "status": "Underway using Engine"
   }
 }
