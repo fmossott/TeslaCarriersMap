@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/04 16:25",
     "destTime": "2022/04/04 08:25",
-    "position": "1.748817\u00b0 / 102.6676\u00b0",
+    "position": "1.865083\u00b0 / 102.4352\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -401,9 +401,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/13 15:00",
     "destTime": "2022/04/13 06:00",
-    "position": "38.92113\u00b0 / 118.0509\u00b0",
+    "position": "38.88833\u00b0 / 118.1403\u00b0",
     "area": "Bohai Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9402744": {
     "rowidx": 218,
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/06 03:29",
     "destTime": "2022/04/05 19:29",
-    "position": "22.05663\u00b0 / 113.8836\u00b0",
+    "position": "22.05667\u00b0 / 113.8835\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
@@ -459,9 +459,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/10 06:00",
     "destTime": "2022/04/09 22:00",
-    "position": "22.85434\u00b0 / 113.5711\u00b0",
+    "position": "22.86452\u00b0 / 113.5471\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9176395": {
     "rowidx": 220,
@@ -488,8 +488,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/10 14:00",
     "destTime": "2022/04/10 05:00",
-    "position": "34.50667\u00b0 / 128.6248\u00b0",
-    "area": "East China Sea",
+    "position": "34.63667\u00b0 / 128.814\u00b0",
+    "area": "North China",
     "status": "Underway using Engine"
   },
   "9277802": {
@@ -514,10 +514,10 @@
     "deptTime": "2022/04/08 21:28",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
-    "destType": "ETA",
-    "destLocalTime": "2022/04/10 10:00",
-    "destTime": "2022/04/10 01:00",
-    "position": "37.08321\u00b0 / 126.3246\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/04/10 11:01",
+    "destTime": "2022/04/10 02:01",
+    "position": "36.98833\u00b0 / 126.7733\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   }
