@@ -137,12 +137,12 @@
     "deptTime": "2022/03/27 07:15",
     "dest": "EG ALY",
     "destLong": "Alexandria",
-    "destType": "ETA",
-    "destLocalTime": "2022/04/10 05:40",
-    "destTime": "2022/04/10 03:40",
-    "position": "31.15979\u00b0 / 29.83281\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/04/10 07:41",
+    "destTime": "2022/04/10 05:41",
+    "position": "31.19025\u00b0 / 29.88101\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9325776": {
     "rowidx": 209,
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/04 16:25",
     "destTime": "2022/04/04 08:25",
-    "position": "2.333567\u00b0 / 101.7889\u00b0",
+    "position": "2.491917\u00b0 / 101.5907\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -430,9 +430,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/06 03:29",
     "destTime": "2022/04/05 19:29",
-    "position": "22.05775\u00b0 / 113.8815\u00b0",
+    "position": "22.08508\u00b0 / 113.8196\u00b0",
     "area": "South China",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9832638": {
     "rowidx": 219,
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/10 06:00",
     "destTime": "2022/04/09 22:00",
-    "position": "22.86452\u00b0 / 113.547\u00b0",
+    "position": "22.86454\u00b0 / 113.5471\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/10 15:00",
     "destTime": "2022/04/10 06:00",
-    "position": "34.89567\u00b0 / 128.8632\u00b0",
+    "position": "35.06\u00b0 / 128.7002\u00b0",
     "area": "North China",
     "status": "Underway using Engine"
   },
