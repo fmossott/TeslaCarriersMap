@@ -140,9 +140,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/11 03:39",
     "destTime": "2022/04/11 00:39",
-    "position": "40.74921\u00b0 / 29.8339\u00b0",
+    "position": "40.74915\u00b0 / 29.83375\u00b0",
     "area": "Marmara Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9338890": {
     "rowidx": 209,
@@ -196,8 +196,8 @@
     "dest": "OM SOH",
     "destLong": "Sohar",
     "destType": "ETA",
-    "destLocalTime": "2022/04/11 18:00",
-    "destTime": "2022/04/11 14:00",
+    "destLocalTime": "2022/04/11 16:00",
+    "destTime": "2022/04/11 12:00",
     "position": "22.24588\u00b0 / 61.01617\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
@@ -340,12 +340,12 @@
     "deptTime": "2022/04/04 18:12",
     "dest": "SG SIN",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2022/04/11 08:01",
-    "destTime": "2022/04/11 00:01",
-    "position": "1.235767\u00b0 / 103.7851\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/04/11 09:10",
+    "destTime": "2022/04/11 01:10",
+    "position": "1.2828\u00b0 / 103.7513\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9158276": {
     "rowidx": 216,
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/11 09:40",
     "destTime": "2022/04/11 01:40",
-    "position": "1.247215\u00b0 / 103.9499\u00b0",
+    "position": "1.205887\u00b0 / 103.8469\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/10 19:39",
     "destTime": "2022/04/10 11:39",
-    "position": "23.0122\u00b0 / 113.529\u00b0",
+    "position": "23.01222\u00b0 / 113.529\u00b0",
     "area": "South China",
     "status": "Moored"
   },
