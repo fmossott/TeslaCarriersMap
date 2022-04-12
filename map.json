@@ -21,12 +21,12 @@
     "deptTime": "2022/04/07 07:40",
     "dest": "US SFO",
     "destLong": "San Francisco",
-    "destType": "ETA",
-    "destLocalTime": "2022/04/11 20:30",
-    "destTime": "2022/04/12 03:30",
-    "position": "37.79686\u00b0 / -122.3746\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/04/11 21:55",
+    "destTime": "2022/04/12 04:55",
+    "position": "37.74955\u00b0 / -122.3758\u00b0",
     "area": "US West Coast",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9355226": {
     "rowidx": 205,
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/14 06:00",
     "destTime": "2022/04/14 02:00",
-    "position": "19.06146\u00b0 / 64.67032\u00b0",
+    "position": "20.0987\u00b0 / 63.5908\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/13 06:00",
     "destTime": "2022/04/12 21:00",
-    "position": "33.0805\u00b0 / 127.3213\u00b0",
+    "position": "33.34749\u00b0 / 127.5636\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
