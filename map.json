@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/11 21:55",
     "destTime": "2022/04/12 04:55",
-    "position": "37.74955\u00b0 / -122.3758\u00b0",
+    "position": "37.74957\u00b0 / -122.3758\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/12 22:00",
     "destTime": "2022/04/12 19:00",
-    "position": "39.46551\u00b0 / 25.58338\u00b0",
+    "position": "39.08169\u00b0 / 25.38448\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/14 16:00",
     "destTime": "2022/04/14 12:00",
-    "position": "17.81673\u00b0 / 65.23361\u00b0",
+    "position": "19.14717\u00b0 / 63.92764\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -549,5 +549,34 @@
     "position": "31.10528\u00b0 / 122.8766\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
+  },
+  "9218648": {
+    "rowidx": 223,
+    "silence": "FALSE",
+    "num": "-32",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q1",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "308577",
+    "name": "Tamerlane",
+    "mmsi": "257758000",
+    "length": "244.6",
+    "breadth": "32.29",
+    "grossTonnage": "67,140",
+    "dept": "JP NGO",
+    "deptLong": "Nagoya",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/04/05 01:39",
+    "deptTime": "2022/04/04 16:39",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/04/11 22:06",
+    "destTime": "2022/04/11 14:06",
+    "position": "31.32367\u00b0 / 121.6791\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
   }
 }
