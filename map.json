@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/11 21:55",
     "destTime": "2022/04/12 04:55",
-    "position": "37.74959\u00b0 / -122.3757\u00b0",
+    "position": "37.74958\u00b0 / -122.3757\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/12 22:31",
     "destTime": "2022/04/12 19:31",
-    "position": "37.96059\u00b0 / 23.60498\u00b0",
+    "position": "37.96062\u00b0 / 23.60496\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/13 01:15",
     "destTime": "2022/04/12 22:15",
-    "position": "40.74932\u00b0 / 29.83396\u00b0",
+    "position": "40.74933\u00b0 / 29.83396\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -190,16 +190,16 @@
     "grossTonnage": "39,422",
     "dept": "AE JEA",
     "deptLong": "Jebel Ali",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/04/12 18:48",
-    "deptTime": "2022/04/12 14:48",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/04/13 05:19",
+    "deptTime": "2022/04/13 01:19",
     "dest": "QA HMD",
     "destLong": "Hamad",
     "destType": "ETA",
     "destLocalTime": "2022/04/13 17:00",
     "destTime": "2022/04/13 14:00",
-    "position": "25.0147\u00b0 / 55.044\u00b0",
-    "area": "Persian Gulf",
+    "position": "25.14372\u00b0 / 54.9251\u00b0",
+    "area": "Dubai Area",
     "status": "Underway using Engine"
   },
   "9832573": {
@@ -374,7 +374,7 @@
     "destTime": "2022/04/11 02:29",
     "position": "3.073075\u00b0 / 100.7525\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9604926": {
     "rowidx": 217,
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/13 07:28",
     "destTime": "2022/04/12 22:28",
-    "position": "35.16583\u00b0 / 128.5855\u00b0",
+    "position": "35.1658\u00b0 / 128.5855\u00b0",
     "area": "North China",
     "status": "Moored"
   },
