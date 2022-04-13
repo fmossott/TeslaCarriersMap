@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/11 21:55",
     "destTime": "2022/04/12 04:55",
-    "position": "37.74956\u00b0 / -122.3757\u00b0",
+    "position": "37.74957\u00b0 / -122.3757\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/16 04:00",
     "destTime": "2022/04/16 02:00",
-    "position": "38.67113\u00b0 / -9.8335\u00b0",
+    "position": "39.98218\u00b0 / -9.8158\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/13 14:30",
     "destTime": "2022/04/13 13:30",
-    "position": "51.32412\u00b0 / -3.579785\u00b0",
+    "position": "51.34357\u00b0 / -3.37809\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/13 14:00",
     "destTime": "2022/04/13 11:00",
-    "position": "40.75886\u00b0 / 29.7462\u00b0",
+    "position": "40.7589\u00b0 / 29.74621\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/13 17:00",
     "destTime": "2022/04/13 14:00",
-    "position": "25.37133\u00b0 / 51.87892\u00b0",
+    "position": "25.1784\u00b0 / 51.7127\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -318,39 +318,10 @@
     "area": "Malacca Strait",
     "status": "Out of Range"
   },
-  "9510151": {
+  "9158276": {
     "rowidx": 215,
     "silence": "FALSE",
     "num": "-24",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "22Q1",
-    "numDept": "0",
-    "mapStatus": "4",
-    "mtsid": "416953",
-    "name": "Blue Ridge Highway",
-    "mmsi": "355558000",
-    "length": "180",
-    "breadth": "30",
-    "grossTonnage": "48,927",
-    "dept": "SG SIN",
-    "deptLong": "Singapore",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/04/12 00:11",
-    "deptTime": "2022/04/11 16:11",
-    "dest": "ZA DUR",
-    "destLong": "Durban",
-    "destType": "ETA",
-    "destLocalTime": "2022/04/24 16:00",
-    "destTime": "2022/04/24 14:00",
-    "position": "5.02775\u00b0 / 98.33295\u00b0",
-    "area": "Malacca Strait",
-    "status": "Underway using Engine"
-  },
-  "9158276": {
-    "rowidx": 216,
-    "silence": "FALSE",
-    "num": "-25",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -377,9 +348,9 @@
     "status": "Out of Range"
   },
   "9604926": {
-    "rowidx": 217,
+    "rowidx": 216,
     "silence": "FALSE",
-    "num": "-26",
+    "num": "-25",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -401,14 +372,14 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/13 21:15",
     "destTime": "2022/04/13 13:15",
-    "position": "1.268873\u00b0 / 104.0355\u00b0",
+    "position": "1.227782\u00b0 / 103.8974\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
   "9402744": {
-    "rowidx": 218,
+    "rowidx": 217,
     "silence": "FALSE",
-    "num": "-27",
+    "num": "-26",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -435,9 +406,9 @@
     "status": "Out of Range"
   },
   "9832638": {
-    "rowidx": 219,
+    "rowidx": 218,
     "silence": "FALSE",
-    "num": "-28",
+    "num": "-27",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -464,9 +435,9 @@
     "status": "Out of Range"
   },
   "9122655": {
-    "rowidx": 220,
+    "rowidx": 219,
     "silence": "FALSE",
-    "num": "-29",
+    "num": "-28",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -493,9 +464,9 @@
     "status": "Underway using Engine"
   },
   "9293519": {
-    "rowidx": 221,
+    "rowidx": 220,
     "silence": "FALSE",
-    "num": "-30",
+    "num": "-29",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -522,9 +493,9 @@
     "status": "Out of Range"
   },
   "9515008": {
-    "rowidx": 222,
+    "rowidx": 221,
     "silence": "FALSE",
-    "num": "-31",
+    "num": "-30",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -549,34 +520,5 @@
     "position": "24.54225\u00b0 / 118.089\u00b0",
     "area": "East China Sea",
     "status": "Moored"
-  },
-  "9218648": {
-    "rowidx": 223,
-    "silence": "FALSE",
-    "num": "-32",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "22Q1",
-    "numDept": "0",
-    "mapStatus": "4",
-    "mtsid": "308577",
-    "name": "Tamerlane",
-    "mmsi": "257758000",
-    "length": "244.6",
-    "breadth": "32.29",
-    "grossTonnage": "67,140",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/04/12 21:39",
-    "deptTime": "2022/04/12 13:39",
-    "dest": "JP UKB",
-    "destLong": "Kobe",
-    "destType": "ETA",
-    "destLocalTime": "2022/04/15 04:30",
-    "destTime": "2022/04/14 19:30",
-    "position": "31.10682\u00b0 / 122.9401\u00b0",
-    "area": "East China Sea",
-    "status": "Underway using Engine"
   }
 }
