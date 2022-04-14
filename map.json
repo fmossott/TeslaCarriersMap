@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/15 21:00",
     "destTime": "2022/04/15 19:00",
-    "position": "39.99917\u00b0 / 25.97488\u00b0",
+    "position": "38.93271\u00b0 / 25.71538\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -430,8 +430,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/14 20:45",
     "destTime": "2022/04/14 12:45",
-    "position": "1.664062\u00b0 / 104.6823\u00b0",
-    "area": "South China",
+    "position": "1.488803\u00b0 / 104.5262\u00b0",
+    "area": "Riau Archipelago",
     "status": "Underway using Engine"
   },
   "9122655": {
@@ -520,5 +520,34 @@
     "position": "24.39183\u00b0 / 118.1126\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
+  },
+  "9338852": {
+    "rowidx": 222,
+    "silence": "FALSE",
+    "num": "-31",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q1",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "372666",
+    "name": "Sunshine Ace",
+    "mmsi": "311015100",
+    "length": "199.95",
+    "breadth": "32.2",
+    "grossTonnage": "58,917",
+    "dept": "CN LYG",
+    "deptLong": "Lianyungang",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/03/31 09:54",
+    "deptTime": "2022/03/31 01:54",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/04/14 12:26",
+    "destTime": "2022/04/14 04:26",
+    "position": "31.32205\u00b0 / 121.6818\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
   }
 }
