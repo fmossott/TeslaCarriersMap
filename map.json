@@ -16,17 +16,17 @@
     "grossTonnage": "50,309",
     "dept": "US SFO",
     "deptLong": "San Francisco",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/04/11 21:55",
-    "deptTime": "2022/04/12 04:55",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/04/15 04:51",
+    "deptTime": "2022/04/15 11:51",
     "dest": "TW TPE",
     "destLong": "Taipei",
     "destType": "ETA",
     "destLocalTime": "2022/04/30 03:00",
     "destTime": "2022/04/29 19:00",
-    "position": "37.74955\u00b0 / -122.3757\u00b0",
+    "position": "37.82287\u00b0 / -122.4749\u00b0",
     "area": "US West Coast",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9355226": {
     "rowidx": 205,
@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/16 04:00",
     "destTime": "2022/04/16 02:00",
-    "position": "50.37398\u00b0 / -2.629917\u00b0",
+    "position": "50.32807\u00b0 / -1.874733\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/14 12:37",
     "destTime": "2022/04/14 09:37",
-    "position": "26.64587\u00b0 / 50.31952\u00b0",
+    "position": "26.6459\u00b0 / 50.31945\u00b0",
     "area": "Persian Gulf",
     "status": "Stopped"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/15 12:19",
     "destTime": "2022/04/15 08:19",
-    "position": "24.99174\u00b0 / 55.07809\u00b0",
+    "position": "24.99174\u00b0 / 55.0781\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/14 09:09",
     "destTime": "2022/04/14 05:09",
-    "position": "24.99368\u00b0 / 55.08033\u00b0",
+    "position": "24.99372\u00b0 / 55.0803\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -341,11 +341,11 @@
     "dest": "JO AQJ",
     "destLong": "Aqaba",
     "destType": "ETA",
-    "destLocalTime": "2022/04/23 19:00",
-    "destTime": "2022/04/23 16:00",
-    "position": "9.9673\u00b0 / 76.26957\u00b0",
+    "destLocalTime": "2022/04/24 03:00",
+    "destTime": "2022/04/24 00:00",
+    "position": "9.9684\u00b0 / 76.22427\u00b0",
     "area": "West Coast India",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9158276": {
     "rowidx": 216,
