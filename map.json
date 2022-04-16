@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/16 04:00",
     "destTime": "2022/04/16 02:00",
-    "position": "51.366\u00b0 / 2.632267\u00b0",
+    "position": "51.40237\u00b0 / 3.0683\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -142,7 +142,7 @@
     "destTime": "2022/04/20 06:00",
     "position": "37.86\u00b0 / 7.483333\u00b0",
     "area": "West Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9338890": {
     "rowidx": 209,
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/14 12:37",
     "destTime": "2022/04/14 09:37",
-    "position": "26.64623\u00b0 / 50.3199\u00b0",
+    "position": "26.64628\u00b0 / 50.32012\u00b0",
     "area": "Persian Gulf",
     "status": "Stopped"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/15 12:19",
     "destTime": "2022/04/15 08:19",
-    "position": "24.99171\u00b0 / 55.07808\u00b0",
+    "position": "24.9917\u00b0 / 55.07813\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -254,9 +254,9 @@
     "dest": "AE AUH",
     "destLong": "Abu Dhabi",
     "destType": "ETA",
-    "destLocalTime": "2022/04/16 12:30",
-    "destTime": "2022/04/16 08:30",
-    "position": "24.99372\u00b0 / 55.08033\u00b0",
+    "destLocalTime": "2022/04/16 11:00",
+    "destTime": "2022/04/16 07:00",
+    "position": "24.99368\u00b0 / 55.08032\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -309,11 +309,11 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/04/03 01:31",
     "deptTime": "2022/04/02 17:31",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
+    "dest": "SA JED",
+    "destLong": "Jeddah",
     "destType": "ETA",
-    "destLocalTime": "2022/04/22 20:00",
-    "destTime": "2022/04/22 18:00",
+    "destLocalTime": "2022/04/20 22:00",
+    "destTime": "2022/04/20 19:00",
     "position": "6.663949\u00b0 / 77.54498\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
