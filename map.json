@@ -50,10 +50,10 @@
     "deptTime": "2022/04/05 12:53",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2022/04/16 04:00",
-    "destTime": "2022/04/16 02:00",
-    "position": "51.40237\u00b0 / 3.0683\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/04/16 05:36",
+    "destTime": "2022/04/16 03:36",
+    "position": "51.33484\u00b0 / 3.216533\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/14 12:37",
     "destTime": "2022/04/14 09:37",
-    "position": "26.64628\u00b0 / 50.32012\u00b0",
+    "position": "26.64632\u00b0 / 50.3205\u00b0",
     "area": "Persian Gulf",
     "status": "Stopped"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/15 12:19",
     "destTime": "2022/04/15 08:19",
-    "position": "24.9917\u00b0 / 55.07813\u00b0",
+    "position": "24.99174\u00b0 / 55.07812\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/16 11:00",
     "destTime": "2022/04/16 07:00",
-    "position": "24.99368\u00b0 / 55.08032\u00b0",
+    "position": "24.9937\u00b0 / 55.08033\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -519,7 +519,7 @@
     "destTime": "2022/04/16 12:00",
     "position": "6.91306\u00b0 / 107.767\u00b0",
     "area": "Riau Archipelago",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9515008": {
     "rowidx": 222,
