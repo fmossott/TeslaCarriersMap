@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/17 20:00",
     "destTime": "2022/04/18 03:00",
-    "position": "36.86325\u00b0 / -122.8845\u00b0",
+    "position": "36.83932\u00b0 / -122.8279\u00b0",
     "area": "US West Coast",
     "status": "Underway using Engine"
   },
@@ -82,9 +82,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/21 07:00",
     "destTime": "2022/04/21 05:00",
-    "position": "51.30385\u00b0 / 3.229717\u00b0",
+    "position": "51.3353\u00b0 / 3.215683\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9728069": {
     "rowidx": 207,
@@ -111,9 +111,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/17 23:00",
     "destTime": "2022/04/17 21:00",
-    "position": "51.2666\u00b0 / 4.237349\u00b0",
+    "position": "51.27899\u00b0 / 4.247895\u00b0",
     "area": "Antwerp Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9584059": {
     "rowidx": 208,
@@ -140,8 +140,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/17 19:00",
     "destTime": "2022/04/17 18:00",
-    "position": "51.18056\u00b0 / -5.1521\u00b0",
-    "area": "Celtic Sea",
+    "position": "51.29468\u00b0 / -4.81495\u00b0",
+    "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
   "9827243": {
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/16 15:30",
     "destTime": "2022/04/16 12:30",
-    "position": "26.49713\u00b0 / 50.2068\u00b0",
+    "position": "26.49718\u00b0 / 50.20673\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -246,17 +246,17 @@
     "length": "199.98",
     "breadth": "36",
     "grossTonnage": "69,938",
-    "dept": "AE JEA",
-    "deptLong": "Jebel Ali",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/04/16 16:03",
-    "deptTime": "2022/04/16 12:03",
-    "dest": "QA HMD",
-    "destLong": "Hamad",
-    "destType": "ATA",
-    "destLocalTime": "2022/04/17 07:52",
-    "destTime": "2022/04/17 04:52",
-    "position": "25.00576\u00b0 / 51.59998\u00b0",
+    "dept": "QA HMD",
+    "deptLong": "Hamad",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/04/17 08:52",
+    "deptTime": "2022/04/17 04:52",
+    "dest": "BH KBS",
+    "destLong": "Khalifa Bin Salman",
+    "destType": "ETA",
+    "destLocalTime": "2022/04/18 11:00",
+    "destTime": "2022/04/18 08:00",
+    "position": "25.00575\u00b0 / 51.59997\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/11 10:29",
     "destTime": "2022/04/11 02:29",
-    "position": "16.81815\u00b0 / 71.55018\u00b0",
+    "position": "17.06671\u00b0 / 71.41016\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/15 23:53",
     "destTime": "2022/04/15 15:53",
-    "position": "31.32343\u00b0 / 121.6796\u00b0",
+    "position": "31.32344\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
