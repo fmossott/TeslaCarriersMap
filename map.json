@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/17 20:00",
     "destTime": "2022/04/18 03:00",
-    "position": "36.85846\u00b0 / -122.883\u00b0",
+    "position": "36.86939\u00b0 / -123.2562\u00b0",
     "area": "US West Coast",
     "status": "Underway using Engine"
   },
@@ -51,11 +51,11 @@
     "dest": "TW TPE",
     "destLong": "Taipei",
     "destType": "ETA",
-    "destLocalTime": "2022/04/30 03:00",
-    "destTime": "2022/04/29 19:00",
+    "destLocalTime": "2022/04/30 06:00",
+    "destTime": "2022/04/29 22:00",
     "position": "37.54266\u00b0 / -124.3731\u00b0",
     "area": "US West Coast",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9355226": {
     "rowidx": 206,
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/16 05:36",
     "destTime": "2022/04/16 03:36",
-    "position": "51.30383\u00b0 / 3.229717\u00b0",
+    "position": "51.30385\u00b0 / 3.229717\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/16 15:30",
     "destTime": "2022/04/16 12:30",
-    "position": "26.49715\u00b0 / 50.2068\u00b0",
+    "position": "26.49718\u00b0 / 50.20677\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/17 07:00",
     "destTime": "2022/04/17 04:00",
-    "position": "25.63933\u00b0 / 52.28661\u00b0",
+    "position": "25.48799\u00b0 / 52.11085\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -343,9 +343,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/20 22:00",
     "destTime": "2022/04/20 19:00",
-    "position": "6.663949\u00b0 / 77.54498\u00b0",
-    "area": "Laccadive Sea",
-    "status": "Out of Range"
+    "position": "12.97124\u00b0 / 57.59667\u00b0",
+    "area": "East Africa",
+    "status": "Underway using Engine"
   },
   "9432907": {
     "rowidx": 216,
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/16 20:59",
     "destTime": "2022/04/16 12:59",
-    "position": "1.270432\u00b0 / 103.8517\u00b0",
+    "position": "1.270448\u00b0 / 103.8517\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
