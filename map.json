@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/17 21:35",
     "destTime": "2022/04/18 04:35",
-    "position": "37.74976\u00b0 / -122.3758\u00b0",
+    "position": "37.74977\u00b0 / -122.3758\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/17 20:21",
     "destTime": "2022/04/17 18:21",
-    "position": "51.29917\u00b0 / 3.23938\u00b0",
+    "position": "51.29916\u00b0 / 3.239378\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/17 22:19",
     "destTime": "2022/04/17 21:19",
-    "position": "51.49288\u00b0 / -2.717567\u00b0",
+    "position": "51.49288\u00b0 / -2.7176\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/16 15:30",
     "destTime": "2022/04/16 12:30",
-    "position": "26.49718\u00b0 / 50.20675\u00b0",
+    "position": "26.4972\u00b0 / 50.20675\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/18 13:30",
     "destTime": "2022/04/18 10:30",
-    "position": "26.3906\u00b0 / 51.44914\u00b0",
+    "position": "26.46302\u00b0 / 51.1982\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -283,9 +283,9 @@
     "dest": "KW KWI",
     "destLong": "Kuwait",
     "destType": "ETA",
-    "destLocalTime": "2022/04/18 12:45",
-    "destTime": "2022/04/18 09:45",
-    "position": "29.19537\u00b0 / 48.30088\u00b0",
+    "destLocalTime": "2022/04/18 12:00",
+    "destTime": "2022/04/18 09:00",
+    "position": "29.28377\u00b0 / 48.18167\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -316,7 +316,7 @@
     "destTime": "2022/04/21 20:00",
     "position": "14.30122\u00b0 / 53.6347\u00b0",
     "area": "East Africa",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9445980": {
     "rowidx": 215,
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/11 10:29",
     "destTime": "2022/04/11 02:29",
-    "position": "20.55911\u00b0 / 71.28378\u00b0",
+    "position": "20.74003\u00b0 / 71.37516\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
