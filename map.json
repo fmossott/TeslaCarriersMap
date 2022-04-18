@@ -7,7 +7,7 @@
     "notes": "",
     "quarter": "22Q2",
     "numDept": "2",
-    "mapStatus": "0",
+    "mapStatus": "1",
     "mtsid": "385690",
     "name": "Iris Ace",
     "mmsi": "319392000",
@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/17 21:35",
     "destTime": "2022/04/18 04:35",
-    "position": "37.74974\u00b0 / -122.3758\u00b0",
+    "position": "37.74976\u00b0 / -122.3758\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/17 20:21",
     "destTime": "2022/04/17 18:21",
-    "position": "51.29915\u00b0 / 3.239375\u00b0",
+    "position": "51.29917\u00b0 / 3.239387\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/17 22:19",
     "destTime": "2022/04/17 21:19",
-    "position": "51.49285\u00b0 / -2.717583\u00b0",
+    "position": "51.49287\u00b0 / -2.717617\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/16 15:30",
     "destTime": "2022/04/16 12:30",
-    "position": "26.85857\u00b0 / 50.68485\u00b0",
+    "position": "26.9616\u00b0 / 50.98103\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/18 15:10",
     "destTime": "2022/04/18 12:10",
-    "position": "26.19596\u00b0 / 50.70689\u00b0",
+    "position": "26.19591\u00b0 / 50.70685\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -285,9 +285,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/18 14:08",
     "destTime": "2022/04/18 11:08",
-    "position": "29.43518\u00b0 / 48.03237\u00b0",
+    "position": "29.43637\u00b0 / 48.03012\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9285495": {
     "rowidx": 214,
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/11 10:29",
     "destTime": "2022/04/11 02:29",
-    "position": "20.91856\u00b0 / 71.50993\u00b0",
+    "position": "20.9185\u00b0 / 71.50993\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
@@ -606,41 +606,12 @@
     "destTime": "2022/04/21 01:00",
     "position": "17.6888\u00b0 / 117.1903\u00b0",
     "area": "Philippines",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
-  "9710749": {
+  "9318474": {
     "rowidx": 225,
     "silence": "FALSE",
     "num": "-33",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "22Q1",
-    "numDept": "0",
-    "mapStatus": "4",
-    "mtsid": "4606034",
-    "name": "Hoegh Trotter",
-    "mmsi": "259274000",
-    "length": "199.87",
-    "breadth": "40.76",
-    "grossTonnage": "76,420",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/04/18 01:15",
-    "deptTime": "2022/04/17 17:15",
-    "dest": "MX LZC",
-    "destLong": "Lazaro Cardenas",
-    "destType": "ETA",
-    "destLocalTime": "2022/05/06 08:00",
-    "destTime": "2022/05/06 13:00",
-    "position": "31.26106\u00b0 / 121.9041\u00b0",
-    "area": "East China Sea",
-    "status": "Underway using Engine"
-  },
-  "9318474": {
-    "rowidx": 226,
-    "silence": "FALSE",
-    "num": "-34",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q1",
@@ -662,7 +633,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/25 06:00",
     "destTime": "2022/04/24 22:00",
-    "position": "31.32214\u00b0 / 121.6818\u00b0",
+    "position": "31.32215\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
