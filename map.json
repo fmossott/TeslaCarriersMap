@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/17 21:35",
     "destTime": "2022/04/18 04:35",
-    "position": "37.74979\u00b0 / -122.3758\u00b0",
+    "position": "37.74976\u00b0 / -122.3758\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/17 20:21",
     "destTime": "2022/04/17 18:21",
-    "position": "51.31304\u00b0 / 3.218742\u00b0",
+    "position": "51.31305\u00b0 / 3.218737\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/20 07:00",
     "destTime": "2022/04/20 06:00",
-    "position": "50.33619\u00b0 / -5.89086\u00b0",
+    "position": "50.51965\u00b0 / -5.664515\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/19 09:37",
     "destTime": "2022/04/19 06:37",
-    "position": "26.48892\u00b0 / 50.20042\u00b0",
+    "position": "26.48894\u00b0 / 50.20045\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -282,9 +282,9 @@
     "deptTime": "2022/04/17 00:01",
     "dest": "KW KWI",
     "destLong": "Kuwait",
-    "destType": "ETA",
-    "destLocalTime": "2022/04/20 00:00",
-    "destTime": "2022/04/19 21:00",
+    "destType": "ATA",
+    "destLocalTime": "2022/04/20 00:01",
+    "destTime": "2022/04/19 21:01",
     "position": "29.39132\u00b0 / 47.9573\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
@@ -401,9 +401,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/11 10:29",
     "destTime": "2022/04/11 02:29",
-    "position": "18.98399\u00b0 / 72.57501\u00b0",
+    "position": "18.99156\u00b0 / 72.54787\u00b0",
     "area": "West Coast India",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9604926": {
     "rowidx": 218,
@@ -633,7 +633,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/25 06:00",
     "destTime": "2022/04/24 22:00",
-    "position": "30.53093\u00b0 / 123.8781\u00b0",
+    "position": "26.38049\u00b0 / 123.1368\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
