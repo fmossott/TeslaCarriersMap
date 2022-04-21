@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/20 14:01",
     "destTime": "2022/04/20 12:01",
-    "position": "53.57543\u00b0 / 8.55285\u00b0",
+    "position": "53.57543\u00b0 / 8.552834\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/17 20:21",
     "destTime": "2022/04/17 18:21",
-    "position": "51.3131\u00b0 / 3.218788\u00b0",
+    "position": "51.31305\u00b0 / 3.21878\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/16 15:30",
     "destTime": "2022/04/16 12:30",
-    "position": "12.52997\u00b0 / 69.65239\u00b0",
+    "position": "12.0979\u00b0 / 70.03553\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -248,17 +248,17 @@
     "grossTonnage": "69,938",
     "dept": "KW KWI",
     "deptLong": "Kuwait",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/04/21 12:29",
-    "deptTime": "2022/04/21 09:29",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/04/21 23:32",
+    "deptTime": "2022/04/21 20:32",
     "dest": "PK KHI",
     "destLong": "Karachi",
     "destType": "ETA",
-    "destLocalTime": "2022/04/25 10:30",
-    "destTime": "2022/04/25 05:30",
-    "position": "29.35304\u00b0 / 47.92326\u00b0",
+    "destLocalTime": "2022/04/25 01:00",
+    "destTime": "2022/04/24 20:00",
+    "position": "29.35192\u00b0 / 47.92978\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9610418": {
     "rowidx": 214,
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/21 14:30",
     "destTime": "2022/04/21 11:30",
-    "position": "25.00302\u00b0 / 51.6\u00b0",
+    "position": "25.00302\u00b0 / 51.59998\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/21 03:09",
     "destTime": "2022/04/20 19:09",
-    "position": "31.28308\u00b0 / 121.8194\u00b0",
+    "position": "31.2449\u00b0 / 122.0004\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
