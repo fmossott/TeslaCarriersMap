@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/20 14:01",
     "destTime": "2022/04/20 12:01",
-    "position": "53.56432\u00b0 / 8.565133\u00b0",
+    "position": "53.56433\u00b0 / 8.565133\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/17 20:21",
     "destTime": "2022/04/17 18:21",
-    "position": "51.31306\u00b0 / 3.218758\u00b0",
+    "position": "51.31307\u00b0 / 3.218733\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/20 21:38",
     "destTime": "2022/04/20 19:38",
-    "position": "51.31068\u00b0 / 3.223867\u00b0",
+    "position": "51.31062\u00b0 / 3.224\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/20 09:34",
     "destTime": "2022/04/20 08:34",
-    "position": "51.49316\u00b0 / -2.717058\u00b0",
+    "position": "51.49317\u00b0 / -2.71708\u00b0",
     "area": "Bristol Channel",
     "status": "Stopped"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/16 15:30",
     "destTime": "2022/04/16 12:30",
-    "position": "15.3904\u00b0 / 67.15556\u00b0",
+    "position": "15.18587\u00b0 / 67.33432\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -251,12 +251,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/04/20 15:35",
     "deptTime": "2022/04/20 12:35",
-    "dest": "KW KWI",
+    "dest": "KW KUWAIT ANCH",
     "destLong": "Kuwait",
-    "destType": "ETA",
-    "destLocalTime": "2022/04/21 10:00",
-    "destTime": "2022/04/21 07:00",
-    "position": "29.21417\u00b0 / 48.25036\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/04/21 10:10",
+    "destTime": "2022/04/21 07:10",
+    "position": "29.40255\u00b0 / 48.07433\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/20 00:01",
     "destTime": "2022/04/19 21:01",
-    "position": "25.47338\u00b0 / 52.13922\u00b0",
+    "position": "25.39098\u00b0 / 51.99888\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -338,12 +338,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/04/03 01:31",
     "deptTime": "2022/04/02 17:31",
-    "dest": "SA JEDDAH ANCH",
-    "destLong": "Jeddah",
-    "destType": "ATA",
-    "destLocalTime": "2022/04/20 20:39",
-    "destTime": "2022/04/20 17:39",
-    "position": "21.60387\u00b0 / 38.77085\u00b0",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ETA",
+    "destLocalTime": "2022/04/23 03:00",
+    "destTime": "2022/04/23 01:00",
+    "position": "21.79687\u00b0 / 38.61941\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -393,7 +393,7 @@
     "grossTonnage": "58,329",
     "dept": "IN BOM",
     "deptLong": "Mumbai",
-    "deptType": "ATA",
+    "deptType": "ATD",
     "deptLocalTime": "2022/04/18 17:31",
     "deptTime": "2022/04/18 09:31",
     "dest": "EG SUZ",
@@ -401,9 +401,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/28 21:00",
     "destTime": "2022/04/28 19:00",
-    "position": "18.94409\u00b0 / 72.85431\u00b0",
+    "position": "18.8895\u00b0 / 72.85032\u00b0",
     "area": "West Coast India",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9604926": {
     "rowidx": 219,
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/21 06:51",
     "destTime": "2022/04/20 22:51",
-    "position": "1.304717\u00b0 / 104.0484\u00b0",
+    "position": "1.304698\u00b0 / 104.0484\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -654,16 +654,16 @@
     "grossTonnage": "60,876",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/04/20 03:01",
-    "deptTime": "2022/04/19 18:01",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/04/21 15:24",
+    "deptTime": "2022/04/21 07:24",
     "dest": "MX ZLO",
     "destLong": "Manzanillo",
     "destType": "ETA",
     "destLocalTime": "2022/05/07 15:00",
     "destTime": "2022/05/07 20:00",
-    "position": "31.32227\u00b0 / 121.6817\u00b0",
+    "position": "31.27652\u00b0 / 121.8388\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
