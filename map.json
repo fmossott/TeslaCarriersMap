@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/20 14:01",
     "destTime": "2022/04/20 12:01",
-    "position": "53.57543\u00b0 / 8.55285\u00b0",
+    "position": "53.57545\u00b0 / 8.55285\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/17 20:21",
     "destTime": "2022/04/17 18:21",
-    "position": "51.31306\u00b0 / 3.218773\u00b0",
+    "position": "51.31307\u00b0 / 3.218785\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/22 20:12",
     "destTime": "2022/04/22 18:12",
-    "position": "51.47697\u00b0 / 2.82255\u00b0",
+    "position": "51.47585\u00b0 / 2.801567\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -229,7 +229,7 @@
     "destTime": "2022/04/16 12:30",
     "position": "12.0979\u00b0 / 70.03553\u00b0",
     "area": "West Coast India",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9832573": {
     "rowidx": 213,
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/21 14:30",
     "destTime": "2022/04/21 11:30",
-    "position": "26.15665\u00b0 / 53.92033\u00b0",
+    "position": "26.17922\u00b0 / 54.26182\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/22 16:38",
     "destTime": "2022/04/22 14:38",
-    "position": "29.85528\u00b0 / 32.56148\u00b0",
+    "position": "29.85597\u00b0 / 32.56252\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -654,15 +654,15 @@
     "grossTonnage": "57,718",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/04/22 04:43",
-    "deptTime": "2022/04/21 19:43",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/04/23 04:19",
+    "deptTime": "2022/04/22 20:19",
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
     "destLocalTime": "2022/04/29 08:00",
     "destTime": "2022/04/29 00:00",
-    "position": "31.32324\u00b0 / 121.6833\u00b0",
+    "position": "31.29662\u00b0 / 121.7833\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
