@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/20 14:01",
     "destTime": "2022/04/20 12:01",
-    "position": "53.57542\u00b0 / 8.552834\u00b0",
+    "position": "53.57542\u00b0 / 8.55285\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/17 20:21",
     "destTime": "2022/04/17 18:21",
-    "position": "51.31306\u00b0 / 3.218772\u00b0",
+    "position": "51.31306\u00b0 / 3.218743\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,9 +140,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/22 20:00",
     "destTime": "2022/04/22 18:00",
-    "position": "51.32278\u00b0 / 3.210467\u00b0",
+    "position": "51.33373\u00b0 / 3.2173\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9827243": {
     "rowidx": 210,
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/21 14:30",
     "destTime": "2022/04/21 11:30",
-    "position": "25.61655\u00b0 / 52.19245\u00b0",
+    "position": "25.93812\u00b0 / 52.35192\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -309,14 +309,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/04/03 12:01",
     "deptTime": "2022/04/03 04:01",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/04/21 22:00",
-    "destTime": "2022/04/21 20:00",
-    "position": "29.82115\u00b0 / 32.55875\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/04/22 16:38",
+    "destTime": "2022/04/22 14:38",
+    "position": "29.85587\u00b0 / 32.56055\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9445980": {
     "rowidx": 216,
@@ -544,11 +544,11 @@
     "dest": "AE JEA",
     "destLong": "Jebel Ali",
     "destType": "ETA",
-    "destLocalTime": "2022/04/26 01:00",
-    "destTime": "2022/04/25 21:00",
+    "destLocalTime": "2022/04/25 23:00",
+    "destTime": "2022/04/25 19:00",
     "position": "8.072317\u00b0 / 76.63019\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9515008": {
     "rowidx": 224,
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/28 08:00",
     "destTime": "2022/04/28 00:00",
-    "position": "31.32215\u00b0 / 121.6815\u00b0",
+    "position": "31.32213\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
