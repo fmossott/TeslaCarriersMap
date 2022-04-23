@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/28 02:01",
     "destTime": "2022/04/28 00:01",
-    "position": "51.31314\u00b0 / 3.218795\u00b0",
+    "position": "51.31305\u00b0 / 3.218762\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/23 09:00",
     "destTime": "2022/04/23 07:00",
-    "position": "51.2667\u00b0 / 4.2374\u00b0",
+    "position": "51.2667\u00b0 / 4.237383\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/23 04:51",
     "destTime": "2022/04/23 02:51",
-    "position": "51.29917\u00b0 / 3.239445\u00b0",
+    "position": "51.29917\u00b0 / 3.239425\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/21 14:30",
     "destTime": "2022/04/21 11:30",
-    "position": "24.76465\u00b0 / 60.08567\u00b0",
+    "position": "24.66673\u00b0 / 60.48567\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/23 02:58",
     "destTime": "2022/04/23 00:58",
-    "position": "29.84681\u00b0 / 32.56325\u00b0",
+    "position": "29.84684\u00b0 / 32.56217\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -372,9 +372,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/25 19:00",
     "destTime": "2022/04/25 16:00",
-    "position": "29.34668\u00b0 / 34.88593\u00b0",
+    "position": "29.33925\u00b0 / 34.86853\u00b0",
     "area": "Red Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9158276": {
     "rowidx": 218,
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/25 07:30",
     "destTime": "2022/04/24 22:30",
-    "position": "31.32197\u00b0 / 121.6818\u00b0",
+    "position": "31.32198\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -710,16 +710,16 @@
     "length": "199.98",
     "breadth": "32.26",
     "grossTonnage": "58,750",
-    "dept": "CL ARI",
-    "deptLong": "Arica",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/03/24 08:49",
-    "deptTime": "2022/03/24 11:49",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/04/23 17:08",
-    "destTime": "2022/04/23 09:08",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/04/23 06:08",
+    "deptTime": "2022/04/23 09:08",
+    "dest": "TH LCH",
+    "destLong": "Laem Chabang",
+    "destType": "ETA",
+    "destLocalTime": "2022/04/30 19:00",
+    "destTime": "2022/04/30 12:00",
     "position": "31.3234\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
