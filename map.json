@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/23 03:30",
     "destTime": "2022/04/23 01:30",
-    "position": "51.36371\u00b0 / 2.586825\u00b0",
+    "position": "51.3546\u00b0 / 2.786392\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -338,14 +338,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/04/03 01:31",
     "deptTime": "2022/04/02 17:31",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/04/23 03:00",
-    "destTime": "2022/04/23 01:00",
-    "position": "29.83617\u00b0 / 32.55649\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/04/23 02:58",
+    "destTime": "2022/04/23 00:58",
+    "position": "29.84707\u00b0 / 32.56382\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9432907": {
     "rowidx": 217,
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/23 03:38",
     "destTime": "2022/04/22 23:38",
-    "position": "24.50337\u00b0 / 56.61979\u00b0",
+    "position": "24.50339\u00b0 / 56.61974\u00b0",
     "area": "Oman Gulf",
     "status": "Moored"
   },
@@ -604,8 +604,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/19 19:00",
     "destTime": "2022/05/19 17:00",
-    "position": "1.247027\u00b0 / 103.9678\u00b0",
-    "area": "Singapore Area",
+    "position": "5.245507\u00b0 / 98.60468\u00b0",
+    "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
   "9318474": {
@@ -633,9 +633,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/25 06:00",
     "destTime": "2022/04/24 22:00",
-    "position": "22.90157\u00b0 / 119.7711\u00b0",
-    "area": "South China",
-    "status": "Out of Range"
+    "position": "10.84459\u00b0 / 111.275\u00b0",
+    "area": "Indonesia",
+    "status": "Underway using Engine"
   },
   "9277838": {
     "rowidx": 227,
