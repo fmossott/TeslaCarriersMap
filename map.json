@@ -82,9 +82,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/26 17:30",
     "destTime": "2022/04/26 15:30",
-    "position": "53.63232\u00b0 / 6.166266\u00b0",
+    "position": "53.63228\u00b0 / 6.166783\u00b0",
     "area": "North Sea",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9728069": {
     "rowidx": 208,
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/28 02:01",
     "destTime": "2022/04/28 00:01",
-    "position": "51.31307\u00b0 / 3.218755\u00b0",
+    "position": "51.31305\u00b0 / 3.218778\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -132,17 +132,17 @@
     "grossTonnage": "59,006",
     "dept": "BE ANR",
     "deptLong": "Antwerp",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/04/23 09:00",
-    "deptTime": "2022/04/23 07:00",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/04/24 03:47",
+    "deptTime": "2022/04/24 01:47",
     "dest": "BR SSZ",
     "destLong": "Santos",
     "destType": "ETA",
-    "destLocalTime": "2022/05/14 02:00",
-    "destTime": "2022/05/14 05:00",
-    "position": "51.28343\u00b0 / 4.252217\u00b0",
+    "destLocalTime": "2022/05/14 05:00",
+    "destTime": "2022/05/14 08:00",
+    "position": "51.37935\u00b0 / 3.936633\u00b0",
     "area": "Antwerp Area",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9827243": {
     "rowidx": 210,
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/23 04:51",
     "destTime": "2022/04/23 02:51",
-    "position": "51.29918\u00b0 / 3.239443\u00b0",
+    "position": "51.29921\u00b0 / 3.239412\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/21 14:30",
     "destTime": "2022/04/21 11:30",
-    "position": "24.0051\u00b0 / 62.84978\u00b0",
+    "position": "23.7977\u00b0 / 63.53297\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -343,9 +343,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/23 02:58",
     "destTime": "2022/04/23 00:58",
-    "position": "29.84697\u00b0 / 32.56233\u00b0",
+    "position": "29.94165\u00b0 / 32.57399\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9432907": {
     "rowidx": 217,
@@ -488,8 +488,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/24 07:00",
     "destTime": "2022/04/24 03:00",
-    "position": "25.42195\u00b0 / 54.80015\u00b0",
-    "area": "Persian Gulf",
+    "position": "25.1316\u00b0 / 54.92994\u00b0",
+    "area": "Dubai Area",
     "status": "Underway using Engine"
   },
   "9122655": {
