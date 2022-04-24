@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/28 02:01",
     "destTime": "2022/04/28 00:01",
-    "position": "51.31305\u00b0 / 3.218747\u00b0",
+    "position": "51.31305\u00b0 / 3.218725\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/23 04:51",
     "destTime": "2022/04/23 02:51",
-    "position": "51.29919\u00b0 / 3.23943\u00b0",
+    "position": "51.29918\u00b0 / 3.239467\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/25 02:00",
     "destTime": "2022/04/24 21:00",
-    "position": "24.33637\u00b0 / 65.83996\u00b0",
+    "position": "24.40525\u00b0 / 66.07154\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/21 14:30",
     "destTime": "2022/04/21 11:30",
-    "position": "22.59643\u00b0 / 67.73853\u00b0",
+    "position": "22.47667\u00b0 / 67.9979\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -338,12 +338,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/04/03 01:31",
     "deptTime": "2022/04/02 17:31",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2022/04/24 05:13",
-    "destTime": "2022/04/24 03:13",
-    "position": "31.78811\u00b0 / 31.91038\u00b0",
+    "dest": "IT LIV",
+    "destLong": "Livorno",
+    "destType": "ETA",
+    "destLocalTime": "2022/04/28 20:00",
+    "destTime": "2022/04/28 18:00",
+    "position": "31.86723\u00b0 / 31.62773\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -362,19 +362,19 @@
     "length": "182.8",
     "breadth": "31.53",
     "grossTonnage": "46,800",
-    "dept": "JO AQABA ANCH",
+    "dept": "JO AQABA INDUSTRIAL",
     "deptLong": "Kochi",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/04/24 12:54",
-    "deptTime": "2022/04/24 09:54",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/04/23 17:08",
+    "deptTime": "2022/04/23 14:08",
     "dest": "IL ETH",
     "destLong": "Eilat",
     "destType": "ETA",
     "destLocalTime": "2022/04/25 19:00",
     "destTime": "2022/04/25 16:00",
-    "position": "29.35385\u00b0 / 34.9017\u00b0",
+    "position": "29.38615\u00b0 / 34.86865\u00b0",
     "area": "Red Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9158276": {
     "rowidx": 218,
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/24 07:46",
     "destTime": "2022/04/24 03:46",
-    "position": "24.99005\u00b0 / 55.07598\u00b0",
+    "position": "24.98995\u00b0 / 55.07599\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/24 19:44",
     "destTime": "2022/04/24 11:44",
-    "position": "31.3221\u00b0 / 121.6816\u00b0",
+    "position": "31.32212\u00b0 / 121.6815\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
