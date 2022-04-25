@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/26 17:30",
     "destTime": "2022/04/26 15:30",
-    "position": "53.63208\u00b0 / 6.1664\u00b0",
+    "position": "53.63177\u00b0 / 6.166883\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -367,14 +367,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/04/23 17:08",
     "deptTime": "2022/04/23 14:08",
-    "dest": "IL ETH",
+    "dest": "IL EILAT ANCH",
     "destLong": "Eilat",
-    "destType": "ETA",
-    "destLocalTime": "2022/04/25 22:30",
-    "destTime": "2022/04/25 19:30",
-    "position": "29.4675\u00b0 / 34.91777\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/04/25 22:55",
+    "destTime": "2022/04/25 19:55",
+    "position": "29.53143\u00b0 / 34.94453\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9158276": {
     "rowidx": 218,
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/26 05:00",
     "destTime": "2022/04/26 02:00",
-    "position": "25.53387\u00b0 / 53.47738\u00b0",
+    "position": "25.6366\u00b0 / 53.1861\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
