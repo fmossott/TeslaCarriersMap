@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/28 02:01",
     "destTime": "2022/04/28 00:01",
-    "position": "51.31305\u00b0 / 3.218752\u00b0",
+    "position": "51.3131\u00b0 / 3.218737\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/25 05:56",
     "destTime": "2022/04/25 03:56",
-    "position": "51.27479\u00b0 / 4.222562\u00b0",
+    "position": "51.27475\u00b0 / 4.222528\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -256,9 +256,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/25 06:19",
     "destTime": "2022/04/25 01:19",
-    "position": "24.82978\u00b0 / 66.97726\u00b0",
+    "position": "24.81212\u00b0 / 66.97233\u00b0",
     "area": "West Coast India",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9610418": {
     "rowidx": 214,
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/21 14:30",
     "destTime": "2022/04/21 11:30",
-    "position": "22.74768\u00b0 / 69.7068\u00b0",
+    "position": "22.74763\u00b0 / 69.7068\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/25 10:28",
     "destTime": "2022/04/25 06:28",
-    "position": "24.82014\u00b0 / 54.66749\u00b0",
+    "position": "24.82014\u00b0 / 54.6675\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/25 21:00",
     "destTime": "2022/04/25 17:00",
-    "position": "26.42122\u00b0 / 56.10391\u00b0",
+    "position": "26.20789\u00b0 / 55.89517\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -623,17 +623,17 @@
     "length": "199.9",
     "breadth": "32.29",
     "grossTonnage": "55,775",
-    "dept": "CN SHG",
+    "dept": "SG SINGAPORE ANCH",
     "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/04/19 01:23",
-    "deptTime": "2022/04/18 17:23",
-    "dest": "SG SINGAPORE ANCH",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2022/04/25 06:50",
-    "destTime": "2022/04/24 22:50",
-    "position": "1.273893\u00b0 / 103.8889\u00b0",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/04/25 06:50",
+    "deptTime": "2022/04/24 22:50",
+    "dest": "IT LIV",
+    "destLong": "Livorno",
+    "destType": "ETA",
+    "destLocalTime": "2022/05/13 08:00",
+    "destTime": "2022/05/13 06:00",
+    "position": "1.273662\u00b0 / 103.8888\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -718,9 +718,9 @@
     "dest": "TH LCH",
     "destLong": "Laem Chabang",
     "destType": "ETA",
-    "destLocalTime": "2022/04/30 19:00",
-    "destTime": "2022/04/30 12:00",
-    "position": "31.32342\u00b0 / 121.6796\u00b0",
+    "destLocalTime": "2022/05/01 15:00",
+    "destTime": "2022/05/01 08:00",
+    "position": "31.3234\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
