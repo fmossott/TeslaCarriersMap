@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/28 02:01",
     "destTime": "2022/04/28 00:01",
-    "position": "51.31305\u00b0 / 3.218753\u00b0",
+    "position": "51.29913\u00b0 / 3.239392\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,8 +140,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/14 05:00",
     "destTime": "2022/05/14 08:00",
-    "position": "51.37935\u00b0 / 3.936633\u00b0",
-    "area": "Antwerp Area",
+    "position": "48.60197\u00b0 / -6.187683\u00b0",
+    "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
   "9827243": {
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/25 05:56",
     "destTime": "2022/04/25 03:56",
-    "position": "51.27479\u00b0 / 4.222517\u00b0",
+    "position": "51.27478\u00b0 / 4.222517\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/21 14:30",
     "destTime": "2022/04/21 11:30",
-    "position": "22.74763\u00b0 / 69.70679\u00b0",
+    "position": "22.74762\u00b0 / 69.70676\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/25 11:30",
     "destTime": "2022/04/25 08:30",
-    "position": "29.36207\u00b0 / 34.95216\u00b0",
+    "position": "29.35904\u00b0 / 34.93971\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -480,17 +480,17 @@
     "grossTonnage": "75,528",
     "dept": "AE KHL",
     "deptLong": "Khalifa",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/04/25 10:28",
-    "deptTime": "2022/04/25 06:28",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/04/25 17:47",
+    "deptTime": "2022/04/25 13:47",
     "dest": "QA HMD",
     "destLong": "Hamad",
     "destType": "ETA",
     "destLocalTime": "2022/04/26 03:01",
     "destTime": "2022/04/26 00:01",
-    "position": "24.8198\u00b0 / 54.66898\u00b0",
+    "position": "24.93632\u00b0 / 54.6629\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9122655": {
     "rowidx": 222,
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/25 21:00",
     "destTime": "2022/04/25 17:00",
-    "position": "25.66672\u00b0 / 55.14314\u00b0",
+    "position": "25.42555\u00b0 / 54.94985\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
