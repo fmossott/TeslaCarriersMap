@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/28 02:01",
     "destTime": "2022/04/28 00:01",
-    "position": "51.3131\u00b0 / 3.218777\u00b0",
+    "position": "51.31305\u00b0 / 3.218768\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/24 06:00",
     "destTime": "2022/04/24 04:00",
-    "position": "51.41245\u00b0 / 3.464102\u00b0",
+    "position": "51.42702\u00b0 / 3.69205\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -251,12 +251,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/04/21 23:32",
     "deptTime": "2022/04/21 20:32",
-    "dest": "PK KARACHI ANCH",
+    "dest": "PK KHI",
     "destLong": "Karachi",
-    "destType": "ATA",
-    "destLocalTime": "2022/04/25 01:00",
-    "destTime": "2022/04/24 20:00",
-    "position": "24.71375\u00b0 / 66.92912\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2022/04/25 02:00",
+    "destTime": "2022/04/24 21:00",
+    "position": "24.80187\u00b0 / 66.97836\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/21 14:30",
     "destTime": "2022/04/21 11:30",
-    "position": "22.58925\u00b0 / 69.36335\u00b0",
+    "position": "22.62518\u00b0 / 69.55595\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -488,9 +488,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/25 07:00",
     "destTime": "2022/04/25 03:00",
-    "position": "24.98997\u00b0 / 55.07599\u00b0",
+    "position": "24.98756\u00b0 / 55.05511\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9122655": {
     "rowidx": 222,
@@ -720,7 +720,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/26 14:30",
     "destTime": "2022/04/26 06:30",
-    "position": "31.32209\u00b0 / 121.6815\u00b0",
+    "position": "31.32215\u00b0 / 121.6815\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
