@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/26 17:30",
     "destTime": "2022/04/26 15:30",
-    "position": "53.63222\u00b0 / 6.166616\u00b0",
+    "position": "53.63268\u00b0 / 6.165733\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/28 02:01",
     "destTime": "2022/04/28 00:01",
-    "position": "51.31299\u00b0 / 3.218768\u00b0",
+    "position": "51.3131\u00b0 / 3.218777\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/24 06:00",
     "destTime": "2022/04/24 04:00",
-    "position": "51.40213\u00b0 / 3.206867\u00b0",
+    "position": "51.41245\u00b0 / 3.464102\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/25 01:00",
     "destTime": "2022/04/24 20:00",
-    "position": "24.61783\u00b0 / 66.86072\u00b0",
+    "position": "24.71375\u00b0 / 66.92912\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/21 14:30",
     "destTime": "2022/04/21 11:30",
-    "position": "22.6313\u00b0 / 69.18248\u00b0",
+    "position": "22.58925\u00b0 / 69.36335\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/25 07:00",
     "destTime": "2022/04/25 03:00",
-    "position": "24.98995\u00b0 / 55.076\u00b0",
+    "position": "24.98997\u00b0 / 55.07599\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -662,8 +662,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/29 09:30",
     "destTime": "2022/04/29 01:30",
-    "position": "23.67743\u00b0 / 119.2604\u00b0",
-    "area": "East China Sea",
+    "position": "21.82379\u00b0 / 118.4369\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   },
   "9531715": {
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/30 19:00",
     "destTime": "2022/04/30 12:00",
-    "position": "31.32343\u00b0 / 121.6796\u00b0",
+    "position": "31.3234\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -710,17 +710,17 @@
     "length": "199.11",
     "breadth": "32.29",
     "grossTonnage": "55,598",
-    "dept": "AU PKL",
-    "deptLong": "Port Kembla",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/04/06 04:27",
-    "deptTime": "2022/04/05 18:27",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/04/24 19:44",
-    "destTime": "2022/04/24 11:44",
-    "position": "31.3221\u00b0 / 121.6815\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/04/24 21:44",
+    "deptTime": "2022/04/24 11:44",
+    "dest": "CN TXG",
+    "destLong": "Tianjin",
+    "destType": "ETA",
+    "destLocalTime": "2022/04/26 14:30",
+    "destTime": "2022/04/26 06:30",
+    "position": "31.32209\u00b0 / 121.6815\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
