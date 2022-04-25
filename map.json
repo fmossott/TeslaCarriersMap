@@ -82,9 +82,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/26 17:30",
     "destTime": "2022/04/26 15:30",
-    "position": "53.63268\u00b0 / 6.165733\u00b0",
+    "position": "53.6326\u00b0 / 6.16615\u00b0",
     "area": "North Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9728069": {
     "rowidx": 208,
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/28 02:01",
     "destTime": "2022/04/28 00:01",
-    "position": "51.31309\u00b0 / 3.218778\u00b0",
+    "position": "51.31306\u00b0 / 3.218773\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -166,10 +166,10 @@
     "deptTime": "2022/04/24 23:15",
     "dest": "BE ANR",
     "destLong": "Antwerp",
-    "destType": "ETA",
-    "destLocalTime": "2022/04/24 06:00",
-    "destTime": "2022/04/24 04:00",
-    "position": "51.38637\u00b0 / 4.166733\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/04/25 05:56",
+    "destTime": "2022/04/25 03:56",
+    "position": "51.2898\u00b0 / 4.25848\u00b0",
     "area": "Antwerp Area",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/25 06:19",
     "destTime": "2022/04/25 01:19",
-    "position": "24.82974\u00b0 / 66.97726\u00b0",
+    "position": "24.82972\u00b0 / 66.97727\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
@@ -285,9 +285,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/21 14:30",
     "destTime": "2022/04/21 11:30",
-    "position": "22.7433\u00b0 / 69.72052\u00b0",
+    "position": "22.74757\u00b0 / 69.70686\u00b0",
     "area": "West Coast India",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9285495": {
     "rowidx": 215,
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/02 02:01",
     "destTime": "2022/05/02 00:01",
-    "position": "33.35788\u00b0 / 26.62827\u00b0",
+    "position": "34.7855\u00b0 / 20.9315\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -486,10 +486,10 @@
     "dest": "AE KHL",
     "destLong": "Khalifa",
     "destType": "ETA",
-    "destLocalTime": "2022/04/25 07:00",
-    "destTime": "2022/04/25 03:00",
-    "position": "25.09623\u00b0 / 54.74523\u00b0",
-    "area": "Dubai Area",
+    "destLocalTime": "2022/04/25 10:00",
+    "destTime": "2022/04/25 06:00",
+    "position": "25.07297\u00b0 / 54.61814\u00b0",
+    "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
   "9122655": {
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/25 21:00",
     "destTime": "2022/04/25 17:00",
-    "position": "25.28495\u00b0 / 57.00546\u00b0",
+    "position": "25.72982\u00b0 / 56.88684\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/30 19:00",
     "destTime": "2022/04/30 12:00",
-    "position": "31.32343\u00b0 / 121.6796\u00b0",
+    "position": "31.32342\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
