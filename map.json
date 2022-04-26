@@ -111,9 +111,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/26 17:30",
     "destTime": "2022/04/26 15:30",
-    "position": "53.63282\u00b0 / 6.169233\u00b0",
+    "position": "53.62838\u00b0 / 6.3051\u00b0",
     "area": "North Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9728069": {
     "rowidx": 209,
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/28 02:01",
     "destTime": "2022/04/28 00:01",
-    "position": "51.29915\u00b0 / 3.239402\u00b0",
+    "position": "51.29914\u00b0 / 3.239407\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,9 +198,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/27 17:00",
     "destTime": "2022/04/27 15:00",
-    "position": "51.27658\u00b0 / 4.225745\u00b0",
+    "position": "51.27859\u00b0 / 4.247697\u00b0",
     "area": "Antwerp Area",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9338890": {
     "rowidx": 212,
@@ -304,17 +304,17 @@
     "length": "199.95",
     "breadth": "32.2",
     "grossTonnage": "59,022",
-    "dept": "QA HMD",
-    "deptLong": "Hamad",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/04/22 13:38",
-    "deptTime": "2022/04/22 10:38",
-    "dest": "IN MUN",
-    "destLong": "Mundra",
-    "destType": "ATA",
+    "dept": "IN MUN",
+    "deptLong": "Mundra",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/04/25 06:19",
+    "deptTime": "2022/04/25 03:19",
+    "dest": "IN BOM",
+    "destLong": "Mumbai",
+    "destType": "ETA",
     "destLocalTime": "2022/04/21 14:30",
     "destTime": "2022/04/21 11:30",
-    "position": "22.74762\u00b0 / 69.70683\u00b0",
+    "position": "22.74765\u00b0 / 69.7068\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/25 23:07",
     "destTime": "2022/04/25 20:07",
-    "position": "29.53158\u00b0 / 34.94183\u00b0",
+    "position": "29.53157\u00b0 / 34.94178\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/26 12:19",
     "destTime": "2022/04/26 10:19",
-    "position": "29.85775\u00b0 / 32.56154\u00b0",
+    "position": "29.85771\u00b0 / 32.56126\u00b0",
     "area": "Red Sea",
     "status": "Underway"
   },
@@ -517,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/28 05:00",
     "destTime": "2022/04/28 02:00",
-    "position": "25.17206\u00b0 / 51.71797\u00b0",
+    "position": "26.08924\u00b0 / 51.86313\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/25 22:39",
     "destTime": "2022/04/25 18:39",
-    "position": "24.9966\u00b0 / 55.08004\u00b0",
+    "position": "24.99665\u00b0 / 55.08003\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -807,7 +807,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/26 06:00",
     "destTime": "2022/04/25 22:00",
-    "position": "31.32338\u00b0 / 121.6796\u00b0",
+    "position": "31.32343\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
