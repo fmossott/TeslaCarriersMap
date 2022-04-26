@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/26 17:30",
     "destTime": "2022/04/26 15:30",
-    "position": "53.63132\u00b0 / 6.1686\u00b0",
+    "position": "53.63282\u00b0 / 6.169233\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/28 02:01",
     "destTime": "2022/04/28 00:01",
-    "position": "51.29915\u00b0 / 3.239387\u00b0",
+    "position": "51.29915\u00b0 / 3.239402\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -188,19 +188,19 @@
     "length": "199.98",
     "breadth": "37",
     "grossTonnage": "75,528",
-    "dept": "BE ZEE",
-    "deptLong": "Zeebrugge",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/04/25 01:15",
-    "deptTime": "2022/04/24 23:15",
-    "dest": "BE ANR",
-    "destLong": "Antwerp",
-    "destType": "ATA",
-    "destLocalTime": "2022/04/25 05:56",
-    "destTime": "2022/04/25 03:56",
-    "position": "51.27475\u00b0 / 4.22257\u00b0",
+    "dept": "BE ANR",
+    "deptLong": "Antwerp",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/04/25 05:56",
+    "deptTime": "2022/04/25 03:56",
+    "dest": "DE EME",
+    "destLong": "Emden",
+    "destType": "ETA",
+    "destLocalTime": "2022/04/27 17:00",
+    "destTime": "2022/04/27 15:00",
+    "position": "51.27658\u00b0 / 4.225745\u00b0",
     "area": "Antwerp Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9338890": {
     "rowidx": 212,
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/21 14:30",
     "destTime": "2022/04/21 11:30",
-    "position": "22.74763\u00b0 / 69.70679\u00b0",
+    "position": "22.74762\u00b0 / 69.70683\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/25 23:07",
     "destTime": "2022/04/25 20:07",
-    "position": "29.53155\u00b0 / 34.94182\u00b0",
+    "position": "29.53158\u00b0 / 34.94183\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -459,9 +459,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/26 12:19",
     "destTime": "2022/04/26 10:19",
-    "position": "29.85776\u00b0 / 32.56211\u00b0",
+    "position": "29.85775\u00b0 / 32.56154\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9402744": {
     "rowidx": 221,
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/25 22:39",
     "destTime": "2022/04/25 18:39",
-    "position": "24.99663\u00b0 / 55.08002\u00b0",
+    "position": "24.9966\u00b0 / 55.08004\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -768,19 +768,19 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "62,694",
-    "dept": "JP UKB",
-    "deptLong": "Kobe",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/04/20 17:16",
-    "deptTime": "2022/04/20 08:16",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/04/26 06:30",
-    "destTime": "2022/04/25 22:30",
-    "position": "31.32211\u00b0 / 121.6817\u00b0",
+    "deptLocalTime": "2022/04/26 21:50",
+    "deptTime": "2022/04/26 13:50",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/05/03 16:00",
+    "destTime": "2022/05/03 08:00",
+    "position": "31.30992\u00b0 / 121.7475\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9561253": {
     "rowidx": 232,
@@ -807,7 +807,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/26 06:00",
     "destTime": "2022/04/25 22:00",
-    "position": "31.32333\u00b0 / 121.6797\u00b0",
+    "position": "31.32338\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
