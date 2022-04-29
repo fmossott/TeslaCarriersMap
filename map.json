@@ -108,12 +108,12 @@
     "deptTime": "2022/04/27 19:18",
     "dest": "GB SOU",
     "destLong": "Southampton",
-    "destType": "ETA",
-    "destLocalTime": "2022/04/29 04:30",
-    "destTime": "2022/04/29 03:30",
-    "position": "50.88222\u00b0 / -1.3969\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/04/29 06:37",
+    "destTime": "2022/04/29 05:37",
+    "position": "50.89167\u00b0 / -1.398833\u00b0",
     "area": "English Channel",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9728069": {
     "rowidx": 209,
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/30 06:00",
     "destTime": "2022/04/29 22:00",
-    "position": "6.08243\u00b0 / 95.78709\u00b0",
+    "position": "2.835772\u00b0 / 100.9494\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/30 09:00",
     "destTime": "2022/04/30 07:00",
-    "position": "30.27465\u00b0 / 32.46573\u00b0",
+    "position": "30.36367\u00b0 / 32.37491\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/13 20:00",
     "destTime": "2022/05/13 17:00",
-    "position": "1.282725\u00b0 / 103.7514\u00b0",
+    "position": "1.282695\u00b0 / 103.7514\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
