@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/29 06:37",
     "destTime": "2022/04/29 05:37",
-    "position": "50.89163\u00b0 / -1.398833\u00b0",
+    "position": "50.89167\u00b0 / -1.3988\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/30 06:00",
     "destTime": "2022/04/30 04:00",
-    "position": "31.26836\u00b0 / 32.35701\u00b0",
+    "position": "31.57947\u00b0 / 32.18081\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/30 03:01",
     "destTime": "2022/04/30 00:01",
-    "position": "26.29601\u00b0 / 53.57235\u00b0",
+    "position": "26.54043\u00b0 / 53.19058\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -604,7 +604,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/04 14:00",
     "destTime": "2022/05/04 12:00",
-    "position": "13.26029\u00b0 / 58.65977\u00b0",
+    "position": "14.23569\u00b0 / 55.34165\u00b0",
     "area": "East Africa",
     "status": "Underway using Engine"
   },
@@ -654,17 +654,17 @@
     "grossTonnage": "57,718",
     "dept": "SG SIN",
     "deptLong": "Singapore",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/04/29 10:07",
-    "deptTime": "2022/04/29 02:07",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/04/29 22:30",
+    "deptTime": "2022/04/29 14:30",
     "dest": "JO AQJ",
     "destLong": "Aqaba",
     "destType": "ETA",
-    "destLocalTime": "2022/05/13 20:00",
-    "destTime": "2022/05/13 17:00",
-    "position": "1.282688\u00b0 / 103.7514\u00b0",
+    "destLocalTime": "2022/05/13 15:30",
+    "destTime": "2022/05/13 12:30",
+    "position": "1.225143\u00b0 / 103.6866\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9082934": {
     "rowidx": 229,
@@ -778,7 +778,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/04 07:00",
     "destTime": "2022/05/03 23:00",
-    "position": "22.15718\u00b0 / 117.0803\u00b0",
+    "position": "20.57277\u00b0 / 116.2971\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
