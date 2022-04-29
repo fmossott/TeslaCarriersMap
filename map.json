@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/29 14:00",
     "destTime": "2022/04/29 13:00",
-    "position": "51.02737\u00b0 / 1.344095\u00b0",
+    "position": "50.83427\u00b0 / 0.9930267\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/21 14:30",
     "destTime": "2022/04/21 11:30",
-    "position": "18.65005\u00b0 / 72.51794\u00b0",
+    "position": "18.426\u00b0 / 72.49595\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/28 16:19",
     "destTime": "2022/04/28 14:19",
-    "position": "43.5809\u00b0 / 10.30572\u00b0",
+    "position": "43.58091\u00b0 / 10.30572\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/27 21:44",
     "destTime": "2022/04/27 18:44",
-    "position": "21.45732\u00b0 / 39.16663\u00b0",
+    "position": "21.4572\u00b0 / 39.16658\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/27 20:17",
     "destTime": "2022/04/27 17:17",
-    "position": "26.48882\u00b0 / 50.20049\u00b0",
+    "position": "26.48886\u00b0 / 50.20051\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -565,19 +565,19 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "59,161",
-    "dept": "AE JEA",
-    "deptLong": "Jebel Ali",
+    "dept": "AE KHL",
+    "deptLong": "Khalifa",
     "deptType": "ATD",
-    "deptLocalTime": "2022/04/29 00:21",
-    "deptTime": "2022/04/28 20:21",
-    "dest": "AE KHL",
-    "destLong": "Khalifa",
-    "destType": "ATA",
-    "destLocalTime": "2022/04/29 04:39",
-    "destTime": "2022/04/29 00:39",
-    "position": "24.82018\u00b0 / 54.66759\u00b0",
+    "deptLocalTime": "2022/04/29 09:42",
+    "deptTime": "2022/04/29 05:42",
+    "dest": "BH KBS",
+    "destLong": "Khalifa Bin Salman",
+    "destType": "ETA",
+    "destLocalTime": "2022/04/30 03:01",
+    "destTime": "2022/04/30 00:01",
+    "position": "24.90243\u00b0 / 54.63443\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9515008": {
     "rowidx": 225,
@@ -722,7 +722,7 @@
     "destTime": "2022/04/28 22:35",
     "position": "38.39469\u00b0 / 121.2676\u00b0",
     "area": "Bohai Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9531715": {
     "rowidx": 230,
@@ -747,8 +747,8 @@
     "dest": "TH LCH",
     "destLong": "Laem Chabang",
     "destType": "ETA",
-    "destLocalTime": "2022/05/01 15:00",
-    "destTime": "2022/05/01 08:00",
+    "destLocalTime": "2022/05/01 16:00",
+    "destTime": "2022/05/01 09:00",
     "position": "20.93023\u00b0 / 118.1466\u00b0",
     "area": "South China",
     "status": "Out of Range"
@@ -838,7 +838,7 @@
     "destTime": "2022/05/03 20:00",
     "position": "31.27838\u00b0 / 121.8335\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9777838": {
     "rowidx": 234,
@@ -894,7 +894,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/28 11:24",
     "destTime": "2022/04/28 03:24",
-    "position": "31.32167\u00b0 / 121.6817\u00b0",
+    "position": "31.32222\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
