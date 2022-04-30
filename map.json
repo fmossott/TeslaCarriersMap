@@ -22,9 +22,9 @@
     "dest": "CN NBG",
     "destLong": "Ningbo",
     "destType": "ETA",
-    "destLocalTime": "2022/04/29 19:54",
-    "destTime": "2022/04/29 11:54",
-    "position": "31.32353\u00b0 / 121.6794\u00b0",
+    "destLocalTime": "2022/05/01 12:00",
+    "destTime": "2022/05/01 04:00",
+    "position": "31.3235\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/30 15:00",
     "destTime": "2022/04/30 14:00",
-    "position": "50.57228\u00b0 / -0.5588334\u00b0",
+    "position": "50.59075\u00b0 / -0.863625\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/30 03:24",
     "destTime": "2022/04/30 02:24",
-    "position": "50.88509\u00b0 / -1.396808\u00b0",
+    "position": "50.88509\u00b0 / -1.396823\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -198,9 +198,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/30 08:14",
     "destTime": "2022/04/30 01:14",
-    "position": "13.0652\u00b0 / 100.8814\u00b0",
+    "position": "13.06523\u00b0 / 100.8814\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Stopped"
+    "status": "Underway by Sail"
   },
   "9610418": {
     "rowidx": 212,
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/30 19:00",
     "destTime": "2022/04/30 17:00",
-    "position": "42.794\u00b0 / 6.846773\u00b0",
+    "position": "42.723\u00b0 / 6.500872\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/30 07:53",
     "destTime": "2022/04/30 05:53",
-    "position": "31.18996\u00b0 / 29.88124\u00b0",
+    "position": "31.18995\u00b0 / 29.88124\u00b0",
     "area": "East Mediterranean",
     "status": "Moored"
   },
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/30 03:07",
     "destTime": "2022/04/30 00:07",
-    "position": "40.74955\u00b0 / 29.83435\u00b0",
+    "position": "40.74951\u00b0 / 29.83435\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/27 21:44",
     "destTime": "2022/04/27 18:44",
-    "position": "21.45718\u00b0 / 39.1666\u00b0",
+    "position": "21.45717\u00b0 / 39.16663\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/30 14:30",
     "destTime": "2022/04/30 11:30",
-    "position": "29.22563\u00b0 / 48.23273\u00b0",
+    "position": "29.38042\u00b0 / 48.11589\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -478,16 +478,16 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "59,161",
-    "dept": "AE KHL",
-    "deptLong": "Khalifa",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/04/29 09:42",
-    "deptTime": "2022/04/29 05:42",
-    "dest": "BH KBS",
-    "destLong": "Khalifa Bin Salman",
-    "destType": "ATA",
-    "destLocalTime": "2022/04/30 04:15",
-    "destTime": "2022/04/30 01:15",
+    "dept": "BH KBS",
+    "deptLong": "Khalifa Bin Salman",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/04/30 05:15",
+    "deptTime": "2022/04/30 01:15",
+    "dest": "KW KWI",
+    "destLong": "Kuwait",
+    "destType": "ETA",
+    "destLocalTime": "2022/05/01 10:00",
+    "destTime": "2022/05/01 07:00",
     "position": "26.19588\u00b0 / 50.70679\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
@@ -693,7 +693,7 @@
     "destTime": "2022/05/03 23:00",
     "position": "20.57277\u00b0 / 116.2971\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9329461": {
     "rowidx": 229,
