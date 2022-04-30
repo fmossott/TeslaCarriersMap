@@ -82,9 +82,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/01 07:00",
     "destTime": "2022/04/30 23:00",
-    "position": "25.16303\u00b0 / 121.2547\u00b0",
+    "position": "25.17181\u00b0 / 121.2567\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9728069": {
     "rowidx": 208,
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/30 12:43",
     "destTime": "2022/04/30 11:43",
-    "position": "50.61637\u00b0 / -1.072583\u00b0",
+    "position": "50.61557\u00b0 / -1.073997\u00b0",
     "area": "English Channel",
     "status": "At Anchor"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/27 21:44",
     "destTime": "2022/04/27 18:44",
-    "position": "21.4572\u00b0 / 39.16665\u00b0",
+    "position": "21.45722\u00b0 / 39.16663\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/30 14:50",
     "destTime": "2022/04/30 11:50",
-    "position": "29.17762\u00b0 / 48.30054\u00b0",
+    "position": "29.04528\u00b0 / 48.60302\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -544,11 +544,11 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/05/04 14:00",
-    "destTime": "2022/05/04 12:00",
-    "position": "14.23569\u00b0 / 55.34165\u00b0",
+    "destLocalTime": "2022/05/04 13:00",
+    "destTime": "2022/05/04 11:00",
+    "position": "12.00016\u00b0 / 45.13738\u00b0",
     "area": "East Africa",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9318474": {
     "rowidx": 224,
@@ -746,10 +746,10 @@
     "deptTime": "2022/04/28 15:11",
     "dest": "CN TXG",
     "destLong": "Tianjin",
-    "destType": "ETA",
-    "destLocalTime": "2022/05/01 06:20",
-    "destTime": "2022/04/30 22:20",
-    "position": "38.93389\u00b0 / 118.0674\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/05/01 07:21",
+    "destTime": "2022/04/30 23:21",
+    "position": "38.96678\u00b0 / 117.8195\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
