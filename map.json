@@ -82,9 +82,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/01 07:00",
     "destTime": "2022/04/30 23:00",
-    "position": "25.1716\u00b0 / 121.257\u00b0",
+    "position": "25.17185\u00b0 / 121.2565\u00b0",
     "area": "East China Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9728069": {
     "rowidx": 208,
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/20 04:00",
     "destTime": "2022/05/20 09:00",
-    "position": "50.8851\u00b0 / -1.39685\u00b0",
+    "position": "50.88509\u00b0 / -1.396865\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -341,9 +341,9 @@
     "dest": "TR DRC",
     "destLong": "Derince",
     "destType": "ETA",
-    "destLocalTime": "2022/05/03 07:00",
-    "destTime": "2022/05/03 04:00",
-    "position": "32.14153\u00b0 / 29.26957\u00b0",
+    "destLocalTime": "2022/05/03 23:30",
+    "destTime": "2022/05/03 20:30",
+    "position": "32.54206\u00b0 / 29.04101\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/01 09:20",
     "destTime": "2022/05/01 06:20",
-    "position": "29.43638\u00b0 / 48.00391\u00b0",
+    "position": "29.42533\u00b0 / 47.98616\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/01 09:24",
     "destTime": "2022/05/01 02:24",
-    "position": "13.06928\u00b0 / 100.8937\u00b0",
+    "position": "13.06927\u00b0 / 100.8937\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -741,17 +741,17 @@
     "grossTonnage": "63,116",
     "dept": "CN TXG",
     "deptLong": "Tianjin",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/05/01 07:21",
-    "deptTime": "2022/04/30 23:21",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/05/01 16:33",
+    "deptTime": "2022/05/01 08:33",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
     "destType": "ETA",
-    "destLocalTime": "2022/05/03 15:00",
-    "destTime": "2022/05/03 06:00",
-    "position": "39.02107\u00b0 / 117.7687\u00b0",
+    "destLocalTime": "2022/05/03 04:00",
+    "destTime": "2022/05/02 19:00",
+    "position": "38.94938\u00b0 / 117.9231\u00b0",
     "area": "Bohai Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9363948": {
     "rowidx": 231,
@@ -810,5 +810,34 @@
     "position": "32.60645\u00b0 / 123.7496\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
+  },
+  "9782089": {
+    "rowidx": 233,
+    "silence": "FALSE",
+    "num": "-39",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q1",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "5350368",
+    "name": "Thruxton",
+    "mmsi": "636018347",
+    "length": "199.96",
+    "breadth": "38",
+    "grossTonnage": "72,684",
+    "dept": "KR KAN",
+    "deptLong": "Gwangyang",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/04/29 17:33",
+    "deptTime": "2022/04/29 08:33",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/05/01 01:10",
+    "destTime": "2022/04/30 17:10",
+    "position": "31.32219\u00b0 / 121.6818\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
   }
 }
