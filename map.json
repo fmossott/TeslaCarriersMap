@@ -24,9 +24,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/01 12:00",
     "destTime": "2022/05/01 04:00",
-    "position": "29.75869\u00b0 / 122.971\u00b0",
+    "position": "29.76225\u00b0 / 122.9666\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9515474": {
     "rowidx": 7,
@@ -82,9 +82,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/01 07:00",
     "destTime": "2022/04/30 23:00",
-    "position": "25.17171\u00b0 / 121.2567\u00b0",
+    "position": "25.17246\u00b0 / 121.2563\u00b0",
     "area": "East China Sea",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9728069": {
     "rowidx": 208,
@@ -108,10 +108,10 @@
     "deptTime": "2022/04/28 22:51",
     "dest": "GB SOU",
     "destLong": "Southampton",
-    "destType": "ETA",
-    "destLocalTime": "2022/05/01 02:00",
-    "destTime": "2022/05/01 01:00",
-    "position": "50.84043\u00b0 / -1.323748\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/05/01 04:11",
+    "destTime": "2022/05/01 03:11",
+    "position": "50.88511\u00b0 / -1.396875\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/03 07:00",
     "destTime": "2022/05/03 04:00",
-    "position": "31.21872\u00b0 / 29.79643\u00b0",
+    "position": "32.14153\u00b0 / 29.26957\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/30 14:50",
     "destTime": "2022/04/30 11:50",
-    "position": "29.09553\u00b0 / 49.63423\u00b0",
+    "position": "28.8413\u00b0 / 49.82453\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/01 08:00",
     "destTime": "2022/05/01 05:00",
-    "position": "29.16905\u00b0 / 48.36286\u00b0",
+    "position": "29.31149\u00b0 / 48.16442\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -633,9 +633,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/01 09:24",
     "destTime": "2022/05/01 02:24",
-    "position": "13.06808\u00b0 / 100.8941\u00b0",
+    "position": "13.0693\u00b0 / 100.8937\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9536818": {
     "rowidx": 227,
@@ -749,7 +749,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/01 07:21",
     "destTime": "2022/04/30 23:21",
-    "position": "39.02106\u00b0 / 117.7687\u00b0",
+    "position": "39.02\u00b0 / 117.7683\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
