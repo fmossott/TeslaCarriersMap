@@ -80,9 +80,9 @@
     "dest": "TW TPE",
     "destLong": "Taipei",
     "destType": "ETA",
-    "destLocalTime": "2022/05/01 07:00",
-    "destTime": "2022/04/30 23:00",
-    "position": "25.1714\u00b0 / 121.2559\u00b0",
+    "destLocalTime": "2022/05/03 07:30",
+    "destTime": "2022/05/02 23:30",
+    "position": "25.17289\u00b0 / 121.2546\u00b0",
     "area": "East China Sea",
     "status": "At Anchor"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/02 15:00",
     "destTime": "2022/05/02 13:00",
-    "position": "48.072\u00b0 / -6.041032\u00b0",
+    "position": "47.55352\u00b0 / -5.758767\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -200,7 +200,7 @@
     "destTime": "2022/04/30 01:14",
     "position": "12.46042\u00b0 / 100.7967\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Underway"
+    "status": "Out of Range"
   },
   "9610418": {
     "rowidx": 212,
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/02 02:01",
     "destTime": "2022/05/02 00:01",
-    "position": "49.89195\u00b0 / -1.985317\u00b0",
+    "position": "49.80727\u00b0 / -1.0751\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/02 04:00",
     "destTime": "2022/05/02 01:00",
-    "position": "38.51949\u00b0 / 24.94196\u00b0",
+    "position": "38.01199\u00b0 / 24.64174\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/27 21:44",
     "destTime": "2022/04/27 18:44",
-    "position": "21.4572\u00b0 / 39.1666\u00b0",
+    "position": "21.45728\u00b0 / 39.16663\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -519,7 +519,7 @@
     "destTime": "2022/05/04 18:00",
     "position": "12.69936\u00b0 / 43.33349\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9338852": {
     "rowidx": 223,
@@ -749,7 +749,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/03 04:00",
     "destTime": "2022/05/02 19:00",
-    "position": "38.72721\u00b0 / 119.5372\u00b0",
+    "position": "38.46367\u00b0 / 121.1235\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
@@ -780,7 +780,7 @@
     "destTime": "2022/05/02 10:30",
     "position": "25.4272\u00b0 / 120.4269\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9335953": {
     "rowidx": 232,
