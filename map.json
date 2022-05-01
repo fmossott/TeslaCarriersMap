@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/01 12:00",
     "destTime": "2022/05/01 04:00",
-    "position": "29.85244\u00b0 / 123.1677\u00b0",
+    "position": "29.75869\u00b0 / 122.971\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -82,9 +82,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/01 07:00",
     "destTime": "2022/04/30 23:00",
-    "position": "25.17199\u00b0 / 121.2566\u00b0",
+    "position": "25.17171\u00b0 / 121.2567\u00b0",
     "area": "East China Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9728069": {
     "rowidx": 208,
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/01 02:00",
     "destTime": "2022/05/01 01:00",
-    "position": "50.67836\u00b0 / -0.9760333\u00b0",
+    "position": "50.84043\u00b0 / -1.323748\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/02 15:00",
     "destTime": "2022/05/02 13:00",
-    "position": "50.85663\u00b0 / -1.351977\u00b0",
+    "position": "50.26111\u00b0 / -1.511137\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/27 21:44",
     "destTime": "2022/04/27 18:44",
-    "position": "21.4572\u00b0 / 39.16662\u00b0",
+    "position": "21.4572\u00b0 / 39.16658\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/30 14:50",
     "destTime": "2022/04/30 11:50",
-    "position": "29.07757\u00b0 / 49.14036\u00b0",
+    "position": "29.09553\u00b0 / 49.63423\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/01 08:00",
     "destTime": "2022/05/01 05:00",
-    "position": "29.06345\u00b0 / 48.85755\u00b0",
+    "position": "29.16905\u00b0 / 48.36286\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -630,10 +630,10 @@
     "deptTime": "2022/04/25 12:41",
     "dest": "TH LCH",
     "destLong": "Laem Chabang",
-    "destType": "ETA",
-    "destLocalTime": "2022/05/01 16:00",
-    "destTime": "2022/05/01 09:00",
-    "position": "13.02957\u00b0 / 100.7347\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/05/01 09:24",
+    "destTime": "2022/05/01 02:24",
+    "position": "13.06808\u00b0 / 100.8941\u00b0",
     "area": "Gulf of Thailand",
     "status": "Underway using Engine"
   },
@@ -749,7 +749,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/01 07:21",
     "destTime": "2022/04/30 23:21",
-    "position": "39.02102\u00b0 / 117.7688\u00b0",
+    "position": "39.02106\u00b0 / 117.7687\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
