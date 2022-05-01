@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/01 07:00",
     "destTime": "2022/04/30 23:00",
-    "position": "25.17181\u00b0 / 121.2565\u00b0",
+    "position": "25.17216\u00b0 / 121.2561\u00b0",
     "area": "East China Sea",
     "status": "At Anchor"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/20 04:00",
     "destTime": "2022/05/20 09:00",
-    "position": "50.88511\u00b0 / -1.396868\u00b0",
+    "position": "50.88511\u00b0 / -1.39689\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -142,7 +142,7 @@
     "destTime": "2022/05/14 08:00",
     "position": "36.20872\u00b0 / -27.87755\u00b0",
     "area": "Azores",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9827243": {
     "rowidx": 210,
@@ -256,8 +256,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/02 02:01",
     "destTime": "2022/05/02 00:01",
-    "position": "49.20623\u00b0 / -4.491083\u00b0",
-    "area": "Celtic Sea",
+    "position": "49.3727\u00b0 / -4.032183\u00b0",
+    "area": "English Channel",
     "status": "Underway using Engine"
   },
   "9445980": {
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/27 21:44",
     "destTime": "2022/04/27 18:44",
-    "position": "21.45728\u00b0 / 39.1666\u00b0",
+    "position": "21.45722\u00b0 / 39.1666\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -488,9 +488,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/01 12:16",
     "destTime": "2022/05/01 09:16",
-    "position": "29.35315\u00b0 / 47.92333\u00b0",
+    "position": "29.3531\u00b0 / 47.92329\u00b0",
     "area": "Persian Gulf",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9515008": {
     "rowidx": 222,
@@ -623,19 +623,19 @@
     "length": "199.98",
     "breadth": "32.26",
     "grossTonnage": "58,750",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/04/25 20:41",
-    "deptTime": "2022/04/25 12:41",
-    "dest": "TH LCH",
-    "destLong": "Laem Chabang",
-    "destType": "ATA",
-    "destLocalTime": "2022/05/01 09:24",
-    "destTime": "2022/05/01 02:24",
-    "position": "13.06928\u00b0 / 100.8937\u00b0",
+    "dept": "TH LCH",
+    "deptLong": "Laem Chabang",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/05/01 10:24",
+    "deptTime": "2022/05/01 02:24",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ETA",
+    "destLocalTime": "2022/05/15 09:00",
+    "destTime": "2022/05/15 07:00",
+    "position": "13.0669\u00b0 / 100.8925\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9536818": {
     "rowidx": 227,
@@ -836,7 +836,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/01 01:10",
     "destTime": "2022/04/30 17:10",
-    "position": "31.32219\u00b0 / 121.6818\u00b0",
+    "position": "31.32221\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
