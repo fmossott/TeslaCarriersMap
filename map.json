@@ -51,8 +51,8 @@
     "dest": "TW TPE",
     "destLong": "Taipei",
     "destType": "ETA",
-    "destLocalTime": "2022/05/05 18:00",
-    "destTime": "2022/05/05 10:00",
+    "destLocalTime": "2022/05/06 07:00",
+    "destTime": "2022/05/05 23:00",
     "position": "36.88906\u00b0 / -124.1082\u00b0",
     "area": "US West Coast",
     "status": "Out of Range"
@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/01 07:00",
     "destTime": "2022/04/30 23:00",
-    "position": "25.17216\u00b0 / 121.2561\u00b0",
+    "position": "25.17212\u00b0 / 121.2561\u00b0",
     "area": "East China Sea",
     "status": "At Anchor"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/20 04:00",
     "destTime": "2022/05/20 09:00",
-    "position": "50.88511\u00b0 / -1.39689\u00b0",
+    "position": "50.8851\u00b0 / -1.396867\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -169,8 +169,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/02 15:00",
     "destTime": "2022/05/02 13:00",
-    "position": "49.46827\u00b0 / -4.2484\u00b0",
-    "area": "English Channel",
+    "position": "49.04713\u00b0 / -5.34345\u00b0",
+    "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
   "9325776": {
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/03 20:00",
     "destTime": "2022/05/03 18:00",
-    "position": "17.61796\u00b0 / 40.41779\u00b0",
+    "position": "19.00401\u00b0 / 39.6055\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/01 12:16",
     "destTime": "2022/05/01 09:16",
-    "position": "29.3531\u00b0 / 47.92329\u00b0",
+    "position": "29.3531\u00b0 / 47.9233\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -625,15 +625,15 @@
     "grossTonnage": "58,750",
     "dept": "TH LCH",
     "deptLong": "Laem Chabang",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/05/01 10:24",
-    "deptTime": "2022/05/01 02:24",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/05/01 19:33",
+    "deptTime": "2022/05/01 12:33",
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
     "destLocalTime": "2022/05/15 09:00",
     "destTime": "2022/05/15 07:00",
-    "position": "13.0669\u00b0 / 100.8925\u00b0",
+    "position": "13.0457\u00b0 / 100.7519\u00b0",
     "area": "Gulf of Thailand",
     "status": "Underway using Engine"
   },
