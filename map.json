@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/01 12:00",
     "destTime": "2022/05/01 04:00",
-    "position": "29.76443\u00b0 / 122.9663\u00b0",
+    "position": "29.76441\u00b0 / 122.966\u00b0",
     "area": "East China Sea",
     "status": "At Anchor"
   },
@@ -82,9 +82,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/05 17:00",
     "destTime": "2022/05/05 08:00",
-    "position": "25.15923\u00b0 / 121.3947\u00b0",
+    "position": "25.15565\u00b0 / 121.3749\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9728069": {
     "rowidx": 208,
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/02 02:14",
     "destTime": "2022/05/02 00:14",
-    "position": "49.47242\u00b0 / 0.20195\u00b0",
+    "position": "49.47242\u00b0 / 0.2019833\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -277,15 +277,15 @@
     "grossTonnage": "70,853",
     "dept": "FR FOS",
     "deptLong": "Fos Sur Mer",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/04/30 19:25",
-    "deptTime": "2022/04/30 17:25",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/05/02 15:52",
+    "deptTime": "2022/05/02 13:52",
     "dest": "ES TAR",
     "destLong": "Tarragona",
     "destType": "ETA",
     "destLocalTime": "2022/05/03 08:00",
     "destTime": "2022/05/03 06:00",
-    "position": "43.3984\u00b0 / 4.868223\u00b0",
+    "position": "43.25632\u00b0 / 4.986465\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/02 07:29",
     "destTime": "2022/05/02 04:29",
-    "position": "37.96054\u00b0 / 23.60488\u00b0",
+    "position": "37.96051\u00b0 / 23.6049\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/04/27 21:44",
     "destTime": "2022/04/27 18:44",
-    "position": "21.45727\u00b0 / 39.16662\u00b0",
+    "position": "21.45718\u00b0 / 39.16662\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -778,7 +778,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/02 18:30",
     "destTime": "2022/05/02 10:30",
-    "position": "22.06773\u00b0 / 113.8822\u00b0",
+    "position": "22.06772\u00b0 / 113.8822\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
