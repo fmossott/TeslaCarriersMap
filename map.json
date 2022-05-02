@@ -26,7 +26,7 @@
     "destTime": "2022/05/01 04:00",
     "position": "29.76225\u00b0 / 122.9666\u00b0",
     "area": "East China Sea",
-    "status": "At Anchor"
+    "status": "Out of Range"
   },
   "9515474": {
     "rowidx": 7,
@@ -72,16 +72,16 @@
     "length": "179.16",
     "breadth": "32.29",
     "grossTonnage": "50,309",
-    "dept": "US SFO",
-    "deptLong": "San Francisco",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/04/15 04:51",
-    "deptTime": "2022/04/15 11:51",
-    "dest": "TW TPE",
-    "destLong": "Taipei",
-    "destType": "ATA",
-    "destLocalTime": "2022/05/02 08:39",
-    "destTime": "2022/05/02 00:39",
+    "dept": "TW TPE",
+    "deptLong": "Taipei",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/05/01 17:39",
+    "deptTime": "2022/05/02 00:39",
+    "dest": "KR PTK",
+    "destLong": "Pyeongtaek",
+    "destType": "ETA",
+    "destLocalTime": "2022/05/03 08:30",
+    "destTime": "2022/05/02 23:30",
     "position": "25.15922\u00b0 / 121.3947\u00b0",
     "area": "East China Sea",
     "status": "Moored"
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/02 04:15",
     "destTime": "2022/05/02 01:15",
-    "position": "37.85374\u00b0 / 23.6093\u00b0",
+    "position": "37.85757\u00b0 / 23.62573\u00b0",
     "area": "Piraeus Area",
     "status": "Underway using Engine"
   },
@@ -778,7 +778,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/02 18:30",
     "destTime": "2022/05/02 10:30",
-    "position": "22.06762\u00b0 / 113.8825\u00b0",
+    "position": "22.06775\u00b0 / 113.8821\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
