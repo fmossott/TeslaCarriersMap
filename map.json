@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/03 08:00",
     "destTime": "2022/05/03 06:00",
-    "position": "40.97857\u00b0 / 1.781497\u00b0",
+    "position": "41.01473\u00b0 / 1.452893\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -333,17 +333,17 @@
     "length": "199.93",
     "breadth": "32.26",
     "grossTonnage": "58,329",
-    "dept": "EG ALY",
-    "deptLong": "Alexandria",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/04/30 22:59",
-    "deptTime": "2022/04/30 20:59",
+    "dept": "TR CKZ",
+    "deptLong": "Canakkale",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/05/03 06:59",
+    "deptTime": "2022/05/03 04:59",
     "dest": "TR DRC",
     "destLong": "Derince",
     "destType": "ETA",
     "destLocalTime": "2022/05/03 23:30",
     "destTime": "2022/05/03 20:30",
-    "position": "39.89411\u00b0 / 25.91351\u00b0",
+    "position": "40.01905\u00b0 / 26.18995\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -486,9 +486,9 @@
     "dest": "QA HMD",
     "destLong": "Hamad",
     "destType": "ETA",
-    "destLocalTime": "2022/05/03 21:00",
-    "destTime": "2022/05/03 18:00",
-    "position": "28.44728\u00b0 / 49.95227\u00b0",
+    "destLocalTime": "2022/05/03 20:30",
+    "destTime": "2022/05/03 17:30",
+    "position": "28.03087\u00b0 / 50.44508\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -662,9 +662,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/03 16:00",
     "destTime": "2022/05/03 08:00",
-    "position": "22.13073\u00b0 / 119.5546\u00b0",
+    "position": "1.312593\u00b0 / 104.2937\u00b0",
     "area": "South China",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9561253": {
     "rowidx": 228,
@@ -834,10 +834,10 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/05/18 08:00",
-    "destTime": "2022/05/18 06:00",
-    "position": "31.30453\u00b0 / 121.763\u00b0",
-    "area": "East China Sea",
+    "destLocalTime": "2022/05/18 20:00",
+    "destTime": "2022/05/18 18:00",
+    "position": "23.09527\u00b0 / 119.785\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   }
 }
