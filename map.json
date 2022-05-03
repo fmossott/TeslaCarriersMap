@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/03 21:00",
     "destTime": "2022/05/04 04:00",
-    "position": "36.36231\u00b0 / -122.3189\u00b0",
+    "position": "36.7951\u00b0 / -122.4773\u00b0",
     "area": "US West Coast",
     "status": "Underway using Engine"
   },
@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/01 12:00",
     "destTime": "2022/05/01 04:00",
-    "position": "29.76442\u00b0 / 122.9661\u00b0",
+    "position": "29.76297\u00b0 / 122.9666\u00b0",
     "area": "East China Sea",
     "status": "At Anchor"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/05 15:00",
     "destTime": "2022/05/05 06:00",
-    "position": "30.87711\u00b0 / 124.5763\u00b0",
+    "position": "32.57306\u00b0 / 124.816\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -188,19 +188,19 @@
     "length": "199.98",
     "breadth": "37",
     "grossTonnage": "75,528",
-    "dept": "GB SOU",
-    "deptLong": "Southampton",
+    "dept": "ES SDR",
+    "deptLong": "Santander",
     "deptType": "ATD",
-    "deptLocalTime": "2022/04/30 23:24",
-    "deptTime": "2022/04/30 22:24",
+    "deptLocalTime": "2022/05/03 21:18",
+    "deptTime": "2022/05/03 19:18",
     "dest": "ES SDR",
     "destLong": "Santander",
     "destType": "ATA",
     "destLocalTime": "2022/05/02 23:43",
     "destTime": "2022/05/02 21:43",
-    "position": "43.44241\u00b0 / -3.824375\u00b0",
+    "position": "43.73424\u00b0 / -4.159487\u00b0",
     "area": "Biscay Bay",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9325776": {
     "rowidx": 212,
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/21 14:30",
     "destTime": "2022/04/21 11:30",
-    "position": "12.79127\u00b0 / 80.90759\u00b0",
+    "position": "13.04953\u00b0 / 80.56392\u00b0",
     "area": "Bengal Bay",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/04 05:00",
     "destTime": "2022/05/04 03:00",
-    "position": "50.15575\u00b0 / -0.04103334\u00b0",
+    "position": "50.48687\u00b0 / 0.9296167\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/03 08:44",
     "destTime": "2022/05/03 06:44",
-    "position": "41.07722\u00b0 / 1.298233\u00b0",
+    "position": "41.07707\u00b0 / 1.298057\u00b0",
     "area": "Balearic Sea",
     "status": "At Anchor"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/25 23:07",
     "destTime": "2022/04/25 20:07",
-    "position": "17.25418\u00b0 / 66.51648\u00b0",
+    "position": "17.41513\u00b0 / 67.30217\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/03 23:30",
     "destTime": "2022/05/03 20:30",
-    "position": "40.72863\u00b0 / 29.01502\u00b0",
+    "position": "40.75017\u00b0 / 29.50331\u00b0",
     "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/04 12:00",
     "destTime": "2022/05/04 10:00",
-    "position": "34.26143\u00b0 / 28.16937\u00b0",
+    "position": "33.82286\u00b0 / 28.83455\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -420,19 +420,19 @@
     "length": "183",
     "breadth": "30.2",
     "grossTonnage": "44,412",
-    "dept": "SG SIN",
-    "deptLong": "Singapore",
+    "dept": "SA JED",
+    "deptLong": "Jeddah",
     "deptType": "ATD",
-    "deptLocalTime": "2022/04/16 07:01",
-    "deptTime": "2022/04/15 23:01",
-    "dest": "SA JED",
-    "destLong": "Jeddah",
-    "destType": "ATA",
+    "deptLocalTime": "2022/05/03 22:00",
+    "deptTime": "2022/05/03 19:00",
+    "dest": "IN BOM",
+    "destLong": "Mumbai",
+    "destType": "ETA",
     "destLocalTime": "2022/04/27 21:44",
     "destTime": "2022/04/27 18:44",
-    "position": "21.45723\u00b0 / 39.16663\u00b0",
+    "position": "21.00703\u00b0 / 38.8476\u00b0",
     "area": "Red Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9832638": {
     "rowidx": 220,
@@ -488,9 +488,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/03 19:22",
     "destTime": "2022/05/03 17:22",
-    "position": "29.85722\u00b0 / 32.56249\u00b0",
+    "position": "29.8562\u00b0 / 32.56194\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9293519": {
     "rowidx": 222,
@@ -512,12 +512,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/05/02 22:44",
     "deptTime": "2022/05/02 19:44",
-    "dest": "QA DOHA ANCH",
+    "dest": "QA HMD",
     "destLong": "Hamad",
-    "destType": "ATA",
-    "destLocalTime": "2022/05/03 20:48",
-    "destTime": "2022/05/03 17:48",
-    "position": "25.33055\u00b0 / 51.88334\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2022/05/03 23:00",
+    "destTime": "2022/05/03 20:00",
+    "position": "25.05183\u00b0 / 51.69333\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/03 16:29",
     "destTime": "2022/05/03 08:29",
-    "position": "1.282828\u00b0 / 103.7515\u00b0",
+    "position": "1.282833\u00b0 / 103.7515\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -720,9 +720,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/04 07:00",
     "destTime": "2022/05/03 23:00",
-    "position": "20.57277\u00b0 / 116.2971\u00b0",
+    "position": "1.281117\u00b0 / 104.1606\u00b0",
     "area": "South China",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9329461": {
     "rowidx": 230,
@@ -807,7 +807,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/02 18:30",
     "destTime": "2022/05/02 10:30",
-    "position": "22.06852\u00b0 / 113.8814\u00b0",
+    "position": "22.06833\u00b0 / 113.8815\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
