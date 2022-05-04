@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/04 00:00",
     "destTime": "2022/05/04 07:00",
-    "position": "38.04082\u00b0 / -122.1361\u00b0",
+    "position": "38.04085\u00b0 / -122.1361\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/01 12:00",
     "destTime": "2022/05/01 04:00",
-    "position": "29.76391\u00b0 / 122.9669\u00b0",
+    "position": "29.7634\u00b0 / 122.9653\u00b0",
     "area": "East China Sea",
     "status": "At Anchor"
   },
@@ -198,8 +198,8 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/02 23:43",
     "destTime": "2022/05/02 21:43",
-    "position": "43.89068\u00b0 / -8.911257\u00b0",
-    "area": "Biscay Bay",
+    "position": "43.7938\u00b0 / -9.29051\u00b0",
+    "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
   "9325776": {
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/04 07:26",
     "destTime": "2022/05/04 05:26",
-    "position": "51.30377\u00b0 / 3.2296\u00b0",
+    "position": "51.3037\u00b0 / 3.229683\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -311,10 +311,10 @@
     "deptTime": "2022/05/02 13:52",
     "dest": "ES TAR",
     "destLong": "Tarragona",
-    "destType": "ETA",
-    "destLocalTime": "2022/05/03 08:00",
-    "destTime": "2022/05/03 06:00",
-    "position": "41.03718\u00b0 / 1.269698\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/05/04 11:49",
+    "destTime": "2022/05/04 09:49",
+    "position": "41.08732\u00b0 / 1.217763\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/25 23:07",
     "destTime": "2022/04/25 20:07",
-    "position": "18.03425\u00b0 / 70.18747\u00b0",
+    "position": "18.0642\u00b0 / 70.33632\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/04 02:02",
     "destTime": "2022/05/03 23:02",
-    "position": "40.74885\u00b0 / 29.84335\u00b0",
+    "position": "40.74887\u00b0 / 29.84337\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/04 12:00",
     "destTime": "2022/05/04 10:00",
-    "position": "31.40884\u00b0 / 32.344\u00b0",
+    "position": "31.36967\u00b0 / 32.33525\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/04/27 21:44",
     "destTime": "2022/04/27 18:44",
-    "position": "18.13233\u00b0 / 40.23983\u00b0",
+    "position": "17.90258\u00b0 / 40.39245\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/12 05:00",
     "destTime": "2022/05/12 04:00",
-    "position": "30.62\u00b0 / 32.33667\u00b0",
+    "position": "30.79167\u00b0 / 32.32167\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -570,14 +570,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/04/14 22:52",
     "deptTime": "2022/04/14 14:52",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/05/04 12:00",
-    "destTime": "2022/05/04 10:00",
-    "position": "29.81129\u00b0 / 32.55141\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/05/04 11:46",
+    "destTime": "2022/05/04 09:46",
+    "position": "29.85844\u00b0 / 32.56069\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9318474": {
     "rowidx": 225,
@@ -720,7 +720,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/15 22:30",
     "destTime": "2022/05/15 20:30",
-    "position": "1.270517\u00b0 / 103.8515\u00b0",
+    "position": "1.270433\u00b0 / 103.8516\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -865,7 +865,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/04 01:16",
     "destTime": "2022/05/03 17:16",
-    "position": "31.3221\u00b0 / 121.6816\u00b0",
+    "position": "31.32202\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
