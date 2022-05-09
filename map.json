@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/08 16:05",
     "destTime": "2022/05/08 07:05",
-    "position": "35.52279\u00b0 / 129.3904\u00b0",
+    "position": "35.52275\u00b0 / 129.3904\u00b0",
     "area": "North China",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/07 18:39",
     "destTime": "2022/05/08 01:39",
-    "position": "45.64612\u00b0 / -122.7556\u00b0",
+    "position": "45.64607\u00b0 / -122.7555\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/02 23:43",
     "destTime": "2022/05/02 21:43",
-    "position": "33.79767\u00b0 / 24.35768\u00b0",
+    "position": "33.71135\u00b0 / 24.69931\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/08 15:12",
     "destTime": "2022/05/08 07:12",
-    "position": "-32.23997\u00b0 / 115.1864\u00b0",
+    "position": "-32.523\u00b0 / 115.0243\u00b0",
     "area": "West Australia",
     "status": "Underway"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/08 18:00",
     "destTime": "2022/05/08 16:00",
-    "position": "53.57617\u00b0 / 8.55695\u00b0",
+    "position": "53.57613\u00b0 / 8.556933\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/09 16:00",
     "destTime": "2022/05/09 12:00",
-    "position": "24.9918\u00b0 / 55.07811\u00b0",
+    "position": "24.99182\u00b0 / 55.0781\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/14 14:00",
     "destTime": "2022/05/14 13:00",
-    "position": "36.56633\u00b0 / 13.73933\u00b0",
+    "position": "37.51277\u00b0 / 10.97886\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/13 08:00",
     "destTime": "2022/05/13 06:00",
-    "position": "31.07459\u00b0 / 32.30873\u00b0",
+    "position": "31.22137\u00b0 / 32.34378\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/13 03:45",
     "destTime": "2022/05/13 00:45",
-    "position": "13.44786\u00b0 / 49.69277\u00b0",
+    "position": "12.52162\u00b0 / 46.76936\u00b0",
     "area": "Gulf of Aden",
     "status": "Underway using Engine"
   },
@@ -782,7 +782,7 @@
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
-  "9684976": {
+  "9610406": {
     "rowidx": 233,
     "silence": "FALSE",
     "num": "-37",
@@ -791,24 +791,24 @@
     "quarter": "22Q2",
     "numDept": "0",
     "mapStatus": "4",
-    "mtsid": "3411545",
-    "name": "Hoegh Target",
-    "mmsi": "257864000",
-    "length": "199.9",
-    "breadth": "40.8",
-    "grossTonnage": "76,420",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
+    "mtsid": "418892",
+    "name": "Victorious Ace",
+    "mmsi": "431605000",
+    "length": "199.95",
+    "breadth": "32.2",
+    "grossTonnage": "59,598",
+    "dept": "JP YOK",
+    "deptLong": "Yokohama",
     "deptType": "ATD",
-    "deptLocalTime": "2022/05/09 18:16",
-    "deptTime": "2022/05/09 10:16",
-    "dest": "KR MAS",
-    "destLong": "Masan",
-    "destType": "ETA",
-    "destLocalTime": "2022/05/11 06:00",
-    "destTime": "2022/05/10 21:00",
-    "position": "31.30293\u00b0 / 121.7661\u00b0",
+    "deptLocalTime": "2022/05/02 16:06",
+    "deptTime": "2022/05/02 07:06",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/05/09 18:27",
+    "destTime": "2022/05/09 10:27",
+    "position": "31.32335\u00b0 / 121.6797\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   }
 }
