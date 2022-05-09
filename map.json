@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/08 16:05",
     "destTime": "2022/05/08 07:05",
-    "position": "35.52502\u00b0 / 129.3889\u00b0",
+    "position": "35.52503\u00b0 / 129.3889\u00b0",
     "area": "North China",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/08 03:29",
     "destTime": "2022/05/07 19:29",
-    "position": "30.83585\u00b0 / 121.8363\u00b0",
+    "position": "30.83583\u00b0 / 121.8363\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -82,9 +82,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/07 18:39",
     "destTime": "2022/05/08 01:39",
-    "position": "45.6326\u00b0 / -122.7373\u00b0",
+    "position": "45.63396\u00b0 / -122.7387\u00b0",
     "area": "US West Coast",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9515474": {
     "rowidx": 9,
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/08 15:12",
     "destTime": "2022/05/08 07:12",
-    "position": "-32.04442\u00b0 / 115.7503\u00b0",
+    "position": "-32.04436\u00b0 / 115.7503\u00b0",
     "area": "West Australia",
     "status": "Stopped"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/08 18:00",
     "destTime": "2022/05/08 16:00",
-    "position": "53.57617\u00b0 / 8.556933\u00b0",
+    "position": "53.57617\u00b0 / 8.55695\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/07 04:32",
     "destTime": "2022/05/07 00:32",
-    "position": "24.99178\u00b0 / 55.07811\u00b0",
+    "position": "24.99178\u00b0 / 55.07809\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -546,9 +546,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/12 06:00",
     "destTime": "2022/05/12 02:00",
-    "position": "2.711238\u00b0 / 101.2168\u00b0",
+    "position": "12.62289\u00b0 / 72.0275\u00b0",
     "area": "Malacca Strait",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9561253": {
     "rowidx": 225,
@@ -778,7 +778,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/10 09:30",
     "destTime": "2022/05/10 00:30",
-    "position": "31.25998\u00b0 / 121.9065\u00b0",
+    "position": "31.09993\u00b0 / 122.4179\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
