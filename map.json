@@ -111,9 +111,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/11 08:41",
     "destTime": "2022/05/10 23:41",
-    "position": "37.07719\u00b0 / 126.2352\u00b0",
+    "position": "37.12719\u00b0 / 126.3677\u00b0",
     "area": "Yellow Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9827243": {
     "rowidx": 210,
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/11 19:00",
     "destTime": "2022/05/11 17:00",
-    "position": "53.65267\u00b0 / 5.403467\u00b0",
+    "position": "53.49982\u00b0 / 4.72525\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/10 15:04",
     "destTime": "2022/05/10 13:04",
-    "position": "51.31406\u00b0 / 3.22749\u00b0",
+    "position": "51.31406\u00b0 / 3.227503\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/12 08:30",
     "destTime": "2022/05/12 07:30",
-    "position": "45.51978\u00b0 / -8.111245\u00b0",
+    "position": "46.24926\u00b0 / -7.563591\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -430,8 +430,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/14 14:00",
     "destTime": "2022/05/14 13:00",
-    "position": "36.21545\u00b0 / -2.518913\u00b0",
-    "area": "West Mediterranean",
+    "position": "35.99175\u00b0 / -5.468693\u00b0",
+    "area": "Gibraltar",
     "status": "Underway using Engine"
   },
   "9318474": {
@@ -633,9 +633,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/18 20:00",
     "destTime": "2022/05/18 18:00",
-    "position": "6.249647\u00b0 / 95.66475\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "5.636535\u00b0 / 80.13633\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9205976": {
     "rowidx": 228,
@@ -836,7 +836,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/10 08:14",
     "destTime": "2022/05/10 00:14",
-    "position": "31.32206\u00b0 / 121.6818\u00b0",
+    "position": "31.32211\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
