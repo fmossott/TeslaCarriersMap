@@ -106,11 +106,11 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/05/11 15:41",
     "deptTime": "2022/05/11 06:41",
-    "dest": "KR PTK",
-    "destLong": "Pyeongtaek",
-    "destType": "ETA",
-    "destLocalTime": "2022/05/11 08:41",
-    "destTime": "2022/05/10 23:41",
+    "dest": "KR INC",
+    "destLong": "Incheon",
+    "destType": "ATA",
+    "destLocalTime": "2022/05/11 18:38",
+    "destTime": "2022/05/11 09:38",
     "position": "37.12719\u00b0 / 126.3677\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/11 19:00",
     "destTime": "2022/05/11 17:00",
-    "position": "53.28062\u00b0 / 4.48675\u00b0",
+    "position": "53.09035\u00b0 / 4.262084\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/10 15:04",
     "destTime": "2022/05/10 13:04",
-    "position": "51.31408\u00b0 / 3.227532\u00b0",
+    "position": "51.31407\u00b0 / 3.22752\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -401,8 +401,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/12 19:00",
     "destTime": "2022/05/12 17:00",
-    "position": "39.52086\u00b0 / 19.29349\u00b0",
-    "area": "Ionian Sea",
+    "position": "40.44139\u00b0 / 18.92548\u00b0",
+    "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
   "9338852": {
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/13 06:00",
     "destTime": "2022/05/13 03:00",
-    "position": "19.32735\u00b0 / 39.41348\u00b0",
+    "position": "20.41936\u00b0 / 38.8015\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -749,7 +749,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/10 17:30",
     "destTime": "2022/05/10 09:30",
-    "position": "24.20649\u00b0 / 118.5774\u00b0",
+    "position": "24.24663\u00b0 / 118.6159\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -836,7 +836,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/10 08:14",
     "destTime": "2022/05/10 00:14",
-    "position": "31.32206\u00b0 / 121.6818\u00b0",
+    "position": "31.32209\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
