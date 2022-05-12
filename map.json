@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/08 15:12",
     "destTime": "2022/05/08 07:12",
-    "position": "-35.57107\u00b0 / 133.474\u00b0",
+    "position": "-35.57577\u00b0 / 134.0535\u00b0",
     "area": "Great Australian Bight",
     "status": "Underway"
   },
@@ -169,9 +169,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/12 01:36",
     "destTime": "2022/05/11 23:36",
-    "position": "51.26388\u00b0 / 4.276883\u00b0",
+    "position": "51.26895\u00b0 / 4.2489\u00b0",
     "area": "Antwerp Area",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9445980": {
     "rowidx": 213,
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/12 05:00",
     "destTime": "2022/05/12 03:00",
-    "position": "51.40968\u00b0 / 3.961667\u00b0",
+    "position": "51.39529\u00b0 / 4.20541\u00b0",
     "area": "Antwerp Area",
     "status": "Underway using Engine"
   },
@@ -606,7 +606,7 @@
     "destTime": "2022/05/18 18:00",
     "position": "5.636535\u00b0 / 80.13633\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9205976": {
     "rowidx": 228,
@@ -718,9 +718,9 @@
     "dest": "CN XMG",
     "destLong": "Xiamen",
     "destType": "ETA",
-    "destLocalTime": "2022/05/12 17:00",
-    "destTime": "2022/05/12 09:00",
-    "position": "24.2121\u00b0 / 118.5179\u00b0",
+    "destLocalTime": "2022/05/12 20:00",
+    "destTime": "2022/05/12 12:00",
+    "position": "24.21193\u00b0 / 118.2984\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
