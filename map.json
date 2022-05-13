@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/08 15:12",
     "destTime": "2022/05/08 07:12",
-    "position": "-34.77657\u00b0 / 138.4828\u00b0",
+    "position": "-34.77658\u00b0 / 138.4827\u00b0",
     "area": "Great Australian Bight",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/12 01:36",
     "destTime": "2022/05/11 23:36",
-    "position": "51.26457\u00b0 / 4.235633\u00b0",
+    "position": "51.26453\u00b0 / 4.235617\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/12 04:18",
     "destTime": "2022/05/12 02:18",
-    "position": "51.27243\u00b0 / 4.22065\u00b0",
+    "position": "51.27242\u00b0 / 4.220652\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/13 06:27",
     "destTime": "2022/05/12 23:27",
-    "position": "13.06534\u00b0 / 100.8812\u00b0",
+    "position": "13.06538\u00b0 / 100.8812\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/12 11:09",
     "destTime": "2022/05/12 10:09",
-    "position": "50.88512\u00b0 / -1.392823\u00b0",
+    "position": "50.88513\u00b0 / -1.392825\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/12 19:16",
     "destTime": "2022/05/12 17:16",
-    "position": "45.63079\u00b0 / 13.77623\u00b0",
+    "position": "45.63081\u00b0 / 13.77619\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/13 08:00",
     "destTime": "2022/05/13 06:00",
-    "position": "42.68082\u00b0 / 9.772721\u00b0",
+    "position": "42.88795\u00b0 / 9.692607\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -420,16 +420,16 @@
     "length": "199.96",
     "breadth": "32.4",
     "grossTonnage": "57,718",
-    "dept": "JO AQABA INDUSTRIAL",
+    "dept": "SG SIN",
     "deptLong": "Singapore",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/05/13 11:15",
-    "deptTime": "2022/05/13 03:15",
-    "dest": "JO AQJ",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/04/29 22:30",
+    "deptTime": "2022/04/29 14:30",
+    "dest": "JO AQABA INDUSTRIAL",
     "destLong": "Aqaba",
-    "destType": "ETA",
-    "destLocalTime": "2022/05/13 06:00",
-    "destTime": "2022/05/13 03:00",
+    "destType": "ATA",
+    "destLocalTime": "2022/05/13 06:15",
+    "destTime": "2022/05/13 03:15",
     "position": "29.36143\u00b0 / 34.94888\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/13 03:11",
     "destTime": "2022/05/12 23:11",
-    "position": "24.98988\u00b0 / 55.07591\u00b0",
+    "position": "24.98987\u00b0 / 55.07592\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -633,9 +633,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/13 09:56",
     "destTime": "2022/05/13 01:56",
-    "position": "1.272798\u00b0 / 103.8952\u00b0",
+    "position": "1.2731\u00b0 / 103.895\u00b0",
     "area": "Singapore Area",
-    "status": "Stopped"
+    "status": "At Anchor"
   },
   "9731640": {
     "rowidx": 229,
