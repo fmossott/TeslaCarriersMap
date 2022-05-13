@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/12 01:36",
     "destTime": "2022/05/11 23:36",
-    "position": "51.26457\u00b0 / 4.235583\u00b0",
+    "position": "51.26458\u00b0 / 4.235567\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/12 04:18",
     "destTime": "2022/05/12 02:18",
-    "position": "51.27243\u00b0 / 4.220632\u00b0",
+    "position": "51.27245\u00b0 / 4.220668\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/12 11:09",
     "destTime": "2022/05/12 10:09",
-    "position": "50.88512\u00b0 / -1.392833\u00b0",
+    "position": "50.88513\u00b0 / -1.392832\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/12 19:16",
     "destTime": "2022/05/12 17:16",
-    "position": "45.63083\u00b0 / 13.77628\u00b0",
+    "position": "45.63083\u00b0 / 13.77623\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/14 05:30",
     "destTime": "2022/05/14 04:30",
-    "position": "43.82848\u00b0 / -9.505643\u00b0",
+    "position": "45.18181\u00b0 / -8.894522\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/13 08:00",
     "destTime": "2022/05/13 06:00",
-    "position": "41.81376\u00b0 / 10.13514\u00b0",
+    "position": "42.03026\u00b0 / 10.04632\u00b0",
     "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/13 03:11",
     "destTime": "2022/05/12 23:11",
-    "position": "24.98984\u00b0 / 55.07588\u00b0",
+    "position": "24.98984\u00b0 / 55.07595\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -596,15 +596,15 @@
     "grossTonnage": "49,212",
     "dept": "SG SIN",
     "deptLong": "Singapore",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/05/12 06:50",
-    "deptTime": "2022/05/11 22:50",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/05/13 09:09",
+    "deptTime": "2022/05/13 01:09",
     "dest": "ZA DUR",
     "destLong": "Durban",
     "destType": "ETA",
     "destLocalTime": "2022/05/25 14:30",
     "destTime": "2022/05/25 12:30",
-    "position": "1.235383\u00b0 / 103.7046\u00b0",
+    "position": "1.210767\u00b0 / 103.534\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -628,14 +628,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/05/07 15:23",
     "deptTime": "2022/05/07 07:23",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2022/05/13 08:30",
-    "destTime": "2022/05/13 00:30",
-    "position": "1.237365\u00b0 / 103.9192\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/05/13 09:56",
+    "destTime": "2022/05/13 01:56",
+    "position": "1.272655\u00b0 / 103.8944\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9731640": {
     "rowidx": 229,
