@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/14 09:56",
     "destTime": "2022/05/14 01:56",
-    "position": "30.83599\u00b0 / 121.8364\u00b0",
+    "position": "30.83597\u00b0 / 121.8364\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -82,9 +82,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/14 16:53",
     "destTime": "2022/05/14 14:53",
-    "position": "53.56897\u00b0 / 8.549388\u00b0",
+    "position": "53.57472\u00b0 / 8.557522\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9158276": {
     "rowidx": 210,
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/14 17:15",
     "destTime": "2022/05/14 15:15",
-    "position": "51.33771\u00b0 / 3.213828\u00b0",
+    "position": "51.33013\u00b0 / 3.22048\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/13 21:47",
     "destTime": "2022/05/13 19:47",
-    "position": "45.55141\u00b0 / 13.73584\u00b0",
+    "position": "45.55142\u00b0 / 13.73584\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/14 07:26",
     "destTime": "2022/05/14 06:26",
-    "position": "51.49314\u00b0 / -2.717097\u00b0",
+    "position": "51.49313\u00b0 / -2.717135\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/14 22:00",
     "destTime": "2022/05/14 20:00",
-    "position": "29.11211\u00b0 / 32.82785\u00b0",
+    "position": "29.27098\u00b0 / 32.74374\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -398,10 +398,10 @@
     "deptTime": "2022/05/13 15:08",
     "dest": "QA HMD",
     "destLong": "Hamad",
-    "destType": "ETA",
-    "destLocalTime": "2022/05/14 11:30",
-    "destTime": "2022/05/14 08:30",
-    "position": "25.11536\u00b0 / 51.69541\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/05/14 19:14",
+    "destTime": "2022/05/14 16:14",
+    "position": "25.01015\u00b0 / 51.6094\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/16 20:00",
     "destTime": "2022/05/16 18:00",
-    "position": "18.4184\u00b0 / 39.86605\u00b0",
+    "position": "18.65798\u00b0 / 39.73497\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
