@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/14 16:53",
     "destTime": "2022/05/14 14:53",
-    "position": "53.57472\u00b0 / 8.557522\u00b0",
+    "position": "53.57475\u00b0 / 8.5575\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,9 +198,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/14 17:15",
     "destTime": "2022/05/14 15:15",
-    "position": "51.33013\u00b0 / 3.22048\u00b0",
+    "position": "51.32275\u00b0 / 3.21051\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9293519": {
     "rowidx": 214,
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/13 21:47",
     "destTime": "2022/05/13 19:47",
-    "position": "45.55142\u00b0 / 13.73584\u00b0",
+    "position": "45.55142\u00b0 / 13.7358\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/14 07:26",
     "destTime": "2022/05/14 06:26",
-    "position": "51.49313\u00b0 / -2.717135\u00b0",
+    "position": "51.49315\u00b0 / -2.717102\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -304,17 +304,17 @@
     "length": "199.9",
     "breadth": "32.29",
     "grossTonnage": "55,775",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/04/19 01:23",
-    "deptTime": "2022/04/18 17:23",
-    "dest": "IT LIV",
-    "destLong": "Livorno",
-    "destType": "ATA",
-    "destLocalTime": "2022/05/13 12:41",
-    "destTime": "2022/05/13 10:41",
-    "position": "43.58096\u00b0 / 10.30546\u00b0",
+    "dept": "IT LIV",
+    "deptLong": "Livorno",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/05/13 18:41",
+    "deptTime": "2022/05/13 10:41",
+    "dest": "BE ZEE",
+    "destLong": "Zeebrugge",
+    "destType": "ETA",
+    "destLocalTime": "2022/05/21 06:00",
+    "destTime": "2022/05/21 04:00",
+    "position": "43.58096\u00b0 / 10.30545\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/14 22:00",
     "destTime": "2022/05/14 20:00",
-    "position": "29.27098\u00b0 / 32.74374\u00b0",
+    "position": "29.41266\u00b0 / 32.67117\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -401,9 +401,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/14 19:14",
     "destTime": "2022/05/14 16:14",
-    "position": "25.01015\u00b0 / 51.6094\u00b0",
+    "position": "25.00336\u00b0 / 51.60002\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9561253": {
     "rowidx": 221,
@@ -751,6 +751,6 @@
     "destTime": "2022/05/16 00:01",
     "position": "31.2033\u00b0 / 122.1376\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   }
 }
