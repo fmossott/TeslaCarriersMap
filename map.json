@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/14 09:56",
     "destTime": "2022/05/14 01:56",
-    "position": "30.83598\u00b0 / 121.8364\u00b0",
+    "position": "30.836\u00b0 / 121.8364\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/14 16:53",
     "destTime": "2022/05/14 14:53",
-    "position": "53.57476\u00b0 / 8.557505\u00b0",
+    "position": "53.57477\u00b0 / 8.557478\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/14 17:15",
     "destTime": "2022/05/14 15:15",
-    "position": "51.32275\u00b0 / 3.210535\u00b0",
+    "position": "51.32275\u00b0 / 3.210512\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/13 21:47",
     "destTime": "2022/05/13 19:47",
-    "position": "45.55147\u00b0 / 13.7359\u00b0",
+    "position": "45.55137\u00b0 / 13.73583\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/14 07:26",
     "destTime": "2022/05/14 06:26",
-    "position": "51.49314\u00b0 / -2.717117\u00b0",
+    "position": "51.49315\u00b0 / -2.717165\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -338,12 +338,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/05/13 12:41",
     "deptTime": "2022/05/13 09:41",
-    "dest": "EG SUEZ SOUTH ANCH",
+    "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ATA",
-    "destLocalTime": "2022/05/14 22:59",
-    "destTime": "2022/05/14 20:59",
-    "position": "29.86883\u00b0 / 32.55192\u00b0",
+    "destLocalTime": "2022/05/15 04:20",
+    "destTime": "2022/05/15 02:20",
+    "position": "29.9885\u00b0 / 32.58511\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -749,8 +749,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/16 08:01",
     "destTime": "2022/05/16 00:01",
-    "position": "31.2033\u00b0 / 122.1376\u00b0",
+    "position": "25.46007\u00b0 / 120.7166\u00b0",
     "area": "East China Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   }
 }
