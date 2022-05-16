@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/14 16:53",
     "destTime": "2022/05/14 14:53",
-    "position": "53.57475\u00b0 / 8.557491\u00b0",
+    "position": "53.57475\u00b0 / 8.557475\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -159,17 +159,17 @@
     "length": "167.25",
     "breadth": "28",
     "grossTonnage": "39,454",
-    "dept": "IT TRS",
-    "deptLong": "Trieste",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/05/13 19:38",
-    "deptTime": "2022/05/13 17:38",
-    "dest": "SI KOP",
-    "destLong": "Koper",
-    "destType": "ATA",
-    "destLocalTime": "2022/05/13 21:47",
-    "destTime": "2022/05/13 19:47",
-    "position": "45.55138\u00b0 / 13.73585\u00b0",
+    "dept": "SI KOP",
+    "deptLong": "Koper",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/05/13 21:47",
+    "deptTime": "2022/05/13 19:47",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ETA",
+    "destLocalTime": "2022/05/20 22:00",
+    "destTime": "2022/05/20 20:00",
+    "position": "45.55134\u00b0 / 13.73581\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -285,9 +285,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/16 21:22",
     "destTime": "2022/05/16 19:22",
-    "position": "29.79707\u00b0 / 32.54807\u00b0",
+    "position": "29.84748\u00b0 / 32.56218\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9536818": {
     "rowidx": 217,
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/16 20:11",
     "destTime": "2022/05/16 17:11",
-    "position": "29.42455\u00b0 / 48.06314\u00b0",
+    "position": "29.42448\u00b0 / 48.06363\u00b0",
     "area": "Persian Gulf",
     "status": "At Anchor"
   },
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/16 23:00",
     "destTime": "2022/05/16 15:00",
-    "position": "1.270435\u00b0 / 103.8518\u00b0",
+    "position": "1.270433\u00b0 / 103.8518\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -604,9 +604,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/17 14:00",
     "destTime": "2022/05/17 06:00",
-    "position": "25.15857\u00b0 / 120.3105\u00b0",
+    "position": "24.2375\u00b0 / 118.2659\u00b0",
     "area": "East China Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9392341": {
     "rowidx": 228,
