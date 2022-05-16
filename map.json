@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/14 16:53",
     "destTime": "2022/05/14 14:53",
-    "position": "53.57476\u00b0 / 8.557524\u00b0",
+    "position": "53.57476\u00b0 / 8.557511\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/21 16:00",
     "destTime": "2022/05/21 14:00",
-    "position": "51.31659\u00b0 / 3.225263\u00b0",
+    "position": "51.31661\u00b0 / 3.22522\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/13 21:47",
     "destTime": "2022/05/13 19:47",
-    "position": "45.55141\u00b0 / 13.73587\u00b0",
+    "position": "45.55141\u00b0 / 13.73585\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -393,17 +393,17 @@
     "grossTonnage": "62,694",
     "dept": "BH KBS",
     "deptLong": "Khalifa Bin Salman",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/05/15 16:37",
-    "deptTime": "2022/05/15 13:37",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/05/16 03:17",
+    "deptTime": "2022/05/16 00:17",
     "dest": "KW KWI",
     "destLong": "Kuwait",
     "destType": "ETA",
     "destLocalTime": "2022/05/16 20:00",
     "destTime": "2022/05/16 17:00",
-    "position": "26.19331\u00b0 / 50.70829\u00b0",
+    "position": "26.18158\u00b0 / 50.76989\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9561253": {
     "rowidx": 221,
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/16 02:24",
     "destTime": "2022/05/15 18:24",
-    "position": "1.262525\u00b0 / 103.8494\u00b0",
+    "position": "1.262537\u00b0 / 103.8494\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -778,7 +778,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/17 21:00",
     "destTime": "2022/05/17 12:00",
-    "position": "31.09421\u00b0 / 122.8498\u00b0",
+    "position": "31.85403\u00b0 / 123.7518\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
