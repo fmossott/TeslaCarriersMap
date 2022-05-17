@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/17 08:18",
     "destTime": "2022/05/17 05:18",
-    "position": "37.96041\u00b0 / 23.60472\u00b0",
+    "position": "37.96042\u00b0 / 23.60472\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -362,19 +362,19 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "60,065",
-    "dept": "TH LCH",
-    "deptLong": "Laem Chabang",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/05/14 20:26",
-    "deptTime": "2022/05/14 13:26",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2022/05/16 23:40",
-    "destTime": "2022/05/16 15:40",
-    "position": "1.270432\u00b0 / 103.8518\u00b0",
+    "dept": "SG SIN",
+    "deptLong": "Singapore",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/05/16 22:40",
+    "deptTime": "2022/05/16 15:40",
+    "dest": "AU FRE",
+    "destLong": "Fremantle",
+    "destType": "ETA",
+    "destLocalTime": "2022/05/23 22:35",
+    "destTime": "2022/05/23 14:35",
+    "position": "1.261122\u00b0 / 103.8539\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9782089": {
     "rowidx": 220,
@@ -432,7 +432,7 @@
     "destTime": "2022/05/26 20:00",
     "position": "6.1124\u00b0 / 92.43501\u00b0",
     "area": "East Asia",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9731640": {
     "rowidx": 222,
@@ -488,8 +488,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/17 02:43",
     "destTime": "2022/05/16 18:43",
-    "position": "1.929607\u00b0 / 102.34\u00b0",
-    "area": "Singapore Area",
+    "position": "2.116688\u00b0 / 102.0848\u00b0",
+    "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
   "9610406": {
