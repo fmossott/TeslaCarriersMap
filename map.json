@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/18 05:00",
     "destTime": "2022/05/17 21:00",
-    "position": "30.83606\u00b0 / 121.8365\u00b0",
+    "position": "30.83608\u00b0 / 121.8365\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/18 04:19",
     "destTime": "2022/05/18 02:19",
-    "position": "58.01037\u00b0 / 11.70363\u00b0",
+    "position": "58.01038\u00b0 / 11.70365\u00b0",
     "area": "Skagerrak",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/19 00:05",
     "destTime": "2022/05/18 22:05",
-    "position": "53.66039\u00b0 / 5.974872\u00b0",
+    "position": "53.66387\u00b0 / 6.09402\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -333,16 +333,16 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "62,694",
-    "dept": "BH KBS",
-    "deptLong": "Khalifa Bin Salman",
+    "dept": "KW KWI",
+    "deptLong": "Kuwait",
     "deptType": "ATD",
-    "deptLocalTime": "2022/05/16 03:17",
-    "deptTime": "2022/05/16 00:17",
-    "dest": "KW KWI",
-    "destLong": "Kuwait",
-    "destType": "ATA",
-    "destLocalTime": "2022/05/18 01:41",
-    "destTime": "2022/05/17 22:41",
+    "deptLocalTime": "2022/05/18 23:11",
+    "deptTime": "2022/05/18 20:11",
+    "dest": "ID JKT",
+    "destLong": "Jakarta",
+    "destType": "ETA",
+    "destLocalTime": "2022/06/05 05:00",
+    "destTime": "2022/06/04 22:00",
     "position": "29.35309\u00b0 / 47.92323\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/19 03:01",
     "destTime": "2022/05/19 00:01",
-    "position": "37.07533\u00b0 / 24.00413\u00b0",
+    "position": "37.3233\u00b0 / 23.896\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -403,7 +403,7 @@
     "destTime": "2022/05/23 14:35",
     "position": "1.295673\u00b0 / 104.3489\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9782089": {
     "rowidx": 221,
@@ -575,8 +575,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/30 00:01",
     "destTime": "2022/05/29 22:01",
-    "position": "1.18642\u00b0 / 103.8273\u00b0",
-    "area": "Singapore Area",
+    "position": "5.422302\u00b0 / 98.12173\u00b0",
+    "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
   "9777838": {
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/17 06:37",
     "destTime": "2022/05/16 22:37",
-    "position": "24.54227\u00b0 / 118.089\u00b0",
+    "position": "24.54225\u00b0 / 118.089\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
