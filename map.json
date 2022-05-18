@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/18 05:00",
     "destTime": "2022/05/17 21:00",
-    "position": "30.83609\u00b0 / 121.8365\u00b0",
+    "position": "30.83607\u00b0 / 121.8365\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/19 03:30",
     "destTime": "2022/05/19 00:30",
-    "position": "35.92443\u00b0 / 25.43775\u00b0",
+    "position": "36.18517\u00b0 / 24.973\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -490,7 +490,7 @@
     "destTime": "2022/05/25 18:00",
     "position": "5.911482\u00b0 / 80.20847\u00b0",
     "area": "East Asia",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9531741": {
     "rowidx": 224,
@@ -664,6 +664,6 @@
     "destTime": "2022/05/21 22:00",
     "position": "22.79517\u00b0 / 119.617\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   }
 }
