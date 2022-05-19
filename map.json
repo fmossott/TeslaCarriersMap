@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/18 05:00",
     "destTime": "2022/05/17 21:00",
-    "position": "30.83615\u00b0 / 121.8365\u00b0",
+    "position": "30.83611\u00b0 / 121.8365\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/18 04:19",
     "destTime": "2022/05/18 02:19",
-    "position": "58.01036\u00b0 / 11.70362\u00b0",
+    "position": "58.01037\u00b0 / 11.70366\u00b0",
     "area": "Skagerrak",
     "status": "Moored"
   },
@@ -142,7 +142,7 @@
     "destTime": "2022/05/23 07:00",
     "position": "5.653572\u00b0 / 80.37762\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9604926": {
     "rowidx": 212,
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/19 03:45",
     "destTime": "2022/05/19 01:45",
-    "position": "53.33459\u00b0 / 7.162195\u00b0",
+    "position": "53.33459\u00b0 / 7.162179\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -285,8 +285,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/20 08:30",
     "destTime": "2022/05/20 06:30",
-    "position": "38.04089\u00b0 / 15.59857\u00b0",
-    "area": "Ionian Sea",
+    "position": "38.60532\u00b0 / 15.30727\u00b0",
+    "area": "Tyrrhenian Sea",
     "status": "Underway"
   },
   "9531715": {
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/19 07:45",
     "destTime": "2022/05/19 04:45",
-    "position": "37.96045\u00b0 / 23.60498\u00b0",
+    "position": "37.9606\u00b0 / 23.60495\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -399,8 +399,8 @@
     "dest": "AU FRE",
     "destLong": "Fremantle",
     "destType": "ETA",
-    "destLocalTime": "2022/05/23 22:35",
-    "destTime": "2022/05/23 14:35",
+    "destLocalTime": "2022/05/25 16:00",
+    "destTime": "2022/05/25 08:00",
     "position": "1.295673\u00b0 / 104.3489\u00b0",
     "area": "Singapore Area",
     "status": "Out of Range"
