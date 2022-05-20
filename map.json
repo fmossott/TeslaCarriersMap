@@ -137,10 +137,10 @@
     "deptTime": "2022/05/16 21:34",
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/05/20 22:00",
-    "destTime": "2022/05/20 20:00",
-    "position": "31.2309\u00b0 / 32.34718\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/05/20 23:11",
+    "destTime": "2022/05/20 21:11",
+    "position": "30.99333\u00b0 / 32.31167\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/19 03:45",
     "destTime": "2022/05/19 01:45",
-    "position": "53.33459\u00b0 / 7.16216\u00b0",
+    "position": "53.33457\u00b0 / 7.162138\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/20 18:02",
     "destTime": "2022/05/20 16:02",
-    "position": "51.30381\u00b0 / 3.229678\u00b0",
+    "position": "51.30382\u00b0 / 3.22969\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -225,11 +225,11 @@
     "dest": "ES BCN",
     "destLong": "Barcelona",
     "destType": "ETA",
-    "destLocalTime": "2022/05/21 22:00",
-    "destTime": "2022/05/21 20:00",
-    "position": "43.53234\u00b0 / 10.24481\u00b0",
+    "destLocalTime": "2022/05/21 21:00",
+    "destTime": "2022/05/21 19:00",
+    "position": "43.18212\u00b0 / 9.460678\u00b0",
     "area": "Ligurean Sea",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9531715": {
     "rowidx": 215,
@@ -486,9 +486,9 @@
     "dest": "JO AQJ",
     "destLong": "Aqaba",
     "destType": "ETA",
-    "destLocalTime": "2022/05/20 11:30",
-    "destTime": "2022/05/20 08:30",
-    "position": "1.302937\u00b0 / 104.0806\u00b0",
+    "destLocalTime": "2022/06/03 11:30",
+    "destTime": "2022/06/03 08:30",
+    "position": "1.302947\u00b0 / 104.0807\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
