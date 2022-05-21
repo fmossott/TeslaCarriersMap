@@ -48,14 +48,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/05/15 22:42",
     "deptTime": "2022/05/15 14:42",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2022/05/22 06:00",
-    "destTime": "2022/05/21 22:00",
-    "position": "1.267678\u00b0 / 104.0051\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/05/22 06:25",
+    "destTime": "2022/05/21 22:25",
+    "position": "1.291283\u00b0 / 103.988\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9702431": {
     "rowidx": 8,
@@ -198,9 +198,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/20 18:02",
     "destTime": "2022/05/20 16:02",
-    "position": "51.31318\u00b0 / 3.223667\u00b0",
+    "position": "51.32477\u00b0 / 3.212568\u00b0",
     "area": "North Sea",
-    "status": "Underway"
+    "status": "Moored"
   },
   "9277838": {
     "rowidx": 214,
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/21 21:39",
     "destTime": "2022/05/21 19:39",
-    "position": "41.33649\u00b0 / 2.147053\u00b0",
+    "position": "41.33649\u00b0 / 2.147082\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/21 16:56",
     "destTime": "2022/05/21 14:56",
-    "position": "43.57887\u00b0 / 10.30588\u00b0",
+    "position": "43.5789\u00b0 / 10.30585\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -457,11 +457,11 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/05/30 06:00",
-    "destTime": "2022/05/30 04:00",
-    "position": "6.282092\u00b0 / 95.08176\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "destLocalTime": "2022/05/30 02:01",
+    "destTime": "2022/05/30 00:01",
+    "position": "6.010483\u00b0 / 79.92598\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9777838": {
     "rowidx": 223,
@@ -575,7 +575,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/22 17:00",
     "destTime": "2022/05/22 09:00",
-    "position": "38.62208\u00b0 / 119.3539\u00b0",
+    "position": "38.8243\u00b0 / 118.5943\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
@@ -599,14 +599,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/05/20 03:32",
     "deptTime": "2022/05/19 19:32",
-    "dest": "CN XMG",
+    "dest": "CN XIAMEN ANCH",
     "destLong": "Xiamen",
-    "destType": "ETA",
-    "destLocalTime": "2022/05/22 06:00",
-    "destTime": "2022/05/21 22:00",
-    "position": "24.29226\u00b0 / 118.2274\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/05/22 05:38",
+    "destTime": "2022/05/21 21:38",
+    "position": "24.30692\u00b0 / 118.2277\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9207754": {
     "rowidx": 228,
