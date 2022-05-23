@@ -106,14 +106,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/05/05 05:54",
     "deptTime": "2022/05/05 02:54",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2022/05/23 13:00",
-    "destTime": "2022/05/23 05:00",
-    "position": "1.227985\u00b0 / 103.8843\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/05/23 13:24",
+    "destTime": "2022/05/23 05:24",
+    "position": "1.248792\u00b0 / 103.8854\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9515008": {
     "rowidx": 211,
@@ -138,9 +138,9 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/06/05 10:00",
-    "destTime": "2022/06/05 02:00",
-    "position": "29.57333\u00b0 / 32.52667\u00b0",
+    "destLocalTime": "2022/06/05 05:00",
+    "destTime": "2022/06/04 21:00",
+    "position": "22.24239\u00b0 / 37.63543\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/23 23:00",
     "destTime": "2022/05/23 21:00",
-    "position": "52.28878\u00b0 / 3.490183\u00b0",
+    "position": "52.61635\u00b0 / 3.878907\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -401,9 +401,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/17 02:43",
     "destTime": "2022/05/16 18:43",
-    "position": "7.222692\u00b0 / 77.23028\u00b0",
+    "position": "17.40187\u00b0 / 71.07168\u00b0",
     "area": "Malacca Strait",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9610406": {
     "rowidx": 221,
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/22 10:46",
     "destTime": "2022/05/22 02:46",
-    "position": "39.02084\u00b0 / 117.7689\u00b0",
+    "position": "39.02092\u00b0 / 117.7689\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -633,7 +633,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/24 17:00",
     "destTime": "2022/05/24 09:00",
-    "position": "36.36613\u00b0 / 123.8835\u00b0",
+    "position": "37.11049\u00b0 / 123.6563\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
