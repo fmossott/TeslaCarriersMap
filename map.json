@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/23 23:00",
     "destTime": "2022/05/23 21:00",
-    "position": "53.89995\u00b0 / 7.62335\u00b0",
+    "position": "53.8934\u00b0 / 7.663995\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/27 01:00",
     "destTime": "2022/05/27 00:00",
-    "position": "36.22341\u00b0 / -3.863882\u00b0",
+    "position": "35.99682\u00b0 / -6.349837\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -517,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/17 06:37",
     "destTime": "2022/05/16 22:37",
-    "position": "1.329317\u00b0 / 103.3129\u00b0",
+    "position": "1.399017\u00b0 / 103.2396\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -544,11 +544,11 @@
     "dest": "OM SOH",
     "destLong": "Sohar",
     "destType": "ETA",
-    "destLocalTime": "2022/06/01 11:00",
-    "destTime": "2022/06/01 07:00",
-    "position": "1.28575\u00b0 / 103.7554\u00b0",
+    "destLocalTime": "2022/06/01 12:00",
+    "destTime": "2022/06/01 08:00",
+    "position": "1.287583\u00b0 / 103.7534\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Underway"
   },
   "9472206": {
     "rowidx": 226,
@@ -567,15 +567,15 @@
     "grossTonnage": "72,408",
     "dept": "CN TXG",
     "deptLong": "Tianjin",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/05/22 10:46",
-    "deptTime": "2022/05/22 02:46",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/05/24 05:12",
+    "deptTime": "2022/05/23 21:12",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
     "destType": "ETA",
     "destLocalTime": "2022/05/25 15:00",
     "destTime": "2022/05/25 06:00",
-    "position": "38.99187\u00b0 / 117.7845\u00b0",
+    "position": "38.93857\u00b0 / 117.9984\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
@@ -633,7 +633,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/24 17:00",
     "destTime": "2022/05/24 09:00",
-    "position": "38.62808\u00b0 / 120.7068\u00b0",
+    "position": "38.65796\u00b0 / 120.3076\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/23 05:15",
     "destTime": "2022/05/22 21:15",
-    "position": "31.32217\u00b0 / 121.6815\u00b0",
+    "position": "31.32218\u00b0 / 121.6815\u00b0",
     "area": "East China Sea",
     "status": "Stopped"
   },
