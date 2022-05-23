@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/23 13:00",
     "destTime": "2022/05/23 05:00",
-    "position": "1.17295\u00b0 / 103.4366\u00b0",
+    "position": "1.087832\u00b0 / 103.5828\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/22 16:23",
     "destTime": "2022/05/22 08:23",
-    "position": "1.285767\u00b0 / 103.7554\u00b0",
+    "position": "1.28575\u00b0 / 103.7554\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -601,12 +601,12 @@
     "deptTime": "2022/05/19 19:32",
     "dest": "CN XMG",
     "destLong": "Xiamen",
-    "destType": "ETA",
-    "destLocalTime": "2022/05/23 09:00",
-    "destTime": "2022/05/23 01:00",
-    "position": "24.43893\u00b0 / 118.0495\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/05/23 09:41",
+    "destTime": "2022/05/23 01:41",
+    "position": "24.54242\u00b0 / 118.0893\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9207754": {
     "rowidx": 228,
@@ -633,7 +633,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/24 17:00",
     "destTime": "2022/05/24 09:00",
-    "position": "35.38662\u00b0 / 123.8903\u00b0",
+    "position": "36.36613\u00b0 / 123.8835\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
