@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/25 07:11",
     "destTime": "2022/05/24 23:11",
-    "position": "30.83594\u00b0 / 121.8363\u00b0",
+    "position": "30.83595\u00b0 / 121.8363\u00b0",
     "area": "East China Sea",
     "status": "Stopped"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/26 05:00",
     "destTime": "2022/05/26 03:00",
-    "position": "49.38802\u00b0 / -4.016567\u00b0",
+    "position": "49.72958\u00b0 / -3.118517\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/27 08:30",
     "destTime": "2022/05/27 07:30",
-    "position": "37.44493\u00b0 / -9.513717\u00b0",
+    "position": "39.06495\u00b0 / -9.842484\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/17 02:43",
     "destTime": "2022/05/16 18:43",
-    "position": "18.94092\u00b0 / 72.85366\u00b0",
+    "position": "18.94093\u00b0 / 72.85366\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
@@ -565,19 +565,19 @@
     "length": "179.9",
     "breadth": "32.2",
     "grossTonnage": "53,645",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/05/21 02:43",
-    "deptTime": "2022/05/20 18:43",
-    "dest": "CN TXG",
-    "destLong": "Tianjin",
-    "destType": "ATA",
-    "destLocalTime": "2022/05/24 18:36",
-    "destTime": "2022/05/24 10:36",
-    "position": "38.98622\u00b0 / 117.7795\u00b0",
+    "dept": "CN TXG",
+    "deptLong": "Tianjin",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/05/24 18:36",
+    "deptTime": "2022/05/24 10:36",
+    "dest": "KR INC",
+    "destLong": "Incheon",
+    "destType": "ETA",
+    "destLocalTime": "2022/05/27 01:00",
+    "destTime": "2022/05/26 16:00",
+    "position": "38.96555\u00b0 / 117.823\u00b0",
     "area": "Bohai Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9442885": {
     "rowidx": 227,
@@ -631,8 +631,8 @@
     "dest": "CN HUA",
     "destLong": "Huangpu",
     "destType": "ETA",
-    "destLocalTime": "2022/05/26 18:00",
-    "destTime": "2022/05/26 10:00",
+    "destLocalTime": "2022/05/26 16:00",
+    "destTime": "2022/05/26 08:00",
     "position": "27.29334\u00b0 / 121.8029\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/24 21:36",
     "destTime": "2022/05/24 13:36",
-    "position": "31.32215\u00b0 / 121.6819\u00b0",
+    "position": "31.32217\u00b0 / 121.6819\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/25 09:22",
     "destTime": "2022/05/25 01:22",
-    "position": "31.32371\u00b0 / 121.6794\u00b0",
+    "position": "31.32369\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
