@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/26 02:11",
     "destTime": "2022/05/26 00:11",
-    "position": "51.43507\u00b0 / 2.674217\u00b0",
+    "position": "51.43483\u00b0 / 2.6739\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -309,14 +309,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/05/08 04:10",
     "deptTime": "2022/05/07 20:10",
-    "dest": "EG SUEZ SOUTH ANCH",
+    "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ATA",
-    "destLocalTime": "2022/05/25 17:53",
-    "destTime": "2022/05/25 15:53",
-    "position": "29.85109\u00b0 / 32.56269\u00b0",
+    "destLocalTime": "2022/05/26 04:29",
+    "destTime": "2022/05/26 02:29",
+    "position": "29.96579\u00b0 / 32.58608\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9531741": {
     "rowidx": 219,
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/17 02:43",
     "destTime": "2022/05/16 18:43",
-    "position": "18.94092\u00b0 / 72.85367\u00b0",
+    "position": "18.94093\u00b0 / 72.85364\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
@@ -660,11 +660,11 @@
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
     "destType": "ETA",
-    "destLocalTime": "2022/05/28 18:00",
-    "destTime": "2022/05/28 09:00",
-    "position": "31.32213\u00b0 / 121.6818\u00b0",
+    "destLocalTime": "2022/05/28 06:00",
+    "destTime": "2022/05/27 21:00",
+    "position": "31.32257\u00b0 / 121.6828\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway"
   },
   "9377509": {
     "rowidx": 231,
@@ -683,16 +683,16 @@
     "grossTonnage": "71,673",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/05/25 09:22",
-    "deptTime": "2022/05/25 01:22",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/05/26 10:19",
+    "deptTime": "2022/05/26 02:19",
     "dest": "CN LYG",
     "destLong": "Lianyungang",
     "destType": "ETA",
-    "destLocalTime": "2022/05/26 08:36",
-    "destTime": "2022/05/26 00:36",
-    "position": "31.32366\u00b0 / 121.6794\u00b0",
+    "destLocalTime": "2022/05/27 08:00",
+    "destTime": "2022/05/27 00:00",
+    "position": "31.30637\u00b0 / 121.7575\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
