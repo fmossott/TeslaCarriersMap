@@ -7,7 +7,7 @@
     "notes": "",
     "quarter": "22Q2",
     "numDept": "4",
-    "mapStatus": "1",
+    "mapStatus": "2",
     "mtsid": "373460",
     "name": "Horizon Leader",
     "mmsi": "311040600",
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/27 21:00",
     "destTime": "2022/05/27 12:00",
-    "position": "37.05018\u00b0 / 124.4739\u00b0",
+    "position": "37.18328\u00b0 / 124.296\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -633,8 +633,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/13 15:00",
     "destTime": "2022/06/13 13:00",
-    "position": "31.30237\u00b0 / 121.7678\u00b0",
-    "area": "East China Sea",
+    "position": "23.58429\u00b0 / 122.0324\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   },
   "9377509": {
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/26 10:26",
     "destTime": "2022/05/26 02:26",
-    "position": "31.32351\u00b0 / 121.6793\u00b0",
+    "position": "31.32347\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
