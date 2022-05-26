@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/25 07:11",
     "destTime": "2022/05/24 23:11",
-    "position": "30.83589\u00b0 / 121.8363\u00b0",
+    "position": "30.83591\u00b0 / 121.8363\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -198,9 +198,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/26 02:11",
     "destTime": "2022/05/26 00:11",
-    "position": "51.43542\u00b0 / 2.67285\u00b0",
+    "position": "51.43507\u00b0 / 2.674217\u00b0",
     "area": "North Sea",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9561253": {
     "rowidx": 215,
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/25 17:53",
     "destTime": "2022/05/25 15:53",
-    "position": "29.85057\u00b0 / 32.56227\u00b0",
+    "position": "29.85109\u00b0 / 32.56269\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/17 02:43",
     "destTime": "2022/05/16 18:43",
-    "position": "18.94091\u00b0 / 72.85364\u00b0",
+    "position": "18.94092\u00b0 / 72.85367\u00b0",
     "area": "West Coast India",
     "status": "Moored"
   },
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/28 18:00",
     "destTime": "2022/05/28 09:00",
-    "position": "31.32213\u00b0 / 121.6819\u00b0",
+    "position": "31.32213\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -681,17 +681,17 @@
     "length": "231.6",
     "breadth": "32.58",
     "grossTonnage": "71,673",
-    "dept": "AU FRE",
-    "deptLong": "Fremantle",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/05/14 09:26",
-    "deptTime": "2022/05/14 01:26",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/05/25 09:22",
-    "destTime": "2022/05/25 01:22",
-    "position": "31.32367\u00b0 / 121.6794\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/05/25 09:22",
+    "deptTime": "2022/05/25 01:22",
+    "dest": "CN LYG",
+    "destLong": "Lianyungang",
+    "destType": "ETA",
+    "destLocalTime": "2022/05/26 08:36",
+    "destTime": "2022/05/26 00:36",
+    "position": "31.32366\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
