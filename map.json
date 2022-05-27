@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/26 19:02",
     "destTime": "2022/05/26 11:02",
-    "position": "1.276015\u00b0 / 103.8968\u00b0",
+    "position": "1.275\u00b0 / 103.895\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -159,17 +159,17 @@
     "length": "199.96",
     "breadth": "32.4",
     "grossTonnage": "57,718",
-    "dept": "ES BCN",
-    "deptLong": "Barcelona",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/05/22 08:09",
-    "deptTime": "2022/05/22 06:09",
+    "dept": "GB PRU",
+    "deptLong": "Portbury",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/05/27 03:37",
+    "deptTime": "2022/05/27 01:37",
     "dest": "GB BRS",
     "destLong": "Bristol",
     "destType": "ETA",
     "destLocalTime": "2022/05/27 00:45",
     "destTime": "2022/05/26 23:45",
-    "position": "51.50128\u00b0 / -2.73275\u00b0",
+    "position": "51.49366\u00b0 / -2.71756\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/26 02:11",
     "destTime": "2022/05/26 00:11",
-    "position": "51.43373\u00b0 / 2.671617\u00b0",
+    "position": "51.43318\u00b0 / 2.671283\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/27 08:30",
     "destTime": "2022/05/27 07:30",
-    "position": "50.82762\u00b0 / -5.178383\u00b0",
+    "position": "51.01483\u00b0 / -4.80615\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/28 18:00",
     "destTime": "2022/05/28 16:00",
-    "position": "44.97215\u00b0 / -8.460783\u00b0",
+    "position": "45.98482\u00b0 / -7.711508\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -285,9 +285,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/26 19:39",
     "destTime": "2022/05/26 17:39",
-    "position": "29.84872\u00b0 / 32.56087\u00b0",
+    "position": "29.84898\u00b0 / 32.5604\u00b0",
     "area": "Red Sea",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9731640": {
     "rowidx": 218,
@@ -517,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/28 08:00",
     "destTime": "2022/05/28 00:00",
-    "position": "22.06221\u00b0 / 113.8959\u00b0",
+    "position": "22.06096\u00b0 / 113.8962\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/27 21:00",
     "destTime": "2022/05/27 12:00",
-    "position": "37.14999\u00b0 / 124.3382\u00b0",
+    "position": "37.14393\u00b0 / 124.3507\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -604,7 +604,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/26 16:00",
     "destTime": "2022/05/26 08:00",
-    "position": "22.08116\u00b0 / 113.8863\u00b0",
+    "position": "22.08096\u00b0 / 113.8861\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/27 13:00",
     "destTime": "2022/05/27 05:00",
-    "position": "35.00001\u00b0 / 120.6619\u00b0",
+    "position": "34.97243\u00b0 / 120.2874\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -689,9 +689,9 @@
     "dest": "JP YOK",
     "destLong": "Yokohama",
     "destType": "ETA",
-    "destLocalTime": "2022/05/30 04:30",
-    "destTime": "2022/05/29 19:30",
-    "position": "31.32222\u00b0 / 121.6815\u00b0",
+    "destLocalTime": "2022/05/30 05:00",
+    "destTime": "2022/05/29 20:00",
+    "position": "31.32252\u00b0 / 121.6896\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
