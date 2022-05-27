@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/28 19:00",
     "destTime": "2022/05/28 17:00",
-    "position": "22.97775\u00b0 / 37.40332\u00b0",
+    "position": "23.87432\u00b0 / 36.76873\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/29 17:00",
     "destTime": "2022/05/29 15:00",
-    "position": "51.49272\u00b0 / -2.717907\u00b0",
+    "position": "51.49273\u00b0 / -2.717905\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/26 02:11",
     "destTime": "2022/05/26 00:11",
-    "position": "51.43305\u00b0 / 2.6686\u00b0",
+    "position": "51.4331\u00b0 / 2.66855\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -217,17 +217,17 @@
     "length": "199.95",
     "breadth": "32.2",
     "grossTonnage": "58,939",
-    "dept": "IT LIV",
-    "deptLong": "Livorno",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/05/22 15:14",
-    "deptTime": "2022/05/22 13:14",
+    "dept": "GB PRU",
+    "deptLong": "Portbury",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/05/27 17:21",
+    "deptTime": "2022/05/27 15:21",
     "dest": "GB BRS",
     "destLong": "Bristol",
     "destType": "ETA",
     "destLocalTime": "2022/05/27 14:00",
     "destTime": "2022/05/27 13:00",
-    "position": "51.48657\u00b0 / -2.816633\u00b0",
+    "position": "51.49765\u00b0 / -2.724083\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/28 06:00",
     "destTime": "2022/05/28 03:00",
-    "position": "35.50726\u00b0 / 26.1967\u00b0",
+    "position": "35.82023\u00b0 / 25.72373\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -345,7 +345,7 @@
     "destTime": "2022/05/16 18:43",
     "position": "18.89206\u00b0 / 72.1433\u00b0",
     "area": "West Coast India",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9610406": {
     "rowidx": 220,
@@ -399,9 +399,9 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/05/30 06:00",
-    "destTime": "2022/05/30 04:00",
-    "position": "13.40763\u00b0 / 42.85781\u00b0",
+    "destLocalTime": "2022/05/30 01:00",
+    "destTime": "2022/05/29 23:00",
+    "position": "16.43947\u00b0 / 41.1543\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -517,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/28 08:00",
     "destTime": "2022/05/28 00:00",
-    "position": "22.06225\u00b0 / 113.8956\u00b0",
+    "position": "22.06184\u00b0 / 113.8959\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
@@ -546,9 +546,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/27 23:23",
     "destTime": "2022/05/27 14:23",
-    "position": "37.46378\u00b0 / 126.5811\u00b0",
+    "position": "37.46517\u00b0 / 126.603\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9442885": {
     "rowidx": 227,
@@ -604,7 +604,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/26 16:00",
     "destTime": "2022/05/26 08:00",
-    "position": "22.08158\u00b0 / 113.8856\u00b0",
+    "position": "22.08134\u00b0 / 113.886\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/27 13:10",
     "destTime": "2022/05/27 05:10",
-    "position": "34.87677\u00b0 / 119.7653\u00b0",
+    "position": "34.87669\u00b0 / 119.7657\u00b0",
     "area": "Yellow Sea",
     "status": "At Anchor"
   },
