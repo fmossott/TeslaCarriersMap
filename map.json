@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/29 11:29",
     "destTime": "2022/05/29 09:29",
-    "position": "51.4483\u00b0 / 2.593407\u00b0",
+    "position": "51.448\u00b0 / 2.593707\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/30 05:00",
     "destTime": "2022/05/30 03:00",
-    "position": "51.4344\u00b0 / 2.6697\u00b0",
+    "position": "51.4324\u00b0 / 2.667917\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/30 05:45",
     "destTime": "2022/05/30 03:45",
-    "position": "50.41685\u00b0 / -3.273098\u00b0",
+    "position": "50.43257\u00b0 / -3.323382\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/29 07:44",
     "destTime": "2022/05/29 05:44",
-    "position": "51.27472\u00b0 / 4.222157\u00b0",
+    "position": "51.27472\u00b0 / 4.22216\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/29 09:00",
     "destTime": "2022/05/29 06:00",
-    "position": "37.88098\u00b0 / 23.55614\u00b0",
+    "position": "37.87824\u00b0 / 23.55711\u00b0",
     "area": "Piraeus Area",
     "status": "At Anchor"
   },
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/30 06:00",
     "destTime": "2022/05/30 04:00",
-    "position": "31.57303\u00b0 / 32.18801\u00b0",
+    "position": "31.77085\u00b0 / 31.78304\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/28 15:09",
     "destTime": "2022/05/28 07:09",
-    "position": "23.01245\u00b0 / 113.5291\u00b0",
+    "position": "23.01238\u00b0 / 113.5291\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -536,18 +536,18 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "58,990",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
+    "dept": "SG SIN",
+    "deptLong": "Singapore",
     "deptType": "ATD",
-    "deptLocalTime": "2022/05/23 05:50",
-    "deptTime": "2022/05/22 21:50",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2022/05/29 08:18",
-    "destTime": "2022/05/29 00:18",
-    "position": "1.256583\u00b0 / 103.7303\u00b0",
-    "area": "Singapore Area",
+    "deptLocalTime": "2022/05/29 22:20",
+    "deptTime": "2022/05/29 14:20",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ETA",
+    "destLocalTime": "2022/06/11 22:00",
+    "destTime": "2022/06/11 20:00",
+    "position": "1.355\u00b0 / 103.263\u00b0",
+    "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
   "9293662": {
@@ -575,7 +575,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/26 16:00",
     "destTime": "2022/05/26 08:00",
-    "position": "22.08\u00b0 / 113.885\u00b0",
+    "position": "22.08076\u00b0 / 113.8858\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/29 00:30",
     "destTime": "2022/05/28 16:30",
-    "position": "39.02082\u00b0 / 117.7687\u00b0",
+    "position": "39.02083\u00b0 / 117.7687\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/28 11:09",
     "destTime": "2022/05/28 03:09",
-    "position": "27.58042\u00b0 / 121.6858\u00b0",
+    "position": "27.08835\u00b0 / 121.3233\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/29 11:43",
     "destTime": "2022/05/29 03:43",
-    "position": "31.32213\u00b0 / 121.6819\u00b0",
+    "position": "31.32225\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
