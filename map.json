@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/29 11:29",
     "destTime": "2022/05/29 09:29",
-    "position": "51.44955\u00b0 / 2.592332\u00b0",
+    "position": "51.44992\u00b0 / 2.593725\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/30 05:00",
     "destTime": "2022/05/30 03:00",
-    "position": "51.4338\u00b0 / 2.667533\u00b0",
+    "position": "51.43363\u00b0 / 2.668883\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/29 07:44",
     "destTime": "2022/05/29 05:44",
-    "position": "51.27472\u00b0 / 4.222138\u00b0",
+    "position": "51.27472\u00b0 / 4.22214\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -275,17 +275,17 @@
     "length": "228.74",
     "breadth": "32.29",
     "grossTonnage": "68,871",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/05/07 15:23",
-    "deptTime": "2022/05/07 07:23",
-    "dest": "GR PIR",
-    "destLong": "Piraeus",
-    "destType": "ATA",
-    "destLocalTime": "2022/05/29 22:46",
-    "destTime": "2022/05/29 19:46",
-    "position": "37.96071\u00b0 / 23.60492\u00b0",
+    "dept": "GR PIR",
+    "deptLong": "Piraeus",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/05/30 03:46",
+    "deptTime": "2022/05/29 19:46",
+    "dest": "FR LEH",
+    "destLong": "Le Havre",
+    "destType": "ETA",
+    "destLocalTime": "2022/06/06 04:00",
+    "destTime": "2022/06/06 02:00",
+    "position": "37.96069\u00b0 / 23.60492\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/17 02:43",
     "destTime": "2022/05/16 18:43",
-    "position": "12.01706\u00b0 / 44.8621\u00b0",
+    "position": "12.13282\u00b0 / 44.57608\u00b0",
     "area": "Gulf of Aden",
     "status": "Underway using Engine"
   },
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/30 07:43",
     "destTime": "2022/05/30 05:43",
-    "position": "31.1893\u00b0 / 29.87735\u00b0",
+    "position": "31.18928\u00b0 / 29.87733\u00b0",
     "area": "East Mediterranean",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/30 01:31",
     "destTime": "2022/05/29 23:31",
-    "position": "29.85767\u00b0 / 32.56346\u00b0",
+    "position": "29.85759\u00b0 / 32.56352\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/03 04:00",
     "destTime": "2022/06/03 01:00",
-    "position": "12.77551\u00b0 / 47.56805\u00b0",
+    "position": "12.32492\u00b0 / 44.09804\u00b0",
     "area": "Gulf of Aden",
     "status": "Underway using Engine"
   },
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/30 13:08",
     "destTime": "2022/05/30 05:08",
-    "position": "23.01252\u00b0 / 113.529\u00b0",
+    "position": "23.01253\u00b0 / 113.529\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/28 11:09",
     "destTime": "2022/05/28 03:09",
-    "position": "24.01108\u00b0 / 118.4177\u00b0",
+    "position": "23.77017\u00b0 / 118.1433\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/29 11:43",
     "destTime": "2022/05/29 03:43",
-    "position": "31.32213\u00b0 / 121.6817\u00b0",
+    "position": "31.32222\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
