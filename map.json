@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/29 11:29",
     "destTime": "2022/05/29 09:29",
-    "position": "51.44978\u00b0 / 2.59261\u00b0",
+    "position": "51.44929\u00b0 / 2.592745\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/26 02:11",
     "destTime": "2022/05/26 00:11",
-    "position": "51.43397\u00b0 / 2.667983\u00b0",
+    "position": "51.43357\u00b0 / 2.667933\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/31 05:45",
     "destTime": "2022/05/31 03:45",
-    "position": "50.64063\u00b0 / 1.2193\u00b0",
+    "position": "50.89103\u00b0 / 1.440633\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -256,8 +256,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/05/30 23:00",
     "destTime": "2022/05/30 21:00",
-    "position": "51.42494\u00b0 / 3.525462\u00b0",
-    "area": "Antwerp Area",
+    "position": "51.3806\u00b0 / 3.163357\u00b0",
+    "area": "North Sea",
     "status": "Underway using Engine"
   },
   "9312482": {
@@ -362,19 +362,19 @@
     "length": "199.95",
     "breadth": "32.2",
     "grossTonnage": "59,598",
-    "dept": "SG SIN",
-    "deptLong": "Singapore",
+    "dept": "EG ALY",
+    "deptLong": "Alexandria",
     "deptType": "ATD",
-    "deptLocalTime": "2022/05/16 17:23",
-    "deptTime": "2022/05/16 09:23",
+    "deptLocalTime": "2022/05/30 21:49",
+    "deptTime": "2022/05/30 19:49",
     "dest": "EG ALY",
     "destLong": "Alexandria",
     "destType": "ATA",
     "destLocalTime": "2022/05/30 07:43",
     "destTime": "2022/05/30 05:43",
-    "position": "31.18929\u00b0 / 29.87734\u00b0",
+    "position": "31.16669\u00b0 / 29.79285\u00b0",
     "area": "East Mediterranean",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9338620": {
     "rowidx": 221,
@@ -401,9 +401,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/30 01:31",
     "destTime": "2022/05/29 23:31",
-    "position": "29.85585\u00b0 / 32.56236\u00b0",
+    "position": "29.85583\u00b0 / 32.56292\u00b0",
     "area": "Red Sea",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9777838": {
     "rowidx": 222,
@@ -430,8 +430,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/03 04:00",
     "destTime": "2022/06/03 01:00",
-    "position": "12.32492\u00b0 / 44.09804\u00b0",
-    "area": "Gulf of Aden",
+    "position": "13.27024\u00b0 / 43.0295\u00b0",
+    "area": "Red Sea",
     "status": "Underway using Engine"
   },
   "9432919": {
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/30 13:08",
     "destTime": "2022/05/30 05:08",
-    "position": "23.01251\u00b0 / 113.529\u00b0",
+    "position": "23.01248\u00b0 / 113.529\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -662,8 +662,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/01 08:00",
     "destTime": "2022/05/31 23:00",
-    "position": "38.00694\u00b0 / 122.3458\u00b0",
-    "area": "Bohai Sea",
+    "position": "37.67038\u00b0 / 123.318\u00b0",
+    "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
   "9432907": {
