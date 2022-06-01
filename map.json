@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/01 17:00",
     "destTime": "2022/06/01 15:00",
-    "position": "43.26156\u00b0 / 15.057\u00b0",
+    "position": "43.61459\u00b0 / 14.67599\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -604,7 +604,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/02 02:00",
     "destTime": "2022/06/01 18:00",
-    "position": "38.62153\u00b0 / 120.8899\u00b0",
+    "position": "38.70198\u00b0 / 120.5017\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
@@ -665,5 +665,34 @@
     "position": "31.28107\u00b0 / 121.8252\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
+  },
+  "9289908": {
+    "rowidx": 231,
+    "silence": "FALSE",
+    "num": "-33",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q2",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "756122",
+    "name": "Lake Taupo",
+    "mmsi": "636016205",
+    "length": "182.8",
+    "breadth": "31.5",
+    "grossTonnage": "46,800",
+    "dept": "MX LZC",
+    "deptLong": "Lazaro Cardenas",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/05/11 02:33",
+    "deptTime": "2022/05/11 07:33",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/06/01 13:49",
+    "destTime": "2022/06/01 05:49",
+    "position": "31.32228\u00b0 / 121.6815\u00b0",
+    "area": "East China Sea",
+    "status": "Stopped"
   }
 }
