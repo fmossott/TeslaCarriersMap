@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/04 20:00",
     "destTime": "2022/06/04 18:00",
-    "position": "19.00448\u00b0 / 39.56189\u00b0",
+    "position": "20.43568\u00b0 / 38.72386\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/01 17:32",
     "destTime": "2022/06/01 15:32",
-    "position": "45.56676\u00b0 / 13.74389\u00b0",
+    "position": "45.56675\u00b0 / 13.7439\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/03 16:00",
     "destTime": "2022/06/03 14:00",
-    "position": "51.43422\u00b0 / 2.667517\u00b0",
+    "position": "51.43298\u00b0 / 2.664833\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -227,8 +227,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/06 01:00",
     "destTime": "2022/06/05 23:00",
-    "position": "36.04924\u00b0 / -6.560878\u00b0",
-    "area": "Gibraltar",
+    "position": "37.51882\u00b0 / -9.501574\u00b0",
+    "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
   "9531741": {
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/05/17 02:43",
     "destTime": "2022/05/16 18:43",
-    "position": "29.515\u00b0 / 32.61666\u00b0",
+    "position": "29.555\u00b0 / 32.60167\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -285,9 +285,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/02 18:18",
     "destTime": "2022/06/02 16:18",
-    "position": "43.56879\u00b0 / 10.30659\u00b0",
+    "position": "43.58068\u00b0 / 10.30562\u00b0",
     "area": "Ligurean Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9338620": {
     "rowidx": 218,
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/02 17:37",
     "destTime": "2022/06/02 09:37",
-    "position": "1.25245\u00b0 / 103.8888\u00b0",
+    "position": "1.252388\u00b0 / 103.8896\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -635,7 +635,7 @@
     "destTime": "2022/06/08 22:00",
     "position": "31.17455\u00b0 / 122.1827\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9289908": {
     "rowidx": 230,
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/02 17:59",
     "destTime": "2022/06/02 09:59",
-    "position": "31.32205\u00b0 / 121.6817\u00b0",
+    "position": "31.32207\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/02 17:17",
     "destTime": "2022/06/02 09:17",
-    "position": "31.3236\u00b0 / 121.6797\u00b0",
+    "position": "31.32352\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
