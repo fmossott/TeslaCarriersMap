@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/05 02:01",
     "destTime": "2022/06/05 00:01",
-    "position": "35.46716\u00b0 / 17.68947\u00b0",
+    "position": "35.92803\u00b0 / 16.23608\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -579,39 +579,10 @@
     "area": "East China Sea",
     "status": "Out of Range"
   },
-  "9325221": {
+  "9506710": {
     "rowidx": 228,
     "silence": "FALSE",
     "num": "-30",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "22Q2",
-    "numDept": "0",
-    "mapStatus": "4",
-    "mtsid": "462721",
-    "name": "Grand Ruby",
-    "mmsi": "372399000",
-    "length": "199.9",
-    "breadth": "32.26",
-    "grossTonnage": "59,217",
-    "dept": "CN TXG",
-    "deptLong": "Tianjin",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/06/02 20:17",
-    "deptTime": "2022/06/02 12:17",
-    "dest": "KR KAN",
-    "destLong": "Gwangyang",
-    "destType": "ETA",
-    "destLocalTime": "2022/06/05 10:30",
-    "destTime": "2022/06/05 01:30",
-    "position": "36.943\u00b0 / 123.7996\u00b0",
-    "area": "Yellow Sea",
-    "status": "Underway using Engine"
-  },
-  "9506710": {
-    "rowidx": 229,
-    "silence": "FALSE",
-    "num": "-31",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q2",
@@ -638,9 +609,9 @@
     "status": "Underway using Engine"
   },
   "9289908": {
-    "rowidx": 230,
+    "rowidx": 229,
     "silence": "FALSE",
-    "num": "-32",
+    "num": "-31",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q2",
@@ -667,9 +638,9 @@
     "status": "Stopped"
   },
   "9675573": {
-    "rowidx": 231,
+    "rowidx": 230,
     "silence": "FALSE",
-    "num": "-33",
+    "num": "-32",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q2",
@@ -696,9 +667,9 @@
     "status": "Underway using Engine"
   },
   "9325439": {
-    "rowidx": 232,
+    "rowidx": 231,
     "silence": "FALSE",
-    "num": "-34",
+    "num": "-33",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q2",
