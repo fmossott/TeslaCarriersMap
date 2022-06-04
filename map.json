@@ -82,9 +82,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/04 16:00",
     "destTime": "2022/06/04 14:00",
-    "position": "29.69667\u00b0 / 32.56\u00b0",
+    "position": "29.74594\u00b0 / 32.56016\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9531715": {
     "rowidx": 212,
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/03 21:08",
     "destTime": "2022/06/03 19:08",
-    "position": "51.30388\u00b0 / 3.229667\u00b0",
+    "position": "51.30392\u00b0 / 3.229667\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,9 +140,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/03 08:04",
     "destTime": "2022/06/03 07:04",
-    "position": "50.63355\u00b0 / -1.012898\u00b0",
+    "position": "50.6337\u00b0 / -1.013075\u00b0",
     "area": "English Channel",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9312482": {
     "rowidx": 214,
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/06 12:00",
     "destTime": "2022/06/06 10:00",
-    "position": "40.02139\u00b0 / -9.808514\u00b0",
+    "position": "42.87446\u00b0 / -9.76971\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -227,9 +227,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/04 14:17",
     "destTime": "2022/06/04 12:17",
-    "position": "31.18918\u00b0 / 29.87726\u00b0",
+    "position": "31.18922\u00b0 / 29.87724\u00b0",
     "area": "East Mediterranean",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9610406": {
     "rowidx": 217,
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/04 06:59",
     "destTime": "2022/06/04 04:59",
-    "position": "41.33173\u00b0 / 2.146205\u00b0",
+    "position": "41.33172\u00b0 / 2.146203\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/04 10:50",
     "destTime": "2022/06/04 08:50",
-    "position": "29.81077\u00b0 / 32.56325\u00b0",
+    "position": "29.81034\u00b0 / 32.56369\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/04 10:29",
     "destTime": "2022/06/04 06:29",
-    "position": "24.99638\u00b0 / 55.08027\u00b0",
+    "position": "24.99638\u00b0 / 55.08033\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/04 03:19",
     "destTime": "2022/06/03 19:19",
-    "position": "31.32204\u00b0 / 121.6817\u00b0",
+    "position": "31.32202\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/04 02:12",
     "destTime": "2022/06/03 18:12",
-    "position": "31.3235\u00b0 / 121.6795\u00b0",
+    "position": "31.32357\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
