@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/04 22:48",
     "destTime": "2022/06/04 21:48",
-    "position": "50.8878\u00b0 / -1.398887\u00b0",
+    "position": "50.88782\u00b0 / -1.398932\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/06 01:00",
     "destTime": "2022/06/05 23:00",
-    "position": "51.25467\u00b0 / 2.189568\u00b0",
+    "position": "51.33455\u00b0 / 2.39168\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -285,9 +285,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/05 01:24",
     "destTime": "2022/06/04 23:24",
-    "position": "43.49096\u00b0 / 10.25253\u00b0",
+    "position": "43.48992\u00b0 / 10.25182\u00b0",
     "area": "Ligurean Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9777838": {
     "rowidx": 219,
@@ -372,9 +372,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/22 05:00",
     "destTime": "2022/06/21 22:00",
-    "position": "24.99642\u00b0 / 55.08027\u00b0",
+    "position": "25.02882\u00b0 / 55.03722\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9397987": {
     "rowidx": 222,
@@ -457,9 +457,9 @@
     "dest": "JP HIJ",
     "destLong": "Hiroshima",
     "destType": "ETA",
-    "destLocalTime": "2022/06/13 01:01",
-    "destTime": "2022/06/12 16:01",
-    "position": "1.270453\u00b0 / 103.8517\u00b0",
+    "destLocalTime": "2022/06/13 00:01",
+    "destTime": "2022/06/12 15:01",
+    "position": "1.27045\u00b0 / 103.8517\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -517,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/06 05:00",
     "destTime": "2022/06/05 22:00",
-    "position": "12.92939\u00b0 / 100.7433\u00b0",
+    "position": "13.04521\u00b0 / 100.8035\u00b0",
     "area": "Gulf of Thailand",
     "status": "Underway using Engine"
   },
@@ -720,7 +720,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/06 07:30",
     "destTime": "2022/06/05 22:30",
-    "position": "36.55933\u00b0 / 125.892\u00b0",
+    "position": "36.79589\u00b0 / 126.0149\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   }
