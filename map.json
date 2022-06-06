@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/03 21:08",
     "destTime": "2022/06/03 19:08",
-    "position": "51.30388\u00b0 / 3.229667\u00b0",
+    "position": "51.30388\u00b0 / 3.22965\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/04 22:48",
     "destTime": "2022/06/04 21:48",
-    "position": "50.88779\u00b0 / -1.398925\u00b0",
+    "position": "50.88781\u00b0 / -1.398902\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -198,9 +198,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 02:45",
     "destTime": "2022/06/06 00:45",
-    "position": "51.3336\u00b0 / 3.217743\u00b0",
+    "position": "51.3223\u00b0 / 3.22262\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9531741": {
     "rowidx": 216,
@@ -285,9 +285,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 00:22",
     "destTime": "2022/06/05 22:22",
-    "position": "43.5807\u00b0 / 10.30564\u00b0",
+    "position": "43.58072\u00b0 / 10.30564\u00b0",
     "area": "Ligurean Sea",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9777838": {
     "rowidx": 219,
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/05 21:40",
     "destTime": "2022/06/05 18:40",
-    "position": "21.45832\u00b0 / 39.16638\u00b0",
+    "position": "21.45833\u00b0 / 39.16638\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 05:30",
     "destTime": "2022/06/05 22:30",
-    "position": "13.06544\u00b0 / 100.8811\u00b0",
+    "position": "13.06543\u00b0 / 100.8811\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/06 12:00",
     "destTime": "2022/06/06 04:00",
-    "position": "13.93207\u00b0 / 120.4085\u00b0",
+    "position": "13.66737\u00b0 / 120.5489\u00b0",
     "area": "Philippines",
     "status": "Underway using Engine"
   },
