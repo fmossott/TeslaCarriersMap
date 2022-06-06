@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/04 22:48",
     "destTime": "2022/06/04 21:48",
-    "position": "50.88777\u00b0 / -1.398895\u00b0",
+    "position": "50.88782\u00b0 / -1.398948\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/06 12:00",
     "destTime": "2022/06/06 10:00",
-    "position": "51.22416\u00b0 / 2.134503\u00b0",
+    "position": "51.34675\u00b0 / 2.433112\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 02:45",
     "destTime": "2022/06/06 00:45",
-    "position": "51.30644\u00b0 / 3.227603\u00b0",
+    "position": "51.30645\u00b0 / 3.227603\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -217,17 +217,17 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "63,084",
-    "dept": "EG ALY",
-    "deptLong": "Alexandria",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/06/04 22:15",
-    "deptTime": "2022/06/04 20:15",
+    "dept": "TR CKZ",
+    "deptLong": "Canakkale",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/06/06 10:28",
+    "deptTime": "2022/06/06 08:28",
     "dest": "TR DRC",
     "destLong": "Derince",
     "destType": "ETA",
     "destLocalTime": "2022/06/07 01:00",
     "destTime": "2022/06/06 22:00",
-    "position": "39.78052\u00b0 / 25.82512\u00b0",
+    "position": "40.02009\u00b0 / 26.199\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 00:22",
     "destTime": "2022/06/05 22:22",
-    "position": "43.58069\u00b0 / 10.30563\u00b0",
+    "position": "43.58067\u00b0 / 10.30563\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/05 21:40",
     "destTime": "2022/06/05 18:40",
-    "position": "21.45832\u00b0 / 39.1664\u00b0",
+    "position": "21.45837\u00b0 / 39.16638\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 05:30",
     "destTime": "2022/06/05 22:30",
-    "position": "13.0654\u00b0 / 100.8811\u00b0",
+    "position": "13.06542\u00b0 / 100.8811\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -604,7 +604,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/07 03:00",
     "destTime": "2022/06/06 19:00",
-    "position": "32.03808\u00b0 / 123.0976\u00b0",
+    "position": "31.3984\u00b0 / 123.3239\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -662,9 +662,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 14:29",
     "destTime": "2022/06/06 06:29",
-    "position": "13.7343\u00b0 / 121.0222\u00b0",
+    "position": "13.73313\u00b0 / 121.0217\u00b0",
     "area": "Philippines",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9252228": {
     "rowidx": 232,
@@ -741,16 +741,16 @@
     "grossTonnage": "61,804",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/06/06 03:52",
-    "deptTime": "2022/06/05 19:52",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/06/06 15:51",
+    "deptTime": "2022/06/06 07:51",
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/06/13 08:01",
-    "destTime": "2022/06/13 00:01",
-    "position": "31.32209\u00b0 / 121.6817\u00b0",
+    "destLocalTime": "2022/06/13 18:00",
+    "destTime": "2022/06/13 10:00",
+    "position": "31.27233\u00b0 / 121.8491\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
