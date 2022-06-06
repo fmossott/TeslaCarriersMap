@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/04 22:48",
     "destTime": "2022/06/04 21:48",
-    "position": "50.88779\u00b0 / -1.398853\u00b0",
+    "position": "50.88783\u00b0 / -1.398895\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/06 12:00",
     "destTime": "2022/06/06 10:00",
-    "position": "50.50467\u00b0 / 0.9987317\u00b0",
+    "position": "50.84324\u00b0 / 1.457113\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -198,9 +198,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 02:45",
     "destTime": "2022/06/06 00:45",
-    "position": "51.30645\u00b0 / 3.227605\u00b0",
+    "position": "51.30645\u00b0 / 3.2276\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9531741": {
     "rowidx": 216,
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 00:22",
     "destTime": "2022/06/05 22:22",
-    "position": "43.58072\u00b0 / 10.30562\u00b0",
+    "position": "43.58067\u00b0 / 10.30563\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/05 21:40",
     "destTime": "2022/06/05 18:40",
-    "position": "21.45833\u00b0 / 39.1664\u00b0",
+    "position": "21.45837\u00b0 / 39.1664\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 05:30",
     "destTime": "2022/06/05 22:30",
-    "position": "13.06541\u00b0 / 100.8811\u00b0",
+    "position": "13.06544\u00b0 / 100.8811\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -604,7 +604,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/07 03:00",
     "destTime": "2022/06/06 19:00",
-    "position": "32.66053\u00b0 / 122.8334\u00b0",
+    "position": "32.06375\u00b0 / 123.0866\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/06 12:00",
     "destTime": "2022/06/06 04:00",
-    "position": "13.56405\u00b0 / 120.9638\u00b0",
+    "position": "13.6565\u00b0 / 121.0149\u00b0",
     "area": "Philippines",
     "status": "Underway using Engine"
   },
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/12 10:00",
     "destTime": "2022/06/12 02:00",
-    "position": "29.25196\u00b0 / 123.1896\u00b0",
+    "position": "26.36895\u00b0 / 121.0754\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -723,5 +723,34 @@
     "position": "36.79589\u00b0 / 126.0149\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
+  },
+  "9283875": {
+    "rowidx": 234,
+    "silence": "FALSE",
+    "num": "-36",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q2",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "415483",
+    "name": "Phoenix Leader",
+    "mmsi": "354899000",
+    "length": "199.94",
+    "breadth": "32.26",
+    "grossTonnage": "61,804",
+    "dept": "CN TXG",
+    "deptLong": "Tianjin",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/06/03 17:39",
+    "deptTime": "2022/06/03 09:39",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/06/06 03:52",
+    "destTime": "2022/06/05 19:52",
+    "position": "31.32211\u00b0 / 121.6817\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
   }
 }
