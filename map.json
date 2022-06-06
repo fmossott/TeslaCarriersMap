@@ -53,9 +53,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/08 20:00",
     "destTime": "2022/06/08 18:00",
-    "position": "5.793869\u00b0 / 79.89074\u00b0",
-    "area": "Laccadive Sea",
-    "status": "Out of Range"
+    "position": "20.30583\u00b0 / 38.92083\u00b0",
+    "area": "Red Sea",
+    "status": "Underway using Engine"
   },
   "9722302": {
     "rowidx": 8,
@@ -138,9 +138,9 @@
     "dest": "DE BRV",
     "destLong": "Bremerhaven",
     "destType": "ETA",
-    "destLocalTime": "2022/06/08 02:00",
-    "destTime": "2022/06/08 00:00",
-    "position": "50.81084\u00b0 / -1.291208\u00b0",
+    "destLocalTime": "2022/06/08 00:30",
+    "destTime": "2022/06/07 22:30",
+    "position": "50.44765\u00b0 / 0.55758\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 13:16",
     "destTime": "2022/06/06 11:16",
-    "position": "51.30893\u00b0 / 3.225543\u00b0",
+    "position": "51.30892\u00b0 / 3.225525\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 02:45",
     "destTime": "2022/06/06 00:45",
-    "position": "51.30644\u00b0 / 3.227595\u00b0",
+    "position": "51.30645\u00b0 / 3.2276\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -224,12 +224,12 @@
     "deptTime": "2022/06/04 20:15",
     "dest": "TR DRC",
     "destLong": "Derince",
-    "destType": "ETA",
-    "destLocalTime": "2022/06/07 01:00",
-    "destTime": "2022/06/06 22:00",
-    "position": "40.7319\u00b0 / 29.78335\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/06/07 00:07",
+    "destTime": "2022/06/06 21:07",
+    "position": "40.74942\u00b0 / 29.83441\u00b0",
     "area": "Marmara Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9610406": {
     "rowidx": 217,
@@ -256,8 +256,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/09 05:00",
     "destTime": "2022/06/09 04:00",
-    "position": "36.46021\u00b0 / -8.147373\u00b0",
-    "area": "Gibraltar",
+    "position": "37.67483\u00b0 / -9.526517\u00b0",
+    "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
   "9338620": {
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 22:08",
     "destTime": "2022/06/06 19:08",
-    "position": "36.59719\u00b0 / 36.19072\u00b0",
+    "position": "36.59716\u00b0 / 36.19067\u00b0",
     "area": "East Mediterranean",
     "status": "Moored"
   },
@@ -604,9 +604,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/07 03:00",
     "destTime": "2022/06/06 19:00",
-    "position": "29.6483\u00b0 / 122.2868\u00b0",
+    "position": "29.64822\u00b0 / 122.2878\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9675573": {
     "rowidx": 230,
@@ -717,12 +717,12 @@
     "deptTime": "2022/06/06 10:34",
     "dest": "KR KUV",
     "destLong": "Gunsan",
-    "destType": "ETA",
-    "destLocalTime": "2022/06/07 06:00",
-    "destTime": "2022/06/06 21:00",
-    "position": "35.9595\u00b0 / 126.4112\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/06/07 06:38",
+    "destTime": "2022/06/06 21:38",
+    "position": "35.97642\u00b0 / 126.5752\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9283875": {
     "rowidx": 234,
