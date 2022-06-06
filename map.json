@@ -101,16 +101,16 @@
     "length": "199.98",
     "breadth": "32.26",
     "grossTonnage": "58,750",
-    "dept": "TH LCH",
-    "deptLong": "Laem Chabang",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/05/01 19:33",
-    "deptTime": "2022/05/01 12:33",
-    "dest": "BE ZEE",
-    "destLong": "Zeebrugge",
-    "destType": "ATA",
-    "destLocalTime": "2022/06/03 21:08",
-    "destTime": "2022/06/03 19:08",
+    "dept": "BE ZEE",
+    "deptLong": "Zeebrugge",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/06/04 02:08",
+    "deptTime": "2022/06/03 19:08",
+    "dest": "NO DRM",
+    "destLong": "Drammen",
+    "destType": "ETA",
+    "destLocalTime": "2022/06/08 14:00",
+    "destTime": "2022/06/08 12:00",
     "position": "51.30388\u00b0 / 3.229667\u00b0",
     "area": "North Sea",
     "status": "Moored"
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/04 22:48",
     "destTime": "2022/06/04 21:48",
-    "position": "50.88781\u00b0 / -1.398913\u00b0",
+    "position": "50.88779\u00b0 / -1.398853\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -198,9 +198,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 02:45",
     "destTime": "2022/06/06 00:45",
-    "position": "51.30644\u00b0 / 3.227588\u00b0",
+    "position": "51.30645\u00b0 / 3.227605\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9531741": {
     "rowidx": 216,
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/07 02:00",
     "destTime": "2022/06/06 23:00",
-    "position": "38.61737\u00b0 / 25.41882\u00b0",
+    "position": "39.31066\u00b0 / 25.60674\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -285,9 +285,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 00:22",
     "destTime": "2022/06/05 22:22",
-    "position": "43.58068\u00b0 / 10.30563\u00b0",
+    "position": "43.58072\u00b0 / 10.30562\u00b0",
     "area": "Ligurean Sea",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9777838": {
     "rowidx": 219,
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/06 21:00",
     "destTime": "2022/06/06 18:00",
-    "position": "33.72464\u00b0 / 34.00833\u00b0",
+    "position": "34.06894\u00b0 / 34.22644\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/05 21:40",
     "destTime": "2022/06/05 18:40",
-    "position": "21.45835\u00b0 / 39.1664\u00b0",
+    "position": "21.45833\u00b0 / 39.1664\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 05:30",
     "destTime": "2022/06/05 22:30",
-    "position": "13.06543\u00b0 / 100.8811\u00b0",
+    "position": "13.06541\u00b0 / 100.8811\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/06 12:00",
     "destTime": "2022/06/06 04:00",
-    "position": "13.56577\u00b0 / 120.7879\u00b0",
+    "position": "13.56405\u00b0 / 120.9638\u00b0",
     "area": "Philippines",
     "status": "Underway using Engine"
   },
