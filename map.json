@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/14 01:00",
     "destTime": "2022/06/13 23:00",
-    "position": "31.38089\u00b0 / 32.39036\u00b0",
+    "position": "33.42405\u00b0 / 26.97552\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/04 22:48",
     "destTime": "2022/06/04 21:48",
-    "position": "50.88782\u00b0 / -1.398948\u00b0",
+    "position": "50.88781\u00b0 / -1.398938\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -169,8 +169,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/06 12:00",
     "destTime": "2022/06/06 10:00",
-    "position": "51.34675\u00b0 / 2.433112\u00b0",
-    "area": "English Channel",
+    "position": "51.35578\u00b0 / 2.781227\u00b0",
+    "area": "North Sea",
     "status": "Underway using Engine"
   },
   "9731640": {
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 02:45",
     "destTime": "2022/06/06 00:45",
-    "position": "51.30645\u00b0 / 3.227603\u00b0",
+    "position": "51.30645\u00b0 / 3.227597\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/07 01:00",
     "destTime": "2022/06/06 22:00",
-    "position": "40.02009\u00b0 / 26.199\u00b0",
+    "position": "40.24499\u00b0 / 26.5051\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -256,8 +256,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/09 05:00",
     "destTime": "2022/06/09 04:00",
-    "position": "36.39112\u00b0 / -2.361492\u00b0",
-    "area": "West Mediterranean",
+    "position": "35.96409\u00b0 / -5.580863\u00b0",
+    "area": "Gibraltar",
     "status": "Underway using Engine"
   },
   "9338620": {
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 00:22",
     "destTime": "2022/06/05 22:22",
-    "position": "43.58067\u00b0 / 10.30563\u00b0",
+    "position": "43.58067\u00b0 / 10.30559\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/06 21:00",
     "destTime": "2022/06/06 18:00",
-    "position": "35.08661\u00b0 / 34.76527\u00b0",
+    "position": "35.3516\u00b0 / 34.86058\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/05 21:40",
     "destTime": "2022/06/05 18:40",
-    "position": "21.45837\u00b0 / 39.16638\u00b0",
+    "position": "21.45833\u00b0 / 39.16642\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -507,19 +507,19 @@
     "length": "231.6",
     "breadth": "32.58",
     "grossTonnage": "71,673",
-    "dept": "CN LYG",
-    "deptLong": "Lianyungang",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/05/29 15:01",
-    "deptTime": "2022/05/29 07:01",
-    "dest": "TH LCH",
-    "destLong": "Laem Chabang",
-    "destType": "ATA",
-    "destLocalTime": "2022/06/06 05:30",
-    "destTime": "2022/06/05 22:30",
-    "position": "13.06542\u00b0 / 100.8811\u00b0",
+    "dept": "TH LCH",
+    "deptLong": "Laem Chabang",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/06/06 06:30",
+    "deptTime": "2022/06/05 22:30",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/06/08 23:00",
+    "destTime": "2022/06/08 15:00",
+    "position": "13.06705\u00b0 / 100.8776\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9432907": {
     "rowidx": 227,
@@ -604,7 +604,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/07 03:00",
     "destTime": "2022/06/06 19:00",
-    "position": "31.3984\u00b0 / 123.3239\u00b0",
+    "position": "31.04772\u00b0 / 123.4578\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -662,9 +662,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 14:29",
     "destTime": "2022/06/06 06:29",
-    "position": "13.73313\u00b0 / 121.0217\u00b0",
+    "position": "13.74115\u00b0 / 121.0085\u00b0",
     "area": "Philippines",
-    "status": "Stopped"
+    "status": "Not Under Command"
   },
   "9252228": {
     "rowidx": 232,
