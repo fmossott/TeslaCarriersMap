@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/08 05:00",
     "destTime": "2022/06/08 03:00",
-    "position": "57.93161\u00b0 / 8.795183\u00b0",
+    "position": "58.2439\u00b0 / 9.348567\u00b0",
     "area": "Skagerrak",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/08 00:30",
     "destTime": "2022/06/07 22:30",
-    "position": "53.78053\u00b0 / 6.587752\u00b0",
+    "position": "53.85755\u00b0 / 7.17477\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -159,19 +159,19 @@
     "length": "228.74",
     "breadth": "32.29",
     "grossTonnage": "68,871",
-    "dept": "GR PIR",
-    "deptLong": "Piraeus",
+    "dept": "BE ZEE",
+    "deptLong": "Zeebrugge",
     "deptType": "ATD",
-    "deptLocalTime": "2022/05/30 15:34",
-    "deptTime": "2022/05/30 12:34",
+    "deptLocalTime": "2022/06/07 21:37",
+    "deptTime": "2022/06/07 19:37",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2022/06/06 13:16",
     "destTime": "2022/06/06 11:16",
-    "position": "51.30891\u00b0 / 3.225547\u00b0",
+    "position": "51.40054\u00b0 / 3.019988\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Underway"
   },
   "9731640": {
     "rowidx": 215,
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 02:45",
     "destTime": "2022/06/06 00:45",
-    "position": "51.31641\u00b0 / 3.225228\u00b0",
+    "position": "51.31641\u00b0 / 3.225225\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/07 09:09",
     "destTime": "2022/06/07 06:09",
-    "position": "40.75869\u00b0 / 29.74615\u00b0",
+    "position": "40.75871\u00b0 / 29.74615\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -459,9 +459,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/08 22:30",
     "destTime": "2022/06/08 14:30",
-    "position": "11.76529\u00b0 / 101.2855\u00b0",
+    "position": "4.983222\u00b0 / 104.1183\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9432907": {
     "rowidx": 225,
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/07 01:52",
     "destTime": "2022/06/06 17:52",
-    "position": "29.64782\u00b0 / 122.2866\u00b0",
+    "position": "29.64817\u00b0 / 122.2876\u00b0",
     "area": "East China Sea",
     "status": "At Anchor"
   },
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/07 04:54",
     "destTime": "2022/06/06 20:54",
-    "position": "31.32268\u00b0 / 121.6809\u00b0",
+    "position": "31.32269\u00b0 / 121.681\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
