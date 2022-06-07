@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/08 07:00",
     "destTime": "2022/06/08 05:00",
-    "position": "57.31165\u00b0 / 7.771383\u00b0",
+    "position": "57.59908\u00b0 / 8.275817\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 13:16",
     "destTime": "2022/06/06 11:16",
-    "position": "51.30893\u00b0 / 3.225538\u00b0",
+    "position": "51.30892\u00b0 / 3.225532\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 02:45",
     "destTime": "2022/06/06 00:45",
-    "position": "51.31641\u00b0 / 3.225228\u00b0",
+    "position": "51.31641\u00b0 / 3.22523\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -217,17 +217,17 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "63,084",
-    "dept": "TR KFZ",
-    "deptLong": "Korfez",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/06/07 09:09",
-    "deptTime": "2022/06/07 06:09",
-    "dest": "TR YAR",
-    "destLong": "Yarimca",
-    "destType": "ETA",
-    "destLocalTime": "2022/06/07 12:00",
-    "destTime": "2022/06/07 09:00",
-    "position": "40.75871\u00b0 / 29.74615\u00b0",
+    "dept": "TR DRC",
+    "deptLong": "Derince",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/06/07 08:23",
+    "deptTime": "2022/06/07 05:23",
+    "dest": "TR KFZ",
+    "destLong": "Korfez",
+    "destType": "ATA",
+    "destLocalTime": "2022/06/07 09:09",
+    "destTime": "2022/06/07 06:09",
+    "position": "40.75871\u00b0 / 29.74616\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -461,7 +461,7 @@
     "destTime": "2022/06/08 14:30",
     "position": "11.76529\u00b0 / 101.2855\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9432907": {
     "rowidx": 225,
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/07 01:52",
     "destTime": "2022/06/06 17:52",
-    "position": "29.64737\u00b0 / 122.2865\u00b0",
+    "position": "29.64762\u00b0 / 122.2865\u00b0",
     "area": "East China Sea",
     "status": "At Anchor"
   },
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/07 04:54",
     "destTime": "2022/06/06 20:54",
-    "position": "31.32267\u00b0 / 121.681\u00b0",
+    "position": "31.32271\u00b0 / 121.681\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
