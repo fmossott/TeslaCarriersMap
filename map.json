@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/08 05:00",
     "destTime": "2022/06/08 03:00",
-    "position": "58.2439\u00b0 / 9.348567\u00b0",
+    "position": "58.44377\u00b0 / 9.687083\u00b0",
     "area": "Skagerrak",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/08 00:30",
     "destTime": "2022/06/07 22:30",
-    "position": "53.85755\u00b0 / 7.17477\u00b0",
+    "position": "53.87502\u00b0 / 7.356125\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/06 13:16",
     "destTime": "2022/06/06 11:16",
-    "position": "51.40054\u00b0 / 3.019988\u00b0",
+    "position": "51.37431\u00b0 / 2.643923\u00b0",
     "area": "North Sea",
     "status": "Underway"
   },
@@ -227,9 +227,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/07 09:09",
     "destTime": "2022/06/07 06:09",
-    "position": "40.75871\u00b0 / 29.74615\u00b0",
+    "position": "40.75867\u00b0 / 29.74614\u00b0",
     "area": "Marmara Sea",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9610406": {
     "rowidx": 217,
@@ -312,9 +312,9 @@
     "dest": "LY MRA",
     "destLong": "Misurata",
     "destType": "ETA",
-    "destLocalTime": "2022/06/10 20:00",
-    "destTime": "2022/06/10 18:00",
-    "position": "36.62941\u00b0 / 36.15539\u00b0",
+    "destLocalTime": "2022/06/10 13:30",
+    "destTime": "2022/06/10 11:30",
+    "position": "35.92438\u00b0 / 34.24701\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/07 01:52",
     "destTime": "2022/06/06 17:52",
-    "position": "29.64817\u00b0 / 122.2876\u00b0",
+    "position": "29.64795\u00b0 / 122.2877\u00b0",
     "area": "East China Sea",
     "status": "At Anchor"
   },
@@ -635,7 +635,7 @@
     "destTime": "2022/06/12 04:00",
     "position": "24.56301\u00b0 / 119.511\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9283875": {
     "rowidx": 231,
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/07 04:54",
     "destTime": "2022/06/06 20:54",
-    "position": "31.32269\u00b0 / 121.681\u00b0",
+    "position": "31.32265\u00b0 / 121.681\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
