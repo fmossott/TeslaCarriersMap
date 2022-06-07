@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 13:16",
     "destTime": "2022/06/06 11:16",
-    "position": "51.3089\u00b0 / 3.22555\u00b0",
+    "position": "51.30893\u00b0 / 3.22553\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 02:45",
     "destTime": "2022/06/06 00:45",
-    "position": "51.30645\u00b0 / 3.227602\u00b0",
+    "position": "51.30645\u00b0 / 3.227597\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -217,19 +217,19 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "63,084",
-    "dept": "TR DRC",
-    "deptLong": "Derince",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/06/07 08:23",
-    "deptTime": "2022/06/07 05:23",
+    "dept": "TR KFZ",
+    "deptLong": "Korfez",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/06/07 09:09",
+    "deptTime": "2022/06/07 06:09",
     "dest": "TR YAR",
     "destLong": "Yarimca",
     "destType": "ETA",
     "destLocalTime": "2022/06/07 12:00",
     "destTime": "2022/06/07 09:00",
-    "position": "40.74852\u00b0 / 29.74031\u00b0",
+    "position": "40.7587\u00b0 / 29.74614\u00b0",
     "area": "Marmara Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9610406": {
     "rowidx": 217,
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 22:08",
     "destTime": "2022/06/06 19:08",
-    "position": "36.59718\u00b0 / 36.19065\u00b0",
+    "position": "36.59725\u00b0 / 36.19074\u00b0",
     "area": "East Mediterranean",
     "status": "Moored"
   },
@@ -720,9 +720,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/07 06:38",
     "destTime": "2022/06/06 21:38",
-    "position": "35.97643\u00b0 / 126.5753\u00b0",
+    "position": "35.97643\u00b0 / 126.5752\u00b0",
     "area": "Yellow Sea",
-    "status": "Moored"
+    "status": "Restricted Manoeuvrability"
   },
   "9283875": {
     "rowidx": 234,
