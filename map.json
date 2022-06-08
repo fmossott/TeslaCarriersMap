@@ -48,14 +48,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/05/20 02:20",
     "deptTime": "2022/05/19 18:20",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/06/08 20:00",
-    "destTime": "2022/06/08 18:00",
-    "position": "29.81961\u00b0 / 32.55352\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/06/08 23:04",
+    "destTime": "2022/06/08 21:04",
+    "position": "29.85642\u00b0 / 32.57235\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9722302": {
     "rowidx": 8,
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/08 03:28",
     "destTime": "2022/06/08 01:28",
-    "position": "53.56439\u00b0 / 8.565235\u00b0",
+    "position": "53.56437\u00b0 / 8.565227\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 02:45",
     "destTime": "2022/06/06 00:45",
-    "position": "51.31641\u00b0 / 3.22522\u00b0",
+    "position": "51.31641\u00b0 / 3.225222\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,8 +256,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/09 02:00",
     "destTime": "2022/06/09 01:00",
-    "position": "51.17037\u00b0 / -5.210557\u00b0",
-    "area": "Bristol Channel",
+    "position": "51.28261\u00b0 / -5.267782\u00b0",
+    "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
   "9338620": {
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/08 22:59",
     "destTime": "2022/06/08 14:59",
-    "position": "1.283105\u00b0 / 104.0186\u00b0",
+    "position": "1.283323\u00b0 / 104.0188\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -689,10 +689,10 @@
     "dest": "MX LZC",
     "destLong": "Lazaro Cardenas",
     "destType": "ETA",
-    "destLocalTime": "2022/06/25 06:00",
-    "destTime": "2022/06/25 11:00",
-    "position": "31.31707\u00b0 / 121.7204\u00b0",
-    "area": "East China Sea",
+    "destLocalTime": "2022/06/24 18:30",
+    "destTime": "2022/06/24 23:30",
+    "position": "31.83468\u00b0 / 132.7655\u00b0",
+    "area": "Japan Coast",
     "status": "Underway using Engine"
   },
   "9626522": {
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/07 04:54",
     "destTime": "2022/06/06 20:54",
-    "position": "31.32265\u00b0 / 121.681\u00b0",
+    "position": "31.32267\u00b0 / 121.681\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -749,7 +749,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/08 06:03",
     "destTime": "2022/06/07 22:03",
-    "position": "31.32337\u00b0 / 121.6796\u00b0",
+    "position": "31.3234\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
