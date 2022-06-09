@@ -43,17 +43,17 @@
     "length": "199.9",
     "breadth": "32.26",
     "grossTonnage": "57,692",
-    "dept": "EG SUZ",
-    "deptLong": "Suez Canal",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/06/09 10:58",
-    "deptTime": "2022/06/09 02:58",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/05/20 02:20",
+    "deptTime": "2022/05/19 18:20",
     "dest": "GB SOU",
     "destLong": "Southampton",
     "destType": "ETA",
     "destLocalTime": "2022/06/17 15:00",
     "destTime": "2022/06/17 14:00",
-    "position": "31.22982\u00b0 / 32.34631\u00b0",
+    "position": "31.39533\u00b0 / 32.39451\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/08 03:28",
     "destTime": "2022/06/08 01:28",
-    "position": "53.57541\u00b0 / 8.552917\u00b0",
+    "position": "53.57539\u00b0 / 8.55294\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/08 11:10",
     "destTime": "2022/06/08 09:10",
-    "position": "49.47202\u00b0 / 0.2103233\u00b0",
+    "position": "49.47196\u00b0 / 0.2103333\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/06 02:45",
     "destTime": "2022/06/06 00:45",
-    "position": "51.31641\u00b0 / 3.225227\u00b0",
+    "position": "51.31641\u00b0 / 3.22522\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/11 02:00",
     "destTime": "2022/06/11 00:00",
-    "position": "34.04177\u00b0 / 22.53522\u00b0",
+    "position": "33.94626\u00b0 / 21.58271\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -343,9 +343,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/09 20:51",
     "destTime": "2022/06/09 18:51",
-    "position": "31.23108\u00b0 / 32.30375\u00b0",
+    "position": "31.24452\u00b0 / 32.3024\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9392341": {
     "rowidx": 221,
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/11 22:00",
     "destTime": "2022/06/11 20:00",
-    "position": "18.08622\u00b0 / 40.11045\u00b0",
+    "position": "18.35733\u00b0 / 39.9471\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
