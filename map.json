@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/08 03:28",
     "destTime": "2022/06/08 01:28",
-    "position": "53.57537\u00b0 / 8.55291\u00b0",
+    "position": "53.57541\u00b0 / 8.552932\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/08 11:10",
     "destTime": "2022/06/08 09:10",
-    "position": "53.26332\u00b0 / 2.748413\u00b0",
+    "position": "53.52281\u00b0 / 2.715222\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/13 08:00",
     "destTime": "2022/06/13 06:00",
-    "position": "51.31639\u00b0 / 3.224982\u00b0",
+    "position": "51.334\u00b0 / 3.21726\u00b0",
     "area": "North Sea",
     "status": "Stopped"
   },
@@ -256,9 +256,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/10 11:45",
     "destTime": "2022/06/10 10:45",
-    "position": "51.4947\u00b0 / -2.714307\u00b0",
+    "position": "51.49469\u00b0 / -2.7143\u00b0",
     "area": "Bristol Channel",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9338620": {
     "rowidx": 218,
@@ -509,17 +509,17 @@
     "grossTonnage": "48,936",
     "dept": "SG SIN",
     "deptLong": "Singapore",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/06/10 00:49",
-    "deptTime": "2022/06/09 16:49",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/06/10 22:45",
+    "deptTime": "2022/06/10 14:45",
     "dest": "ZA DUR",
     "destLong": "Durban",
     "destType": "ETA",
     "destLocalTime": "2022/06/22 20:00",
     "destTime": "2022/06/22 18:00",
-    "position": "1.282767\u00b0 / 103.751\u00b0",
+    "position": "1.200983\u00b0 / 103.6595\u00b0",
     "area": "Singapore Area",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9289908": {
     "rowidx": 227,
@@ -749,7 +749,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/10 13:00",
     "destTime": "2022/06/10 05:00",
-    "position": "25.77792\u00b0 / 121.8081\u00b0",
+    "position": "25.74567\u00b0 / 121.8487\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
