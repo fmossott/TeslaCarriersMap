@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/11 04:23",
     "destTime": "2022/06/11 03:23",
-    "position": "54.985\u00b0 / -1.463325\u00b0",
+    "position": "54.98497\u00b0 / -1.46332\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/12 03:30",
     "destTime": "2022/06/12 02:30",
-    "position": "50.45063\u00b0 / -6.264248\u00b0",
+    "position": "50.71223\u00b0 / -5.885891\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/11 10:28",
     "destTime": "2022/06/11 08:28",
-    "position": "32.36253\u00b0 / 15.21482\u00b0",
+    "position": "32.3625\u00b0 / 15.2148\u00b0",
     "area": "East Mediterranean",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/11 22:00",
     "destTime": "2022/06/11 20:00",
-    "position": "29.14828\u00b0 / 32.787\u00b0",
+    "position": "29.3781\u00b0 / 32.67588\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -746,12 +746,12 @@
     "deptTime": "2022/06/08 22:28",
     "dest": "TW TPE",
     "destLong": "Taipei",
-    "destType": "ETA",
-    "destLocalTime": "2022/06/12 00:00",
-    "destTime": "2022/06/11 16:00",
-    "position": "25.16188\u00b0 / 121.3319\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/06/12 00:26",
+    "destTime": "2022/06/11 16:26",
+    "position": "25.15932\u00b0 / 121.3947\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9391581": {
     "rowidx": 235,
@@ -778,7 +778,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/11 13:19",
     "destTime": "2022/06/11 05:19",
-    "position": "37.56228\u00b0 / 121.3783\u00b0",
+    "position": "37.56227\u00b0 / 121.3782\u00b0",
     "area": "Yellow Sea",
     "status": "Moored"
   },
@@ -865,7 +865,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/12 05:00",
     "destTime": "2022/06/11 20:00",
-    "position": "34.0752\u00b0 / 128.414\u00b0",
+    "position": "34.17767\u00b0 / 128.55\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
