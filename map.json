@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/14 01:00",
     "destTime": "2022/06/13 23:00",
-    "position": "42.29851\u00b0 / -9.80572\u00b0",
+    "position": "43.6478\u00b0 / -9.48475\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/11 04:23",
     "destTime": "2022/06/11 03:23",
-    "position": "54.98497\u00b0 / -1.463298\u00b0",
+    "position": "54.98499\u00b0 / -1.463348\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/12 03:30",
     "destTime": "2022/06/12 02:30",
-    "position": "51.10333\u00b0 / -4.689058\u00b0",
+    "position": "51.22163\u00b0 / -4.398818\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/11 10:28",
     "destTime": "2022/06/11 08:28",
-    "position": "32.36254\u00b0 / 15.21477\u00b0",
+    "position": "32.36248\u00b0 / 15.21483\u00b0",
     "area": "East Mediterranean",
     "status": "Moored"
   },
@@ -401,9 +401,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/11 21:01",
     "destTime": "2022/06/11 19:01",
-    "position": "29.84712\u00b0 / 32.57225\u00b0",
+    "position": "29.84678\u00b0 / 32.57018\u00b0",
     "area": "Red Sea",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9330616": {
     "rowidx": 223,
@@ -778,7 +778,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/11 13:19",
     "destTime": "2022/06/11 05:19",
-    "position": "37.56228\u00b0 / 121.3782\u00b0",
+    "position": "37.56227\u00b0 / 121.3782\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -862,9 +862,9 @@
     "deptTime": "2022/06/10 12:32",
     "dest": "KR MAS",
     "destLong": "Masan",
-    "destType": "ETA",
-    "destLocalTime": "2022/06/12 05:00",
-    "destTime": "2022/06/11 20:00",
+    "destType": "ATA",
+    "destLocalTime": "2022/06/12 06:34",
+    "destTime": "2022/06/11 21:34",
     "position": "35.138\u00b0 / 128.6032\u00b0",
     "area": "North China",
     "status": "Underway using Engine"
