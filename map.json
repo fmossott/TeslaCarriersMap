@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/11 04:23",
     "destTime": "2022/06/11 03:23",
-    "position": "54.98499\u00b0 / -1.463348\u00b0",
+    "position": "54.98497\u00b0 / -1.463342\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/12 03:30",
     "destTime": "2022/06/12 02:30",
-    "position": "51.22163\u00b0 / -4.398818\u00b0",
+    "position": "51.29778\u00b0 / -4.057688\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/11 10:28",
     "destTime": "2022/06/11 08:28",
-    "position": "32.36248\u00b0 / 15.21483\u00b0",
+    "position": "32.36251\u00b0 / 15.21481\u00b0",
     "area": "East Mediterranean",
     "status": "Moored"
   },
@@ -401,9 +401,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/11 21:01",
     "destTime": "2022/06/11 19:01",
-    "position": "29.84678\u00b0 / 32.57018\u00b0",
+    "position": "29.84633\u00b0 / 32.57143\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9330616": {
     "rowidx": 223,
@@ -739,19 +739,19 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "56,978",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
+    "dept": "TW TPE",
+    "deptLong": "Taipei",
     "deptType": "ATD",
-    "deptLocalTime": "2022/06/09 06:28",
-    "deptTime": "2022/06/08 22:28",
-    "dest": "TW TPE",
-    "destLong": "Taipei",
-    "destType": "ATA",
-    "destLocalTime": "2022/06/12 00:26",
-    "destTime": "2022/06/11 16:26",
-    "position": "25.15932\u00b0 / 121.3947\u00b0",
+    "deptLocalTime": "2022/06/12 06:53",
+    "deptTime": "2022/06/11 22:53",
+    "dest": "PH BTG",
+    "destLong": "Batangas",
+    "destType": "ETA",
+    "destLocalTime": "2022/06/14 16:00",
+    "destTime": "2022/06/14 08:00",
+    "position": "25.19168\u00b0 / 121.3169\u00b0",
     "area": "East China Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9391581": {
     "rowidx": 235,
