@@ -101,19 +101,19 @@
     "length": "228.74",
     "breadth": "32.29",
     "grossTonnage": "68,871",
-    "dept": "FR LEH",
-    "deptLong": "Le Havre",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/06/09 23:46",
-    "deptTime": "2022/06/09 21:46",
-    "dest": "GB TYN",
-    "destLong": "Tyne",
-    "destType": "ATA",
-    "destLocalTime": "2022/06/11 04:23",
-    "destTime": "2022/06/11 03:23",
-    "position": "54.98499\u00b0 / -1.463335\u00b0",
+    "dept": "GB TYN",
+    "deptLong": "Tyne",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/06/11 05:23",
+    "deptTime": "2022/06/11 03:23",
+    "dest": "NL AMS",
+    "destLong": "Amsterdam",
+    "destType": "ETA",
+    "destLocalTime": "2022/06/12 05:00",
+    "destTime": "2022/06/12 03:00",
+    "position": "54.98809\u00b0 / -1.45419\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9531741": {
     "rowidx": 213,
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/12 22:00",
     "destTime": "2022/06/12 20:00",
-    "position": "51.8654\u00b0 / 3.047035\u00b0",
+    "position": "51.91942\u00b0 / 3.307825\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/12 05:25",
     "destTime": "2022/06/12 04:25",
-    "position": "51.49287\u00b0 / -2.717622\u00b0",
+    "position": "51.49287\u00b0 / -2.717625\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -253,12 +253,12 @@
     "deptTime": "2022/06/11 11:54",
     "dest": "TR MER",
     "destLong": "Mersin",
-    "destType": "ETA",
-    "destLocalTime": "2022/06/13 00:00",
-    "destTime": "2022/06/12 21:00",
-    "position": "36.76087\u00b0 / 34.67585\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/06/12 20:18",
+    "destTime": "2022/06/12 17:18",
+    "position": "36.8057\u00b0 / 34.65142\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9442885": {
     "rowidx": 218,
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/11 13:19",
     "destTime": "2022/06/11 05:19",
-    "position": "37.5623\u00b0 / 121.3782\u00b0",
+    "position": "37.56229\u00b0 / 121.3782\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/12 18:26",
     "destTime": "2022/06/12 10:26",
-    "position": "29.76324\u00b0 / 121.9953\u00b0",
+    "position": "29.76323\u00b0 / 121.9953\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/12 09:59",
     "destTime": "2022/06/12 01:59",
-    "position": "31.32209\u00b0 / 121.6818\u00b0",
+    "position": "31.32211\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
