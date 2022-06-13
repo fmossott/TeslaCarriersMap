@@ -111,9 +111,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/13 15:23",
     "destTime": "2022/06/13 13:23",
-    "position": "52.40748\u00b0 / 4.816717\u00b0",
+    "position": "52.40753\u00b0 / 4.816408\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9531741": {
     "rowidx": 213,
@@ -159,17 +159,17 @@
     "length": "199.95",
     "breadth": "32.2",
     "grossTonnage": "59,598",
-    "dept": "NL RTM",
-    "deptLong": "Rotterdam",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/06/13 00:47",
-    "deptTime": "2022/06/12 22:47",
-    "dest": "NL ROZ",
-    "destLong": "Rozenburg",
-    "destType": "ATA",
-    "destLocalTime": "2022/06/13 00:49",
-    "destTime": "2022/06/12 22:49",
-    "position": "51.89466\u00b0 / 4.247149\u00b0",
+    "dept": "NL ROZ",
+    "deptLong": "Rozenburg",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/06/13 00:49",
+    "deptTime": "2022/06/12 22:49",
+    "dest": "BE ZEE",
+    "destLong": "Zeebrugge",
+    "destType": "ETA",
+    "destLocalTime": "2022/06/14 05:00",
+    "destTime": "2022/06/14 03:00",
+    "position": "51.89468\u00b0 / 4.24717\u00b0",
     "area": "Rotterdam Area",
     "status": "Moored"
   },
@@ -198,9 +198,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/16 18:00",
     "destTime": "2022/06/16 16:00",
-    "position": "51.49286\u00b0 / -2.717637\u00b0",
+    "position": "51.49946\u00b0 / -2.727552\u00b0",
     "area": "Bristol Channel",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9777838": {
     "rowidx": 216,
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/13 02:59",
     "destTime": "2022/06/13 00:59",
-    "position": "31.18922\u00b0 / 29.8774\u00b0",
+    "position": "31.18922\u00b0 / 29.87737\u00b0",
     "area": "East Mediterranean",
     "status": "Moored"
   },
@@ -314,9 +314,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/13 14:29",
     "destTime": "2022/06/13 12:29",
-    "position": "29.84957\u00b0 / 32.56089\u00b0",
+    "position": "29.84912\u00b0 / 32.56088\u00b0",
     "area": "Red Sea",
-    "status": "Stopped"
+    "status": "At Anchor"
   },
   "9377509": {
     "rowidx": 220,
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/12 18:26",
     "destTime": "2022/06/12 10:26",
-    "position": "29.76323\u00b0 / 121.9953\u00b0",
+    "position": "29.76322\u00b0 / 121.9953\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
