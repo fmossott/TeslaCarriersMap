@@ -24,8 +24,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/17 17:00",
     "destTime": "2022/06/17 15:00",
-    "position": "34.49902\u00b0 / 24.30527\u00b0",
-    "area": "East Mediterranean",
+    "position": "35.51926\u00b0 / 22.82155\u00b0",
+    "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
   "9391593": {
@@ -53,8 +53,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/17 00:00",
     "destTime": "2022/06/16 23:00",
-    "position": "44.37345\u00b0 / -8.9375\u00b0",
-    "area": "UK Coast & Atlantic",
+    "position": "45.18482\u00b0 / -8.321758\u00b0",
+    "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
   "9312482": {
@@ -82,9 +82,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/15 19:15",
     "destTime": "2022/06/15 17:15",
-    "position": "51.27858\u00b0 / 4.247595\u00b0",
+    "position": "51.26431\u00b0 / 4.235555\u00b0",
     "area": "Antwerp Area",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9531741": {
     "rowidx": 213,
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/17 00:00",
     "destTime": "2022/06/16 22:00",
-    "position": "49.40061\u00b0 / -4.025878\u00b0",
+    "position": "49.74611\u00b0 / -3.133417\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -132,16 +132,16 @@
     "grossTonnage": "59,598",
     "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/06/14 05:50",
-    "deptTime": "2022/06/14 03:50",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/06/15 20:23",
+    "deptTime": "2022/06/15 18:23",
     "dest": "BE ANR",
     "destLong": "Antwerp",
     "destType": "ETA",
-    "destLocalTime": "2022/06/16 04:00",
-    "destTime": "2022/06/16 02:00",
-    "position": "51.33801\u00b0 / 3.21364\u00b0",
-    "area": "North Sea",
+    "destLocalTime": "2022/06/16 02:01",
+    "destTime": "2022/06/16 00:01",
+    "position": "51.38279\u00b0 / 3.716865\u00b0",
+    "area": "Antwerp Area",
     "status": "Underway using Engine"
   },
   "9338620": {
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/16 02:00",
     "destTime": "2022/06/16 00:00",
-    "position": "53.65988\u00b0 / 5.837795\u00b0",
+    "position": "53.81099\u00b0 / 6.839907\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -190,17 +190,17 @@
     "grossTonnage": "63,116",
     "dept": "IT LIV",
     "deptLong": "Livorno",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/06/15 01:00",
-    "deptTime": "2022/06/15 00:00",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/06/15 22:09",
+    "deptTime": "2022/06/15 20:09",
     "dest": "SI KOP",
     "destLong": "Koper",
     "destType": "ETA",
     "destLocalTime": "2022/06/19 03:00",
     "destTime": "2022/06/19 01:00",
-    "position": "43.58056\u00b0 / 10.3055\u00b0",
+    "position": "43.51499\u00b0 / 10.20535\u00b0",
     "area": "Ligurean Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9432919": {
     "rowidx": 217,
@@ -459,9 +459,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/16 01:52",
     "destTime": "2022/06/15 17:52",
-    "position": "1.277963\u00b0 / 103.8946\u00b0",
+    "position": "1.278103\u00b0 / 103.8953\u00b0",
     "area": "Singapore Area",
-    "status": "Stopped"
+    "status": "At Anchor"
   },
   "9409340": {
     "rowidx": 226,
@@ -546,8 +546,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/17 05:00",
     "destTime": "2022/06/16 21:00",
-    "position": "21.98871\u00b0 / 114.7139\u00b0",
-    "area": "East China Sea",
+    "position": "21.99664\u00b0 / 113.9865\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   },
   "9361823": {
