@@ -74,17 +74,17 @@
     "grossTonnage": "75,283",
     "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/06/14 08:27",
-    "deptTime": "2022/06/14 00:27",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/06/15 13:29",
+    "deptTime": "2022/06/15 11:29",
     "dest": "SE GOT",
     "destLong": "Goteborg",
     "destType": "ETA",
     "destLocalTime": "2022/06/21 09:00",
     "destTime": "2022/06/21 07:00",
-    "position": "51.33386\u00b0 / 3.21707\u00b0",
+    "position": "51.38556\u00b0 / 2.956648\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9312482": {
     "rowidx": 212,
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/15 14:00",
     "destTime": "2022/06/15 12:00",
-    "position": "51.86994\u00b0 / 3.252147\u00b0",
+    "position": "51.74683\u00b0 / 3.233935\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/14 05:50",
     "destTime": "2022/06/14 03:50",
-    "position": "51.30635\u00b0 / 3.227437\u00b0",
+    "position": "51.30636\u00b0 / 3.227453\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/16 02:00",
     "destTime": "2022/06/16 00:00",
-    "position": "52.50239\u00b0 / 3.745\u00b0",
+    "position": "52.81053\u00b0 / 4.221103\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/15 02:00",
     "destTime": "2022/06/15 00:00",
-    "position": "43.58056\u00b0 / 10.30549\u00b0",
+    "position": "43.58055\u00b0 / 10.30547\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -256,9 +256,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/30 14:00",
     "destTime": "2022/06/30 06:00",
-    "position": "30.2991\u00b0 / 32.41315\u00b0",
+    "position": "30.2676\u00b0 / 32.48012\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9442885": {
     "rowidx": 218,
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/15 07:14",
     "destTime": "2022/06/15 04:14",
-    "position": "37.96067\u00b0 / 23.60505\u00b0",
+    "position": "37.96068\u00b0 / 23.60503\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
