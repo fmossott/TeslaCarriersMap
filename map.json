@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/17 17:00",
     "destTime": "2022/06/17 15:00",
-    "position": "40.96856\u00b0 / 18.11136\u00b0",
+    "position": "41.50866\u00b0 / 17.33668\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/15 19:15",
     "destTime": "2022/06/15 17:15",
-    "position": "51.26431\u00b0 / 4.235542\u00b0",
+    "position": "51.2643\u00b0 / 4.23558\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/16 02:00",
     "destTime": "2022/06/16 00:00",
-    "position": "53.83181\u00b0 / 8.075418\u00b0",
+    "position": "53.68742\u00b0 / 8.34787\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -196,10 +196,10 @@
     "dest": "SI KOP",
     "destLong": "Koper",
     "destType": "ETA",
-    "destLocalTime": "2022/06/19 20:00",
-    "destTime": "2022/06/19 18:00",
-    "position": "39.31175\u00b0 / 11.19722\u00b0",
-    "area": "Tyrrhenian Sea",
+    "destLocalTime": "2022/06/19 18:00",
+    "destTime": "2022/06/19 16:00",
+    "position": "37.56573\u00b0 / 11.90217\u00b0",
+    "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
   "9432919": {
@@ -256,8 +256,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/18 04:00",
     "destTime": "2022/06/18 02:00",
-    "position": "37.81525\u00b0 / 15.75927\u00b0",
-    "area": "Ionian Sea",
+    "position": "38.41795\u00b0 / 15.58608\u00b0",
+    "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
   "9330616": {
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/15 13:03",
     "destTime": "2022/06/15 05:03",
-    "position": "31.32386\u00b0 / 121.679\u00b0",
+    "position": "31.32385\u00b0 / 121.679\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -596,15 +596,15 @@
     "grossTonnage": "59,516",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/06/16 14:48",
-    "deptTime": "2022/06/16 05:48",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/06/17 03:14",
+    "deptTime": "2022/06/16 19:14",
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
     "destLocalTime": "2022/06/23 16:00",
     "destTime": "2022/06/23 08:00",
-    "position": "31.32413\u00b0 / 121.6834\u00b0",
+    "position": "31.26375\u00b0 / 121.8876\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
