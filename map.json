@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/15 19:15",
     "destTime": "2022/06/15 17:15",
-    "position": "51.26432\u00b0 / 4.235543\u00b0",
+    "position": "51.26432\u00b0 / 4.235572\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -169,9 +169,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/16 02:04",
     "destTime": "2022/06/16 00:04",
-    "position": "53.91552\u00b0 / 7.804317\u00b0",
+    "position": "53.89928\u00b0 / 7.830717\u00b0",
     "area": "North Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9777838": {
     "rowidx": 216,
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/16 01:52",
     "destTime": "2022/06/15 17:52",
-    "position": "2.645052\u00b0 / 101.3521\u00b0",
+    "position": "2.742332\u00b0 / 101.1536\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -594,17 +594,17 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "59,516",
-    "dept": "JP HIJ",
-    "deptLong": "Hiroshima",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/06/14 16:48",
-    "deptTime": "2022/06/14 07:48",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/06/16 13:48",
-    "destTime": "2022/06/16 05:48",
-    "position": "31.32205\u00b0 / 121.6817\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/06/16 14:48",
+    "deptTime": "2022/06/16 05:48",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/06/23 17:00",
+    "destTime": "2022/06/23 09:00",
+    "position": "31.32206\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
