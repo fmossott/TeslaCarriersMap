@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/17 00:00",
     "destTime": "2022/06/16 23:00",
-    "position": "45.18482\u00b0 / -8.321758\u00b0",
+    "position": "46.16677\u00b0 / -7.645092\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/15 19:15",
     "destTime": "2022/06/15 17:15",
-    "position": "51.26431\u00b0 / 4.235562\u00b0",
+    "position": "51.26431\u00b0 / 4.235575\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/17 00:00",
     "destTime": "2022/06/16 22:00",
-    "position": "49.74611\u00b0 / -3.133417\u00b0",
+    "position": "49.93301\u00b0 / -2.122247\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -140,9 +140,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/16 00:46",
     "destTime": "2022/06/15 22:46",
-    "position": "51.31956\u00b0 / 4.270916\u00b0",
+    "position": "51.27876\u00b0 / 4.247603\u00b0",
     "area": "Antwerp Area",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9338620": {
     "rowidx": 215,
@@ -164,12 +164,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/06/13 16:17",
     "deptTime": "2022/06/13 15:17",
-    "dest": "DE BRV",
+    "dest": "DE NEUE WESER ANCH",
     "destLong": "Bremerhaven",
-    "destType": "ETA",
-    "destLocalTime": "2022/06/16 02:00",
-    "destTime": "2022/06/16 00:00",
-    "position": "53.9136\u00b0 / 7.648308\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/06/16 02:04",
+    "destTime": "2022/06/16 00:04",
+    "position": "53.91555\u00b0 / 7.807392\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -432,7 +432,7 @@
     "destTime": "2022/06/13 22:24",
     "position": "2.734643\u00b0 / 101.1667\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9626522": {
     "rowidx": 225,
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/16 01:52",
     "destTime": "2022/06/15 17:52",
-    "position": "1.276252\u00b0 / 103.8935\u00b0",
+    "position": "1.277152\u00b0 / 103.8931\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -546,9 +546,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/17 05:00",
     "destTime": "2022/06/16 21:00",
-    "position": "21.99664\u00b0 / 113.9865\u00b0",
+    "position": "22.09201\u00b0 / 113.891\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9361823": {
     "rowidx": 229,
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/15 13:03",
     "destTime": "2022/06/15 05:03",
-    "position": "31.32387\u00b0 / 121.679\u00b0",
+    "position": "31.32385\u00b0 / 121.679\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
