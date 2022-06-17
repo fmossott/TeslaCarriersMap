@@ -111,9 +111,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/17 00:17",
     "destTime": "2022/06/16 22:17",
-    "position": "51.3334\u00b0 / 3.217622\u00b0",
+    "position": "51.31456\u00b0 / 3.223577\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9610406": {
     "rowidx": 214,
@@ -391,19 +391,19 @@
     "length": "198",
     "breadth": "32.2",
     "grossTonnage": "56,556",
-    "dept": "SG SIN",
-    "deptLong": "Singapore",
+    "dept": "LK HBA",
+    "deptLong": "Hambantota",
     "deptType": "ATD",
     "deptLocalTime": "2022/06/13 15:18",
     "deptTime": "2022/06/13 07:18",
-    "dest": "LK HBA",
-    "destLong": "Hambantota",
+    "dest": "SA JED",
+    "destLong": "Jeddah",
     "destType": "ETA",
-    "destLocalTime": "2022/06/23 20:00",
-    "destTime": "2022/06/23 17:00",
-    "position": "2.741638\u00b0 / 101.1619\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "destLocalTime": "2022/06/24 16:00",
+    "destTime": "2022/06/24 13:00",
+    "position": "5.821687\u00b0 / 80.35776\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9283875": {
     "rowidx": 224,
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/17 05:00",
     "destTime": "2022/06/16 21:00",
-    "position": "22.09125\u00b0 / 113.8922\u00b0",
+    "position": "22.09135\u00b0 / 113.8919\u00b0",
     "area": "South China",
     "status": "At Anchor"
   },
