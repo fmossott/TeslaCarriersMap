@@ -7,7 +7,7 @@
     "notes": "",
     "quarter": "22Q2",
     "numDept": "4",
-    "mapStatus": "2",
+    "mapStatus": "3",
     "mtsid": "373460",
     "name": "Horizon Leader",
     "mmsi": "311040600",
@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/18 02:55",
     "destTime": "2022/06/18 00:55",
-    "position": "45.56697\u00b0 / 13.74401\u00b0",
+    "position": "45.56697\u00b0 / 13.74404\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/17 02:54",
     "destTime": "2022/06/17 01:54",
-    "position": "50.89991\u00b0 / -1.41513\u00b0",
+    "position": "50.89991\u00b0 / -1.415142\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/17 00:17",
     "destTime": "2022/06/16 22:17",
-    "position": "51.30646\u00b0 / 3.227617\u00b0",
+    "position": "51.30644\u00b0 / 3.227602\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/16 22:46",
     "destTime": "2022/06/16 20:46",
-    "position": "53.57616\u00b0 / 8.556985\u00b0",
+    "position": "53.57613\u00b0 / 8.556992\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/17 22:42",
     "destTime": "2022/06/17 20:42",
-    "position": "43.49508\u00b0 / 10.2709\u00b0",
+    "position": "43.49512\u00b0 / 10.27095\u00b0",
     "area": "Ligurean Sea",
     "status": "At Anchor"
   },
@@ -246,9 +246,9 @@
     "length": "182.8",
     "breadth": "31.53",
     "grossTonnage": "46,800",
-    "dept": "LK HBA",
+    "dept": "JO AQABA INDUSTRIAL",
     "deptLong": "Hambantota",
-    "deptType": "ATD",
+    "deptType": "ATA",
     "deptLocalTime": "2022/05/29 00:14",
     "deptTime": "2022/05/28 16:14",
     "dest": "JO AQJ",
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/18 15:00",
     "destTime": "2022/06/18 12:00",
-    "position": "29.36283\u00b0 / 34.89067\u00b0",
+    "position": "29.36118\u00b0 / 34.9511\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/18 13:00",
     "destTime": "2022/06/18 05:00",
-    "position": "23.01234\u00b0 / 113.5289\u00b0",
+    "position": "23.01228\u00b0 / 113.529\u00b0",
     "area": "South China",
     "status": "Moored"
   },
