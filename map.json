@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/18 02:55",
     "destTime": "2022/06/18 00:55",
-    "position": "45.56695\u00b0 / 13.74404\u00b0",
+    "position": "45.56695\u00b0 / 13.74402\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/17 02:54",
     "destTime": "2022/06/17 01:54",
-    "position": "50.89996\u00b0 / -1.415133\u00b0",
+    "position": "50.89996\u00b0 / -1.415152\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/20 02:00",
     "destTime": "2022/06/20 01:00",
-    "position": "50.49645\u00b0 / -0.940845\u00b0",
+    "position": "50.50331\u00b0 / -0.9200067\u00b0",
     "area": "English Channel",
     "status": "Underway"
   },
@@ -130,19 +130,19 @@
     "length": "199.95",
     "breadth": "32.2",
     "grossTonnage": "58,685",
-    "dept": "GB PRU",
-    "deptLong": "Portbury",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/06/13 16:17",
-    "deptTime": "2022/06/13 15:17",
-    "dest": "DE BRV",
-    "destLong": "Bremerhaven",
-    "destType": "ATA",
-    "destLocalTime": "2022/06/16 22:46",
-    "destTime": "2022/06/16 20:46",
-    "position": "53.57616\u00b0 / 8.556953\u00b0",
+    "dept": "DE BRV",
+    "deptLong": "Bremerhaven",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/06/16 21:46",
+    "deptTime": "2022/06/16 20:46",
+    "dest": "BE ANR",
+    "destLong": "Antwerp",
+    "destType": "ETA",
+    "destLocalTime": "2022/06/20 15:00",
+    "destTime": "2022/06/20 13:00",
+    "position": "53.56956\u00b0 / 8.549655\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9442885": {
     "rowidx": 215,
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/19 14:48",
     "destTime": "2022/06/19 12:48",
-    "position": "43.58097\u00b0 / 10.30547\u00b0",
+    "position": "43.58094\u00b0 / 10.30544\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/19 06:03",
     "destTime": "2022/06/19 03:03",
-    "position": "29.53148\u00b0 / 34.94182\u00b0",
+    "position": "29.53147\u00b0 / 34.9418\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/19 10:50",
     "destTime": "2022/06/19 02:50",
-    "position": "1.282833\u00b0 / 103.7514\u00b0",
+    "position": "1.282817\u00b0 / 103.7514\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -420,19 +420,19 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "59,262",
-    "dept": "SG SINGAPORE ANCH",
+    "dept": "CN NBG",
     "deptLong": "Ningbo",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/06/19 14:46",
-    "deptTime": "2022/06/19 06:46",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/06/14 14:51",
+    "deptTime": "2022/06/14 06:51",
     "dest": "AE JEA",
     "destLong": "Jebel Ali",
     "destType": "ETA",
     "destLocalTime": "2022/06/28 10:00",
     "destTime": "2022/06/28 06:00",
-    "position": "1.3001\u00b0 / 104.0601\u00b0",
+    "position": "1.271477\u00b0 / 104.042\u00b0",
     "area": "Singapore Area",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9624237": {
     "rowidx": 225,
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/18 18:17",
     "destTime": "2022/06/18 10:17",
-    "position": "23.01229\u00b0 / 113.5289\u00b0",
+    "position": "23.01235\u00b0 / 113.529\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -517,9 +517,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/20 06:49",
     "destTime": "2022/06/19 21:49",
-    "position": "34.88751\u00b0 / 127.646\u00b0",
+    "position": "34.88752\u00b0 / 127.6461\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9574080": {
     "rowidx": 228,
