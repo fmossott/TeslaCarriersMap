@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/18 02:55",
     "destTime": "2022/06/18 00:55",
-    "position": "45.56697\u00b0 / 13.74404\u00b0",
+    "position": "45.56697\u00b0 / 13.74403\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/17 02:54",
     "destTime": "2022/06/17 01:54",
-    "position": "50.89995\u00b0 / -1.415152\u00b0",
+    "position": "50.89995\u00b0 / -1.415108\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/17 00:17",
     "destTime": "2022/06/16 22:17",
-    "position": "51.30648\u00b0 / 3.22761\u00b0",
+    "position": "51.30647\u00b0 / 3.227613\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/16 22:46",
     "destTime": "2022/06/16 20:46",
-    "position": "53.57617\u00b0 / 8.556967\u00b0",
+    "position": "53.57616\u00b0 / 8.55696\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/18 20:38",
     "destTime": "2022/06/18 18:38",
-    "position": "43.58097\u00b0 / 10.30555\u00b0",
+    "position": "43.581\u00b0 / 10.30557\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/18 09:14",
     "destTime": "2022/06/18 07:14",
-    "position": "43.4921\u00b0 / 10.29066\u00b0",
+    "position": "43.49217\u00b0 / 10.29026\u00b0",
     "area": "Ligurean Sea",
     "status": "At Anchor"
   },
@@ -246,17 +246,17 @@
     "length": "182.8",
     "breadth": "31.53",
     "grossTonnage": "46,800",
-    "dept": "JO AQABA ANCH",
+    "dept": "JO AQABA INDUSTRIAL",
     "deptLong": "Hambantota",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/06/19 00:51",
-    "deptTime": "2022/06/18 21:51",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/06/19 00:04",
+    "deptTime": "2022/06/18 21:04",
     "dest": "IL ETH",
     "destLong": "Eilat",
     "destType": "ETA",
     "destLocalTime": "2022/06/19 05:00",
     "destTime": "2022/06/19 02:00",
-    "position": "29.40622\u00b0 / 34.89758\u00b0",
+    "position": "29.51318\u00b0 / 34.9414\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/19 10:00",
     "destTime": "2022/06/19 02:00",
-    "position": "1.257733\u00b0 / 103.9999\u00b0",
+    "position": "1.225217\u00b0 / 103.892\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/18 18:17",
     "destTime": "2022/06/18 10:17",
-    "position": "23.01226\u00b0 / 113.5289\u00b0",
+    "position": "23.01236\u00b0 / 113.5289\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -517,9 +517,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/19 08:18",
     "destTime": "2022/06/18 23:18",
-    "position": "35.51752\u00b0 / 129.3784\u00b0",
+    "position": "35.52229\u00b0 / 129.3898\u00b0",
     "area": "North China",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9574080": {
     "rowidx": 228,
