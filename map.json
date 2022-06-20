@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/18 02:55",
     "destTime": "2022/06/18 00:55",
-    "position": "45.56697\u00b0 / 13.74402\u00b0",
+    "position": "45.56697\u00b0 / 13.74405\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -82,9 +82,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/20 02:00",
     "destTime": "2022/06/20 01:00",
-    "position": "50.5262\u00b0 / -0.8907633\u00b0",
+    "position": "50.53991\u00b0 / -0.9221817\u00b0",
     "area": "English Channel",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9531741": {
     "rowidx": 213,
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/19 14:48",
     "destTime": "2022/06/19 12:48",
-    "position": "43.581\u00b0 / 10.30545\u00b0",
+    "position": "43.58099\u00b0 / 10.3054\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/19 06:03",
     "destTime": "2022/06/19 03:03",
-    "position": "29.53145\u00b0 / 34.94178\u00b0",
+    "position": "29.53147\u00b0 / 34.94182\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -391,17 +391,17 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "56,978",
-    "dept": "PH BTG",
-    "deptLong": "Batangas",
+    "dept": "SG SIN",
+    "deptLong": "Singapore",
     "deptType": "ATD",
-    "deptLocalTime": "2022/06/15 06:46",
-    "deptTime": "2022/06/14 22:46",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
-    "destType": "ATA",
+    "deptLocalTime": "2022/06/20 10:05",
+    "deptTime": "2022/06/20 02:05",
+    "dest": "LK HBA",
+    "destLong": "Hambantota",
+    "destType": "ETA",
     "destLocalTime": "2022/06/19 10:50",
     "destTime": "2022/06/19 02:50",
-    "position": "1.26435\u00b0 / 103.741\u00b0",
+    "position": "1.204533\u00b0 / 103.6517\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/20 06:49",
     "destTime": "2022/06/19 21:49",
-    "position": "34.88752\u00b0 / 127.6461\u00b0",
+    "position": "34.88751\u00b0 / 127.646\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
