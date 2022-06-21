@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/18 02:55",
     "destTime": "2022/06/18 00:55",
-    "position": "45.56696\u00b0 / 13.74402\u00b0",
+    "position": "45.56699\u00b0 / 13.74402\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/23 20:30",
     "destTime": "2022/06/23 19:30",
-    "position": "54.60297\u00b0 / -1.157288\u00b0",
+    "position": "54.60295\u00b0 / -1.157322\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/23 05:00",
     "destTime": "2022/06/23 04:00",
-    "position": "53.57821\u00b0 / 8.55197\u00b0",
+    "position": "53.57821\u00b0 / 8.55196\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/21 21:10",
     "destTime": "2022/06/21 19:10",
-    "position": "29.84977\u00b0 / 32.5612\u00b0",
+    "position": "29.84975\u00b0 / 32.56152\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -225,11 +225,11 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/07/04 16:00",
-    "destTime": "2022/07/04 08:00",
+    "destLocalTime": "2022/07/04 13:00",
+    "destTime": "2022/07/04 05:00",
     "position": "29.45977\u00b0 / 34.9185\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9675573": {
     "rowidx": 218,
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/24 08:30",
     "destTime": "2022/06/24 00:30",
-    "position": "31.32343\u00b0 / 121.6794\u00b0",
+    "position": "31.32333\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -575,8 +575,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/23 23:30",
     "destTime": "2022/06/23 14:30",
-    "position": "31.32222\u00b0 / 121.6817\u00b0",
+    "position": "31.32258\u00b0 / 121.6826\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
