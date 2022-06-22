@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/18 02:55",
     "destTime": "2022/06/18 00:55",
-    "position": "45.56698\u00b0 / 13.74405\u00b0",
+    "position": "45.56697\u00b0 / 13.74405\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/23 20:30",
     "destTime": "2022/06/23 19:30",
-    "position": "54.68679\u00b0 / -1.006687\u00b0",
+    "position": "54.0785\u00b0 / 0.6974416\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -198,9 +198,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/21 21:10",
     "destTime": "2022/06/21 19:10",
-    "position": "29.85055\u00b0 / 32.56134\u00b0",
+    "position": "29.90507\u00b0 / 32.54601\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9432907": {
     "rowidx": 217,
@@ -251,14 +251,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/06/03 14:33",
     "deptTime": "2022/06/03 06:33",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/06/22 04:00",
-    "destTime": "2022/06/22 02:00",
-    "position": "29.69251\u00b0 / 32.56893\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/06/22 05:35",
+    "destTime": "2022/06/22 03:35",
+    "position": "29.74162\u00b0 / 32.58236\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9252228": {
     "rowidx": 219,
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/14 06:24",
     "destTime": "2022/06/13 22:24",
-    "position": "19.34348\u00b0 / 72.43815\u00b0",
+    "position": "19.11003\u00b0 / 72.46873\u00b0",
     "area": "West Coast India",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/24 08:30",
     "destTime": "2022/06/24 00:30",
-    "position": "31.30213\u00b0 / 121.762\u00b0",
+    "position": "30.73253\u00b0 / 123.2581\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
