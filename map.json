@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/23 14:00",
     "destTime": "2022/06/23 12:00",
-    "position": "40.25364\u00b0 / 4.723018\u00b0",
+    "position": "40.55977\u00b0 / 3.801373\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/21 19:30",
     "destTime": "2022/06/21 17:30",
-    "position": "57.68935\u00b0 / 11.8668\u00b0",
+    "position": "57.68939\u00b0 / 11.86681\u00b0",
     "area": "Kattegat",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/23 08:30",
     "destTime": "2022/06/23 07:30",
-    "position": "50.56932\u00b0 / 0.2295033\u00b0",
+    "position": "50.55005\u00b0 / -0.5429817\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/23 06:00",
     "destTime": "2022/06/23 04:00",
-    "position": "41.83545\u00b0 / -9.188766\u00b0",
+    "position": "42.2372\u00b0 / -8.774183\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/27 11:00",
     "destTime": "2022/06/27 09:00",
-    "position": "38.96138\u00b0 / 3.433553\u00b0",
+    "position": "37.68059\u00b0 / 0.832685\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -217,19 +217,19 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "59,525",
-    "dept": "CN SHG",
+    "dept": "EG SUEZ SOUTH ANCH",
     "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/06/03 14:33",
-    "deptTime": "2022/06/03 06:33",
-    "dest": "EG SUEZ SOUTH ANCH",
-    "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2022/06/22 05:35",
-    "destTime": "2022/06/22 03:35",
-    "position": "29.8561\u00b0 / 32.55924\u00b0",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/06/22 11:35",
+    "deptTime": "2022/06/22 03:35",
+    "dest": "GR PIR",
+    "destLong": "Piraeus",
+    "destType": "ETA",
+    "destLocalTime": "2022/06/25 05:00",
+    "destTime": "2022/06/25 02:00",
+    "position": "29.91719\u00b0 / 32.54756\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9252228": {
     "rowidx": 219,
@@ -280,14 +280,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/06/14 20:56",
     "deptTime": "2022/06/14 12:56",
-    "dest": "IN MUMBAI ANCH",
+    "dest": "IN BOM",
     "destLong": "Mumbai",
     "destType": "ATA",
     "destLocalTime": "2022/06/14 06:24",
     "destTime": "2022/06/13 22:24",
-    "position": "18.90928\u00b0 / 72.86452\u00b0",
+    "position": "18.94098\u00b0 / 72.85352\u00b0",
     "area": "West Coast India",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9626522": {
     "rowidx": 221,
@@ -399,8 +399,8 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/06/23 17:00",
-    "destTime": "2022/06/23 09:00",
+    "destLocalTime": "2022/06/24 02:00",
+    "destTime": "2022/06/23 18:00",
     "position": "22.02979\u00b0 / 113.8473\u00b0",
     "area": "South China",
     "status": "Out of Range"
@@ -517,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/24 08:30",
     "destTime": "2022/06/24 00:30",
-    "position": "25.88575\u00b0 / 120.6321\u00b0",
+    "position": "24.86042\u00b0 / 119.7952\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
