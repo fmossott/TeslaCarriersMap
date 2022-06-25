@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/25 22:00",
     "destTime": "2022/06/25 21:00",
-    "position": "51.17787\u00b0 / -4.421916\u00b0",
+    "position": "51.33112\u00b0 / -3.860883\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/25 08:41",
     "destTime": "2022/06/25 05:41",
-    "position": "37.96064\u00b0 / 23.60498\u00b0",
+    "position": "37.96066\u00b0 / 23.60506\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -399,11 +399,11 @@
     "dest": "JO AQJ",
     "destLong": "Aqaba",
     "destType": "ETA",
-    "destLocalTime": "2022/07/10 04:00",
-    "destTime": "2022/07/10 01:00",
+    "destLocalTime": "2022/07/10 01:00",
+    "destTime": "2022/07/09 22:00",
     "position": "1.204748\u00b0 / 103.5714\u00b0",
-    "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "area": "Malacca Strait",
+    "status": "Out of Range"
   },
   "9285483": {
     "rowidx": 226,
@@ -488,9 +488,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/25 09:00",
     "destTime": "2022/06/25 01:00",
-    "position": "23.01405\u00b0 / 113.5283\u00b0",
+    "position": "23.01413\u00b0 / 113.5284\u00b0",
     "area": "South China",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9336050": {
     "rowidx": 229,
@@ -517,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/25 16:30",
     "destTime": "2022/06/25 07:30",
-    "position": "35.18331\u00b0 / 129.4411\u00b0",
+    "position": "35.09752\u00b0 / 129.4516\u00b0",
     "area": "North China",
     "status": "Underway using Engine"
   },
