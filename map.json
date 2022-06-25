@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/25 22:00",
     "destTime": "2022/06/25 21:00",
-    "position": "51.34812\u00b0 / -3.826583\u00b0",
+    "position": "51.34837\u00b0 / -3.822167\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -161,17 +161,17 @@
     "grossTonnage": "59,525",
     "dept": "GR PIR",
     "deptLong": "Piraeus",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/06/25 13:41",
-    "deptTime": "2022/06/25 05:41",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/06/25 15:16",
+    "deptTime": "2022/06/25 12:16",
     "dest": "ES BCN",
     "destLong": "Barcelona",
     "destType": "ETA",
     "destLocalTime": "2022/06/29 04:00",
     "destTime": "2022/06/29 02:00",
-    "position": "37.96067\u00b0 / 23.60507\u00b0",
+    "position": "37.87495\u00b0 / 23.61042\u00b0",
     "area": "Piraeus Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9252228": {
     "rowidx": 218,
@@ -229,7 +229,7 @@
     "destTime": "2022/07/01 20:00",
     "position": "18.87961\u00b0 / 71.75735\u00b0",
     "area": "West Coast India",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9409340": {
     "rowidx": 220,
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/25 09:00",
     "destTime": "2022/06/25 01:00",
-    "position": "23.01403\u00b0 / 113.5285\u00b0",
+    "position": "23.01413\u00b0 / 113.5284\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/25 09:53",
     "destTime": "2022/06/25 01:53",
-    "position": "31.32219\u00b0 / 121.6818\u00b0",
+    "position": "31.32221\u00b0 / 121.6819\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
