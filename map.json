@@ -108,10 +108,10 @@
     "deptTime": "2022/06/21 13:31",
     "dest": "FR LEH",
     "destLong": "Le Havre",
-    "destType": "ETA",
-    "destLocalTime": "2022/06/27 11:00",
-    "destTime": "2022/06/27 09:00",
-    "position": "49.52102\u00b0 / -0.09361333\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/06/27 11:41",
+    "destTime": "2022/06/27 09:41",
+    "position": "49.47352\u00b0 / 0.1627917\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -193,14 +193,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/06/26 14:02",
     "deptTime": "2022/06/26 11:02",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/06/27 11:30",
-    "destTime": "2022/06/27 09:30",
-    "position": "29.75534\u00b0 / 32.55406\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/06/27 11:48",
+    "destTime": "2022/06/27 09:48",
+    "position": "29.84957\u00b0 / 32.5621\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9283875": {
     "rowidx": 219,
@@ -372,9 +372,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/10 22:00",
     "destTime": "2022/07/10 20:00",
-    "position": "1.25645\u00b0 / 103.8863\u00b0",
+    "position": "1.231467\u00b0 / 103.907\u00b0",
     "area": "Singapore Area",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9531739": {
     "rowidx": 225,
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/27 05:15",
     "destTime": "2022/06/26 22:15",
-    "position": "13.0652\u00b0 / 100.8813\u00b0",
+    "position": "13.06522\u00b0 / 100.8813\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
