@@ -82,8 +82,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/28 05:00",
     "destTime": "2022/06/28 03:00",
-    "position": "51.36008\u00b0 / 2.44925\u00b0",
-    "area": "English Channel",
+    "position": "51.44088\u00b0 / 2.5966\u00b0",
+    "area": "North Sea",
     "status": "Underway using Engine"
   },
   "9330616": {
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/27 11:00",
     "destTime": "2022/06/27 09:00",
-    "position": "49.47201\u00b0 / 0.2101167\u00b0",
+    "position": "49.47198\u00b0 / 0.2101917\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/28 17:00",
     "destTime": "2022/06/28 15:00",
-    "position": "39.35351\u00b0 / 6.549868\u00b0",
+    "position": "39.38941\u00b0 / 6.467172\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -198,9 +198,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/27 11:48",
     "destTime": "2022/06/27 09:48",
-    "position": "29.84962\u00b0 / 32.5621\u00b0",
+    "position": "29.90407\u00b0 / 32.54627\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9283875": {
     "rowidx": 219,
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/06/28 18:00",
     "destTime": "2022/06/28 14:00",
-    "position": "24.7644\u00b0 / 59.47151\u00b0",
+    "position": "24.89298\u00b0 / 59.1013\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -420,19 +420,19 @@
     "length": "179.95",
     "breadth": "32.2",
     "grossTonnage": "47,077",
-    "dept": "PH BATANGAS BAY",
-    "deptLong": "Mcid",
+    "dept": "PH BTG",
+    "deptLong": "Batangas",
     "deptType": "ATA",
-    "deptLocalTime": "2022/06/28 08:57",
-    "deptTime": "2022/06/28 00:57",
+    "deptLocalTime": "2022/06/28 09:50",
+    "deptTime": "2022/06/28 01:50",
     "dest": "CN XNA",
     "destLong": "Xinsha",
     "destType": "ETA",
     "destLocalTime": "2022/06/28 08:00",
     "destTime": "2022/06/28 00:00",
-    "position": "13.75028\u00b0 / 120.9967\u00b0",
+    "position": "13.75888\u00b0 / 121.0394\u00b0",
     "area": "Philippines",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9355197": {
     "rowidx": 227,
