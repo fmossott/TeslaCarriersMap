@@ -14,17 +14,17 @@
     "length": "199.9",
     "breadth": "35.44",
     "grossTonnage": "66,802",
-    "dept": "ES BCN",
-    "deptLong": "Barcelona",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/06/24 14:49",
-    "deptTime": "2022/06/24 12:49",
-    "dest": "GB SOU",
-    "destLong": "Southampton",
-    "destType": "ATA",
-    "destLocalTime": "2022/06/28 19:18",
-    "destTime": "2022/06/28 18:18",
-    "position": "50.88773\u00b0 / -1.398732\u00b0",
+    "dept": "GB SOU",
+    "deptLong": "Southampton",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/06/28 20:18",
+    "deptTime": "2022/06/28 18:18",
+    "dest": "BE ZEE",
+    "destLong": "Zeebrugge",
+    "destType": "ETA",
+    "destLocalTime": "2022/07/01 14:00",
+    "destTime": "2022/07/01 12:00",
+    "position": "50.88775\u00b0 / -1.398732\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/29 18:26",
     "destTime": "2022/06/29 16:26",
-    "position": "51.30873\u00b0 / 3.225467\u00b0",
+    "position": "51.30877\u00b0 / 3.225533\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/29 18:11",
     "destTime": "2022/06/29 16:11",
-    "position": "51.30373\u00b0 / 3.229808\u00b0",
+    "position": "51.30371\u00b0 / 3.229767\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/01 12:30",
     "destTime": "2022/07/01 09:30",
-    "position": "25.10691\u00b0 / 54.96496\u00b0",
+    "position": "25.19669\u00b0 / 54.41594\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -488,9 +488,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/01 06:30",
     "destTime": "2022/06/30 22:30",
-    "position": "25.34787\u00b0 / 121.2667\u00b0",
+    "position": "25.33876\u00b0 / 121.3017\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Not Under Command"
   },
   "9684988": {
     "rowidx": 229,
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/30 13:23",
     "destTime": "2022/06/30 05:23",
-    "position": "31.32214\u00b0 / 121.6818\u00b0",
+    "position": "31.32215\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
