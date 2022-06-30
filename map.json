@@ -16,17 +16,17 @@
     "grossTonnage": "66,802",
     "dept": "GB SOU",
     "deptLong": "Southampton",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/06/28 20:18",
-    "deptTime": "2022/06/28 18:18",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/06/30 20:08",
+    "deptTime": "2022/06/30 19:08",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
     "destLocalTime": "2022/07/01 14:00",
     "destTime": "2022/07/01 12:00",
-    "position": "50.88775\u00b0 / -1.398732\u00b0",
+    "position": "50.72014\u00b0 / -1.01643\u00b0",
     "area": "English Channel",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9442885": {
     "rowidx": 213,
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/29 18:26",
     "destTime": "2022/06/29 16:26",
-    "position": "51.30877\u00b0 / 3.225533\u00b0",
+    "position": "51.30872\u00b0 / 3.225533\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/29 18:11",
     "destTime": "2022/06/29 16:11",
-    "position": "51.30371\u00b0 / 3.229767\u00b0",
+    "position": "51.30375\u00b0 / 3.22975\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,8 +111,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/01 23:00",
     "destTime": "2022/07/01 21:00",
-    "position": "49.01269\u00b0 / -4.963325\u00b0",
-    "area": "Celtic Sea",
+    "position": "49.41986\u00b0 / -3.894342\u00b0",
+    "area": "English Channel",
     "status": "Underway using Engine"
   },
   "9675573": {
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/01 21:00",
     "destTime": "2022/07/01 19:00",
-    "position": "23.61773\u00b0 / 36.93945\u00b0",
+    "position": "24.09076\u00b0 / 36.66556\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -217,19 +217,19 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "56,978",
-    "dept": "LK HBA",
-    "deptLong": "Hambantota",
+    "dept": "OM SOH",
+    "deptLong": "Sohar",
     "deptType": "ATD",
-    "deptLocalTime": "2022/06/20 10:05",
-    "deptTime": "2022/06/20 02:05",
-    "dest": "OM SOH",
-    "destLong": "Sohar",
-    "destType": "ATA",
-    "destLocalTime": "2022/06/30 08:13",
-    "destTime": "2022/06/30 04:13",
-    "position": "24.498\u00b0 / 56.6234\u00b0",
+    "deptLocalTime": "2022/06/30 23:12",
+    "deptTime": "2022/06/30 19:12",
+    "dest": "AE JEA",
+    "destLong": "Jebel Ali",
+    "destType": "ETA",
+    "destLocalTime": "2022/07/01 14:00",
+    "destTime": "2022/07/01 10:00",
+    "position": "24.91528\u00b0 / 56.6818\u00b0",
     "area": "Oman Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9381677": {
     "rowidx": 220,
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/01 12:30",
     "destTime": "2022/07/01 09:30",
-    "position": "25.19669\u00b0 / 54.41594\u00b0",
+    "position": "25.42829\u00b0 / 53.82009\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/30 16:49",
     "destTime": "2022/06/30 08:49",
-    "position": "1.284842\u00b0 / 103.7527\u00b0",
+    "position": "1.284837\u00b0 / 103.7526\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/01 06:30",
     "destTime": "2022/06/30 22:30",
-    "position": "25.33876\u00b0 / 121.3017\u00b0",
+    "position": "25.33091\u00b0 / 121.3298\u00b0",
     "area": "East China Sea",
     "status": "Not Under Command"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/30 13:23",
     "destTime": "2022/06/30 05:23",
-    "position": "31.32215\u00b0 / 121.6818\u00b0",
+    "position": "31.32214\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
