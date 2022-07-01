@@ -22,9 +22,9 @@
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
-    "destLocalTime": "2022/07/01 14:00",
-    "destTime": "2022/07/01 12:00",
-    "position": "51.21477\u00b0 / 2.078718\u00b0",
+    "destLocalTime": "2022/07/01 13:45",
+    "destTime": "2022/07/01 11:45",
+    "position": "51.35431\u00b0 / 2.469573\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/06/29 18:26",
     "destTime": "2022/06/29 16:26",
-    "position": "51.29673\u00b0 / 3.241417\u00b0",
+    "position": "51.29671\u00b0 / 3.241467\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -82,9 +82,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/01 09:21",
     "destTime": "2022/07/01 07:21",
-    "position": "51.26527\u00b0 / 4.237148\u00b0",
+    "position": "51.26421\u00b0 / 4.2355\u00b0",
     "area": "Antwerp Area",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9377509": {
     "rowidx": 215,
@@ -227,8 +227,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/01 15:30",
     "destTime": "2022/07/01 11:30",
-    "position": "25.40655\u00b0 / 54.95177\u00b0",
-    "area": "Persian Gulf",
+    "position": "25.19293\u00b0 / 54.92972\u00b0",
+    "area": "Dubai Area",
     "status": "Underway using Engine"
   },
   "9381677": {
@@ -251,12 +251,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/06/30 20:09",
     "deptTime": "2022/06/30 16:09",
-    "dest": "SA DMM",
+    "dest": "SA DAMMAM ANCH",
     "destLong": "Dammam",
-    "destType": "ETA",
-    "destLocalTime": "2022/07/01 13:00",
-    "destTime": "2022/07/01 10:00",
-    "position": "26.64211\u00b0 / 50.36007\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/07/01 13:50",
+    "destTime": "2022/07/01 10:50",
+    "position": "26.61938\u00b0 / 50.30945\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
