@@ -1,6 +1,63 @@
 {
-  "9780627": {
+  "9460899": {
     "rowidx": 6,
+    "silence": "FALSE",
+    "num": "195",
+    "manDept": "SFO",
+    "notes": "",
+    "quarter": "22Q3",
+    "numDept": "2",
+    "mapStatus": "0",
+    "mtsid": "714145",
+    "name": "Glovis Companion",
+    "mmsi": "636020905",
+    "length": "199.99",
+    "breadth": "32.26",
+    "grossTonnage": "60,213",
+    "dept": "KR KAN",
+    "deptLong": "Gwangyang",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/07/01 00:41",
+    "deptTime": "2022/06/30 15:41",
+    "dest": "US PDX",
+    "destLong": "Portland Or",
+    "destType": "ETA",
+    "destLocalTime": "2022/07/10 21:00",
+    "destTime": "2022/07/11 04:00",
+    "position": "40.78476\u00b0 / 139.3166\u00b0",
+    "area": "Japan Coast",
+    "status": "Underway using Engine"
+  },
+  "9318462": {
+    "rowidx": 7,
+    "silence": "FALSE",
+    "num": "194",
+    "manDept": "SFO",
+    "notes": "",
+    "quarter": "22Q3",
+    "numDept": "1",
+    "mtsid": "729334",
+    "name": "Viking Queen",
+    "mmsi": "538009733",
+    "length": "199.9",
+    "breadth": "32.29",
+    "grossTonnage": "55,775",
+    "dept": "KR KAN",
+    "deptLong": "Gwangyang",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/06/21 20:54",
+    "deptTime": "2022/06/21 11:54",
+    "dest": "US NTD",
+    "destLong": "Hueneme",
+    "destType": "ETA",
+    "destLocalTime": "2022/07/06 00:00",
+    "destTime": "2022/07/06 07:00",
+    "position": "",
+    "area": "Japan Coast",
+    "status": "Out of Range"
+  },
+  "9780627": {
+    "rowidx": 8,
     "silence": "FALSE",
     "num": "193",
     "manDept": "SHG",
@@ -29,7 +86,7 @@
     "status": "Moored"
   },
   "9442885": {
-    "rowidx": 213,
+    "rowidx": 215,
     "silence": "FALSE",
     "num": "-14",
     "manDept": "SHG",
@@ -58,7 +115,7 @@
     "status": "Underway using Engine"
   },
   "9330616": {
-    "rowidx": 214,
+    "rowidx": 216,
     "silence": "FALSE",
     "num": "-15",
     "manDept": "SHG",
@@ -87,7 +144,7 @@
     "status": "Moored"
   },
   "9377509": {
-    "rowidx": 215,
+    "rowidx": 217,
     "silence": "FALSE",
     "num": "-16",
     "manDept": "SHG",
@@ -116,7 +173,7 @@
     "status": "Moored"
   },
   "9675573": {
-    "rowidx": 216,
+    "rowidx": 218,
     "silence": "FALSE",
     "num": "-17",
     "manDept": "SHG",
@@ -145,7 +202,7 @@
     "status": "Underway using Engine"
   },
   "9252228": {
-    "rowidx": 217,
+    "rowidx": 219,
     "silence": "FALSE",
     "num": "-18",
     "manDept": "SHG",
@@ -174,7 +231,7 @@
     "status": "Underway using Engine"
   },
   "9283875": {
-    "rowidx": 218,
+    "rowidx": 220,
     "silence": "FALSE",
     "num": "-19",
     "manDept": "SHG",
@@ -203,7 +260,7 @@
     "status": "Underway using Engine"
   },
   "9409340": {
-    "rowidx": 219,
+    "rowidx": 221,
     "silence": "FALSE",
     "num": "-20",
     "manDept": "SHG",
@@ -232,7 +289,7 @@
     "status": "Moored"
   },
   "9381677": {
-    "rowidx": 220,
+    "rowidx": 222,
     "silence": "FALSE",
     "num": "-21",
     "manDept": "SHG",
@@ -261,7 +318,7 @@
     "status": "At Anchor"
   },
   "9624237": {
-    "rowidx": 221,
+    "rowidx": 223,
     "silence": "FALSE",
     "num": "-22",
     "manDept": "SHG",
@@ -290,7 +347,7 @@
     "status": "Out of Range"
   },
   "9701140": {
-    "rowidx": 222,
+    "rowidx": 224,
     "silence": "FALSE",
     "num": "-23",
     "manDept": "SHG",
@@ -319,7 +376,7 @@
     "status": "Out of Range"
   },
   "9285483": {
-    "rowidx": 223,
+    "rowidx": 225,
     "silence": "FALSE",
     "num": "-24",
     "manDept": "SHG",
@@ -348,7 +405,7 @@
     "status": "Underway using Engine"
   },
   "9531739": {
-    "rowidx": 224,
+    "rowidx": 226,
     "silence": "FALSE",
     "num": "-25",
     "manDept": "SHG",
@@ -377,7 +434,7 @@
     "status": "Underway using Engine"
   },
   "9082324": {
-    "rowidx": 225,
+    "rowidx": 227,
     "silence": "FALSE",
     "num": "-26",
     "manDept": "SHG",
@@ -406,7 +463,7 @@
     "status": "Out of Range"
   },
   "9355197": {
-    "rowidx": 226,
+    "rowidx": 228,
     "silence": "FALSE",
     "num": "-27",
     "manDept": "SHG",
@@ -435,7 +492,7 @@
     "status": "Out of Range"
   },
   "8415794": {
-    "rowidx": 227,
+    "rowidx": 229,
     "silence": "FALSE",
     "num": "-28",
     "manDept": "SHG",
@@ -464,7 +521,7 @@
     "status": "Out of Range"
   },
   "9427562": {
-    "rowidx": 228,
+    "rowidx": 230,
     "silence": "FALSE",
     "num": "-29",
     "manDept": "SHG",
@@ -493,7 +550,7 @@
     "status": "Not Under Command"
   },
   "9684988": {
-    "rowidx": 229,
+    "rowidx": 231,
     "silence": "FALSE",
     "num": "-30",
     "manDept": "SHG",
@@ -515,10 +572,68 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/07/07 03:00",
-    "destTime": "2022/07/06 19:00",
-    "position": "31.24641\u00b0 / 121.9932\u00b0",
+    "destLocalTime": "2022/07/08 03:00",
+    "destTime": "2022/07/07 19:00",
+    "position": "31.08027\u00b0 / 122.9021\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
+  },
+  "9536961": {
+    "rowidx": 232,
+    "silence": "FALSE",
+    "num": "-31",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q2",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "461691",
+    "name": "Durban Highway",
+    "mmsi": "371885000",
+    "length": "199.91",
+    "breadth": "32.26",
+    "grossTonnage": "58,997",
+    "dept": "JP THS",
+    "deptLong": "Toyohashi",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/06/25 16:51",
+    "deptTime": "2022/06/25 07:51",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/07/02 01:56",
+    "destTime": "2022/07/01 17:56",
+    "position": "31.32203\u00b0 / 121.6817\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
+  },
+  "9620695": {
+    "rowidx": 233,
+    "silence": "FALSE",
+    "num": "-32",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q2",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "464174",
+    "name": "Leo Spirit",
+    "mmsi": "373057000",
+    "length": "199.99",
+    "breadth": "32.26",
+    "grossTonnage": "60,825",
+    "dept": "JP MIZUSHIMA ANCH",
+    "deptLong": "",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/06/27 17:20",
+    "deptTime": "2022/06/27 08:20",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/07/01 01:47",
+    "destTime": "2022/06/30 17:47",
+    "position": "31.32343\u00b0 / 121.6795\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
   }
 }
