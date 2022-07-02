@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/01 15:00",
     "destTime": "2022/07/01 13:00",
-    "position": "51.3065\u00b0 / 3.227488\u00b0",
+    "position": "51.30651\u00b0 / 3.227512\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/02 20:00",
     "destTime": "2022/07/02 18:00",
-    "position": "52.07262\u00b0 / 3.057483\u00b0",
+    "position": "52.39943\u00b0 / 3.50645\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/01 09:21",
     "destTime": "2022/07/01 07:21",
-    "position": "51.2642\u00b0 / 4.235545\u00b0",
+    "position": "51.26429\u00b0 / 4.235502\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/02 04:26",
     "destTime": "2022/07/02 02:26",
-    "position": "51.27018\u00b0 / 4.218292\u00b0",
+    "position": "51.27018\u00b0 / 4.218318\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/03 07:30",
     "destTime": "2022/07/03 05:30",
-    "position": "39.66742\u00b0 / 14.0505\u00b0",
+    "position": "40.20045\u00b0 / 13.13248\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
@@ -198,8 +198,8 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/02 04:39",
     "destTime": "2022/07/02 02:39",
-    "position": "30.36843\u00b0 / 32.37265\u00b0",
-    "area": "Red Sea",
+    "position": "30.57167\u00b0 / 32.33333\u00b0",
+    "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
   "9409340": {
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/01 16:14",
     "destTime": "2022/07/01 13:14",
-    "position": "26.63564\u00b0 / 50.3246\u00b0",
+    "position": "26.63572\u00b0 / 50.32491\u00b0",
     "area": "Persian Gulf",
     "status": "At Anchor"
   },
@@ -428,11 +428,11 @@
     "dest": "AE JEA",
     "destLong": "Jebel Ali",
     "destType": "ETA",
-    "destLocalTime": "2022/07/10 06:00",
-    "destTime": "2022/07/10 02:00",
+    "destLocalTime": "2022/07/10 10:00",
+    "destTime": "2022/07/10 06:00",
     "position": "2.767608\u00b0 / 101.1595\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "8415794": {
     "rowidx": 227,
