@@ -108,9 +108,9 @@
     "dest": "DE BRV",
     "destLong": "Bremerhaven",
     "destType": "ETA",
-    "destLocalTime": "2022/07/02 20:00",
-    "destTime": "2022/07/02 18:00",
-    "position": "53.5542\u00b0 / 5.467216\u00b0",
+    "destLocalTime": "2022/07/02 22:00",
+    "destTime": "2022/07/02 20:00",
+    "position": "53.6455\u00b0 / 5.881983\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -226,8 +226,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/03 04:00",
     "destTime": "2022/07/03 02:00",
-    "position": "41.18031\u00b0 / 11.42364\u00b0",
-    "area": "Tyrrhenian Sea",
+    "position": "41.42953\u00b0 / 11.00418\u00b0",
+    "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
   "9283875": {
@@ -543,8 +543,8 @@
     "dest": "CN HUA",
     "destLong": "Huangpu",
     "destType": "ETA",
-    "destLocalTime": "2022/07/03 16:00",
-    "destTime": "2022/07/03 08:00",
+    "destLocalTime": "2022/07/03 08:00",
+    "destTime": "2022/07/03 00:00",
     "position": "23.5618\u00b0 / 118.3058\u00b0",
     "area": "South China",
     "status": "Not Under Command"
@@ -603,7 +603,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/02 01:56",
     "destTime": "2022/07/01 17:56",
-    "position": "31.32203\u00b0 / 121.6817\u00b0",
+    "position": "31.322\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -632,7 +632,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/01 01:47",
     "destTime": "2022/06/30 17:47",
-    "position": "31.32343\u00b0 / 121.6796\u00b0",
+    "position": "31.32341\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
