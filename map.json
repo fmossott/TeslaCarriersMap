@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/01 15:00",
     "destTime": "2022/07/01 13:00",
-    "position": "51.30648\u00b0 / 3.227495\u00b0",
+    "position": "51.30648\u00b0 / 3.227493\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/05 15:38",
     "destTime": "2022/07/05 13:38",
-    "position": "51.31399\u00b0 / 3.227198\u00b0",
+    "position": "51.314\u00b0 / 3.22718\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -132,15 +132,15 @@
     "grossTonnage": "59,525",
     "dept": "BE ANR",
     "deptLong": "Antwerp",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/07/05 01:13",
-    "deptTime": "2022/07/04 23:13",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/07/06 01:05",
+    "deptTime": "2022/07/05 23:05",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
     "destLocalTime": "2022/07/06 05:00",
     "destTime": "2022/07/06 03:00",
-    "position": "51.26371\u00b0 / 4.28511\u00b0",
+    "position": "51.36539\u00b0 / 4.223063\u00b0",
     "area": "Antwerp Area",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/04 15:51",
     "destTime": "2022/07/04 13:51",
-    "position": "43.57823\u00b0 / 10.30599\u00b0",
+    "position": "43.57823\u00b0 / 10.306\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -190,17 +190,17 @@
     "grossTonnage": "61,804",
     "dept": "TR YAR",
     "deptLong": "Yarimca",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/06/14 20:56",
-    "deptTime": "2022/06/14 12:56",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/07/06 01:15",
+    "deptTime": "2022/07/05 22:15",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
     "destLocalTime": "2022/07/14 22:00",
     "destTime": "2022/07/14 20:00",
-    "position": "40.75857\u00b0 / 29.74678\u00b0",
+    "position": "40.75478\u00b0 / 29.50068\u00b0",
     "area": "Marmara Sea",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9409340": {
     "rowidx": 219,
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/04 13:22",
     "destTime": "2022/07/04 10:22",
-    "position": "26.6092\u00b0 / 50.29688\u00b0",
+    "position": "26.60922\u00b0 / 50.29663\u00b0",
     "area": "Persian Gulf",
     "status": "At Anchor"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/02 17:34",
     "destTime": "2022/07/02 14:34",
-    "position": "26.48867\u00b0 / 50.20044\u00b0",
+    "position": "26.48865\u00b0 / 50.20041\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -604,7 +604,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/07 09:01",
     "destTime": "2022/07/07 00:01",
-    "position": "31.31515\u00b0 / 121.7321\u00b0",
+    "position": "31.09539\u00b0 / 122.4773\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
