@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/06 05:00",
     "destTime": "2022/07/06 12:00",
-    "position": "34.4062\u00b0 / -120.9304\u00b0",
+    "position": "34.37214\u00b0 / -120.7491\u00b0",
     "area": "US West Coast",
     "status": "Underway using Engine"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/01 15:00",
     "destTime": "2022/07/01 13:00",
-    "position": "51.30651\u00b0 / 3.227523\u00b0",
+    "position": "51.30649\u00b0 / 3.227498\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/05 15:38",
     "destTime": "2022/07/05 13:38",
-    "position": "51.31397\u00b0 / 3.227162\u00b0",
+    "position": "51.314\u00b0 / 3.227172\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -137,12 +137,12 @@
     "deptTime": "2022/07/05 23:05",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2022/07/06 05:00",
-    "destTime": "2022/07/06 03:00",
-    "position": "51.40841\u00b0 / 3.317617\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/07/06 05:09",
+    "destTime": "2022/07/06 03:09",
+    "position": "51.33371\u00b0 / 3.217437\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9252228": {
     "rowidx": 217,
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/04 13:22",
     "destTime": "2022/07/04 10:22",
-    "position": "26.60875\u00b0 / 50.29765\u00b0",
+    "position": "26.60863\u00b0 / 50.29778\u00b0",
     "area": "Persian Gulf",
     "status": "At Anchor"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/02 17:34",
     "destTime": "2022/07/02 14:34",
-    "position": "26.48867\u00b0 / 50.20041\u00b0",
+    "position": "26.48866\u00b0 / 50.20043\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
