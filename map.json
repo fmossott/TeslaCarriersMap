@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/07 06:30",
     "destTime": "2022/07/07 13:30",
-    "position": "33.34\u00b0 / -118.1114\u00b0",
+    "position": "33.19665\u00b0 / -117.9746\u00b0",
     "area": "US West Coast",
     "status": "Underway using Engine"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/01 15:00",
     "destTime": "2022/07/01 13:00",
-    "position": "51.30648\u00b0 / 3.227512\u00b0",
+    "position": "51.30651\u00b0 / 3.227492\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/05 15:38",
     "destTime": "2022/07/05 13:38",
-    "position": "51.31399\u00b0 / 3.227195\u00b0",
+    "position": "51.31397\u00b0 / 3.227178\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/06 05:09",
     "destTime": "2022/07/06 03:09",
-    "position": "51.29671\u00b0 / 3.24145\u00b0",
+    "position": "51.29668\u00b0 / 3.241433\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/07 02:08",
     "destTime": "2022/07/07 00:08",
-    "position": "41.33176\u00b0 / 2.146225\u00b0",
+    "position": "41.33172\u00b0 / 2.146208\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/07 15:30",
     "destTime": "2022/07/07 12:30",
-    "position": "29.07899\u00b0 / 49.08223\u00b0",
+    "position": "29.0758\u00b0 / 48.71828\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -546,8 +546,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/08 10:00",
     "destTime": "2022/07/08 01:00",
-    "position": "38.51628\u00b0 / 121.0412\u00b0",
-    "area": "Bohai Sea",
+    "position": "38.29229\u00b0 / 121.6937\u00b0",
+    "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
   "9293650": {
@@ -652,19 +652,19 @@
     "length": "232.37",
     "breadth": "32.3",
     "grossTonnage": "68,701",
-    "dept": "TW KEL",
-    "deptLong": "Keelung",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/07/03 08:50",
-    "deptTime": "2022/07/03 00:50",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
+    "deptLocalTime": "2022/07/07 17:37",
+    "deptTime": "2022/07/07 09:37",
+    "dest": "KR PTK",
+    "destLong": "Pyeongtaek",
+    "destType": "ETA",
     "destLocalTime": "2022/07/06 04:14",
     "destTime": "2022/07/05 20:14",
-    "position": "31.32354\u00b0 / 121.6793\u00b0",
+    "position": "31.28685\u00b0 / 121.8109\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9700524": {
     "rowidx": 235,
