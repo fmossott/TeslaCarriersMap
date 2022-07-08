@@ -82,9 +82,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/01 15:00",
     "destTime": "2022/07/01 13:00",
-    "position": "51.3065\u00b0 / 3.227517\u00b0",
+    "position": "51.30728\u00b0 / 3.228\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Underway"
   },
   "9377509": {
     "rowidx": 215,
@@ -103,15 +103,15 @@
     "grossTonnage": "71,673",
     "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/07/05 15:38",
-    "deptTime": "2022/07/05 13:38",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/07/08 18:11",
+    "deptTime": "2022/07/08 16:11",
     "dest": "SE GOT",
     "destLong": "Goteborg",
     "destType": "ETA",
-    "destLocalTime": "2022/07/10 14:00",
-    "destTime": "2022/07/10 12:00",
-    "position": "51.35437\u00b0 / 3.200672\u00b0",
+    "destLocalTime": "2022/07/10 10:00",
+    "destTime": "2022/07/10 08:00",
+    "position": "51.36754\u00b0 / 2.79806\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/09 12:00",
     "destTime": "2022/07/09 09:00",
-    "position": "26.58928\u00b0 / 50.21233\u00b0",
+    "position": "26.81537\u00b0 / 50.62158\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/08 14:32",
     "destTime": "2022/07/08 06:32",
-    "position": "1.264415\u00b0 / 103.8477\u00b0",
+    "position": "1.26442\u00b0 / 103.8477\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/07 10:49",
     "destTime": "2022/07/07 01:49",
-    "position": "34.43186\u00b0 / 130.0973\u00b0",
+    "position": "34.34076\u00b0 / 130.2702\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/08 23:17",
     "destTime": "2022/07/08 14:17",
-    "position": "36.97485\u00b0 / 126.8301\u00b0",
+    "position": "36.97483\u00b0 / 126.8301\u00b0",
     "area": "Yellow Sea",
     "status": "Stopped"
   },
