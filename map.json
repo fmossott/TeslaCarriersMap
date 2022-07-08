@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/10 20:00",
     "destTime": "2022/07/11 03:00",
-    "position": "32.65361\u00b0 / -117.1219\u00b0",
+    "position": "32.6536\u00b0 / -117.1219\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/01 15:00",
     "destTime": "2022/07/01 13:00",
-    "position": "51.3065\u00b0 / 3.227495\u00b0",
+    "position": "51.3065\u00b0 / 3.227493\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/05 15:38",
     "destTime": "2022/07/05 13:38",
-    "position": "51.31399\u00b0 / 3.227215\u00b0",
+    "position": "51.314\u00b0 / 3.227203\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/08 22:00",
     "destTime": "2022/07/08 21:00",
-    "position": "50.25629\u00b0 / -1.411333\u00b0",
+    "position": "50.12841\u00b0 / -2.148407\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/08 04:51",
     "destTime": "2022/07/07 20:51",
-    "position": "1.249403\u00b0 / 103.8801\u00b0",
+    "position": "1.249305\u00b0 / 103.8802\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -488,8 +488,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/08 14:00",
     "destTime": "2022/07/08 06:00",
-    "position": "1.347352\u00b0 / 104.3699\u00b0",
-    "area": "South China",
+    "position": "1.278462\u00b0 / 104.1232\u00b0",
+    "area": "Singapore Area",
     "status": "Underway using Engine"
   },
   "9832573": {
@@ -546,9 +546,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/08 15:00",
     "destTime": "2022/07/08 06:00",
-    "position": "36.8652\u00b0 / 125.7173\u00b0",
+    "position": "36.87459\u00b0 / 125.7093\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9293650": {
     "rowidx": 231,
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/06 13:59",
     "destTime": "2022/07/06 05:59",
-    "position": "36.87287\u00b0 / 125.8557\u00b0",
+    "position": "36.98101\u00b0 / 126.1501\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -660,9 +660,9 @@
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
     "destType": "ETA",
-    "destLocalTime": "2022/07/06 04:14",
-    "destTime": "2022/07/05 20:14",
-    "position": "34.75126\u00b0 / 124.9179\u00b0",
+    "destLocalTime": "2022/07/08 23:00",
+    "destTime": "2022/07/08 14:00",
+    "position": "35.03483\u00b0 / 125.0599\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
