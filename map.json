@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/01 15:00",
     "destTime": "2022/07/01 13:00",
-    "position": "51.31371\u00b0 / 3.227455\u00b0",
+    "position": "51.31369\u00b0 / 3.227415\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/10 10:00",
     "destTime": "2022/07/10 08:00",
-    "position": "52.13196\u00b0 / 3.116128\u00b0",
+    "position": "52.84536\u00b0 / 4.233073\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/14 22:00",
     "destTime": "2022/07/14 20:00",
-    "position": "36.31141\u00b0 / 14.87304\u00b0",
+    "position": "37.37142\u00b0 / 11.43633\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -480,17 +480,17 @@
     "grossTonnage": "60,825",
     "dept": "SG SIN",
     "deptLong": "Singapore",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/07/08 14:32",
-    "deptTime": "2022/07/08 06:32",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/07/09 09:02",
+    "deptTime": "2022/07/09 01:02",
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
     "destLocalTime": "2022/07/21 15:00",
     "destTime": "2022/07/21 13:00",
-    "position": "1.264418\u00b0 / 103.8477\u00b0",
+    "position": "1.244973\u00b0 / 103.8589\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9832573": {
     "rowidx": 229,
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/07 10:49",
     "destTime": "2022/07/07 01:49",
-    "position": "33.78077\u00b0 / 131.5468\u00b0",
+    "position": "33.57098\u00b0 / 131.8077\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/08 23:17",
     "destTime": "2022/07/08 14:17",
-    "position": "36.97483\u00b0 / 126.8301\u00b0",
+    "position": "36.97482\u00b0 / 126.8301\u00b0",
     "area": "Yellow Sea",
     "status": "Stopped"
   },
