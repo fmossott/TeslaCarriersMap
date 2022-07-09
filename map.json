@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/01 15:00",
     "destTime": "2022/07/01 13:00",
-    "position": "51.3137\u00b0 / 3.227457\u00b0",
+    "position": "51.31371\u00b0 / 3.227455\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,8 +169,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/11 09:30",
     "destTime": "2022/07/11 08:30",
-    "position": "36.28417\u00b0 / -7.416548\u00b0",
-    "area": "Gibraltar",
+    "position": "37.1607\u00b0 / -9.381768\u00b0",
+    "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
   "9283875": {
@@ -536,17 +536,17 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "59,409",
-    "dept": "CN TXG",
-    "deptLong": "Tianjin",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/07/07 07:38",
-    "deptTime": "2022/07/06 23:38",
-    "dest": "KR PTK",
-    "destLong": "Pyeongtaek",
-    "destType": "ATA",
-    "destLocalTime": "2022/07/08 20:44",
-    "destTime": "2022/07/08 11:44",
-    "position": "36.98341\u00b0 / 126.824\u00b0",
+    "dept": "KR PTK",
+    "deptLong": "Pyeongtaek",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/07/08 19:44",
+    "deptTime": "2022/07/08 11:44",
+    "dest": "JP SAK",
+    "destLong": "Sakai",
+    "destType": "ETA",
+    "destLocalTime": "2022/07/11 19:00",
+    "destTime": "2022/07/11 10:00",
+    "position": "37.01152\u00b0 / 126.7102\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -599,12 +599,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/07/08 16:13",
     "deptTime": "2022/07/08 07:13",
-    "dest": "KR MAS",
-    "destLong": "Masan",
-    "destType": "ATA",
-    "destLocalTime": "2022/07/07 10:49",
-    "destTime": "2022/07/07 01:49",
-    "position": "33.12972\u00b0 / 132.066\u00b0",
+    "dest": "JP UKB",
+    "destLong": "Kobe",
+    "destType": "ETA",
+    "destLocalTime": "2022/07/10 04:30",
+    "destTime": "2022/07/09 19:30",
+    "position": "32.95517\u00b0 / 132.2088\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -633,9 +633,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/08 15:42",
     "destTime": "2022/07/08 06:42",
-    "position": "36.97479\u00b0 / 126.8299\u00b0",
+    "position": "36.9749\u00b0 / 126.8301\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9383106": {
     "rowidx": 234,
@@ -664,7 +664,7 @@
     "destTime": "2022/07/08 14:17",
     "position": "36.98133\u00b0 / 126.8256\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9700524": {
     "rowidx": 235,
