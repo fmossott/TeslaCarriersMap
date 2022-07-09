@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/01 15:00",
     "destTime": "2022/07/01 13:00",
-    "position": "51.31369\u00b0 / 3.227412\u00b0",
+    "position": "51.31366\u00b0 / 3.227475\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/08 22:00",
     "destTime": "2022/07/08 21:00",
-    "position": "51.49465\u00b0 / -2.71438\u00b0",
+    "position": "51.49465\u00b0 / -2.714387\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/11 09:30",
     "destTime": "2022/07/11 08:30",
-    "position": "39.18604\u00b0 / -9.85518\u00b0",
+    "position": "41.07276\u00b0 / -9.795985\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/14 22:00",
     "destTime": "2022/07/14 20:00",
-    "position": "37.37142\u00b0 / 11.43633\u00b0",
+    "position": "38.18385\u00b0 / 7.08622\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -277,15 +277,15 @@
     "grossTonnage": "59,516",
     "dept": "JO AQABA INDUSTRIAL",
     "deptLong": "Singapore",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/07/09 18:18",
-    "deptTime": "2022/07/09 10:18",
-    "dest": "JO AQJ",
-    "destLong": "Aqaba",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/07/09 18:39",
+    "deptTime": "2022/07/09 15:39",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/07/09 07:00",
-    "destTime": "2022/07/09 04:00",
-    "position": "29.36175\u00b0 / 34.94835\u00b0",
+    "destLocalTime": "2022/07/10 14:00",
+    "destTime": "2022/07/10 12:00",
+    "position": "29.32647\u00b0 / 34.89763\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -316,7 +316,7 @@
     "destTime": "2022/07/11 20:00",
     "position": "12.38352\u00b0 / 43.9067\u00b0",
     "area": "Gulf of Aden",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9531739": {
     "rowidx": 223,
@@ -604,7 +604,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/10 04:30",
     "destTime": "2022/07/09 19:30",
-    "position": "32.75584\u00b0 / 133.2887\u00b0",
+    "position": "33.75707\u00b0 / 134.8435\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/08 15:42",
     "destTime": "2022/07/08 06:42",
-    "position": "36.97901\u00b0 / 126.8272\u00b0",
+    "position": "36.97904\u00b0 / 126.8272\u00b0",
     "area": "Yellow Sea",
     "status": "Stopped"
   },
@@ -691,8 +691,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/14 10:00",
     "destTime": "2022/07/14 02:00",
-    "position": "25.37671\u00b0 / 120.5584\u00b0",
-    "area": "East China Sea",
+    "position": "22.50407\u00b0 / 119.2073\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   },
   "9409338": {
@@ -749,7 +749,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/11 20:00",
     "destTime": "2022/07/11 12:00",
-    "position": "31.25531\u00b0 / 121.9364\u00b0",
+    "position": "30.63866\u00b0 / 123.3236\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
