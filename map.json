@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/01 15:00",
     "destTime": "2022/07/01 13:00",
-    "position": "51.31369\u00b0 / 3.227432\u00b0",
+    "position": "51.31372\u00b0 / 3.227407\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/10 10:00",
     "destTime": "2022/07/10 08:00",
-    "position": "57.57896\u00b0 / 9.023055\u00b0",
+    "position": "57.71087\u00b0 / 9.441368\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -132,17 +132,17 @@
     "grossTonnage": "59,525",
     "dept": "GB PRU",
     "deptLong": "Portbury",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/07/09 15:34",
-    "deptTime": "2022/07/09 13:34",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/07/10 02:18",
+    "deptTime": "2022/07/10 01:18",
     "dest": "DE EME",
     "destLong": "Emden",
     "destType": "ETA",
     "destLocalTime": "2022/07/13 09:00",
     "destTime": "2022/07/13 07:00",
-    "position": "51.49867\u00b0 / -2.726018\u00b0",
+    "position": "51.36079\u00b0 / -3.137387\u00b0",
     "area": "Bristol Channel",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9252228": {
     "rowidx": 217,
@@ -343,8 +343,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/10 18:00",
     "destTime": "2022/07/10 14:00",
-    "position": "24.91955\u00b0 / 57.13788\u00b0",
-    "area": "East Asia",
+    "position": "25.20931\u00b0 / 56.74733\u00b0",
+    "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
   "9082324": {
@@ -374,7 +374,7 @@
     "destTime": "2022/07/14 10:00",
     "position": "6.003033\u00b0 / 79.93954\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9355197": {
     "rowidx": 225,
@@ -401,8 +401,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/10 15:00",
     "destTime": "2022/07/10 11:00",
-    "position": "26.63727\u00b0 / 56.50681\u00b0",
-    "area": "Oman Gulf",
+    "position": "26.41801\u00b0 / 55.89402\u00b0",
+    "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
   "8415794": {
@@ -517,8 +517,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/10 12:00",
     "destTime": "2022/07/10 04:00",
-    "position": "1.419863\u00b0 / 104.4372\u00b0",
-    "area": "South China",
+    "position": "1.2807\u00b0 / 104.139\u00b0",
+    "area": "Singapore Area",
     "status": "Underway using Engine"
   },
   "9591052": {
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/10 06:31",
     "destTime": "2022/07/09 21:31",
-    "position": "34.68553\u00b0 / 135.2901\u00b0",
+    "position": "34.68549\u00b0 / 135.29\u00b0",
     "area": "Japan Coast",
     "status": "Moored"
   },
@@ -805,9 +805,9 @@
     "dest": "US SFO",
     "destLong": "San Francisco",
     "destType": "ETA",
-    "destLocalTime": "2022/07/16 19:00",
-    "destTime": "2022/07/17 02:00",
-    "position": "8.198767\u00b0 / -79.45051\u00b0",
+    "destLocalTime": "2022/07/16 18:00",
+    "destTime": "2022/07/17 01:00",
+    "position": "7.966215\u00b0 / -83.64362\u00b0",
     "area": "Panama Canal",
     "status": "Underway using Engine"
   }
