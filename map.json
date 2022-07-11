@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/11 08:30",
     "destTime": "2022/07/11 07:30",
-    "position": "51.1745\u00b0 / -4.478213\u00b0",
+    "position": "51.30445\u00b0 / -4.031687\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/21 23:00",
     "destTime": "2022/07/21 16:00",
-    "position": "29.4166\u00b0 / 48.0315\u00b0",
+    "position": "26.2659\u00b0 / 53.78137\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -461,7 +461,7 @@
     "destTime": "2022/07/22 20:00",
     "position": "6.069555\u00b0 / 95.68673\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9620695": {
     "rowidx": 228,
@@ -746,10 +746,10 @@
     "deptTime": "2022/07/09 09:35",
     "dest": "CN XMG",
     "destLong": "Xiamen",
-    "destType": "ETA",
-    "destLocalTime": "2022/07/11 20:00",
-    "destTime": "2022/07/11 12:00",
-    "position": "24.37452\u00b0 / 118.1315\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/07/11 12:10",
+    "destTime": "2022/07/11 04:10",
+    "position": "24.51258\u00b0 / 118.0742\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
