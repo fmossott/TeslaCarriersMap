@@ -80,10 +80,10 @@
     "dest": "DE BRV",
     "destLong": "Bremerhaven",
     "destType": "ETA",
-    "destLocalTime": "2022/07/12 22:00",
-    "destTime": "2022/07/12 20:00",
-    "position": "57.65317\u00b0 / 11.7273\u00b0",
-    "area": "Kattegat",
+    "destLocalTime": "2022/07/12 20:00",
+    "destTime": "2022/07/12 18:00",
+    "position": "57.85835\u00b0 / 10.421\u00b0",
+    "area": "Skagerrak",
     "status": "Underway using Engine"
   },
   "9675573": {
@@ -111,9 +111,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/12 01:00",
     "destTime": "2022/07/11 23:00",
-    "position": "53.64897\u00b0 / 6.12206\u00b0",
+    "position": "53.6409\u00b0 / 6.18082\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9252228": {
     "rowidx": 217,
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/11 08:30",
     "destTime": "2022/07/11 07:30",
-    "position": "51.49313\u00b0 / -2.717198\u00b0",
+    "position": "51.49311\u00b0 / -2.71718\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/11 22:39",
     "destTime": "2022/07/11 20:39",
-    "position": "29.84845\u00b0 / 32.56182\u00b0",
+    "position": "29.84822\u00b0 / 32.56172\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/10 21:58",
     "destTime": "2022/07/10 17:58",
-    "position": "24.98984\u00b0 / 55.0759\u00b0",
+    "position": "24.98982\u00b0 / 55.0759\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/10 14:28",
     "destTime": "2022/07/10 10:28",
-    "position": "24.99425\u00b0 / 55.08076\u00b0",
+    "position": "24.99426\u00b0 / 55.08078\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -572,12 +572,12 @@
     "deptTime": "2022/07/10 13:37",
     "dest": "JP YOK",
     "destLong": "Yokohama",
-    "destType": "ETA",
-    "destLocalTime": "2022/07/12 05:15",
-    "destTime": "2022/07/11 20:15",
-    "position": "35.42002\u00b0 / 139.7688\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/07/12 07:05",
+    "destTime": "2022/07/11 22:05",
+    "position": "35.46093\u00b0 / 139.6892\u00b0",
     "area": "Japan Coast",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9445980": {
     "rowidx": 233,
@@ -807,7 +807,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/10 05:48",
     "destTime": "2022/07/09 21:48",
-    "position": "28.37355\u00b0 / 122.7687\u00b0",
+    "position": "28.1847\u00b0 / 122.6609\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -836,7 +836,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/10 21:26",
     "destTime": "2022/07/10 13:26",
-    "position": "31.32357\u00b0 / 121.6794\u00b0",
+    "position": "31.32361\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
