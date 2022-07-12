@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/11 14:04",
     "destTime": "2022/07/11 21:04",
-    "position": "45.64637\u00b0 / -122.7559\u00b0",
+    "position": "45.64639\u00b0 / -122.7558\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -36,7 +36,7 @@
     "notes": "",
     "quarter": "22Q3",
     "numDept": "1",
-    "mapStatus": "0",
+    "mapStatus": "1",
     "mtsid": "729334",
     "name": "Viking Queen",
     "mmsi": "538009733",
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/11 22:17",
     "destTime": "2022/07/12 05:17",
-    "position": "37.74957\u00b0 / -122.3757\u00b0",
+    "position": "37.7495\u00b0 / -122.3757\u00b0",
     "area": "US West Coast",
     "status": "Stopped"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/12 01:00",
     "destTime": "2022/07/11 23:00",
-    "position": "53.64153\u00b0 / 6.182098\u00b0",
+    "position": "53.64153\u00b0 / 6.181578\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -140,9 +140,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/14 01:00",
     "destTime": "2022/07/13 23:00",
-    "position": "51.4931\u00b0 / -2.717212\u00b0",
+    "position": "51.49874\u00b0 / -2.725963\u00b0",
     "area": "Bristol Channel",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9283875": {
     "rowidx": 218,
@@ -285,8 +285,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/14 06:00",
     "destTime": "2022/07/14 03:00",
-    "position": "30.32402\u00b0 / 32.40408\u00b0",
-    "area": "Red Sea",
+    "position": "30.43603\u00b0 / 32.35802\u00b0",
+    "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
   "9531739": {
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/10 21:58",
     "destTime": "2022/07/10 17:58",
-    "position": "24.98985\u00b0 / 55.07589\u00b0",
+    "position": "24.98986\u00b0 / 55.07589\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -362,19 +362,19 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "59,952",
-    "dept": "AE JEA",
-    "deptLong": "Jebel Ali",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/07/10 18:28",
-    "deptTime": "2022/07/10 10:28",
+    "dept": "SG SIN",
+    "deptLong": "Singapore",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/06/30 17:54",
+    "deptTime": "2022/06/30 09:54",
     "dest": "SA DMM",
     "destLong": "Dammam",
     "destType": "ETA",
     "destLocalTime": "2022/07/13 03:01",
     "destTime": "2022/07/13 00:01",
-    "position": "24.99442\u00b0 / 55.08053\u00b0",
+    "position": "25.05114\u00b0 / 55.01567\u00b0",
     "area": "Persian Gulf",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "8415794": {
     "rowidx": 226,
@@ -567,17 +567,17 @@
     "grossTonnage": "67,140",
     "dept": "JP YOK",
     "deptLong": "Yokohama",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/07/12 07:05",
-    "deptTime": "2022/07/11 22:05",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/07/12 16:09",
+    "deptTime": "2022/07/12 07:09",
     "dest": "PA BLB",
     "destLong": "Balboa",
     "destType": "ETA",
     "destLocalTime": "2022/08/01 18:00",
     "destTime": "2022/08/01 23:00",
-    "position": "35.46092\u00b0 / 139.6892\u00b0",
+    "position": "35.37292\u00b0 / 139.7056\u00b0",
     "area": "Japan Coast",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9445980": {
     "rowidx": 233,
@@ -807,7 +807,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/10 05:48",
     "destTime": "2022/07/09 21:48",
-    "position": "26.71743\u00b0 / 121.6796\u00b0",
+    "position": "26.51975\u00b0 / 121.5468\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
