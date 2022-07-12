@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/11 14:04",
     "destTime": "2022/07/11 21:04",
-    "position": "45.64638\u00b0 / -122.7558\u00b0",
+    "position": "45.64639\u00b0 / -122.7558\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/12 01:00",
     "destTime": "2022/07/11 23:00",
-    "position": "53.64079\u00b0 / 6.180723\u00b0",
+    "position": "53.6408\u00b0 / 6.180737\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/11 08:30",
     "destTime": "2022/07/11 07:30",
-    "position": "51.49312\u00b0 / -2.717222\u00b0",
+    "position": "51.49312\u00b0 / -2.717213\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -275,17 +275,17 @@
     "length": "228.7",
     "breadth": "32.29",
     "grossTonnage": "68,871",
-    "dept": "SG SIN",
+    "dept": "EG SUEZ SOUTH ANCH",
     "deptLong": "Singapore",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/06/27 05:39",
-    "deptTime": "2022/06/26 21:39",
-    "dest": "EG SUEZ SOUTH ANCH",
-    "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2022/07/11 22:39",
-    "destTime": "2022/07/11 20:39",
-    "position": "29.84838\u00b0 / 32.56157\u00b0",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/07/12 04:39",
+    "deptTime": "2022/07/11 20:39",
+    "dest": "GR PIR",
+    "destLong": "Piraeus",
+    "destType": "ETA",
+    "destLocalTime": "2022/07/14 06:00",
+    "destTime": "2022/07/14 03:00",
+    "position": "29.84828\u00b0 / 32.56127\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/10 21:58",
     "destTime": "2022/07/10 17:58",
-    "position": "24.98982\u00b0 / 55.0759\u00b0",
+    "position": "24.98983\u00b0 / 55.0759\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/10 14:28",
     "destTime": "2022/07/10 10:28",
-    "position": "24.99425\u00b0 / 55.08074\u00b0",
+    "position": "24.99423\u00b0 / 55.08076\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -548,7 +548,7 @@
     "destTime": "2022/07/12 22:00",
     "position": "5.979778\u00b0 / 107.8525\u00b0",
     "area": "Riau Archipelago",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9191307": {
     "rowidx": 232,
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/12 07:05",
     "destTime": "2022/07/11 22:05",
-    "position": "35.46088\u00b0 / 139.6893\u00b0",
+    "position": "35.46089\u00b0 / 139.6892\u00b0",
     "area": "Japan Coast",
     "status": "Moored"
   },
@@ -807,7 +807,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/10 05:48",
     "destTime": "2022/07/09 21:48",
-    "position": "27.99778\u00b0 / 122.5516\u00b0",
+    "position": "27.7868\u00b0 / 122.4265\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
