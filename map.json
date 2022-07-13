@@ -16,17 +16,17 @@
     "grossTonnage": "60,213",
     "dept": "US PDX",
     "deptLong": "Portland Or",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/07/12 06:04",
-    "deptTime": "2022/07/11 21:04",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/07/13 15:35",
+    "deptTime": "2022/07/13 22:35",
     "dest": "KR KAN",
     "destLong": "Gwangyang",
     "destType": "ETA",
     "destLocalTime": "2022/07/24 20:00",
     "destTime": "2022/07/24 11:00",
-    "position": "45.64637\u00b0 / -122.7559\u00b0",
+    "position": "45.78102\u00b0 / -122.7707\u00b0",
     "area": "US West Coast",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9318462": {
     "rowidx": 7,
@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/28 05:00",
     "destTime": "2022/07/27 20:00",
-    "position": "37.74967\u00b0 / -122.3757\u00b0",
+    "position": "37.74967\u00b0 / -122.3758\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/13 16:43",
     "destTime": "2022/07/13 13:43",
-    "position": "37.96051\u00b0 / 23.60486\u00b0",
+    "position": "37.96049\u00b0 / 23.60487\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/13 07:01",
     "destTime": "2022/07/13 04:01",
-    "position": "26.61254\u00b0 / 50.29672\u00b0",
+    "position": "26.61228\u00b0 / 50.29692\u00b0",
     "area": "Persian Gulf",
     "status": "At Anchor"
   },
@@ -374,7 +374,7 @@
     "destTime": "2022/07/20 20:00",
     "position": "6.24541\u00b0 / 96.17116\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9293650": {
     "rowidx": 226,
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/13 12:10",
     "destTime": "2022/07/13 04:10",
-    "position": "1.262548\u00b0 / 103.8494\u00b0",
+    "position": "1.262538\u00b0 / 103.8494\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/14 02:02",
     "destTime": "2022/07/13 18:02",
-    "position": "38.98625\u00b0 / 117.7795\u00b0",
+    "position": "38.98617\u00b0 / 117.7795\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -633,7 +633,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/14 13:00",
     "destTime": "2022/07/14 04:00",
-    "position": "36.66951\u00b0 / 125.2571\u00b0",
+    "position": "36.67296\u00b0 / 125.4983\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
