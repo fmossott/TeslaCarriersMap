@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/11 14:04",
     "destTime": "2022/07/11 21:04",
-    "position": "45.64635\u00b0 / -122.7558\u00b0",
+    "position": "45.64638\u00b0 / -122.7558\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/11 22:17",
     "destTime": "2022/07/12 05:17",
-    "position": "37.74959\u00b0 / -122.3757\u00b0",
+    "position": "37.74967\u00b0 / -122.3758\u00b0",
     "area": "US West Coast",
     "status": "Stopped"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/15 01:00",
     "destTime": "2022/07/14 23:00",
-    "position": "42.27893\u00b0 / -9.73686\u00b0",
+    "position": "43.76305\u00b0 / -9.37961\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/13 09:00",
     "destTime": "2022/07/13 06:00",
-    "position": "36.52474\u00b0 / 24.33191\u00b0",
+    "position": "36.7418\u00b0 / 24.14571\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/13 07:00",
     "destTime": "2022/07/13 04:00",
-    "position": "27.13522\u00b0 / 51.02686\u00b0",
+    "position": "27.01083\u00b0 / 50.77163\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -401,9 +401,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/13 11:15",
     "destTime": "2022/07/13 03:15",
-    "position": "5.979778\u00b0 / 107.8525\u00b0",
+    "position": "1.306937\u00b0 / 104.3123\u00b0",
     "area": "Riau Archipelago",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9700524": {
     "rowidx": 227,
@@ -486,8 +486,8 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/07/16 12:00",
-    "destTime": "2022/07/16 04:00",
+    "destLocalTime": "2022/07/18 15:00",
+    "destTime": "2022/07/18 07:00",
     "position": "22.4815\u00b0 / 117.2558\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
@@ -515,11 +515,11 @@
     "dest": "US SFO",
     "destLong": "San Francisco",
     "destType": "ETA",
-    "destLocalTime": "2022/07/16 16:00",
-    "destTime": "2022/07/16 23:00",
-    "position": "7.966215\u00b0 / -83.64362\u00b0",
-    "area": "Panama Canal",
-    "status": "Out of Range"
+    "destLocalTime": "2022/07/16 14:00",
+    "destTime": "2022/07/16 21:00",
+    "position": "19.99049\u00b0 / -106.9007\u00b0",
+    "area": "West Coast Central America",
+    "status": "Underway using Engine"
   },
   "9432919": {
     "rowidx": 231,
@@ -546,8 +546,8 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/10 05:48",
     "destTime": "2022/07/09 21:48",
-    "position": "24.1258\u00b0 / 119.0171\u00b0",
-    "area": "East China Sea",
+    "position": "23.90412\u00b0 / 118.8057\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   },
   "9777802": {
@@ -575,7 +575,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/13 17:00",
     "destTime": "2022/07/13 09:00",
-    "position": "38.46186\u00b0 / 121.2614\u00b0",
+    "position": "38.65109\u00b0 / 120.6879\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
@@ -604,7 +604,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/14 01:00",
     "destTime": "2022/07/13 17:00",
-    "position": "36.21149\u00b0 / 123.2324\u00b0",
+    "position": "36.87628\u00b0 / 123.2707\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/12 11:18",
     "destTime": "2022/07/12 03:18",
-    "position": "31.32357\u00b0 / 121.6797\u00b0",
+    "position": "31.3235\u00b0 / 121.6797\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/14 06:00",
     "destTime": "2022/07/13 21:00",
-    "position": "31.67291\u00b0 / 123.1858\u00b0",
+    "position": "32.41457\u00b0 / 123.6075\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
