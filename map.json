@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/28 05:00",
     "destTime": "2022/07/27 20:00",
-    "position": "37.74954\u00b0 / -122.3757\u00b0",
+    "position": "37.7495\u00b0 / -122.3757\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/14 03:26",
     "destTime": "2022/07/14 01:26",
-    "position": "51.89465\u00b0 / 4.247278\u00b0",
+    "position": "51.89462\u00b0 / 4.247295\u00b0",
     "area": "Rotterdam Area",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/14 11:00",
     "destTime": "2022/07/14 10:00",
-    "position": "50.12915\u00b0 / -3.441195\u00b0",
+    "position": "50.3022\u00b0 / -3.412072\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/14 07:19",
     "destTime": "2022/07/14 04:19",
-    "position": "37.96072\u00b0 / 23.60493\u00b0",
+    "position": "37.96072\u00b0 / 23.60495\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -198,9 +198,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/14 22:30",
     "destTime": "2022/07/14 19:30",
-    "position": "25.00315\u00b0 / 51.59999\u00b0",
+    "position": "25.00767\u00b0 / 51.60379\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9082324": {
     "rowidx": 220,
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/14 09:10",
     "destTime": "2022/07/14 06:10",
-    "position": "26.49727\u00b0 / 50.20679\u00b0",
+    "position": "26.49729\u00b0 / 50.20677\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -316,7 +316,7 @@
     "destTime": "2022/07/22 20:00",
     "position": "5.92553\u00b0 / 80.05294\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9620695": {
     "rowidx": 224,
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/13 12:10",
     "destTime": "2022/07/13 04:10",
-    "position": "1.262553\u00b0 / 103.8494\u00b0",
+    "position": "1.262567\u00b0 / 103.8494\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/27 20:00",
     "destTime": "2022/07/27 18:00",
-    "position": "1.283108\u00b0 / 103.9906\u00b0",
+    "position": "1.283498\u00b0 / 103.9907\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/14 11:26",
     "destTime": "2022/07/14 03:26",
-    "position": "1.245583\u00b0 / 103.8736\u00b0",
+    "position": "1.245467\u00b0 / 103.8737\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/14 02:02",
     "destTime": "2022/07/13 18:02",
-    "position": "38.98626\u00b0 / 117.7795\u00b0",
+    "position": "38.98624\u00b0 / 117.7795\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
