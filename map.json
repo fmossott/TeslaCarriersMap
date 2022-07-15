@@ -135,14 +135,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/07/06 01:15",
     "deptTime": "2022/07/05 22:15",
-    "dest": "BE ZEE",
+    "dest": "BE ANTWERP ANCH",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2022/07/15 10:00",
-    "destTime": "2022/07/15 08:00",
-    "position": "51.44497\u00b0 / 2.651848\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/07/15 10:20",
+    "destTime": "2022/07/15 08:20",
+    "position": "51.45649\u00b0 / 2.650095\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9701140": {
     "rowidx": 218,
@@ -720,7 +720,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/16 09:00",
     "destTime": "2022/07/16 01:00",
-    "position": "23.34122\u00b0 / 117.9167\u00b0",
+    "position": "22.97206\u00b0 / 117.4406\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
