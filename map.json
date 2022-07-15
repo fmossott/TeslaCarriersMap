@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/15 00:41",
     "destTime": "2022/07/14 16:41",
-    "position": "30.83601\u00b0 / 121.8343\u00b0",
+    "position": "30.83599\u00b0 / 121.8343\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/28 21:00",
     "destTime": "2022/07/28 12:00",
-    "position": "37.7495\u00b0 / -122.3757\u00b0",
+    "position": "37.74957\u00b0 / -122.3757\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/15 00:53",
     "destTime": "2022/07/14 22:53",
-    "position": "51.4579\u00b0 / 2.641463\u00b0",
+    "position": "51.45811\u00b0 / 2.640248\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/15 15:30",
     "destTime": "2022/07/15 12:30",
-    "position": "26.5467\u00b0 / 51.0843\u00b0",
+    "position": "26.79054\u00b0 / 50.97051\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -256,9 +256,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/15 11:17",
     "destTime": "2022/07/15 07:17",
-    "position": "24.50297\u00b0 / 56.62068\u00b0",
+    "position": "24.50213\u00b0 / 56.6206\u00b0",
     "area": "Oman Gulf",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9355197": {
     "rowidx": 222,
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/14 09:10",
     "destTime": "2022/07/14 06:10",
-    "position": "26.49728\u00b0 / 50.20679\u00b0",
+    "position": "26.4973\u00b0 / 50.20678\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -596,15 +596,15 @@
     "grossTonnage": "63,115",
     "dept": "KR PTK",
     "deptLong": "Pyeongtaek",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/07/15 10:54",
-    "deptTime": "2022/07/15 02:54",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/07/15 17:07",
+    "deptTime": "2022/07/15 08:07",
     "dest": "JP NAN",
     "destLong": "Nakanoseki",
     "destType": "ETA",
     "destLocalTime": "2022/07/17 16:00",
     "destTime": "2022/07/17 07:00",
-    "position": "36.98913\u00b0 / 126.7852\u00b0",
+    "position": "37.1121\u00b0 / 126.5786\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/14 13:40",
     "destTime": "2022/07/14 04:40",
-    "position": "36.97333\u00b0 / 126.8283\u00b0",
+    "position": "36.97475\u00b0 / 126.8299\u00b0",
     "area": "Yellow Sea",
     "status": "Stopped"
   },
