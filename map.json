@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/15 00:41",
     "destTime": "2022/07/14 16:41",
-    "position": "30.836\u00b0 / 121.8343\u00b0",
+    "position": "30.83601\u00b0 / 121.8343\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/28 15:00",
     "destTime": "2022/07/28 06:00",
-    "position": "37.7496\u00b0 / -122.3757\u00b0",
+    "position": "37.7495\u00b0 / -122.3757\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/15 00:53",
     "destTime": "2022/07/14 22:53",
-    "position": "51.45861\u00b0 / 2.641957\u00b0",
+    "position": "51.45824\u00b0 / 2.641552\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -219,17 +219,17 @@
     "grossTonnage": "63,085",
     "dept": "BH KBS",
     "deptLong": "Khalifa Bin Salman",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/07/14 23:28",
-    "deptTime": "2022/07/14 20:28",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/07/15 08:21",
+    "deptTime": "2022/07/15 05:21",
     "dest": "SA DMM",
     "destLong": "Dammam",
     "destType": "ETA",
-    "destLocalTime": "2022/07/15 12:30",
-    "destTime": "2022/07/15 09:30",
-    "position": "26.1958\u00b0 / 50.70686\u00b0",
+    "destLocalTime": "2022/07/15 15:30",
+    "destTime": "2022/07/15 12:30",
+    "position": "26.17381\u00b0 / 50.74644\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9082324": {
     "rowidx": 221,
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/15 10:00",
     "destTime": "2022/07/15 06:00",
-    "position": "24.51007\u00b0 / 56.81639\u00b0",
+    "position": "24.55243\u00b0 / 56.64673\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/14 09:10",
     "destTime": "2022/07/14 06:10",
-    "position": "26.49726\u00b0 / 50.20678\u00b0",
+    "position": "26.49728\u00b0 / 50.20679\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
