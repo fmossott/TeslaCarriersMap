@@ -1,13 +1,42 @@
 {
-  "9122930": {
+  "9702417": {
     "rowidx": 6,
+    "silence": "FALSE",
+    "num": "197",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q3",
+    "numDept": "2",
+    "mapStatus": "1",
+    "mtsid": "714636",
+    "name": "Glovis Summit",
+    "mmsi": "538005600",
+    "length": "199.97",
+    "breadth": "35",
+    "grossTonnage": "64,546",
+    "dept": "KR KAN",
+    "deptLong": "Gwangyang",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/07/15 20:40",
+    "deptTime": "2022/07/15 11:40",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/07/17 14:21",
+    "destTime": "2022/07/17 06:21",
+    "position": "30.83586\u00b0 / 121.8341\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
+  },
+  "9122930": {
+    "rowidx": 7,
     "silence": "FALSE",
     "num": "196",
     "manDept": "SFO",
     "notes": "",
     "quarter": "22Q3",
     "numDept": "2",
-    "mapStatus": "0",
+    "mapStatus": "1",
     "mtsid": "460154",
     "name": "Glovis Corona",
     "mmsi": "440161000",
@@ -29,7 +58,7 @@
     "status": "Moored"
   },
   "9312834": {
-    "rowidx": 7,
+    "rowidx": 8,
     "silence": "FALSE",
     "num": "195",
     "manDept": "SHG",
@@ -58,7 +87,7 @@
     "status": "Underway using Engine"
   },
   "9318462": {
-    "rowidx": 8,
+    "rowidx": 9,
     "silence": "FALSE",
     "num": "194",
     "manDept": "SFO",
@@ -87,7 +116,7 @@
     "status": "Underway using Engine"
   },
   "9252228": {
-    "rowidx": 216,
+    "rowidx": 217,
     "silence": "FALSE",
     "num": "-14",
     "manDept": "SHG",
@@ -116,7 +145,7 @@
     "status": "Moored"
   },
   "9283875": {
-    "rowidx": 217,
+    "rowidx": 218,
     "silence": "FALSE",
     "num": "-15",
     "manDept": "SHG",
@@ -145,7 +174,7 @@
     "status": "Moored"
   },
   "9701140": {
-    "rowidx": 218,
+    "rowidx": 219,
     "silence": "FALSE",
     "num": "-16",
     "manDept": "SHG",
@@ -174,7 +203,7 @@
     "status": "Underway using Engine"
   },
   "9285483": {
-    "rowidx": 219,
+    "rowidx": 220,
     "silence": "FALSE",
     "num": "-17",
     "manDept": "SHG",
@@ -203,7 +232,7 @@
     "status": "Underway using Engine"
   },
   "9531739": {
-    "rowidx": 220,
+    "rowidx": 221,
     "silence": "FALSE",
     "num": "-18",
     "manDept": "SHG",
@@ -232,7 +261,7 @@
     "status": "Underway using Engine"
   },
   "9082324": {
-    "rowidx": 221,
+    "rowidx": 222,
     "silence": "FALSE",
     "num": "-19",
     "manDept": "SHG",
@@ -261,7 +290,7 @@
     "status": "Underway using Engine"
   },
   "9355197": {
-    "rowidx": 222,
+    "rowidx": 223,
     "silence": "FALSE",
     "num": "-20",
     "manDept": "SHG",
@@ -290,7 +319,7 @@
     "status": "Moored"
   },
   "8415794": {
-    "rowidx": 223,
+    "rowidx": 224,
     "silence": "FALSE",
     "num": "-21",
     "manDept": "SHG",
@@ -319,7 +348,7 @@
     "status": "Out of Range"
   },
   "9684988": {
-    "rowidx": 224,
+    "rowidx": 225,
     "silence": "FALSE",
     "num": "-22",
     "manDept": "SHG",
@@ -348,7 +377,7 @@
     "status": "Out of Range"
   },
   "9620695": {
-    "rowidx": 225,
+    "rowidx": 226,
     "silence": "FALSE",
     "num": "-23",
     "manDept": "SHG",
@@ -377,7 +406,7 @@
     "status": "Out of Range"
   },
   "9832573": {
-    "rowidx": 226,
+    "rowidx": 227,
     "silence": "FALSE",
     "num": "-24",
     "manDept": "SHG",
@@ -406,7 +435,7 @@
     "status": "Underway using Engine"
   },
   "9293650": {
-    "rowidx": 227,
+    "rowidx": 228,
     "silence": "FALSE",
     "num": "-25",
     "manDept": "SHG",
@@ -435,7 +464,7 @@
     "status": "Out of Range"
   },
   "9700524": {
-    "rowidx": 228,
+    "rowidx": 229,
     "silence": "FALSE",
     "num": "-26",
     "manDept": "SHG",
@@ -464,7 +493,7 @@
     "status": "Out of Range"
   },
   "9409338": {
-    "rowidx": 229,
+    "rowidx": 230,
     "silence": "FALSE",
     "num": "-27",
     "manDept": "SHG",
@@ -493,7 +522,7 @@
     "status": "Out of Range"
   },
   "9303194": {
-    "rowidx": 230,
+    "rowidx": 231,
     "silence": "FALSE",
     "num": "-28",
     "manDept": "SHG",
@@ -522,7 +551,7 @@
     "status": "Underway using Engine"
   },
   "9432919": {
-    "rowidx": 231,
+    "rowidx": 232,
     "silence": "FALSE",
     "num": "-29",
     "manDept": "SHG",
@@ -551,7 +580,7 @@
     "status": "Out of Range"
   },
   "9777802": {
-    "rowidx": 232,
+    "rowidx": 233,
     "silence": "FALSE",
     "num": "-30",
     "manDept": "SHG",
@@ -580,7 +609,7 @@
     "status": "Moored"
   },
   "9277802": {
-    "rowidx": 233,
+    "rowidx": 234,
     "silence": "FALSE",
     "num": "-31",
     "manDept": "SHG",
@@ -609,7 +638,7 @@
     "status": "Underway"
   },
   "9158616": {
-    "rowidx": 234,
+    "rowidx": 235,
     "silence": "FALSE",
     "num": "-32",
     "manDept": "SHG",
@@ -638,7 +667,7 @@
     "status": "Moored"
   },
   "9460887": {
-    "rowidx": 235,
+    "rowidx": 236,
     "silence": "FALSE",
     "num": "-33",
     "manDept": "SHG",
@@ -667,7 +696,7 @@
     "status": "Out of Range"
   },
   "9196400": {
-    "rowidx": 236,
+    "rowidx": 237,
     "silence": "FALSE",
     "num": "-34",
     "manDept": "SHG",
@@ -696,7 +725,7 @@
     "status": "Moored"
   },
   "9311854": {
-    "rowidx": 237,
+    "rowidx": 238,
     "silence": "FALSE",
     "num": "-35",
     "manDept": "SHG",
@@ -725,7 +754,7 @@
     "status": "Out of Range"
   },
   "9441520": {
-    "rowidx": 238,
+    "rowidx": 239,
     "silence": "FALSE",
     "num": "-36",
     "manDept": "SHG",
@@ -754,7 +783,7 @@
     "status": "Underway using Engine"
   },
   "9700550": {
-    "rowidx": 239,
+    "rowidx": 240,
     "silence": "FALSE",
     "num": "-37",
     "manDept": "SHG",
@@ -783,7 +812,7 @@
     "status": "Underway using Engine"
   },
   "9476757": {
-    "rowidx": 240,
+    "rowidx": 241,
     "silence": "FALSE",
     "num": "-38",
     "manDept": "SHG",
@@ -812,7 +841,7 @@
     "status": "Underway using Engine"
   },
   "9667344": {
-    "rowidx": 241,
+    "rowidx": 242,
     "silence": "FALSE",
     "num": "-39",
     "manDept": "SHG",
@@ -837,6 +866,35 @@
     "destLocalTime": "2022/07/16 14:19",
     "destTime": "2022/07/16 06:19",
     "position": "31.32202\u00b0 / 121.6818\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
+  },
+  "9726695": {
+    "rowidx": 243,
+    "silence": "FALSE",
+    "num": "-40",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q3",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "3891136",
+    "name": "Global Highway",
+    "mmsi": "374494000",
+    "length": "199.96",
+    "breadth": "38",
+    "grossTonnage": "75,036",
+    "dept": "KR PTK",
+    "deptLong": "Pyeongtaek",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/07/15 11:57",
+    "deptTime": "2022/07/15 02:57",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/07/17 15:06",
+    "destTime": "2022/07/17 07:06",
+    "position": "31.32343\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
