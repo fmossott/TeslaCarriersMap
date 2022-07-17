@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/16 14:52",
     "destTime": "2022/07/16 21:52",
-    "position": "37.74974\u00b0 / -122.3756\u00b0",
+    "position": "37.74971\u00b0 / -122.3756\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/16 23:47",
     "destTime": "2022/07/16 21:47",
-    "position": "51.26436\u00b0 / 4.2354\u00b0",
+    "position": "51.26436\u00b0 / 4.23542\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/16 22:03",
     "destTime": "2022/07/16 20:03",
-    "position": "51.30381\u00b0 / 3.22956\u00b0",
+    "position": "51.30382\u00b0 / 3.229565\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/15 15:59",
     "destTime": "2022/07/15 12:59",
-    "position": "24.64123\u00b0 / 57.9036\u00b0",
+    "position": "24.57299\u00b0 / 58.14028\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -253,11 +253,11 @@
     "deptTime": "2022/07/17 04:24",
     "dest": "AE JEA",
     "destLong": "Jebel Ali",
-    "destType": "ETA",
-    "destLocalTime": "2022/07/17 11:30",
-    "destTime": "2022/07/17 07:30",
-    "position": "25.08642\u00b0 / 54.97383\u00b0",
-    "area": "Dubai Area",
+    "destType": "ATA",
+    "destLocalTime": "2022/07/17 11:59",
+    "destTime": "2022/07/17 07:59",
+    "position": "24.98857\u00b0 / 55.07262\u00b0",
+    "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
   "9355197": {
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/14 09:10",
     "destTime": "2022/07/14 06:10",
-    "position": "26.49726\u00b0 / 50.20678\u00b0",
+    "position": "26.4973\u00b0 / 50.20679\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/17 15:26",
     "destTime": "2022/07/17 06:26",
-    "position": "34.00597\u00b0 / 131.5598\u00b0",
+    "position": "34.00609\u00b0 / 131.5599\u00b0",
     "area": "Japan Coast",
     "status": "Moored"
   },
@@ -604,9 +604,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/16 14:00",
     "destTime": "2022/07/16 05:00",
-    "position": "37.07389\u00b0 / 126.2053\u00b0",
+    "position": "37.07419\u00b0 / 126.2053\u00b0",
     "area": "Yellow Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9158616": {
     "rowidx": 234,
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/17 11:57",
     "destTime": "2022/07/17 03:57",
-    "position": "37.56333\u00b0 / 121.3813\u00b0",
+    "position": "37.56337\u00b0 / 121.3812\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/16 09:00",
     "destTime": "2022/07/16 01:00",
-    "position": "23.0143\u00b0 / 113.5282\u00b0",
+    "position": "23.01431\u00b0 / 113.5282\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -749,7 +749,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/17 18:00",
     "destTime": "2022/07/17 10:00",
-    "position": "38.82523\u00b0 / 118.6004\u00b0",
+    "position": "38.85586\u00b0 / 118.4166\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
@@ -836,7 +836,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/16 14:19",
     "destTime": "2022/07/16 06:19",
-    "position": "31.32201\u00b0 / 121.6817\u00b0",
+    "position": "31.32202\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
