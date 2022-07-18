@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/17 14:21",
     "destTime": "2022/07/17 06:21",
-    "position": "30.83588\u00b0 / 121.8341\u00b0",
+    "position": "30.83589\u00b0 / 121.8341\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/16 14:52",
     "destTime": "2022/07/16 21:52",
-    "position": "37.74972\u00b0 / -122.3756\u00b0",
+    "position": "37.74974\u00b0 / -122.3756\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/16 22:03",
     "destTime": "2022/07/16 20:03",
-    "position": "51.30383\u00b0 / 3.229565\u00b0",
+    "position": "51.30383\u00b0 / 3.229585\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -258,7 +258,7 @@
     "destTime": "2022/07/15 12:59",
     "position": "24.12351\u00b0 / 60.34085\u00b0",
     "area": "Oman Gulf",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9082324": {
     "rowidx": 222,
@@ -285,8 +285,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/19 07:00",
     "destTime": "2022/07/19 04:00",
-    "position": "25.2689\u00b0 / 54.63387\u00b0",
-    "area": "Dubai Area",
+    "position": "25.36842\u00b0 / 54.2379\u00b0",
+    "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
   "9355197": {
@@ -546,8 +546,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/18 08:20",
     "destTime": "2022/07/18 00:20",
-    "position": "1.702533\u00b0 / 102.823\u00b0",
-    "area": "Singapore Area",
+    "position": "1.77969\u00b0 / 102.668\u00b0",
+    "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
   "9432919": {
@@ -596,17 +596,17 @@
     "grossTonnage": "63,115",
     "dept": "JP NAN",
     "deptLong": "Nakanoseki",
-    "deptType": "ATA",
+    "deptType": "ATD",
     "deptLocalTime": "2022/07/18 17:31",
     "deptTime": "2022/07/18 08:31",
-    "dest": "JP HIJ",
+    "dest": "JP HIROSHIMA ANCH",
     "destLong": "Hiroshima",
-    "destType": "ETA",
-    "destLocalTime": "2022/07/19 00:00",
-    "destTime": "2022/07/18 15:00",
-    "position": "34.32875\u00b0 / 132.4697\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/07/19 00:14",
+    "destTime": "2022/07/18 15:14",
+    "position": "34.32884\u00b0 / 132.4701\u00b0",
     "area": "Japan Coast",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9277802": {
     "rowidx": 234,
@@ -923,7 +923,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/18 03:07",
     "destTime": "2022/07/17 19:07",
-    "position": "31.32221\u00b0 / 121.6816\u00b0",
+    "position": "31.32217\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
