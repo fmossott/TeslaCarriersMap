@@ -80,8 +80,8 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/07/23 01:00",
-    "destTime": "2022/07/22 17:00",
+    "destLocalTime": "2022/07/23 00:00",
+    "destTime": "2022/07/22 16:00",
     "position": "22.29352\u00b0 / 119.6835\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/23 02:01",
     "destTime": "2022/07/23 00:01",
-    "position": "36.2307\u00b0 / -3.744367\u00b0",
+    "position": "36.05983\u00b0 / -6.60755\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -282,10 +282,10 @@
     "deptTime": "2022/07/18 13:01",
     "dest": "QA HMD",
     "destLong": "Hamad",
-    "destType": "ETA",
-    "destLocalTime": "2022/07/19 07:00",
-    "destTime": "2022/07/19 04:00",
-    "position": "25.15928\u00b0 / 51.69788\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/07/19 07:51",
+    "destTime": "2022/07/19 04:51",
+    "position": "25.015\u00b0 / 51.62192\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/20 06:00",
     "destTime": "2022/07/19 21:00",
-    "position": "36.0427\u00b0 / 124.303\u00b0",
+    "position": "35.01566\u00b0 / 124.7638\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
