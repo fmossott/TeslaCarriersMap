@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/16 22:03",
     "destTime": "2022/07/16 20:03",
-    "position": "51.30381\u00b0 / 3.229528\u00b0",
+    "position": "51.30384\u00b0 / 3.229548\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -457,8 +457,8 @@
     "dest": "AE JEA",
     "destLong": "Jebel Ali",
     "destType": "ETA",
-    "destLocalTime": "2022/07/23 12:00",
-    "destTime": "2022/07/23 08:00",
+    "destLocalTime": "2022/07/23 18:00",
+    "destTime": "2022/07/23 14:00",
     "position": "5.264297\u00b0 / 98.36379\u00b0",
     "area": "Malacca Strait",
     "status": "Out of Range"
@@ -599,14 +599,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/07/18 17:31",
     "deptTime": "2022/07/18 08:31",
-    "dest": "JP HIJ",
-    "destLong": "Hiroshima",
-    "destType": "ATA",
-    "destLocalTime": "2022/07/19 06:32",
-    "destTime": "2022/07/18 21:32",
-    "position": "34.35464\u00b0 / 132.481\u00b0",
+    "dest": "JP HTC",
+    "destLong": "Hitachi",
+    "destType": "ETA",
+    "destLocalTime": "2022/07/21 09:00",
+    "destTime": "2022/07/21 00:00",
+    "position": "34.33208\u00b0 / 132.4485\u00b0",
     "area": "Japan Coast",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9277802": {
     "rowidx": 234,
@@ -778,7 +778,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/20 05:00",
     "destTime": "2022/07/19 20:00",
-    "position": "33.75817\u00b0 / 126.1335\u00b0",
+    "position": "33.78391\u00b0 / 126.4954\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
