@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/20 03:00",
     "destTime": "2022/07/20 10:00",
-    "position": "31.15243\u00b0 / -117.2239\u00b0",
+    "position": "31.13658\u00b0 / -117.1979\u00b0",
     "area": "West Coast Central America",
     "status": "Underway using Engine"
   },
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/20 06:30",
     "destTime": "2022/07/19 21:30",
-    "position": "34.46445\u00b0 / 125.1327\u00b0",
+    "position": "34.29401\u00b0 / 125.3568\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/20 06:00",
     "destTime": "2022/07/19 21:00",
-    "position": "33.97088\u00b0 / 127.7741\u00b0",
+    "position": "34.17723\u00b0 / 127.9585\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -749,7 +749,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/22 12:30",
     "destTime": "2022/07/22 03:30",
-    "position": "26.09029\u00b0 / 121.4102\u00b0",
+    "position": "27.47408\u00b0 / 122.7535\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -971,19 +971,19 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "60,928",
-    "dept": "KR KUV",
-    "deptLong": "Gunsan",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/07/17 20:45",
-    "deptTime": "2022/07/17 11:45",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/07/19 03:51",
-    "destTime": "2022/07/18 19:51",
-    "position": "31.32343\u00b0 / 121.6798\u00b0",
+    "deptLocalTime": "2022/07/20 01:21",
+    "deptTime": "2022/07/19 17:21",
+    "dest": "PF PPT",
+    "destLong": "Papeete",
+    "destType": "ETA",
+    "destLocalTime": "2022/08/04 06:00",
+    "destTime": "2022/08/04 16:00",
+    "position": "31.26719\u00b0 / 121.8661\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9620956": {
     "rowidx": 247,
@@ -1010,7 +1010,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/19 16:33",
     "destTime": "2022/07/19 08:33",
-    "position": "31.32267\u00b0 / 121.681\u00b0",
+    "position": "31.32268\u00b0 / 121.681\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
