@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/23 18:30",
     "destTime": "2022/07/24 01:30",
-    "position": "33.19373\u00b0 / -120.2154\u00b0",
+    "position": "33.01301\u00b0 / -120.2009\u00b0",
     "area": "US West Coast",
     "status": "Underway using Engine"
   },
@@ -55,7 +55,7 @@
     "destTime": "2022/07/25 04:00",
     "position": "21.93527\u00b0 / 121.1379\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9122930": {
     "rowidx": 8,
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/20 22:28",
     "destTime": "2022/07/20 21:28",
-    "position": "51.4931\u00b0 / -2.71722\u00b0",
+    "position": "51.4931\u00b0 / -2.717213\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/23 01:00",
     "destTime": "2022/07/22 23:00",
-    "position": "49.35148\u00b0 / -4.080417\u00b0",
+    "position": "49.54728\u00b0 / -3.553433\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/20 08:34",
     "destTime": "2022/07/20 05:34",
-    "position": "26.48883\u00b0 / 50.20042\u00b0",
+    "position": "26.48888\u00b0 / 50.2004\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/20 18:00",
     "destTime": "2022/07/20 16:00",
-    "position": "34.55063\u00b0 / 28.93423\u00b0",
+    "position": "34.71968\u00b0 / 28.74102\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -459,9 +459,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/18 08:20",
     "destTime": "2022/07/18 00:20",
-    "position": "6.292393\u00b0 / 95.07819\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "5.890996\u00b0 / 80.35538\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9432919": {
     "rowidx": 229,
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/22 07:00",
     "destTime": "2022/07/21 23:00",
-    "position": "23.01449\u00b0 / 113.5282\u00b0",
+    "position": "23.01453\u00b0 / 113.5281\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/27 16:00",
     "destTime": "2022/07/27 08:00",
-    "position": "31.32354\u00b0 / 121.6796\u00b0",
+    "position": "31.32353\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
