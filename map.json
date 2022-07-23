@@ -106,14 +106,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/07/17 01:11",
     "deptTime": "2022/07/16 17:11",
-    "dest": "SG SINGAPORE ANCH",
+    "dest": "SG SIN",
     "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2022/07/23 00:47",
-    "destTime": "2022/07/22 16:47",
-    "position": "1.275033\u00b0 / 103.8984\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2022/08/05 20:00",
+    "destTime": "2022/08/05 12:00",
+    "position": "1.183103\u00b0 / 103.8183\u00b0",
     "area": "Singapore Area",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9318462": {
     "rowidx": 10,
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/20 08:34",
     "destTime": "2022/07/20 05:34",
-    "position": "26.48882\u00b0 / 50.20042\u00b0",
+    "position": "26.48878\u00b0 / 50.2004\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/20 18:00",
     "destTime": "2022/07/20 16:00",
-    "position": "38.33977\u00b0 / 25.73145\u00b0",
+    "position": "38.5697\u00b0 / 25.72135\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/24 00:00",
     "destTime": "2022/07/23 21:00",
-    "position": "25.00313\u00b0 / 51.59998\u00b0",
+    "position": "25.00312\u00b0 / 51.59995\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/23 14:30",
     "destTime": "2022/07/23 10:30",
-    "position": "26.00453\u00b0 / 55.68152\u00b0",
+    "position": "25.84873\u00b0 / 55.4219\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/22 12:12",
     "destTime": "2022/07/22 04:12",
-    "position": "23.01448\u00b0 / 113.5282\u00b0",
+    "position": "23.01443\u00b0 / 113.5281\u00b0",
     "area": "South China",
     "status": "Moored"
   },
