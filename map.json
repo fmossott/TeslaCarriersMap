@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/23 21:31",
     "destTime": "2022/07/24 04:31",
-    "position": "38.04079\u00b0 / -122.1361\u00b0",
+    "position": "38.04081\u00b0 / -122.1361\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/24 08:18",
     "destTime": "2022/07/24 00:18",
-    "position": "30.83604\u00b0 / 121.8365\u00b0",
+    "position": "30.83606\u00b0 / 121.8365\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/24 01:41",
     "destTime": "2022/07/23 23:41",
-    "position": "51.47975\u00b0 / 2.692362\u00b0",
+    "position": "51.47972\u00b0 / 2.692378\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/24 21:00",
     "destTime": "2022/07/24 19:00",
-    "position": "50.43548\u00b0 / 0.7200667\u00b0",
+    "position": "50.52727\u00b0 / 1.059083\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/20 08:34",
     "destTime": "2022/07/20 05:34",
-    "position": "26.39725\u00b0 / 53.61167\u00b0",
+    "position": "26.3193\u00b0 / 53.94925\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/23 23:40",
     "destTime": "2022/07/23 20:40",
-    "position": "40.71878\u00b0 / 29.07753\u00b0",
+    "position": "40.73078\u00b0 / 29.24063\u00b0",
     "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/24 15:30",
     "destTime": "2022/07/24 12:30",
-    "position": "26.56188\u00b0 / 50.96421\u00b0",
+    "position": "26.77377\u00b0 / 50.6529\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/24 02:37",
     "destTime": "2022/07/23 22:37",
-    "position": "24.9966\u00b0 / 55.08009\u00b0",
+    "position": "24.99659\u00b0 / 55.08009\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/23 15:09",
     "destTime": "2022/07/23 11:09",
-    "position": "24.9917\u00b0 / 55.07802\u00b0",
+    "position": "24.99172\u00b0 / 55.07803\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/22 12:12",
     "destTime": "2022/07/22 04:12",
-    "position": "23.01451\u00b0 / 113.5281\u00b0",
+    "position": "23.01454\u00b0 / 113.5281\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -602,8 +602,8 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/07/24 04:00",
-    "destTime": "2022/07/23 20:00",
+    "destLocalTime": "2022/07/25 01:00",
+    "destTime": "2022/07/24 17:00",
     "position": "23.04129\u00b0 / 117.5054\u00b0",
     "area": "South China",
     "status": "Out of Range"
@@ -633,9 +633,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/24 14:51",
     "destTime": "2022/07/24 06:51",
-    "position": "1.283342\u00b0 / 103.7508\u00b0",
+    "position": "1.282965\u00b0 / 103.7515\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9176216": {
     "rowidx": 235,
@@ -775,10 +775,10 @@
     "deptTime": "2022/07/23 12:39",
     "dest": "KR MOK",
     "destLong": "Mokpo",
-    "destType": "ETA",
+    "destType": "ATA",
     "destLocalTime": "2022/07/24 20:30",
     "destTime": "2022/07/24 11:30",
-    "position": "34.54737\u00b0 / 126.1697\u00b0",
+    "position": "34.75359\u00b0 / 126.3335\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -797,19 +797,19 @@
     "length": "165",
     "breadth": "27.6",
     "grossTonnage": "28,755",
-    "dept": "JP HKT",
-    "deptLong": "Hakata",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/07/22 12:46",
-    "deptTime": "2022/07/22 03:46",
+    "deptLocalTime": "2022/07/24 17:37",
+    "deptTime": "2022/07/24 09:37",
     "dest": "CN SHG",
     "destLong": "Shanghai",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2022/07/24 10:39",
     "destTime": "2022/07/24 02:39",
-    "position": "31.32307\u00b0 / 121.6803\u00b0",
+    "position": "31.29419\u00b0 / 121.7271\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9338620": {
     "rowidx": 241,
@@ -836,7 +836,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/23 20:46",
     "destTime": "2022/07/23 12:46",
-    "position": "31.32337\u00b0 / 121.6796\u00b0",
+    "position": "31.32343\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
