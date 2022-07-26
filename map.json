@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/25 22:45",
     "destTime": "2022/07/26 05:45",
-    "position": "37.79428\u00b0 / -122.3589\u00b0",
+    "position": "37.79436\u00b0 / -122.3588\u00b0",
     "area": "US West Coast",
     "status": "At Anchor"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/25 04:09",
     "destTime": "2022/07/25 02:09",
-    "position": "51.29674\u00b0 / 3.241388\u00b0",
+    "position": "51.29673\u00b0 / 3.241392\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/29 06:00",
     "destTime": "2022/07/29 04:00",
-    "position": "51.30367\u00b0 / 3.229767\u00b0",
+    "position": "51.30368\u00b0 / 3.229767\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -312,10 +312,10 @@
     "dest": "IT LIV",
     "destLong": "Livorno",
     "destType": "ETA",
-    "destLocalTime": "2022/07/26 21:30",
-    "destTime": "2022/07/26 19:30",
-    "position": "41.21859\u00b0 / 11.85042\u00b0",
-    "area": "Tyrrhenian Sea",
+    "destLocalTime": "2022/07/26 21:00",
+    "destTime": "2022/07/26 19:00",
+    "position": "41.50666\u00b0 / 11.3782\u00b0",
+    "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
   "9832573": {
@@ -430,9 +430,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/26 07:20",
     "destTime": "2022/07/26 04:20",
-    "position": "26.6022\u00b0 / 50.29012\u00b0",
+    "position": "26.56715\u00b0 / 50.18705\u00b0",
     "area": "Persian Gulf",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9303194": {
     "rowidx": 228,
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/26 09:27",
     "destTime": "2022/07/26 00:27",
-    "position": "36.97525\u00b0 / 126.8216\u00b0",
+    "position": "36.97886\u00b0 / 126.8272\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -749,7 +749,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/24 21:57",
     "destTime": "2022/07/24 13:57",
-    "position": "31.32339\u00b0 / 121.6796\u00b0",
+    "position": "31.32341\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -778,8 +778,8 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/26 11:18",
     "destTime": "2022/07/26 03:18",
-    "position": "31.32199\u00b0 / 121.6818\u00b0",
+    "position": "31.32198\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
-    "status": "Underway"
+    "status": "Moored"
   }
 }
