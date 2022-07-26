@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/25 22:45",
     "destTime": "2022/07/26 05:45",
-    "position": "37.79394\u00b0 / -122.3573\u00b0",
+    "position": "37.79416\u00b0 / -122.3573\u00b0",
     "area": "US West Coast",
     "status": "At Anchor"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/25 04:09",
     "destTime": "2022/07/25 02:09",
-    "position": "51.29671\u00b0 / 3.241377\u00b0",
+    "position": "51.2967\u00b0 / 3.241375\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -311,12 +311,12 @@
     "deptTime": "2022/07/09 01:02",
     "dest": "IT LIV",
     "destLong": "Livorno",
-    "destType": "ETA",
-    "destLocalTime": "2022/07/26 21:00",
-    "destTime": "2022/07/26 19:00",
-    "position": "43.51457\u00b0 / 10.25227\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/07/26 21:05",
+    "destTime": "2022/07/26 19:05",
+    "position": "43.57817\u00b0 / 10.30571\u00b0",
     "area": "Ligurean Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9832573": {
     "rowidx": 224,
@@ -343,9 +343,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/09 05:00",
     "destTime": "2022/08/08 22:00",
-    "position": "29.35303\u00b0 / 47.92326\u00b0",
+    "position": "29.15687\u00b0 / 48.36922\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9293650": {
     "rowidx": 225,
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/27 04:00",
     "destTime": "2022/07/27 01:00",
-    "position": "26.14678\u00b0 / 52.00327\u00b0",
+    "position": "26.33026\u00b0 / 51.70292\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/27 20:00",
     "destTime": "2022/07/27 18:00",
-    "position": "24.43159\u00b0 / 36.2373\u00b0",
+    "position": "24.5975\u00b0 / 36.13605\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/26 12:47",
     "destTime": "2022/07/26 09:47",
-    "position": "26.48903\u00b0 / 50.20052\u00b0",
+    "position": "26.48897\u00b0 / 50.20052\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
