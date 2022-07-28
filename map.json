@@ -628,14 +628,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/07/22 20:10",
     "deptTime": "2022/07/22 12:10",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2022/07/29 05:30",
-    "destTime": "2022/07/28 21:30",
-    "position": "1.264582\u00b0 / 103.9799\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/07/29 06:32",
+    "destTime": "2022/07/28 22:32",
+    "position": "1.28293\u00b0 / 103.9419\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9432880": {
     "rowidx": 235,
@@ -749,7 +749,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/30 03:00",
     "destTime": "2022/07/29 18:00",
-    "position": "31.09201\u00b0 / 122.6592\u00b0",
+    "position": "31.09316\u00b0 / 122.9293\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
