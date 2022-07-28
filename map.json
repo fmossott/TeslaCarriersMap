@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/27 18:29",
     "destTime": "2022/07/28 01:29",
-    "position": "37.74944\u00b0 / -122.3757\u00b0",
+    "position": "37.74945\u00b0 / -122.3756\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/25 04:09",
     "destTime": "2022/07/25 02:09",
-    "position": "51.29673\u00b0 / 3.241392\u00b0",
+    "position": "51.29669\u00b0 / 3.24139\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/29 14:00",
     "destTime": "2022/07/29 12:00",
-    "position": "34.0437\u00b0 / 18.3635\u00b0",
+    "position": "33.78596\u00b0 / 17.8815\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -314,9 +314,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/28 20:21",
     "destTime": "2022/07/28 18:21",
-    "position": "41.33178\u00b0 / 2.146247\u00b0",
+    "position": "41.33177\u00b0 / 2.146248\u00b0",
     "area": "Balearic Sea",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9832573": {
     "rowidx": 224,
@@ -374,7 +374,7 @@
     "destTime": "2022/07/27 20:01",
     "position": "26.64492\u00b0 / 50.34491\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9700524": {
     "rowidx": 226,
@@ -432,7 +432,7 @@
     "destTime": "2022/07/26 09:47",
     "position": "26.48898\u00b0 / 50.20057\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Out of Range"
   },
   "9303194": {
     "rowidx": 228,
@@ -749,7 +749,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/30 03:00",
     "destTime": "2022/07/29 18:00",
-    "position": "31.26839\u00b0 / 121.8629\u00b0",
+    "position": "31.09201\u00b0 / 122.6592\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
