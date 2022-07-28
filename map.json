@@ -19,14 +19,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/07/25 03:56",
     "deptTime": "2022/07/24 19:56",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/07/27 23:35",
-    "destTime": "2022/07/27 15:35",
-    "position": "30.836\u00b0 / 121.8365\u00b0",
+    "dest": "KR MAS",
+    "destLong": "Masan",
+    "destType": "ETA",
+    "destLocalTime": "2022/07/30 09:00",
+    "destTime": "2022/07/30 00:00",
+    "position": "30.76927\u00b0 / 121.8451\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9749568": {
     "rowidx": 7,
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/27 18:29",
     "destTime": "2022/07/28 01:29",
-    "position": "37.74945\u00b0 / -122.3756\u00b0",
+    "position": "37.74944\u00b0 / -122.3757\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/28 20:03",
     "destTime": "2022/07/28 11:03",
-    "position": "36.98338\u00b0 / 126.824\u00b0",
+    "position": "36.98339\u00b0 / 126.824\u00b0",
     "area": "Yellow Sea",
     "status": "Stopped"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/25 04:09",
     "destTime": "2022/07/25 02:09",
-    "position": "51.29674\u00b0 / 3.241363\u00b0",
+    "position": "51.29671\u00b0 / 3.241377\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/30 03:00",
     "destTime": "2022/07/30 01:00",
-    "position": "51.40002\u00b0 / 3.0166\u00b0",
+    "position": "52.18335\u00b0 / 2.748783\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/29 14:00",
     "destTime": "2022/07/29 12:00",
-    "position": "34.38612\u00b0 / 19.01637\u00b0",
+    "position": "34.0437\u00b0 / 18.3635\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -314,9 +314,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/28 16:30",
     "destTime": "2022/07/28 14:30",
-    "position": "41.24922\u00b0 / 2.285647\u00b0",
+    "position": "41.283\u00b0 / 2.189728\u00b0",
     "area": "Balearic Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9832573": {
     "rowidx": 224,
