@@ -137,8 +137,8 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/08/05 20:00",
-    "destTime": "2022/08/05 18:00",
+    "destLocalTime": "2022/08/05 16:00",
+    "destTime": "2022/08/05 14:00",
     "position": "6.960283\u00b0 / 76.95721\u00b0",
     "area": "Malacca Strait",
     "status": "Out of Range"
@@ -690,8 +690,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/30 15:30",
     "destTime": "2022/07/30 06:30",
-    "position": "34.21798\u00b0 / 128.923\u00b0",
-    "area": "East China Sea",
+    "position": "34.3942\u00b0 / 128.9143\u00b0",
+    "area": "North China",
     "status": "Underway using Engine"
   },
   "9441609": {
@@ -719,7 +719,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/31 03:00",
     "destTime": "2022/07/30 18:00",
-    "position": "34.21603\u00b0 / 125.2988\u00b0",
+    "position": "34.63547\u00b0 / 125.0758\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -891,7 +891,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/29 12:38",
     "destTime": "2022/07/29 04:38",
-    "position": "31.32196\u00b0 / 121.6817\u00b0",
+    "position": "31.32199\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
