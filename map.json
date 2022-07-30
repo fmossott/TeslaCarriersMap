@@ -661,8 +661,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/31 10:00",
     "destTime": "2022/07/31 01:00",
-    "position": "38.41371\u00b0 / 121.2393\u00b0",
-    "area": "Bohai Sea",
+    "position": "38.2424\u00b0 / 121.989\u00b0",
+    "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
   "9308807": {
@@ -687,12 +687,12 @@
     "deptTime": "2022/07/28 18:05",
     "dest": "KR MAS",
     "destLong": "Masan",
-    "destType": "ETA",
-    "destLocalTime": "2022/07/30 14:30",
-    "destTime": "2022/07/30 05:30",
-    "position": "35.13623\u00b0 / 128.6031\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/07/30 15:58",
+    "destTime": "2022/07/30 06:58",
+    "position": "35.16565\u00b0 / 128.5857\u00b0",
     "area": "North China",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9441609": {
     "rowidx": 237,
@@ -891,7 +891,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/29 12:38",
     "destTime": "2022/07/29 04:38",
-    "position": "31.322\u00b0 / 121.6817\u00b0",
+    "position": "31.32196\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
