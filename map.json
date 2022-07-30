@@ -170,7 +170,7 @@
     "destTime": "2022/07/28 11:03",
     "position": "36.97467\u00b0 / 126.8301\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway"
+    "status": "Moored"
   },
   "9701140": {
     "rowidx": 219,
@@ -313,7 +313,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/27 23:01",
     "destTime": "2022/07/27 20:01",
-    "position": "26.61169\u00b0 / 50.28579\u00b0",
+    "position": "26.61179\u00b0 / 50.28553\u00b0",
     "area": "Persian Gulf",
     "status": "At Anchor"
   },
@@ -487,7 +487,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/30 17:43",
     "destTime": "2022/07/30 10:43",
-    "position": "13.05543\u00b0 / 100.8421\u00b0",
+    "position": "13.05547\u00b0 / 100.8425\u00b0",
     "area": "Gulf of Thailand",
     "status": "At Anchor"
   },
@@ -716,10 +716,10 @@
     "deptTime": "2022/07/29 08:46",
     "dest": "KR KUV",
     "destLong": "Gunsan",
-    "destType": "ETA",
-    "destLocalTime": "2022/07/31 03:00",
-    "destTime": "2022/07/30 18:00",
-    "position": "35.96458\u00b0 / 126.402\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/07/31 03:24",
+    "destTime": "2022/07/30 18:24",
+    "position": "35.97888\u00b0 / 126.5734\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -800,11 +800,11 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/07/22 01:18",
     "deptTime": "2022/07/21 23:18",
-    "dest": "EG PSD",
-    "destLong": "Port Said",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/07/29 21:45",
-    "destTime": "2022/07/29 19:45",
+    "destLocalTime": "2022/08/12 01:00",
+    "destTime": "2022/08/11 17:00",
     "position": "29.00457\u00b0 / 32.79317\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
@@ -891,7 +891,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/05 17:00",
     "destTime": "2022/08/05 10:00",
-    "position": "31.32198\u00b0 / 121.6817\u00b0",
+    "position": "31.32199\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
