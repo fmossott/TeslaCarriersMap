@@ -197,7 +197,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/25 04:09",
     "destTime": "2022/07/25 02:09",
-    "position": "51.29673\u00b0 / 3.241388\u00b0",
+    "position": "51.29671\u00b0 / 3.241418\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -313,7 +313,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/27 23:01",
     "destTime": "2022/07/27 20:01",
-    "position": "26.6124\u00b0 / 50.28588\u00b0",
+    "position": "26.61241\u00b0 / 50.28587\u00b0",
     "area": "Persian Gulf",
     "status": "At Anchor"
   },
@@ -371,7 +371,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/26 12:47",
     "destTime": "2022/07/26 09:47",
-    "position": "26.48897\u00b0 / 50.20047\u00b0",
+    "position": "26.48898\u00b0 / 50.20049\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -482,14 +482,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/07/25 13:29",
     "deptTime": "2022/07/25 05:29",
-    "dest": "TH LCH",
+    "dest": "TH LAEM CHABANG ANCH",
     "destLong": "Laem Chabang",
-    "destType": "ETA",
-    "destLocalTime": "2022/07/31 21:00",
-    "destTime": "2022/07/31 14:00",
-    "position": "12.82162\u00b0 / 100.742\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/07/30 17:43",
+    "destTime": "2022/07/30 10:43",
+    "position": "13.05547\u00b0 / 100.842\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9667344": {
     "rowidx": 230,
@@ -746,9 +746,9 @@
     "dest": "MX LZC",
     "destLong": "Lazaro Cardenas",
     "destType": "ETA",
-    "destLocalTime": "2022/08/02 21:30",
-    "destTime": "2022/08/03 02:30",
-    "position": "8.855898\u00b0 / -79.49807\u00b0",
+    "destLocalTime": "2022/08/02 20:30",
+    "destTime": "2022/08/03 01:30",
+    "position": "8.27498\u00b0 / -79.453\u00b0",
     "area": "Panama Canal",
     "status": "Underway using Engine"
   },
@@ -805,7 +805,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/30 05:15",
     "destTime": "2022/07/30 03:15",
-    "position": "30.24906\u00b0 / 32.53356\u00b0",
+    "position": "30.05137\u00b0 / 32.57374\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
