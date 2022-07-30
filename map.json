@@ -226,7 +226,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/31 06:00",
     "destTime": "2022/07/31 05:00",
-    "position": "34.46503\u00b0 / 13.69007\u00b0",
+    "position": "34.97493\u00b0 / 13.3008\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -516,7 +516,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/03 15:00",
     "destTime": "2022/08/03 11:00",
-    "position": "7.144602\u00b0 / 77.98595\u00b0",
+    "position": "8.229228\u00b0 / 76.53776\u00b0",
     "area": "Laccadive Sea",
     "status": "Underway using Engine"
   },
@@ -719,9 +719,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/31 03:00",
     "destTime": "2022/07/30 18:00",
-    "position": "35.86619\u00b0 / 125.5335\u00b0",
+    "position": "35.87381\u00b0 / 125.5237\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9674165": {
     "rowidx": 238,
@@ -881,17 +881,17 @@
     "length": "227",
     "breadth": "32",
     "grossTonnage": "67,264",
-    "dept": "CN YTG",
-    "deptLong": "Yantai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/07/27 18:05",
-    "deptTime": "2022/07/27 10:05",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/07/29 12:38",
-    "destTime": "2022/07/29 04:38",
-    "position": "31.32196\u00b0 / 121.6817\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/07/29 12:38",
+    "deptTime": "2022/07/29 04:38",
+    "dest": "TH LCH",
+    "destLong": "Laem Chabang",
+    "destType": "ETA",
+    "destLocalTime": "2022/08/05 17:00",
+    "destTime": "2022/08/05 10:00",
+    "position": "31.32199\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
