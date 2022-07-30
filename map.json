@@ -110,7 +110,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/01 05:00",
     "destTime": "2022/07/31 20:00",
-    "position": "38.06001\u00b0 / 134.5969\u00b0",
+    "position": "36.73071\u00b0 / 132.3582\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -226,7 +226,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/31 06:00",
     "destTime": "2022/07/31 05:00",
-    "position": "36.79093\u00b0 / 11.61882\u00b0",
+    "position": "36.96568\u00b0 / 11.44835\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -308,14 +308,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/07/27 15:40",
     "deptTime": "2022/07/27 12:40",
-    "dest": "SA DAMMAM ANCH",
+    "dest": "SA DMM",
     "destLong": "Dammam",
     "destType": "ATA",
-    "destLocalTime": "2022/07/27 23:01",
-    "destTime": "2022/07/27 20:01",
-    "position": "26.55087\u00b0 / 50.18115\u00b0",
+    "destLocalTime": "2022/07/31 01:55",
+    "destTime": "2022/07/30 22:55",
+    "position": "26.49719\u00b0 / 50.20678\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9700524": {
     "rowidx": 224,
@@ -371,7 +371,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/31 08:00",
     "destTime": "2022/07/31 05:00",
-    "position": "27.65635\u00b0 / 50.54762\u00b0",
+    "position": "27.91697\u00b0 / 50.4006\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -487,7 +487,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/30 17:43",
     "destTime": "2022/07/30 10:43",
-    "position": "13.05556\u00b0 / 100.8427\u00b0",
+    "position": "13.05564\u00b0 / 100.8425\u00b0",
     "area": "Gulf of Thailand",
     "status": "At Anchor"
   },
@@ -719,7 +719,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/31 03:24",
     "destTime": "2022/07/30 18:24",
-    "position": "35.97689\u00b0 / 126.582\u00b0",
+    "position": "35.97687\u00b0 / 126.5821\u00b0",
     "area": "Yellow Sea",
     "status": "Moored"
   },
