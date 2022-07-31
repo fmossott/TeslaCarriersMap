@@ -36,6 +36,7 @@
     "notes": "",
     "quarter": "22Q3",
     "numDept": "3",
+    "mapStatus": "2",
     "mtsid": "306358",
     "name": "Hoegh St.Petersburg",
     "mmsi": "257366000",
@@ -52,9 +53,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/01 06:00",
     "destTime": "2022/07/31 22:00",
-    "position": "",
-    "area": "South China",
-    "status": "Out of Range"
+    "position": "1.27405\u00b0 / 104.1072\u00b0",
+    "area": "Singapore Area",
+    "status": "Underway using Engine"
   },
   "9702417": {
     "rowidx": 8,
@@ -107,10 +108,10 @@
     "deptTime": "2022/07/19 11:35",
     "dest": "KR KAN",
     "destLong": "Gwangyang",
-    "destType": "ETA",
-    "destLocalTime": "2022/08/01 05:00",
-    "destTime": "2022/07/31 20:00",
-    "position": "34.78237\u00b0 / 127.814\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/08/01 05:35",
+    "destTime": "2022/07/31 20:35",
+    "position": "34.89445\u00b0 / 127.6622\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -226,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/31 09:05",
     "destTime": "2022/07/31 08:05",
-    "position": "36.81293\u00b0 / 10.29597\u00b0",
+    "position": "36.8129\u00b0 / 10.29598\u00b0",
     "area": "West Mediterranean",
     "status": "Stopped"
   },
@@ -313,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/31 01:55",
     "destTime": "2022/07/30 22:55",
-    "position": "26.49714\u00b0 / 50.20678\u00b0",
+    "position": "26.49714\u00b0 / 50.20677\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -487,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/31 21:15",
     "destTime": "2022/07/31 14:15",
-    "position": "13.06929\u00b0 / 100.8937\u00b0",
+    "position": "13.0693\u00b0 / 100.8937\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
