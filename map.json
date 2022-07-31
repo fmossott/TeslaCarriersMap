@@ -26,7 +26,7 @@
     "destTime": "2022/08/11 07:00",
     "position": "40.76981\u00b0 / -129.2032\u00b0",
     "area": "US West Coast",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9420045": {
     "rowidx": 7,
@@ -110,8 +110,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/01 05:00",
     "destTime": "2022/07/31 20:00",
-    "position": "34.36332\u00b0 / 128.7531\u00b0",
-    "area": "North China",
+    "position": "34.31711\u00b0 / 128.4634\u00b0",
+    "area": "East China Sea",
     "status": "Underway using Engine"
   },
   "9312834": {
@@ -284,7 +284,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/02 20:00",
     "destTime": "2022/08/02 19:00",
-    "position": "39.27707\u00b0 / -9.871485\u00b0",
+    "position": "40.86614\u00b0 / -9.82719\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -313,7 +313,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/31 01:55",
     "destTime": "2022/07/30 22:55",
-    "position": "26.49714\u00b0 / 50.20677\u00b0",
+    "position": "26.49714\u00b0 / 50.20678\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -371,7 +371,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/31 13:18",
     "destTime": "2022/07/31 10:18",
-    "position": "29.35313\u00b0 / 47.92325\u00b0",
+    "position": "29.3531\u00b0 / 47.92323\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -482,12 +482,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/07/25 13:29",
     "deptTime": "2022/07/25 05:29",
-    "dest": "TH LAEM CHABANG ANCH",
+    "dest": "TH LCH",
     "destLong": "Laem Chabang",
     "destType": "ATA",
-    "destLocalTime": "2022/07/30 17:43",
-    "destTime": "2022/07/30 10:43",
-    "position": "13.07391\u00b0 / 100.8637\u00b0",
+    "destLocalTime": "2022/07/31 21:15",
+    "destTime": "2022/07/31 14:15",
+    "position": "13.06929\u00b0 / 100.8937\u00b0",
     "area": "Gulf of Thailand",
     "status": "Underway using Engine"
   },
