@@ -48,14 +48,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/07/25 19:38",
     "deptTime": "2022/07/25 11:38",
-    "dest": "SG SINGAPORE ANCH",
-    "destLong": "Singapore",
-    "destType": "ATA",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ETA",
     "destLocalTime": "2022/08/01 06:49",
     "destTime": "2022/07/31 22:49",
-    "position": "1.248195\u00b0 / 103.8799\u00b0",
+    "position": "1.159235\u00b0 / 103.7702\u00b0",
     "area": "Singapore Area",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9702417": {
     "rowidx": 8,
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/01 05:35",
     "destTime": "2022/07/31 20:35",
-    "position": "34.88578\u00b0 / 127.643\u00b0",
+    "position": "34.88577\u00b0 / 127.643\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/31 09:05",
     "destTime": "2022/07/31 08:05",
-    "position": "36.81292\u00b0 / 10.29602\u00b0",
+    "position": "36.81287\u00b0 / 10.296\u00b0",
     "area": "West Mediterranean",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/02 20:00",
     "destTime": "2022/08/02 19:00",
-    "position": "45.47785\u00b0 / -8.349981\u00b0",
+    "position": "45.92889\u00b0 / -8.058028\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/31 01:55",
     "destTime": "2022/07/30 22:55",
-    "position": "26.49717\u00b0 / 50.20676\u00b0",
+    "position": "26.49716\u00b0 / 50.20677\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/06 01:00",
     "destTime": "2022/08/05 23:00",
-    "position": "37.25433\u00b0 / 4.253068\u00b0",
+    "position": "36.64309\u00b0 / 0.015235\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -430,9 +430,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/07/31 08:00",
     "destTime": "2022/07/31 00:00",
-    "position": "5.651733\u00b0 / 79.99532\u00b0",
-    "area": "Laccadive Sea",
-    "status": "Out of Range"
+    "position": "20.7212\u00b0 / 38.89573\u00b0",
+    "area": "Red Sea",
+    "status": "Underway using Engine"
   },
   "9700550": {
     "rowidx": 228,
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/31 21:15",
     "destTime": "2022/07/31 14:15",
-    "position": "13.06928\u00b0 / 100.8937\u00b0",
+    "position": "13.06929\u00b0 / 100.8937\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/01 20:30",
     "destTime": "2022/08/01 11:30",
-    "position": "34.19933\u00b0 / 138.5117\u00b0",
+    "position": "34.20623\u00b0 / 138.5647\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -747,8 +747,8 @@
     "dest": "MX LZC",
     "destLong": "Lazaro Cardenas",
     "destType": "ETA",
-    "destLocalTime": "2022/08/02 18:30",
-    "destTime": "2022/08/02 23:30",
+    "destLocalTime": "2022/08/02 17:00",
+    "destTime": "2022/08/02 22:00",
     "position": "8.27498\u00b0 / -79.453\u00b0",
     "area": "Panama Canal",
     "status": "Out of Range"
@@ -952,7 +952,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/31 13:44",
     "destTime": "2022/07/31 05:44",
-    "position": "31.32212\u00b0 / 121.6818\u00b0",
+    "position": "31.32215\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
