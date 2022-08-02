@@ -159,17 +159,17 @@
     "length": "199.9",
     "breadth": "32.29",
     "grossTonnage": "55,775",
-    "dept": "US SFO",
-    "deptLong": "San Francisco",
+    "dept": "KR PTK",
+    "deptLong": "Pyeongtaek",
     "deptType": "ATD",
-    "deptLocalTime": "2022/07/15 03:38",
-    "deptTime": "2022/07/15 10:38",
+    "deptLocalTime": "2022/08/02 16:45",
+    "deptTime": "2022/08/02 07:45",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2022/07/28 20:03",
     "destTime": "2022/07/28 11:03",
-    "position": "37.01243\u00b0 / 126.7103\u00b0",
+    "position": "37.14667\u00b0 / 126.4735\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/02 20:00",
     "destTime": "2022/08/02 19:00",
-    "position": "50.04444\u00b0 / -5.875998\u00b0",
+    "position": "50.38822\u00b0 / -5.817598\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/31 01:55",
     "destTime": "2022/07/30 22:55",
-    "position": "26.49718\u00b0 / 50.20677\u00b0",
+    "position": "26.49717\u00b0 / 50.20675\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/07/31 08:00",
     "destTime": "2022/07/31 00:00",
-    "position": "21.46568\u00b0 / 39.16503\u00b0",
+    "position": "21.46567\u00b0 / 39.16502\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -749,9 +749,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/02 17:00",
     "destTime": "2022/08/02 22:00",
-    "position": "8.27498\u00b0 / -79.453\u00b0",
+    "position": "15.10996\u00b0 / -99.73661\u00b0",
     "area": "Panama Canal",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9690547": {
     "rowidx": 239,
