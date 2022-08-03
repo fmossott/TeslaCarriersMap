@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/04 18:00",
     "destTime": "2022/08/04 15:00",
-    "position": "24.03572\u00b0 / 37.01385\u00b0",
+    "position": "24.63813\u00b0 / 36.62432\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/04 02:00",
     "destTime": "2022/08/03 22:00",
-    "position": "26.40251\u00b0 / 56.12153\u00b0",
+    "position": "26.23887\u00b0 / 55.92867\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -836,9 +836,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/05 10:00",
     "destTime": "2022/08/05 02:00",
-    "position": "5.872842\u00b0 / 87.95205\u00b0",
-    "area": "East Asia",
-    "status": "Out of Range"
+    "position": "6.108912\u00b0 / 95.34551\u00b0",
+    "area": "Malacca Strait",
+    "status": "Underway using Engine"
   },
   "9176565": {
     "rowidx": 243,
@@ -896,7 +896,7 @@
     "destTime": "2022/08/06 02:00",
     "position": "21.94993\u00b0 / 119.4959\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9832561": {
     "rowidx": 245,
@@ -1010,7 +1010,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/03 03:17",
     "destTime": "2022/08/02 19:17",
-    "position": "31.32347\u00b0 / 121.6793\u00b0",
+    "position": "31.32349\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
