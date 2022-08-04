@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/04 04:11",
     "destTime": "2022/08/04 02:11",
-    "position": "49.46879\u00b0 / 0.1875217\u00b0",
+    "position": "49.46881\u00b0 / 0.1876833\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/02 23:16",
     "destTime": "2022/08/02 22:16",
-    "position": "51.4929\u00b0 / -2.717527\u00b0",
+    "position": "51.49291\u00b0 / -2.71754\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/04 00:00",
     "destTime": "2022/08/03 20:00",
-    "position": "24.9966\u00b0 / 55.08002\u00b0",
+    "position": "24.99659\u00b0 / 55.08001\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/03 12:04",
     "destTime": "2022/08/03 03:04",
-    "position": "34.88761\u00b0 / 127.6461\u00b0",
+    "position": "34.88756\u00b0 / 127.6461\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -925,7 +925,7 @@
     "destTime": "2022/08/07 21:00",
     "position": "25.05021\u00b0 / 122.1648\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9777838": {
     "rowidx": 246,
@@ -1010,7 +1010,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/03 16:16",
     "destTime": "2022/08/03 08:16",
-    "position": "31.32218\u00b0 / 121.6815\u00b0",
+    "position": "31.32217\u00b0 / 121.6815\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -1029,18 +1029,18 @@
     "length": "229.99",
     "breadth": "32.3",
     "grossTonnage": "72,295",
-    "dept": "KR MAS",
-    "deptLong": "Masan",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/08/01 17:08",
-    "deptTime": "2022/08/01 08:08",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/08/03 03:17",
-    "destTime": "2022/08/02 19:17",
-    "position": "31.32355\u00b0 / 121.6793\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/08/03 04:17",
+    "deptTime": "2022/08/02 19:17",
+    "dest": "PA MIT",
+    "destLong": "Manzanillo",
+    "destType": "ETA",
+    "destLocalTime": "2022/08/25 18:00",
+    "destTime": "2022/08/25 23:00",
+    "position": "31.32351\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Stopped"
   }
 }
