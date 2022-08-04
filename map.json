@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/04 04:11",
     "destTime": "2022/08/04 02:11",
-    "position": "49.46879\u00b0 / 0.1875233\u00b0",
+    "position": "49.46879\u00b0 / 0.187515\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/04 13:50",
     "destTime": "2022/08/04 10:50",
-    "position": "25.00311\u00b0 / 51.6\u00b0",
+    "position": "25.0031\u00b0 / 51.60001\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/04 20:03",
     "destTime": "2022/08/04 17:03",
-    "position": "29.53148\u00b0 / 34.94185\u00b0",
+    "position": "29.53153\u00b0 / 34.94183\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/04 23:02",
     "destTime": "2022/08/04 19:02",
-    "position": "24.98985\u00b0 / 55.07598\u00b0",
+    "position": "24.98833\u00b0 / 55.075\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -488,8 +488,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/05 07:00",
     "destTime": "2022/08/04 23:00",
-    "position": "1.296108\u00b0 / 104.2158\u00b0",
-    "area": "Riau Archipelago",
+    "position": "1.261525\u00b0 / 104.0277\u00b0",
+    "area": "Singapore Area",
     "status": "Underway using Engine"
   },
   "9667344": {
@@ -507,17 +507,17 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "59,525",
-    "dept": "AE FATEH OIL FIELD",
+    "dept": "AE JEA",
     "deptLong": "Jebel Ali",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/08/05 00:57",
-    "deptTime": "2022/08/04 20:57",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/08/04 22:42",
+    "deptTime": "2022/08/04 18:42",
     "dest": "SA DMM",
     "destLong": "Dammam",
     "destType": "ETA",
     "destLocalTime": "2022/08/05 14:00",
     "destTime": "2022/08/05 11:00",
-    "position": "25.31812\u00b0 / 54.4479\u00b0",
+    "position": "25.42283\u00b0 / 54.14475\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -659,12 +659,12 @@
     "deptTime": "2022/08/02 13:23",
     "dest": "JP THS",
     "destLong": "Toyohashi",
-    "destType": "ETA",
-    "destLocalTime": "2022/08/05 03:55",
-    "destTime": "2022/08/04 18:55",
-    "position": "34.73065\u00b0 / 137.2479\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/08/05 06:21",
+    "destTime": "2022/08/04 21:21",
+    "position": "34.73378\u00b0 / 137.3147\u00b0",
     "area": "Japan Coast",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9308807": {
     "rowidx": 237,
@@ -749,7 +749,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/02 16:54",
     "destTime": "2022/08/02 21:54",
-    "position": "17.94618\u00b0 / -102.1733\u00b0",
+    "position": "17.94617\u00b0 / -102.1733\u00b0",
     "area": "West Coast Central America",
     "status": "Moored"
   },
