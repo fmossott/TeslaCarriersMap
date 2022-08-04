@@ -253,10 +253,10 @@
     "deptTime": "2022/07/28 18:48",
     "dest": "FR LEH",
     "destLong": "Le Havre",
-    "destType": "ETA",
-    "destLocalTime": "2022/08/04 03:30",
-    "destTime": "2022/08/04 01:30",
-    "position": "49.49066\u00b0 / 0.06338\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/08/04 04:11",
+    "destTime": "2022/08/04 02:11",
+    "position": "49.47593\u00b0 / 0.1733167\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/02 23:16",
     "destTime": "2022/08/02 22:16",
-    "position": "51.49291\u00b0 / -2.717512\u00b0",
+    "position": "51.49292\u00b0 / -2.717522\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/04 18:00",
     "destTime": "2022/08/04 15:00",
-    "position": "26.5261\u00b0 / 35.38127\u00b0",
+    "position": "27.02807\u00b0 / 35.04048\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/04 00:00",
     "destTime": "2022/08/03 20:00",
-    "position": "24.99661\u00b0 / 55.08\u00b0",
+    "position": "24.9966\u00b0 / 55.08002\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -749,7 +749,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/02 16:54",
     "destTime": "2022/08/02 21:54",
-    "position": "17.94618\u00b0 / -102.1733\u00b0",
+    "position": "17.94619\u00b0 / -102.1733\u00b0",
     "area": "West Coast Central America",
     "status": "Moored"
   },
@@ -950,8 +950,8 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/08/07 08:00",
-    "destTime": "2022/08/07 00:00",
+    "destLocalTime": "2022/08/07 09:00",
+    "destTime": "2022/08/07 01:00",
     "position": "22.56659\u00b0 / 119.1003\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
