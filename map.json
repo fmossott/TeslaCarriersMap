@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/04 15:00",
     "destTime": "2022/08/04 12:00",
-    "position": "26.62207\u00b0 / 50.25111\u00b0",
+    "position": "26.80281\u00b0 / 50.56793\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -454,14 +454,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/07/26 06:26",
     "deptTime": "2022/07/25 22:26",
-    "dest": "AE KHL",
+    "dest": "AE KHALIFA ANCH",
     "destLong": "Khalifa",
-    "destType": "ETA",
-    "destLocalTime": "2022/08/04 02:00",
-    "destTime": "2022/08/03 22:00",
-    "position": "24.92905\u00b0 / 54.60187\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/08/04 04:09",
+    "destTime": "2022/08/04 00:09",
+    "position": "24.89816\u00b0 / 54.62586\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9476757": {
     "rowidx": 230,
@@ -602,11 +602,11 @@
     "dest": "SA JED",
     "destLong": "Jeddah",
     "destType": "ETA",
-    "destLocalTime": "2022/08/11 13:00",
-    "destTime": "2022/08/11 10:00",
-    "position": "3.7517\u00b0 / 100.0627\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "destLocalTime": "2022/08/11 15:00",
+    "destTime": "2022/08/11 12:00",
+    "position": "6.3013\u00b0 / 78.71321\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9381237": {
     "rowidx": 235,
@@ -1010,7 +1010,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/03 03:17",
     "destTime": "2022/08/02 19:17",
-    "position": "31.32347\u00b0 / 121.6793\u00b0",
+    "position": "31.32349\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
