@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/05 18:00",
     "destTime": "2022/08/05 16:00",
-    "position": "23.53271\u00b0 / 36.91151\u00b0",
+    "position": "24.35682\u00b0 / 36.39282\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -227,8 +227,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/06 16:00",
     "destTime": "2022/08/06 14:00",
-    "position": "36.66437\u00b0 / 14.33752\u00b0",
-    "area": "West Mediterranean",
+    "position": "37.13838\u00b0 / 15.80795\u00b0",
+    "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
   "9684988": {
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/04 04:11",
     "destTime": "2022/08/04 02:11",
-    "position": "49.4688\u00b0 / 0.1875267\u00b0",
+    "position": "49.4688\u00b0 / 0.1875283\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/04 13:50",
     "destTime": "2022/08/04 10:50",
-    "position": "25.00312\u00b0 / 51.60001\u00b0",
+    "position": "25.00312\u00b0 / 51.6\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -459,9 +459,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/04 06:26",
     "destTime": "2022/08/04 02:26",
-    "position": "24.82185\u00b0 / 54.66965\u00b0",
+    "position": "24.82206\u00b0 / 54.67162\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9476757": {
     "rowidx": 230,
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/04 00:00",
     "destTime": "2022/08/03 20:00",
-    "position": "24.99661\u00b0 / 55.08001\u00b0",
+    "position": "24.9966\u00b0 / 55.08003\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -712,15 +712,15 @@
     "grossTonnage": "58,767",
     "dept": "KR KAN",
     "deptLong": "Gwangyang",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/08/03 12:04",
-    "deptTime": "2022/08/03 03:04",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/08/04 22:18",
+    "deptTime": "2022/08/04 13:18",
     "dest": "PA BLB",
     "destLong": "Balboa",
     "destType": "ETA",
-    "destLocalTime": "2022/08/24 12:00",
-    "destTime": "2022/08/24 17:00",
-    "position": "34.90033\u00b0 / 127.7363\u00b0",
+    "destLocalTime": "2022/08/23 02:00",
+    "destTime": "2022/08/23 07:00",
+    "position": "34.68658\u00b0 / 127.8913\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -836,7 +836,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/05 10:00",
     "destTime": "2022/08/05 02:00",
-    "position": "2.669692\u00b0 / 101.2561\u00b0",
+    "position": "2.468067\u00b0 / 101.5589\u00b0",
     "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
@@ -981,9 +981,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/09 17:00",
     "destTime": "2022/08/09 09:00",
-    "position": "31.07947\u00b0 / 122.9563\u00b0",
+    "position": "23.9595\u00b0 / 118.9303\u00b0",
     "area": "East China Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9311866": {
     "rowidx": 248,
@@ -1010,7 +1010,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/03 16:16",
     "destTime": "2022/08/03 08:16",
-    "position": "31.32217\u00b0 / 121.6815\u00b0",
+    "position": "31.32215\u00b0 / 121.6815\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
