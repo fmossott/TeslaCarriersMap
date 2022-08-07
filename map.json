@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/16 03:00",
     "destTime": "2022/08/16 02:00",
-    "position": "29.85662\u00b0 / 32.56046\u00b0",
+    "position": "29.85663\u00b0 / 32.56073\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -227,9 +227,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/06 08:00",
     "destTime": "2022/08/06 06:00",
-    "position": "52.00025\u00b0 / 2.324005\u00b0",
+    "position": "51.9957\u00b0 / 2.316533\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9303194": {
     "rowidx": 223,
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/04 20:03",
     "destTime": "2022/08/04 17:03",
-    "position": "29.53148\u00b0 / 34.94185\u00b0",
+    "position": "29.53145\u00b0 / 34.94187\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/07 15:00",
     "destTime": "2022/08/07 12:00",
-    "position": "26.19586\u00b0 / 50.70686\u00b0",
+    "position": "26.19583\u00b0 / 50.70687\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/05 17:21",
     "destTime": "2022/08/05 14:21",
-    "position": "26.49737\u00b0 / 50.20681\u00b0",
+    "position": "26.49731\u00b0 / 50.20678\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -715,12 +715,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/08/02 02:01",
     "deptTime": "2022/08/01 18:01",
-    "dest": "SG SINGAPORE ANCH",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2022/08/07 13:47",
-    "destTime": "2022/08/07 05:47",
-    "position": "1.2999\u00b0 / 104.0827\u00b0",
+    "dest": "AE JEA",
+    "destLong": "Jebel Ali",
+    "destType": "ETA",
+    "destLocalTime": "2022/08/16 05:00",
+    "destTime": "2022/08/16 01:00",
+    "position": "1.232873\u00b0 / 103.9247\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
