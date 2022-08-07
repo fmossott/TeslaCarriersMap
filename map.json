@@ -130,19 +130,19 @@
     "length": "199.97",
     "breadth": "35",
     "grossTonnage": "64,546",
-    "dept": "CN SHG",
+    "dept": "EG SUEZ SOUTH ANCH",
     "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/07/20 03:22",
-    "deptTime": "2022/07/19 19:22",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/08/07 23:06",
+    "deptTime": "2022/08/07 15:06",
+    "dest": "GB SOU",
+    "destLong": "Southampton",
     "destType": "ETA",
-    "destLocalTime": "2022/08/07 16:00",
-    "destTime": "2022/08/07 14:00",
-    "position": "29.85723\u00b0 / 32.56101\u00b0",
+    "destLocalTime": "2022/08/16 03:00",
+    "destTime": "2022/08/16 02:00",
+    "position": "29.85671\u00b0 / 32.56024\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9312834": {
     "rowidx": 12,
@@ -227,9 +227,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/06 08:00",
     "destTime": "2022/08/06 06:00",
-    "position": "52.02385\u00b0 / 2.340015\u00b0",
+    "position": "52.01064\u00b0 / 2.333483\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9303194": {
     "rowidx": 223,
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/04 20:03",
     "destTime": "2022/08/04 17:03",
-    "position": "29.53148\u00b0 / 34.94187\u00b0",
+    "position": "29.53148\u00b0 / 34.94183\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/07 15:00",
     "destTime": "2022/08/07 12:00",
-    "position": "26.19588\u00b0 / 50.70686\u00b0",
+    "position": "26.19584\u00b0 / 50.70687\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/05 17:21",
     "destTime": "2022/08/05 14:21",
-    "position": "26.49737\u00b0 / 50.20681\u00b0",
+    "position": "26.49737\u00b0 / 50.20676\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/07 13:47",
     "destTime": "2022/08/07 05:47",
-    "position": "1.30086\u00b0 / 104.0838\u00b0",
+    "position": "1.300885\u00b0 / 104.0837\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
