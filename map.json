@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/08 15:00",
     "destTime": "2022/08/08 13:00",
-    "position": "30.12195\u00b0 / 32.5698\u00b0",
+    "position": "30.26\u00b0 / 32.51354\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -309,14 +309,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/08/07 23:08",
     "deptTime": "2022/08/07 20:08",
-    "dest": "SA DMM",
+    "dest": "SA DAMMAM ANCH",
     "destLong": "Dammam",
-    "destType": "ETA",
-    "destLocalTime": "2022/08/08 05:00",
-    "destTime": "2022/08/08 02:00",
-    "position": "26.61402\u00b0 / 50.28961\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/08/08 05:15",
+    "destTime": "2022/08/08 02:15",
+    "position": "26.61157\u00b0 / 50.28692\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9667344": {
     "rowidx": 226,
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/05 17:21",
     "destTime": "2022/08/05 14:21",
-    "position": "26.49736\u00b0 / 50.2068\u00b0",
+    "position": "26.49735\u00b0 / 50.20678\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
