@@ -480,15 +480,15 @@
     "grossTonnage": "64,650",
     "dept": "US SAN",
     "deptLong": "San Diego",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/08/08 07:55",
-    "deptTime": "2022/08/08 12:55",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/08/08 17:15",
+    "deptTime": "2022/08/09 00:15",
     "dest": "US PDX",
     "destLong": "Portland Or",
     "destType": "ETA",
-    "destLocalTime": "2022/08/11 05:00",
-    "destTime": "2022/08/11 12:00",
-    "position": "32.69151\u00b0 / -117.2314\u00b0",
+    "destLocalTime": "2022/08/11 04:30",
+    "destTime": "2022/08/11 11:30",
+    "position": "32.64281\u00b0 / -117.4368\u00b0",
     "area": "US West Coast",
     "status": "Underway using Engine"
   },
@@ -602,11 +602,11 @@
     "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
     "destType": "ATA",
-    "destLocalTime": "2022/08/09 07:30",
-    "destTime": "2022/08/08 23:30",
-    "position": "1.274978\u00b0 / 103.9118\u00b0",
+    "destLocalTime": "2022/08/09 08:07",
+    "destTime": "2022/08/09 00:07",
+    "position": "1.276388\u00b0 / 103.9094\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9338620": {
     "rowidx": 236,
@@ -894,7 +894,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/08 21:40",
     "destTime": "2022/08/08 13:40",
-    "position": "31.32354\u00b0 / 121.6794\u00b0",
+    "position": "31.32357\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
