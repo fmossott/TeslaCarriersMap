@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/14 10:00",
     "destTime": "2022/08/14 08:00",
-    "position": "37.58691\u00b0 / 11.70154\u00b0",
+    "position": "37.59406\u00b0 / 4.97923\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -340,12 +340,12 @@
     "deptTime": "2022/08/05 23:52",
     "dest": "TR DRC",
     "destLong": "Derince",
-    "destType": "ETA",
-    "destLocalTime": "2022/08/09 23:00",
-    "destTime": "2022/08/09 20:00",
-    "position": "40.73063\u00b0 / 29.77073\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/08/10 01:06",
+    "destTime": "2022/08/09 22:06",
+    "position": "40.74956\u00b0 / 29.83461\u00b0",
     "area": "Marmara Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9700512": {
     "rowidx": 227,
@@ -749,7 +749,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/10 06:00",
     "destTime": "2022/08/09 22:00",
-    "position": "1.270172\u00b0 / 104.0795\u00b0",
+    "position": "1.263087\u00b0 / 103.9702\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -923,7 +923,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/09 07:17",
     "destTime": "2022/08/08 23:17",
-    "position": "31.32222\u00b0 / 121.6816\u00b0",
+    "position": "31.3222\u00b0 / 121.6815\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
