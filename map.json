@@ -167,9 +167,9 @@
     "dest": "GB SOU",
     "destLong": "Southampton",
     "destType": "ETA",
-    "destLocalTime": "2022/08/15 04:00",
-    "destTime": "2022/08/15 03:00",
-    "position": "34.99545\u00b0 / 20.53788\u00b0",
+    "destLocalTime": "2022/08/15 01:01",
+    "destTime": "2022/08/15 00:01",
+    "position": "36.04038\u00b0 / 15.21628\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -227,9 +227,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/14 02:00",
     "destTime": "2022/08/14 00:00",
-    "position": "52.00369\u00b0 / 2.40651\u00b0",
+    "position": "52.02608\u00b0 / 2.420863\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9303194": {
     "rowidx": 223,
@@ -372,8 +372,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/11 18:00",
     "destTime": "2022/08/11 16:00",
-    "position": "12.45131\u00b0 / 43.7676\u00b0",
-    "area": "Gulf of Aden",
+    "position": "13.93265\u00b0 / 42.49293\u00b0",
+    "area": "Red Sea",
     "status": "Underway using Engine"
   },
   "9432880": {
@@ -720,9 +720,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/09 17:00",
     "destTime": "2022/08/09 09:00",
-    "position": "23.71333\u00b0 / 118.5344\u00b0",
-    "area": "South China",
-    "status": "Out of Range"
+    "position": "2.379982\u00b0 / 104.8823\u00b0",
+    "area": "Riau Archipelago",
+    "status": "Underway using Engine"
   },
   "9311866": {
     "rowidx": 240,
@@ -836,7 +836,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/09 15:00",
     "destTime": "2022/08/09 07:00",
-    "position": "38.65623\u00b0 / 120.2975\u00b0",
+    "position": "38.69426\u00b0 / 119.9275\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
