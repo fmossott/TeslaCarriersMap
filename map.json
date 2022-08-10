@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/11 07:00",
     "destTime": "2022/08/11 05:00",
-    "position": "39.269\u00b0 / 6.080467\u00b0",
+    "position": "39.41275\u00b0 / 5.443\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/09 21:14",
     "destTime": "2022/08/09 18:14",
-    "position": "28.93141\u00b0 / 48.94602\u00b0",
+    "position": "28.85647\u00b0 / 49.25514\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -335,17 +335,17 @@
     "grossTonnage": "75,036",
     "dept": "TR DRC",
     "deptLong": "Derince",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/08/10 01:06",
-    "deptTime": "2022/08/09 22:06",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/08/10 14:27",
+    "deptTime": "2022/08/10 11:27",
     "dest": "GR PIR",
     "destLong": "Piraeus",
     "destType": "ETA",
     "destLocalTime": "2022/08/09 23:00",
     "destTime": "2022/08/09 20:00",
-    "position": "40.74963\u00b0 / 29.83435\u00b0",
+    "position": "40.74313\u00b0 / 29.63066\u00b0",
     "area": "Marmara Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9700512": {
     "rowidx": 227,
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/11 04:30",
     "destTime": "2022/08/11 11:30",
-    "position": "38.77897\u00b0 / -124.1294\u00b0",
+    "position": "39.58586\u00b0 / -124.4753\u00b0",
     "area": "US West Coast",
     "status": "Underway using Engine"
   },
@@ -749,7 +749,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/10 07:25",
     "destTime": "2022/08/09 23:25",
-    "position": "1.169995\u00b0 / 103.6903\u00b0",
+    "position": "1.270478\u00b0 / 103.367\u00b0",
     "area": "Singapore Area",
     "status": "Underway"
   },
@@ -923,7 +923,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/28 12:00",
     "destTime": "2022/08/28 10:00",
-    "position": "31.3222\u00b0 / 121.6816\u00b0",
+    "position": "31.32242\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
