@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/09 21:14",
     "destTime": "2022/08/09 18:14",
-    "position": "28.85647\u00b0 / 49.25514\u00b0",
+    "position": "28.81485\u00b0 / 49.54632\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -341,9 +341,9 @@
     "dest": "GR PIR",
     "destLong": "Piraeus",
     "destType": "ETA",
-    "destLocalTime": "2022/08/09 23:00",
-    "destTime": "2022/08/09 20:00",
-    "position": "40.74313\u00b0 / 29.63066\u00b0",
+    "destLocalTime": "2022/08/12 06:00",
+    "destTime": "2022/08/12 03:00",
+    "position": "40.74287\u00b0 / 29.4309\u00b0",
     "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
@@ -749,9 +749,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/10 07:25",
     "destTime": "2022/08/09 23:25",
-    "position": "1.270478\u00b0 / 103.367\u00b0",
-    "area": "Singapore Area",
-    "status": "Underway"
+    "position": "1.436942\u00b0 / 103.2006\u00b0",
+    "area": "Malacca Strait",
+    "status": "Underway using Engine"
   },
   "9179725": {
     "rowidx": 241,
@@ -807,7 +807,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/30 06:00",
     "destTime": "2022/08/30 10:00",
-    "position": "36.92743\u00b0 / 133.0033\u00b0",
+    "position": "41.97261\u00b0 / 144.2041\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -915,16 +915,16 @@
     "grossTonnage": "47,090",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/08/09 02:17",
-    "deptTime": "2022/08/08 23:17",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/08/10 20:16",
+    "deptTime": "2022/08/10 12:16",
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
     "destLocalTime": "2022/08/28 12:00",
     "destTime": "2022/08/28 10:00",
-    "position": "31.32242\u00b0 / 121.6817\u00b0",
+    "position": "31.27885\u00b0 / 121.8319\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
