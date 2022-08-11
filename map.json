@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/12 06:00",
     "destTime": "2022/08/12 04:00",
-    "position": "52.02775\u00b0 / 2.436038\u00b0",
+    "position": "51.99608\u00b0 / 2.410645\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -254,10 +254,10 @@
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
-    "destLocalTime": "2022/08/15 10:00",
-    "destTime": "2022/08/15 08:00",
-    "position": "35.98749\u00b0 / -6.340357\u00b0",
-    "area": "Gibraltar",
+    "destLocalTime": "2022/08/16 01:59",
+    "destTime": "2022/08/15 23:59",
+    "position": "36.94187\u00b0 / -9.307934\u00b0",
+    "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
   "9432919": {
@@ -340,12 +340,12 @@
     "deptTime": "2022/08/10 11:27",
     "dest": "GR PIR",
     "destLong": "Piraeus",
-    "destType": "ETA",
-    "destLocalTime": "2022/08/11 17:00",
-    "destTime": "2022/08/11 14:00",
-    "position": "37.89656\u00b0 / 23.5836\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/08/11 21:45",
+    "destTime": "2022/08/11 18:45",
+    "position": "37.96059\u00b0 / 23.60462\u00b0",
     "area": "Piraeus Area",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9700512": {
     "rowidx": 227,
@@ -367,14 +367,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/07/22 20:10",
     "deptTime": "2022/07/22 12:10",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/08/11 18:00",
-    "destTime": "2022/08/11 16:00",
-    "position": "29.82731\u00b0 / 32.55652\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/08/11 20:19",
+    "destTime": "2022/08/11 18:19",
+    "position": "29.8318\u00b0 / 32.55895\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9432880": {
     "rowidx": 228,
@@ -575,7 +575,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/12 19:30",
     "destTime": "2022/08/12 11:30",
-    "position": "37.04845\u00b0 / 123.767\u00b0",
+    "position": "37.59035\u00b0 / 123.315\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
