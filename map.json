@@ -225,11 +225,11 @@
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
-    "destLocalTime": "2022/08/16 01:59",
-    "destTime": "2022/08/15 23:59",
-    "position": "45.99429\u00b0 / -6.705012\u00b0",
+    "destLocalTime": "2022/08/16 01:45",
+    "destTime": "2022/08/15 23:45",
+    "position": "47.15331\u00b0 / -6.655221\u00b0",
     "area": "Biscay Bay",
-    "status": "Not Under Command"
+    "status": "Underway using Engine"
   },
   "9726695": {
     "rowidx": 223,
@@ -720,9 +720,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/14 22:30",
     "destTime": "2022/08/14 14:30",
-    "position": "27.23575\u00b0 / 123.3307\u00b0",
+    "position": "1.2919\u00b0 / 104.2299\u00b0",
     "area": "East China Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9448140": {
     "rowidx": 240,
@@ -893,7 +893,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/15 06:00",
     "destTime": "2022/08/14 21:00",
-    "position": "33.03713\u00b0 / 126.9153\u00b0",
+    "position": "33.19921\u00b0 / 127.1265\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
