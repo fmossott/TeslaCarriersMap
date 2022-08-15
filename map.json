@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/15 13:45",
     "destTime": "2022/08/15 05:45",
-    "position": "30.83594\u00b0 / 121.8342\u00b0",
+    "position": "30.83596\u00b0 / 121.8342\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/01 06:49",
     "destTime": "2022/07/31 22:49",
-    "position": "29.59803\u00b0 / 32.58272\u00b0",
+    "position": "29.78411\u00b0 / 32.55131\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/15 08:50",
     "destTime": "2022/08/15 07:50",
-    "position": "50.90418\u00b0 / -1.428288\u00b0",
+    "position": "50.90419\u00b0 / -1.428272\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/12 07:17",
     "destTime": "2022/08/12 05:17",
-    "position": "51.30639\u00b0 / 3.227648\u00b0",
+    "position": "51.30639\u00b0 / 3.227647\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/16 01:45",
     "destTime": "2022/08/15 23:45",
-    "position": "50.25231\u00b0 / -0.445075\u00b0",
+    "position": "50.35138\u00b0 / 0.0758\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -420,19 +420,19 @@
     "length": "199.97",
     "breadth": "35.4",
     "grossTonnage": "71,177",
-    "dept": "CL LQN",
-    "deptLong": "Lirquen",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/07/18 02:06",
-    "deptTime": "2022/07/18 06:06",
-    "dest": "CN TXG",
-    "destLong": "Tianjin",
-    "destType": "ATA",
-    "destLocalTime": "2022/08/15 05:34",
-    "destTime": "2022/08/14 21:34",
-    "position": "39.02107\u00b0 / 117.7688\u00b0",
+    "dept": "CN TXG",
+    "deptLong": "Tianjin",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/08/14 17:34",
+    "deptTime": "2022/08/14 21:34",
+    "dest": "KR KAN",
+    "destLong": "Gwangyang",
+    "destType": "ETA",
+    "destLocalTime": "2022/08/18 18:00",
+    "destTime": "2022/08/18 09:00",
+    "position": "38.99148\u00b0 / 117.7841\u00b0",
     "area": "Bohai Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9707015": {
     "rowidx": 231,
@@ -893,7 +893,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/14 11:00",
     "destTime": "2022/08/14 03:00",
-    "position": "31.32205\u00b0 / 121.6818\u00b0",
+    "position": "31.32212\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -951,7 +951,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/15 15:11",
     "destTime": "2022/08/15 07:11",
-    "position": "31.32337\u00b0 / 121.6796\u00b0",
+    "position": "31.32335\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
