@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/15 13:45",
     "destTime": "2022/08/15 05:45",
-    "position": "30.83595\u00b0 / 121.8342\u00b0",
+    "position": "30.83597\u00b0 / 121.8342\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -166,12 +166,12 @@
     "deptTime": "2022/07/16 17:11",
     "dest": "GB SOU",
     "destLong": "Southampton",
-    "destType": "ETA",
-    "destLocalTime": "2022/08/15 06:45",
-    "destTime": "2022/08/15 05:45",
-    "position": "50.86664\u00b0 / -1.371475\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/08/15 08:50",
+    "destTime": "2022/08/15 07:50",
+    "position": "50.90418\u00b0 / -1.42826\u00b0",
     "area": "English Channel",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9700524": {
     "rowidx": 222,
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/12 07:17",
     "destTime": "2022/08/12 05:17",
-    "position": "51.30639\u00b0 / 3.227647\u00b0",
+    "position": "51.30639\u00b0 / 3.227652\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -478,19 +478,19 @@
     "length": "199.98",
     "breadth": "32",
     "grossTonnage": "59,954",
-    "dept": "CN TXG",
-    "deptLong": "Tianjin",
+    "dept": "KR PTK",
+    "deptLong": "Pyeongtaek",
     "deptType": "ATD",
-    "deptLocalTime": "2022/08/13 17:04",
-    "deptTime": "2022/08/13 09:04",
+    "deptLocalTime": "2022/08/15 17:14",
+    "deptTime": "2022/08/15 08:14",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
-    "destType": "ATA",
-    "destLocalTime": "2022/08/14 20:40",
-    "destTime": "2022/08/14 11:40",
-    "position": "36.9852\u00b0 / 126.8056\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2022/08/16 22:00",
+    "destTime": "2022/08/16 13:00",
+    "position": "37.09677\u00b0 / 126.6077\u00b0",
     "area": "Yellow Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9176565": {
     "rowidx": 233,
@@ -633,9 +633,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/25 22:00",
     "destTime": "2022/08/25 20:00",
-    "position": "2.743135\u00b0 / 101.2036\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "6.99748\u00b0 / 76.37814\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9311866": {
     "rowidx": 238,
@@ -776,9 +776,9 @@
     "dest": "KR USN",
     "destLong": "Ulsan",
     "destType": "ETA",
-    "destLocalTime": "2022/08/26 00:01",
-    "destTime": "2022/08/25 15:01",
-    "position": "37.84069\u00b0 / -122.4489\u00b0",
+    "destLocalTime": "2022/08/25 23:00",
+    "destTime": "2022/08/25 14:00",
+    "position": "39.1146\u00b0 / -126.5806\u00b0",
     "area": "US West Coast",
     "status": "Underway using Engine"
   },
@@ -893,7 +893,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/14 11:00",
     "destTime": "2022/08/14 03:00",
-    "position": "31.32203\u00b0 / 121.6818\u00b0",
+    "position": "31.322\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -951,7 +951,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/15 15:11",
     "destTime": "2022/08/15 07:11",
-    "position": "31.32335\u00b0 / 121.6796\u00b0",
+    "position": "31.32337\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
