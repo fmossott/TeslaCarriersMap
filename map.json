@@ -101,19 +101,19 @@
     "length": "228.79",
     "breadth": "32.28",
     "grossTonnage": "68,392",
-    "dept": "CN TAG",
+    "dept": "EG SUEZ SOUTH ANCH",
     "deptLong": "Taicang",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/07/25 19:38",
-    "deptTime": "2022/07/25 11:38",
-    "dest": "EG SUEZ SOUTH ANCH",
-    "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2022/08/15 15:10",
-    "destTime": "2022/08/15 13:10",
-    "position": "29.8493\u00b0 / 32.56312\u00b0",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/08/15 21:10",
+    "deptTime": "2022/08/15 13:10",
+    "dest": "IT LIV",
+    "destLong": "Livorno",
+    "destType": "ETA",
+    "destLocalTime": "2022/08/20 10:00",
+    "destTime": "2022/08/20 08:00",
+    "position": "29.84879\u00b0 / 32.56297\u00b0",
     "area": "Red Sea",
-    "status": "Stopped"
+    "status": "At Anchor"
   },
   "9702417": {
     "rowidx": 11,
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/15 08:50",
     "destTime": "2022/08/15 07:50",
-    "position": "50.90421\u00b0 / -1.428253\u00b0",
+    "position": "50.90417\u00b0 / -1.428268\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/12 07:17",
     "destTime": "2022/08/12 05:17",
-    "position": "51.32295\u00b0 / 3.210575\u00b0",
+    "position": "51.32295\u00b0 / 3.210582\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -836,7 +836,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/16 12:00",
     "destTime": "2022/08/16 04:00",
-    "position": "16.01844\u00b0 / 119.4327\u00b0",
+    "position": "15.53534\u00b0 / 119.4342\u00b0",
     "area": "Philippines",
     "status": "Underway using Engine"
   },
@@ -894,7 +894,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/14 11:00",
     "destTime": "2022/08/14 03:00",
-    "position": "31.32205\u00b0 / 121.6817\u00b0",
+    "position": "31.32213\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -952,7 +952,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/15 15:11",
     "destTime": "2022/08/15 07:11",
-    "position": "31.32335\u00b0 / 121.6796\u00b0",
+    "position": "31.32337\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
