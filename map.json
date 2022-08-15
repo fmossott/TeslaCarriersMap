@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/15 13:45",
     "destTime": "2022/08/15 05:45",
-    "position": "30.83595\u00b0 / 121.8342\u00b0",
+    "position": "30.83597\u00b0 / 121.8342\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/20 10:00",
     "destTime": "2022/08/20 08:00",
-    "position": "29.84879\u00b0 / 32.56297\u00b0",
+    "position": "29.84904\u00b0 / 32.56331\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/15 08:50",
     "destTime": "2022/08/15 07:50",
-    "position": "50.90417\u00b0 / -1.428268\u00b0",
+    "position": "50.90418\u00b0 / -1.428283\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -312,8 +312,8 @@
     "dest": "IL ETH",
     "destLong": "Eilat",
     "destType": "ETA",
-    "destLocalTime": "2022/08/16 08:30",
-    "destTime": "2022/08/16 05:30",
+    "destLocalTime": "2022/08/16 05:30",
+    "destTime": "2022/08/16 02:30",
     "position": "27.33725\u00b0 / 34.77711\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/16 18:00",
     "destTime": "2022/08/16 10:00",
-    "position": "36.18109\u00b0 / 125.6876\u00b0",
+    "position": "36.21571\u00b0 / 125.7239\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -884,19 +884,19 @@
     "length": "199.9",
     "breadth": "32.26",
     "grossTonnage": "58,535",
-    "dept": "CN CJK",
-    "deptLong": "Cjk",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/08/14 07:31",
-    "deptTime": "2022/08/13 23:31",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/08/14 11:00",
-    "destTime": "2022/08/14 03:00",
-    "position": "31.32213\u00b0 / 121.6817\u00b0",
+    "deptLocalTime": "2022/08/16 02:18",
+    "deptTime": "2022/08/15 18:18",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/08/22 18:00",
+    "destTime": "2022/08/22 10:00",
+    "position": "31.31232\u00b0 / 121.7391\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9427940": {
     "rowidx": 247,
@@ -952,7 +952,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/15 15:11",
     "destTime": "2022/08/15 07:11",
-    "position": "31.32337\u00b0 / 121.6796\u00b0",
+    "position": "31.32335\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
