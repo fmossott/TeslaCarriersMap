@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/17 13:32",
     "destTime": "2022/08/17 11:32",
-    "position": "51.30882\u00b0 / 3.225807\u00b0",
+    "position": "51.30882\u00b0 / 3.225803\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/17 10:00",
     "destTime": "2022/08/17 08:00",
-    "position": "51.31367\u00b0 / 3.227517\u00b0",
+    "position": "51.31369\u00b0 / 3.227478\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,9 +256,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/19 05:00",
     "destTime": "2022/08/19 04:00",
-    "position": "50.61646\u00b0 / -1.08972\u00b0",
+    "position": "50.61669\u00b0 / -1.090402\u00b0",
     "area": "English Channel",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9726695": {
     "rowidx": 225,
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/19 23:26",
     "destTime": "2022/08/19 22:26",
-    "position": "51.49287\u00b0 / -2.717598\u00b0",
+    "position": "51.49291\u00b0 / -2.71765\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/21 05:00",
     "destTime": "2022/08/21 04:00",
-    "position": "48.93016\u00b0 / -5.308068\u00b0",
+    "position": "49.16458\u00b0 / -4.676281\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/20 18:23",
     "destTime": "2022/08/20 10:23",
-    "position": "31.32215\u00b0 / 121.6818\u00b0",
+    "position": "31.32213\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -536,17 +536,17 @@
     "length": "199.95",
     "breadth": "32.2",
     "grossTonnage": "58,685",
-    "dept": "EG SUZ",
-    "deptLong": "Suez Canal",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/08/20 11:13",
-    "deptTime": "2022/08/20 03:13",
+    "dept": "SG SIN",
+    "deptLong": "Singapore",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/08/07 05:52",
+    "deptTime": "2022/08/06 21:52",
     "dest": "ES BCN",
     "destLong": "Barcelona",
     "destType": "ETA",
     "destLocalTime": "2022/08/24 12:00",
     "destTime": "2022/08/24 10:00",
-    "position": "31.22398\u00b0 / 32.34464\u00b0",
+    "position": "31.42997\u00b0 / 32.35227\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -575,7 +575,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/21 21:30",
     "destTime": "2022/08/21 18:30",
-    "position": "24.99006\u00b0 / 55.07579\u00b0",
+    "position": "24.99007\u00b0 / 55.07578\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/19 15:16",
     "destTime": "2022/08/19 12:16",
-    "position": "26.49715\u00b0 / 50.20661\u00b0",
+    "position": "26.49713\u00b0 / 50.20661\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -894,7 +894,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/18 07:06",
     "destTime": "2022/08/17 23:06",
-    "position": "33.51047\u00b0 / 128.5176\u00b0",
+    "position": "33.66167\u00b0 / 128.8192\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
