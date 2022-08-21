@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/23 11:00",
     "destTime": "2022/08/23 03:00",
-    "position": "31.15638\u00b0 / 123.1588\u00b0",
+    "position": "31.15652\u00b0 / 123.1592\u00b0",
     "area": "East China Sea",
     "status": "At Anchor"
   },
@@ -749,9 +749,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/31 08:00",
     "destTime": "2022/08/31 06:00",
-    "position": "2.785783\u00b0 / 101.1283\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "5.87515\u00b0 / 79.91219\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9728083": {
     "rowidx": 242,
@@ -1013,5 +1013,33 @@
     "position": "31.32341\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
+  },
+  "9702455": {
+    "rowidx": 252,
+    "silence": "FALSE",
+    "num": "-43",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q3",
+    "numDept": "0",
+    "mtsid": "",
+    "name": "",
+    "mmsi": "",
+    "length": "",
+    "breadth": "",
+    "grossTonnage": "",
+    "dept": "",
+    "deptLong": "",
+    "deptType": "",
+    "deptLocalTime": "",
+    "deptTime": "",
+    "dest": "",
+    "destLong": "",
+    "destType": "",
+    "destLocalTime": "",
+    "destTime": "",
+    "position": "",
+    "area": "",
+    "status": ""
   }
 }
