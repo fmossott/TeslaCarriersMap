@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/23 20:30",
     "destTime": "2022/08/23 12:30",
-    "position": "30.83596\u00b0 / 121.8341\u00b0",
+    "position": "30.83592\u00b0 / 121.834\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -135,14 +135,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/08/07 04:28",
     "deptTime": "2022/08/06 20:28",
-    "dest": "EG SUEZ SOUTH ANCH",
+    "dest": "EG SUZ",
     "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2022/08/23 21:25",
-    "destTime": "2022/08/23 19:25",
-    "position": "29.74097\u00b0 / 32.58179\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2022/08/23 22:00",
+    "destTime": "2022/08/23 20:00",
+    "position": "29.83515\u00b0 / 32.55447\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9441623": {
     "rowidx": 11,
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/17 10:00",
     "destTime": "2022/08/17 08:00",
-    "position": "51.31368\u00b0 / 3.227477\u00b0",
+    "position": "51.31369\u00b0 / 3.22748\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/23 09:17",
     "destTime": "2022/08/23 07:17",
-    "position": "51.27469\u00b0 / 4.222358\u00b0",
+    "position": "51.2747\u00b0 / 4.222453\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/21 05:16",
     "destTime": "2022/08/21 04:16",
-    "position": "50.63451\u00b0 / -1.008415\u00b0",
+    "position": "50.63258\u00b0 / -1.012105\u00b0",
     "area": "English Channel",
     "status": "At Anchor"
   },
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/10 07:25",
     "destTime": "2022/08/09 23:25",
-    "position": "-31.86115\u00b0 / 16.14846\u00b0",
+    "position": "-31.58851\u00b0 / 15.94068\u00b0",
     "area": "South Africa",
     "status": "Underway using Engine"
   },
@@ -575,7 +575,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/27 05:00",
     "destTime": "2022/08/27 02:00",
-    "position": "26.49734\u00b0 / 50.20686\u00b0",
+    "position": "26.49734\u00b0 / 50.20687\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -923,7 +923,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/23 11:36",
     "destTime": "2022/08/23 03:36",
-    "position": "31.32208\u00b0 / 121.6816\u00b0",
+    "position": "31.32209\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -952,7 +952,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/23 19:39",
     "destTime": "2022/08/23 11:39",
-    "position": "31.32339\u00b0 / 121.6796\u00b0",
+    "position": "31.3234\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
