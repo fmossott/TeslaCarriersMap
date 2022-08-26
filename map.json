@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/25 20:05",
     "destTime": "2022/08/25 18:05",
-    "position": "45.56696\u00b0 / 13.74389\u00b0",
+    "position": "45.56698\u00b0 / 13.74391\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/26 05:54",
     "destTime": "2022/08/26 03:54",
-    "position": "53.92585\u00b0 / 7.854668\u00b0",
+    "position": "53.92575\u00b0 / 7.853929\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/25 03:52",
     "destTime": "2022/08/25 01:52",
-    "position": "53.89451\u00b0 / 7.842494\u00b0",
+    "position": "53.89457\u00b0 / 7.842407\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/24 13:30",
     "destTime": "2022/08/24 11:30",
-    "position": "51.2992\u00b0 / 3.239467\u00b0",
+    "position": "51.29913\u00b0 / 3.239412\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/21 05:16",
     "destTime": "2022/08/21 04:16",
-    "position": "50.63474\u00b0 / -1.01006\u00b0",
+    "position": "50.63474\u00b0 / -1.010315\u00b0",
     "area": "English Channel",
     "status": "At Anchor"
   },
@@ -372,9 +372,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/27 16:00",
     "destTime": "2022/08/27 07:00",
-    "position": "32.79191\u00b0 / 134.2037\u00b0",
+    "position": "32.60888\u00b0 / 133.5547\u00b0",
     "area": "Japan Coast",
-    "status": "Not Under Command"
+    "status": "Underway using Engine"
   },
   "9707015": {
     "rowidx": 230,
@@ -517,8 +517,8 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/26 07:05",
     "destTime": "2022/08/26 05:05",
-    "position": "30.29822\u00b0 / 32.42706\u00b0",
-    "area": "Red Sea",
+    "position": "30.40247\u00b0 / 32.36497\u00b0",
+    "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
   "9311866": {
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/25 17:26",
     "destTime": "2022/08/25 14:26",
-    "position": "25.60633\u00b0 / 53.01973\u00b0",
+    "position": "25.59616\u00b0 / 53.33944\u00b0",
     "area": "Persian Gulf",
     "status": "Underway"
   },
@@ -713,8 +713,8 @@
     "dept": "PE TYL",
     "deptLong": "Talara",
     "deptType": "ATD",
-    "deptLocalTime": "2022/08/25 04:21",
-    "deptTime": "2022/08/25 09:21",
+    "deptLocalTime": "2022/08/26 03:36",
+    "deptTime": "2022/08/26 08:36",
     "dest": "AE JEA",
     "destLong": "Jebel Ali",
     "destType": "ETA",
