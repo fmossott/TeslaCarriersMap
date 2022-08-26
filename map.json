@@ -51,11 +51,11 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/08/29 09:30",
-    "destTime": "2022/08/29 01:30",
+    "destLocalTime": "2022/08/29 10:00",
+    "destTime": "2022/08/29 02:00",
     "position": "21.87123\u00b0 / 120.9641\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9702405": {
     "rowidx": 8,
@@ -254,9 +254,9 @@
     "dest": "DE BRV",
     "destLong": "Bremerhaven",
     "destType": "ETA",
-    "destLocalTime": "2022/08/26 14:00",
-    "destTime": "2022/08/26 12:00",
-    "position": "54.20292\u00b0 / 7.507695\u00b0",
+    "destLocalTime": "2022/08/26 14:15",
+    "destTime": "2022/08/26 12:15",
+    "position": "54.05584\u00b0 / 7.542799\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/26 19:30",
     "destTime": "2022/08/26 10:30",
-    "position": "33.82132\u00b0 / 127.4253\u00b0",
+    "position": "33.82875\u00b0 / 127.4392\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/26 09:20",
     "destTime": "2022/08/25 23:20",
-    "position": "-34.45583\u00b0 / 150.8916\u00b0",
+    "position": "-34.45584\u00b0 / 150.8916\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
