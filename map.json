@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/27 03:05",
     "destTime": "2022/08/26 19:05",
-    "position": "30.8361\u00b0 / 121.8342\u00b0",
+    "position": "30.83609\u00b0 / 121.8342\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/28 05:00",
     "destTime": "2022/08/28 03:00",
-    "position": "50.47038\u00b0 / 0.79071\u00b0",
+    "position": "50.62057\u00b0 / 1.194963\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/26 16:31",
     "destTime": "2022/08/26 14:31",
-    "position": "53.57722\u00b0 / 8.550694\u00b0",
+    "position": "53.57722\u00b0 / 8.5507\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/25 03:52",
     "destTime": "2022/08/25 01:52",
-    "position": "53.8926\u00b0 / 7.842813\u00b0",
+    "position": "53.89266\u00b0 / 7.843068\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/24 13:30",
     "destTime": "2022/08/24 11:30",
-    "position": "51.29908\u00b0 / 3.239457\u00b0",
+    "position": "51.29922\u00b0 / 3.239445\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/21 05:16",
     "destTime": "2022/08/21 04:16",
-    "position": "50.63193\u00b0 / -1.011093\u00b0",
+    "position": "50.63203\u00b0 / -1.010943\u00b0",
     "area": "English Channel",
     "status": "At Anchor"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/27 08:08",
     "destTime": "2022/08/27 06:08",
-    "position": "31.18913\u00b0 / 29.87747\u00b0",
+    "position": "31.18917\u00b0 / 29.87748\u00b0",
     "area": "East Mediterranean",
     "status": "Moored"
   },
@@ -575,9 +575,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/26 23:23",
     "destTime": "2022/08/26 19:23",
-    "position": "24.98997\u00b0 / 55.07613\u00b0",
+    "position": "24.99612\u00b0 / 55.0512\u00b0",
     "area": "Persian Gulf",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9355252": {
     "rowidx": 238,
@@ -604,7 +604,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/27 20:00",
     "destTime": "2022/08/27 18:00",
-    "position": "29.3137\u00b0 / 32.70147\u00b0",
+    "position": "29.55025\u00b0 / 32.59835\u00b0",
     "area": "Red Sea",
     "status": "Underway by Sail"
   },
@@ -749,7 +749,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/28 06:30",
     "destTime": "2022/08/27 20:30",
-    "position": "-33.64982\u00b0 / 151.822\u00b0",
+    "position": "-33.85802\u00b0 / 151.655\u00b0",
     "area": "Coral Sea",
     "status": "Underway using Engine"
   },
@@ -894,7 +894,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/27 13:40",
     "destTime": "2022/08/27 05:40",
-    "position": "23.01246\u00b0 / 113.529\u00b0",
+    "position": "23.01245\u00b0 / 113.529\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -1058,17 +1058,17 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "60,876",
-    "dept": "CN MCI",
-    "deptLong": "Mcid",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/08/21 11:22",
-    "deptTime": "2022/08/21 03:22",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/08/27 01:03",
-    "destTime": "2022/08/26 17:03",
-    "position": "31.32342\u00b0 / 121.6796\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/08/27 01:03",
+    "deptTime": "2022/08/26 17:03",
+    "dest": "KR MOK",
+    "destLong": "Mokpo",
+    "destType": "ETA",
+    "destLocalTime": "2022/08/29 06:30",
+    "destTime": "2022/08/28 21:30",
+    "position": "31.32345\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
