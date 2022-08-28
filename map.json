@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/27 03:05",
     "destTime": "2022/08/26 19:05",
-    "position": "30.83613\u00b0 / 121.8342\u00b0",
+    "position": "30.83611\u00b0 / 121.8342\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/26 16:31",
     "destTime": "2022/08/26 14:31",
-    "position": "53.57723\u00b0 / 8.550692\u00b0",
+    "position": "53.57721\u00b0 / 8.550695\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/25 03:52",
     "destTime": "2022/08/25 01:52",
-    "position": "53.89256\u00b0 / 7.843885\u00b0",
+    "position": "53.89268\u00b0 / 7.84403\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/24 13:30",
     "destTime": "2022/08/24 11:30",
-    "position": "51.29915\u00b0 / 3.239455\u00b0",
+    "position": "51.29904\u00b0 / 3.239405\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/21 05:16",
     "destTime": "2022/08/21 04:16",
-    "position": "50.63225\u00b0 / -1.012542\u00b0",
+    "position": "50.63217\u00b0 / -1.012957\u00b0",
     "area": "English Channel",
     "status": "At Anchor"
   },
@@ -372,9 +372,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/27 14:59",
     "destTime": "2022/08/27 05:59",
-    "position": "35.52078\u00b0 / 129.389\u00b0",
+    "position": "35.52504\u00b0 / 129.3887\u00b0",
     "area": "North China",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9707015": {
     "rowidx": 231,
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/28 20:00",
     "destTime": "2022/08/28 12:00",
-    "position": "31.90629\u00b0 / 125.4755\u00b0",
+    "position": "31.70164\u00b0 / 125.1393\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -575,7 +575,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/26 23:23",
     "destTime": "2022/08/26 19:23",
-    "position": "26.45235\u00b0 / 56.63097\u00b0",
+    "position": "26.20155\u00b0 / 56.78732\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -604,9 +604,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/06 01:00",
     "destTime": "2022/09/05 23:00",
-    "position": "29.85523\u00b0 / 32.57047\u00b0",
+    "position": "29.85317\u00b0 / 32.56548\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9448140": {
     "rowidx": 239,
@@ -689,10 +689,10 @@
     "dest": "AU MEL",
     "destLong": "Melbourne",
     "destType": "ETA",
-    "destLocalTime": "2022/08/29 11:00",
-    "destTime": "2022/08/29 01:00",
-    "position": "-38.61378\u00b0 / 148.6002\u00b0",
-    "area": "Tasman Sea",
+    "destLocalTime": "2022/08/29 06:30",
+    "destTime": "2022/08/28 20:30",
+    "position": "-38.87236\u00b0 / 147.6757\u00b0",
+    "area": "East Australia",
     "status": "Underway using Engine"
   },
   "9565560": {
@@ -749,7 +749,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/28 06:50",
     "destTime": "2022/08/27 20:50",
-    "position": "-34.45582\u00b0 / 150.8916\u00b0",
+    "position": "-34.45581\u00b0 / 150.8916\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -894,7 +894,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/27 18:38",
     "destTime": "2022/08/27 10:38",
-    "position": "23.0125\u00b0 / 113.529\u00b0",
+    "position": "23.01246\u00b0 / 113.529\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -923,7 +923,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/01 09:00",
     "destTime": "2022/09/01 01:00",
-    "position": "22.0564\u00b0 / 118.1397\u00b0",
+    "position": "20.61293\u00b0 / 117.7058\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
