@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/29 10:16",
     "destTime": "2022/08/29 02:16",
-    "position": "1.28278\u00b0 / 103.9422\u00b0",
+    "position": "1.282792\u00b0 / 103.9421\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/30 06:00",
     "destTime": "2022/08/29 21:00",
-    "position": "34.78315\u00b0 / 127.807\u00b0",
+    "position": "34.49816\u00b0 / 127.9464\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -517,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/29 21:00",
     "destTime": "2022/08/29 18:00",
-    "position": "39.92146\u00b0 / 25.93929\u00b0",
+    "position": "40.01158\u00b0 / 26.15468\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -573,9 +573,9 @@
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
-    "destLocalTime": "2022/09/06 01:00",
-    "destTime": "2022/09/05 23:00",
-    "position": "31.43237\u00b0 / 32.40557\u00b0",
+    "destLocalTime": "2022/09/05 19:00",
+    "destTime": "2022/09/05 17:00",
+    "position": "33.69622\u00b0 / 26.17648\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -662,7 +662,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/29 06:30",
     "destTime": "2022/08/28 20:30",
-    "position": "-39.38836\u00b0 / 144.2652\u00b0",
+    "position": "-39.42505\u00b0 / 144.3107\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -683,9 +683,9 @@
     "grossTonnage": "58,535",
     "dept": "PE TYL",
     "deptLong": "Talara",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/08/28 18:30",
-    "deptTime": "2022/08/28 23:30",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/08/29 01:14",
+    "deptTime": "2022/08/29 06:14",
     "dest": "AE JEA",
     "destLong": "Jebel Ali",
     "destType": "ETA",
@@ -693,7 +693,7 @@
     "destTime": "2022/09/02 08:00",
     "position": "6.683767\u00b0 / 77.43781\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9427940": {
     "rowidx": 242,
@@ -1039,7 +1039,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/29 13:43",
     "destTime": "2022/08/29 05:43",
-    "position": "31.32226\u00b0 / 121.6815\u00b0",
+    "position": "31.32223\u00b0 / 121.6815\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
