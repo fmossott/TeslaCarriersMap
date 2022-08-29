@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/29 10:16",
     "destTime": "2022/08/29 02:16",
-    "position": "1.281513\u00b0 / 103.9417\u00b0",
+    "position": "1.281998\u00b0 / 103.9418\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -171,35 +171,6 @@
     "destTime": "2022/08/31 15:00",
     "position": "38.23119\u00b0 / -9.735416\u00b0",
     "area": "UK Coast & Atlantic",
-    "status": "Underway using Engine"
-  },
-  "9441623": {
-    "rowidx": 12,
-    "silence": "TRUE",
-    "num": "200",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "22Q3",
-    "numDept": "4",
-    "mapStatus": "3",
-    "mtsid": "372053",
-    "name": "RCC Antwerp",
-    "mmsi": "311000101",
-    "length": "199.96",
-    "breadth": "32.26",
-    "grossTonnage": "58,767",
-    "dept": "SI KOP",
-    "deptLong": "Koper",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/08/26 23:41",
-    "deptTime": "2022/08/26 21:41",
-    "dest": "EG PSD",
-    "destLong": "Port Said",
-    "destType": "ETA",
-    "destLocalTime": "2022/08/31 13:00",
-    "destTime": "2022/08/31 11:00",
-    "position": "35.86271\u00b0 / 15.10723\u00b0",
-    "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
   "9420045": {
@@ -459,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/30 20:00",
     "destTime": "2022/08/30 19:00",
-    "position": "46.88486\u00b0 / -8.107932\u00b0",
+    "position": "47.55869\u00b0 / -7.796097\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -517,8 +488,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/29 23:45",
     "destTime": "2022/08/29 20:45",
-    "position": "40.54393\u00b0 / 27.15759\u00b0",
-    "area": "Aegean Sea",
+    "position": "40.66392\u00b0 / 27.50188\u00b0",
+    "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
   "9311866": {
@@ -662,7 +633,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/30 12:50",
     "destTime": "2022/08/30 02:50",
-    "position": "-39.4204\u00b0 / 144.3512\u00b0",
+    "position": "-39.15487\u00b0 / 144.4046\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -1039,7 +1010,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/29 13:43",
     "destTime": "2022/08/29 05:43",
-    "position": "31.3222\u00b0 / 121.6815\u00b0",
+    "position": "31.32222\u00b0 / 121.6815\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
