@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/02 14:00",
     "destTime": "2022/09/02 12:00",
-    "position": "53.57722\u00b0 / 8.550696\u00b0",
+    "position": "53.57722\u00b0 / 8.550694\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/24 13:30",
     "destTime": "2022/08/24 11:30",
-    "position": "51.29911\u00b0 / 3.239493\u00b0",
+    "position": "51.2991\u00b0 / 3.239485\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/31 12:00",
     "destTime": "2022/08/31 10:00",
-    "position": "50.89162\u00b0 / -1.39879\u00b0",
+    "position": "50.89163\u00b0 / -1.39879\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/30 20:15",
     "destTime": "2022/08/30 19:15",
-    "position": "51.34886\u00b0 / -3.226662\u00b0",
+    "position": "51.47757\u00b0 / -2.842325\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -449,17 +449,17 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "56,951",
-    "dept": "EG ALY",
-    "deptLong": "Alexandria",
+    "dept": "TR DRC",
+    "deptLong": "Derince",
     "deptType": "ATD",
-    "deptLocalTime": "2022/08/28 00:22",
-    "deptTime": "2022/08/27 22:22",
+    "deptLocalTime": "2022/08/30 22:41",
+    "deptTime": "2022/08/30 19:41",
     "dest": "TR DRC",
     "destLong": "Derince",
     "destType": "ATA",
     "destLocalTime": "2022/08/30 07:11",
     "destTime": "2022/08/30 04:11",
-    "position": "40.74148\u00b0 / 29.81536\u00b0",
+    "position": "40.75386\u00b0 / 29.5584\u00b0",
     "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/30 11:50",
     "destTime": "2022/08/30 07:50",
-    "position": "24.50187\u00b0 / 56.62081\u00b0",
+    "position": "24.50185\u00b0 / 56.62079\u00b0",
     "area": "Oman Gulf",
     "status": "Moored"
   },
@@ -602,11 +602,11 @@
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
     "destType": "ETA",
-    "destLocalTime": "2022/08/30 11:50",
-    "destTime": "2022/08/30 02:50",
-    "position": "-37.84118\u00b0 / 144.9039\u00b0",
+    "destLocalTime": "2022/09/13 14:00",
+    "destTime": "2022/09/13 05:00",
+    "position": "-37.84125\u00b0 / 144.9045\u00b0",
     "area": "East Australia",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9565560": {
     "rowidx": 241,
@@ -981,7 +981,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/30 11:03",
     "destTime": "2022/08/30 03:03",
-    "position": "31.23835\u00b0 / 122.0392\u00b0",
+    "position": "31.23357\u00b0 / 122.0721\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
