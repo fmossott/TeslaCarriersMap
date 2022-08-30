@@ -22,10 +22,10 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/09/03 08:01",
-    "destTime": "2022/09/03 00:01",
-    "position": "25.07578\u00b0 / 122.3036\u00b0",
-    "area": "East China Sea",
+    "destLocalTime": "2022/09/03 10:00",
+    "destTime": "2022/09/03 02:00",
+    "position": "22.37956\u00b0 / 121.4729\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   },
   "9707003": {
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/01 10:00",
     "destTime": "2022/09/01 08:00",
-    "position": "51.30365\u00b0 / 3.229815\u00b0",
+    "position": "51.30365\u00b0 / 3.229793\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/28 23:34",
     "destTime": "2022/08/28 21:34",
-    "position": "53.57813\u00b0 / 8.551973\u00b0",
+    "position": "53.57813\u00b0 / 8.551985\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/24 13:30",
     "destTime": "2022/08/24 11:30",
-    "position": "51.29911\u00b0 / 3.239452\u00b0",
+    "position": "51.29913\u00b0 / 3.23947\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/30 00:06",
     "destTime": "2022/08/29 23:06",
-    "position": "50.89163\u00b0 / -1.398787\u00b0",
+    "position": "50.89163\u00b0 / -1.3988\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -343,9 +343,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/30 07:58",
     "destTime": "2022/08/29 22:58",
-    "position": "34.75266\u00b0 / 126.3501\u00b0",
+    "position": "34.76167\u00b0 / 126.35\u00b0",
     "area": "Yellow Sea",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9707015": {
     "rowidx": 231,
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/05 19:00",
     "destTime": "2022/09/05 17:00",
-    "position": "33.69622\u00b0 / 26.17648\u00b0",
+    "position": "34.76753\u00b0 / 21.92415\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/30 09:01",
     "destTime": "2022/08/29 23:01",
-    "position": "-37.84116\u00b0 / 144.9039\u00b0",
+    "position": "-37.84116\u00b0 / 144.9038\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/28 06:50",
     "destTime": "2022/08/27 20:50",
-    "position": "-34.45581\u00b0 / 150.8916\u00b0",
+    "position": "-34.45579\u00b0 / 150.8916\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -807,7 +807,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/30 05:10",
     "destTime": "2022/08/29 22:10",
-    "position": "13.06918\u00b0 / 100.8937\u00b0",
+    "position": "13.06915\u00b0 / 100.8937\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
