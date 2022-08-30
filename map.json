@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/31 16:00",
     "destTime": "2022/08/31 15:00",
-    "position": "41.31185\u00b0 / -9.832278\u00b0",
+    "position": "42.74239\u00b0 / -9.773316\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -370,11 +370,11 @@
     "dest": "KR KAN",
     "destLong": "Gwangyang",
     "destType": "ETA",
-    "destLocalTime": "2022/08/31 02:00",
-    "destTime": "2022/08/30 17:00",
-    "position": "33.19043\u00b0 / 125.4409\u00b0",
+    "destLocalTime": "2022/08/31 05:00",
+    "destTime": "2022/08/30 20:00",
+    "position": "33.21583\u00b0 / 125.4242\u00b0",
     "area": "East China Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9176565": {
     "rowidx": 232,
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/29 23:45",
     "destTime": "2022/08/29 20:45",
-    "position": "40.74963\u00b0 / 29.5359\u00b0",
+    "position": "40.72947\u00b0 / 29.73919\u00b0",
     "area": "Marmara Sea",
     "status": "Underway using Engine"
   },
@@ -602,9 +602,9 @@
     "dest": "OM SOH",
     "destLong": "Sohar",
     "destType": "ETA",
-    "destLocalTime": "2022/08/30 12:30",
-    "destTime": "2022/08/30 08:30",
-    "position": "24.33478\u00b0 / 57.99169\u00b0",
+    "destLocalTime": "2022/08/30 11:30",
+    "destTime": "2022/08/30 07:30",
+    "position": "24.45654\u00b0 / 57.69081\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -1000,18 +1000,18 @@
     "length": "167.25",
     "breadth": "28",
     "grossTonnage": "39,454",
-    "dept": "CL LQN",
-    "deptLong": "Lirquen",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/07/29 16:52",
-    "deptTime": "2022/07/29 20:52",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/08/29 13:43",
-    "destTime": "2022/08/29 05:43",
-    "position": "31.3223\u00b0 / 121.6816\u00b0",
+    "deptLocalTime": "2022/08/30 10:45",
+    "deptTime": "2022/08/30 02:45",
+    "dest": "ZA DUR",
+    "destLong": "Durban",
+    "destType": "ETA",
+    "destLocalTime": "2022/09/21 04:00",
+    "destTime": "2022/09/21 02:00",
+    "position": "31.26381\u00b0 / 121.886\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
