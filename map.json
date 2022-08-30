@@ -51,8 +51,8 @@
     "dest": "CN STG",
     "destLong": "Shantou",
     "destType": "ETA",
-    "destLocalTime": "2022/08/31 03:00",
-    "destTime": "2022/08/30 19:00",
+    "destLocalTime": "2022/08/31 02:30",
+    "destTime": "2022/08/30 18:30",
     "position": "21.91331\u00b0 / 119.1167\u00b0",
     "area": "South China",
     "status": "Out of Range"
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/30 20:00",
     "destTime": "2022/08/30 19:00",
-    "position": "49.61649\u00b0 / -6.832935\u00b0",
+    "position": "50.10437\u00b0 / -6.59572\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
@@ -485,12 +485,12 @@
     "deptTime": "2022/08/27 22:22",
     "dest": "TR DRC",
     "destLong": "Derince",
-    "destType": "ETA",
-    "destLocalTime": "2022/08/29 23:45",
-    "destTime": "2022/08/29 20:45",
-    "position": "40.72947\u00b0 / 29.73919\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/08/30 07:11",
+    "destTime": "2022/08/30 04:11",
+    "position": "40.74954\u00b0 / 29.83455\u00b0",
     "area": "Marmara Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9311866": {
     "rowidx": 236,
@@ -604,7 +604,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/30 11:30",
     "destTime": "2022/08/30 07:30",
-    "position": "24.45654\u00b0 / 57.69081\u00b0",
+    "position": "24.52394\u00b0 / 57.33751\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
