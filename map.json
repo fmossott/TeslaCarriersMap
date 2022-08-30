@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/02 14:00",
     "destTime": "2022/09/02 12:00",
-    "position": "53.57722\u00b0 / 8.550696\u00b0",
+    "position": "53.57722\u00b0 / 8.550694\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -219,17 +219,17 @@
     "grossTonnage": "59,217",
     "dept": "DE BRV",
     "deptLong": "Bremerhaven",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/08/28 22:34",
-    "deptTime": "2022/08/28 21:34",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/08/30 19:23",
+    "deptTime": "2022/08/30 17:23",
     "dest": "CO CTG",
     "destLong": "Cartagena",
     "destType": "ETA",
     "destLocalTime": "2022/09/11 08:00",
     "destTime": "2022/09/11 13:00",
-    "position": "53.56963\u00b0 / 8.549876\u00b0",
+    "position": "53.63491\u00b0 / 8.4426\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9726695": {
     "rowidx": 228,
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/24 13:30",
     "destTime": "2022/08/24 11:30",
-    "position": "51.29911\u00b0 / 3.239532\u00b0",
+    "position": "51.29913\u00b0 / 3.239498\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/30 20:45",
     "destTime": "2022/08/30 19:45",
-    "position": "51.34002\u00b0 / -3.954755\u00b0",
+    "position": "51.33366\u00b0 / -3.87653\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/30 07:11",
     "destTime": "2022/08/30 04:11",
-    "position": "40.74966\u00b0 / 29.83445\u00b0",
+    "position": "40.74963\u00b0 / 29.83445\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/30 11:50",
     "destTime": "2022/08/30 07:50",
-    "position": "24.50184\u00b0 / 56.62081\u00b0",
+    "position": "24.50187\u00b0 / 56.62081\u00b0",
     "area": "Oman Gulf",
     "status": "Moored"
   },
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/30 09:01",
     "destTime": "2022/08/29 23:01",
-    "position": "-37.84117\u00b0 / 144.9039\u00b0",
+    "position": "-37.84121\u00b0 / 144.9039\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -1000,18 +1000,18 @@
     "length": "167.23",
     "breadth": "28.03",
     "grossTonnage": "39,362",
-    "dept": "AU MEL",
-    "deptLong": "Melbourne",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/08/17 15:27",
-    "deptTime": "2022/08/17 05:27",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/08/30 14:35",
-    "destTime": "2022/08/30 06:35",
-    "position": "31.32367\u00b0 / 121.6793\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/08/30 16:35",
+    "deptTime": "2022/08/30 06:35",
+    "dest": "MX LZC",
+    "destLong": "Lazaro Cardenas",
+    "destType": "ETA",
+    "destLocalTime": "2022/09/17 00:00",
+    "destTime": "2022/09/17 05:00",
+    "position": "31.32366\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
-    "status": "Stopped"
+    "status": "Moored"
   }
 }
