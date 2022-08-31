@@ -169,9 +169,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/31 19:36",
     "destTime": "2022/08/31 18:36",
-    "position": "50.88371\u00b0 / -1.398828\u00b0",
+    "position": "50.90438\u00b0 / -1.428375\u00b0",
     "area": "English Channel",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9700524": {
     "rowidx": 226,
@@ -253,10 +253,10 @@
     "deptTime": "2022/08/30 22:02",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2022/08/31 20:30",
-    "destTime": "2022/08/31 18:30",
-    "position": "51.3646\u00b0 / 2.866262\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/08/31 21:30",
+    "destTime": "2022/08/31 19:30",
+    "position": "51.35229\u00b0 / 3.20391\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/31 05:41",
     "destTime": "2022/08/30 20:41",
-    "position": "34.90625\u00b0 / 127.6766\u00b0",
+    "position": "34.90625\u00b0 / 127.6767\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/30 22:09",
     "destTime": "2022/08/30 21:09",
-    "position": "51.49464\u00b0 / -2.714348\u00b0",
+    "position": "51.49468\u00b0 / -2.714322\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -451,17 +451,17 @@
     "grossTonnage": "57,692",
     "dept": "BR SSA",
     "deptLong": "Salvador",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/08/31 19:43",
-    "deptTime": "2022/08/31 11:43",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/08/31 16:28",
+    "deptTime": "2022/08/31 19:28",
     "dest": "BR VIX",
     "destLong": "Vitoria",
     "destType": "ETA",
-    "destLocalTime": "2022/08/31 02:00",
-    "destTime": "2022/08/31 05:00",
-    "position": "-12.96774\u00b0 / -38.51151\u00b0",
+    "destLocalTime": "2022/09/01 22:00",
+    "destTime": "2022/09/02 01:00",
+    "position": "-12.9444\u00b0 / -38.53895\u00b0",
     "area": "East Coast South America",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9355252": {
     "rowidx": 236,
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/31 20:33",
     "destTime": "2022/08/31 16:33",
-    "position": "24.99663\u00b0 / 55.07999\u00b0",
+    "position": "24.99662\u00b0 / 55.07998\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/18 07:06",
     "destTime": "2022/08/17 23:06",
-    "position": "48.4683\u00b0 / -125.4695\u00b0",
+    "position": "48.47087\u00b0 / -125.243\u00b0",
     "area": "West Coast Canada",
     "status": "Underway using Engine"
   },
@@ -894,7 +894,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/31 22:07",
     "destTime": "2022/08/31 14:07",
-    "position": "39.02095\u00b0 / 117.7686\u00b0",
+    "position": "39.02098\u00b0 / 117.7686\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -952,7 +952,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/31 11:51",
     "destTime": "2022/08/31 03:51",
-    "position": "31.32336\u00b0 / 121.6796\u00b0",
+    "position": "31.32339\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
