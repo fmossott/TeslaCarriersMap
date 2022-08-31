@@ -43,17 +43,17 @@
     "length": "199.98",
     "breadth": "32",
     "grossTonnage": "59,954",
-    "dept": "SG SINGAPORE ANCH",
+    "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/08/31 02:40",
-    "deptTime": "2022/08/30 18:40",
-    "dest": "CN STG",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/08/25 20:53",
+    "deptTime": "2022/08/25 12:53",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Shantou",
-    "destType": "ETA",
-    "destLocalTime": "2022/08/31 02:15",
-    "destTime": "2022/08/30 18:15",
-    "position": "1.274492\u00b0 / 103.9014\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/08/31 02:40",
+    "destTime": "2022/08/30 18:40",
+    "position": "1.27423\u00b0 / 103.9013\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -169,8 +169,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/31 16:00",
     "destTime": "2022/08/31 15:00",
-    "position": "48.29956\u00b0 / -6.019668\u00b0",
-    "area": "Biscay Bay",
+    "position": "48.70491\u00b0 / -5.661797\u00b0",
+    "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
   "9700524": {
@@ -314,9 +314,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/31 07:07",
     "destTime": "2022/08/30 22:07",
-    "position": "36.98333\u00b0 / 126.8237\u00b0",
+    "position": "36.98335\u00b0 / 126.8237\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway"
+    "status": "Moored"
   },
   "9707015": {
     "rowidx": 231,
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/31 19:00",
     "destTime": "2022/08/31 17:00",
-    "position": "26.53185\u00b0 / 34.82177\u00b0",
+    "position": "27.18172\u00b0 / 34.38403\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -575,7 +575,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/08/31 18:00",
     "destTime": "2022/08/31 14:00",
-    "position": "25.2767\u00b0 / 56.80043\u00b0",
+    "position": "25.69655\u00b0 / 56.87027\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
