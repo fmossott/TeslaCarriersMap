@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/01 04:00",
     "destTime": "2022/09/01 02:00",
-    "position": "52.21638\u00b0 / 3.012507\u00b0",
+    "position": "52.03579\u00b0 / 2.773365\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -227,8 +227,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/01 12:00",
     "destTime": "2022/09/01 11:00",
-    "position": "51.39967\u00b0 / 1.924233\u00b0",
-    "area": "North Sea",
+    "position": "51.14454\u00b0 / 1.619053\u00b0",
+    "area": "English Channel",
     "status": "Underway using Engine"
   },
   "9700512": {
@@ -341,9 +341,9 @@
     "dest": "GB SOU",
     "destLong": "Southampton",
     "destType": "ETA",
-    "destLocalTime": "2022/09/01 03:30",
-    "destTime": "2022/09/01 02:30",
-    "position": "50.45623\u00b0 / -1.030335\u00b0",
+    "destLocalTime": "2022/09/01 04:00",
+    "destTime": "2022/09/01 03:00",
+    "position": "50.45555\u00b0 / -0.9974967\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/01 04:30",
     "destTime": "2022/09/01 01:30",
-    "position": "37.57372\u00b0 / 23.99974\u00b0",
+    "position": "37.48191\u00b0 / 24.15035\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/31 18:22",
     "destTime": "2022/08/31 16:22",
-    "position": "29.85758\u00b0 / 32.56168\u00b0",
+    "position": "29.85745\u00b0 / 32.56157\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -604,9 +604,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/01 08:42",
     "destTime": "2022/08/31 22:42",
-    "position": "-37.84869\u00b0 / 144.9091\u00b0",
+    "position": "-37.84398\u00b0 / 144.9049\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9519107": {
     "rowidx": 241,
