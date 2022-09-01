@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/01 04:00",
     "destTime": "2022/09/01 02:00",
-    "position": "52.04892\u00b0 / 2.380248\u00b0",
+    "position": "52.06804\u00b0 / 2.362433\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/01 12:00",
     "destTime": "2022/09/01 11:00",
-    "position": "50.61554\u00b0 / 0.4880183\u00b0",
+    "position": "50.55885\u00b0 / 0.1552383\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -340,12 +340,12 @@
     "deptTime": "2022/08/06 10:49",
     "dest": "GB SOU",
     "destLong": "Southampton",
-    "destType": "ETA",
-    "destLocalTime": "2022/09/01 04:00",
-    "destTime": "2022/09/01 03:00",
-    "position": "50.87232\u00b0 / -1.381642\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/09/01 06:18",
+    "destTime": "2022/09/01 05:18",
+    "position": "50.88519\u00b0 / -1.396843\u00b0",
     "area": "English Channel",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9338620": {
     "rowidx": 232,
@@ -430,9 +430,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/01 06:30",
     "destTime": "2022/09/01 03:30",
-    "position": "37.88926\u00b0 / 23.60265\u00b0",
+    "position": "37.92673\u00b0 / 23.59898\u00b0",
     "area": "Piraeus Area",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9311866": {
     "rowidx": 235,
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/31 18:22",
     "destTime": "2022/08/31 16:22",
-    "position": "29.8579\u00b0 / 32.56115\u00b0",
+    "position": "29.85925\u00b0 / 32.56083\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/01 08:42",
     "destTime": "2022/08/31 22:42",
-    "position": "-37.84395\u00b0 / 144.9049\u00b0",
+    "position": "-37.84396\u00b0 / 144.9049\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -720,7 +720,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/02 16:00",
     "destTime": "2022/09/02 08:00",
-    "position": "6.080355\u00b0 / 103.1531\u00b0",
+    "position": "5.57772\u00b0 / 103.5658\u00b0",
     "area": "Riau Archipelago",
     "status": "Underway using Engine"
   },
