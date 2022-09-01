@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/31 19:36",
     "destTime": "2022/08/31 18:36",
-    "position": "50.90435\u00b0 / -1.428347\u00b0",
+    "position": "50.90431\u00b0 / -1.428315\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/31 21:30",
     "destTime": "2022/08/31 19:30",
-    "position": "51.30891\u00b0 / 3.230085\u00b0",
+    "position": "51.30891\u00b0 / 3.230083\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/31 05:41",
     "destTime": "2022/08/30 20:41",
-    "position": "34.9063\u00b0 / 127.6767\u00b0",
+    "position": "34.90626\u00b0 / 127.6766\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/30 22:09",
     "destTime": "2022/08/30 21:09",
-    "position": "51.49464\u00b0 / -2.7143\u00b0",
+    "position": "51.49468\u00b0 / -2.714302\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -886,17 +886,17 @@
     "grossTonnage": "57,692",
     "dept": "CN TXG",
     "deptLong": "Tianjin",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/08/31 22:07",
-    "deptTime": "2022/08/31 14:07",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/09/01 20:23",
+    "deptTime": "2022/09/01 12:23",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
     "destType": "ETA",
     "destLocalTime": "2022/09/04 20:00",
     "destTime": "2022/09/04 11:00",
-    "position": "39.02101\u00b0 / 117.7685\u00b0",
+    "position": "38.94294\u00b0 / 117.9719\u00b0",
     "area": "Bohai Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9514999": {
     "rowidx": 251,
@@ -952,7 +952,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/31 11:51",
     "destTime": "2022/08/31 03:51",
-    "position": "31.32332\u00b0 / 121.6797\u00b0",
+    "position": "31.32339\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
