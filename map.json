@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/01 04:00",
     "destTime": "2022/09/01 02:00",
-    "position": "52.00742\u00b0 / 2.203552\u00b0",
+    "position": "52.03809\u00b0 / 2.219378\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/01 11:16",
     "destTime": "2022/09/01 10:16",
-    "position": "50.63296\u00b0 / -1.074245\u00b0",
+    "position": "50.63238\u00b0 / -1.075303\u00b0",
     "area": "English Channel",
     "status": "At Anchor"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/02 22:00",
     "destTime": "2022/09/02 20:00",
-    "position": "50.88521\u00b0 / -1.396835\u00b0",
+    "position": "50.88519\u00b0 / -1.396815\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/01 09:22",
     "destTime": "2022/09/01 06:22",
-    "position": "37.96063\u00b0 / 23.60475\u00b0",
+    "position": "37.96065\u00b0 / 23.60478\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/01 09:01",
     "destTime": "2022/09/01 07:01",
-    "position": "30.7438\u00b0 / 32.33615\u00b0",
+    "position": "30.89123\u00b0 / 32.31512\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -594,19 +594,19 @@
     "length": "182.91",
     "breadth": "31.78",
     "grossTonnage": "47,057",
-    "dept": "AU MEL",
-    "deptLong": "Melbourne",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/09/01 08:42",
-    "deptTime": "2022/08/31 22:42",
+    "dept": "AU PKL",
+    "deptLong": "Port Kembla",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/08/30 18:52",
+    "deptTime": "2022/08/30 08:52",
     "dest": "CN STG",
     "destLong": "Shantou",
     "destType": "ETA",
     "destLocalTime": "2022/09/15 21:00",
     "destTime": "2022/09/15 13:00",
-    "position": "-37.84397\u00b0 / 144.9049\u00b0",
+    "position": "-37.88151\u00b0 / 144.9237\u00b0",
     "area": "East Australia",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9519107": {
     "rowidx": 241,
@@ -720,7 +720,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/02 16:00",
     "destTime": "2022/09/02 08:00",
-    "position": "4.531734\u00b0 / 103.9569\u00b0",
+    "position": "4.440262\u00b0 / 103.9883\u00b0",
     "area": "Riau Archipelago",
     "status": "Underway using Engine"
   },
@@ -923,7 +923,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/03 04:45",
     "destTime": "2022/09/02 19:45",
-    "position": "31.40188\u00b0 / 131.6926\u00b0",
+    "position": "32.07415\u00b0 / 132.8628\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
