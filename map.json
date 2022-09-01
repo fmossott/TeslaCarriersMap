@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/01 04:00",
     "destTime": "2022/09/01 02:00",
-    "position": "52.06804\u00b0 / 2.362433\u00b0",
+    "position": "52.08535\u00b0 / 2.3423\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/01 12:00",
     "destTime": "2022/09/01 11:00",
-    "position": "50.55885\u00b0 / 0.1552383\u00b0",
+    "position": "50.53783\u00b0 / -0.1415417\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/01 06:18",
     "destTime": "2022/09/01 05:18",
-    "position": "50.88519\u00b0 / -1.396843\u00b0",
+    "position": "50.8852\u00b0 / -1.396823\u00b0",
     "area": "English Channel",
     "status": "Stopped"
   },
@@ -427,12 +427,12 @@
     "deptTime": "2022/08/30 19:41",
     "dest": "GR PIR",
     "destLong": "Piraeus",
-    "destType": "ETA",
-    "destLocalTime": "2022/09/01 06:30",
-    "destTime": "2022/09/01 03:30",
-    "position": "37.92673\u00b0 / 23.59898\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/09/01 09:22",
+    "destTime": "2022/09/01 06:22",
+    "position": "37.9606\u00b0 / 23.60475\u00b0",
     "area": "Piraeus Area",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9311866": {
     "rowidx": 235,
@@ -512,14 +512,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/08/10 20:16",
     "deptTime": "2022/08/10 12:16",
-    "dest": "EG SUEZ SOUTH ANCH",
+    "dest": "EG SUZ",
     "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2022/08/31 18:22",
-    "destTime": "2022/08/31 16:22",
-    "position": "29.85925\u00b0 / 32.56083\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2022/08/31 19:00",
+    "destTime": "2022/08/31 17:00",
+    "position": "29.94798\u00b0 / 32.5791\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9728083": {
     "rowidx": 238,
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/01 08:42",
     "destTime": "2022/08/31 22:42",
-    "position": "-37.84396\u00b0 / 144.9049\u00b0",
+    "position": "-37.84397\u00b0 / 144.9049\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
