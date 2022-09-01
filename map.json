@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/01 04:00",
     "destTime": "2022/09/01 02:00",
-    "position": "52.08535\u00b0 / 2.3423\u00b0",
+    "position": "52.09584\u00b0 / 2.326112\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/01 12:00",
     "destTime": "2022/09/01 11:00",
-    "position": "50.53783\u00b0 / -0.1415417\u00b0",
+    "position": "50.5568\u00b0 / -0.5881317\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/01 06:18",
     "destTime": "2022/09/01 05:18",
-    "position": "50.8852\u00b0 / -1.396823\u00b0",
+    "position": "50.8852\u00b0 / -1.396843\u00b0",
     "area": "English Channel",
     "status": "Stopped"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/01 09:22",
     "destTime": "2022/09/01 06:22",
-    "position": "37.9606\u00b0 / 23.60475\u00b0",
+    "position": "37.96059\u00b0 / 23.60475\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -514,10 +514,10 @@
     "deptTime": "2022/08/10 12:16",
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/08/31 19:00",
-    "destTime": "2022/08/31 17:00",
-    "position": "29.94798\u00b0 / 32.5791\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/09/01 09:01",
+    "destTime": "2022/09/01 07:01",
+    "position": "30.08672\u00b0 / 32.57118\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/01 08:42",
     "destTime": "2022/08/31 22:42",
-    "position": "-37.84397\u00b0 / 144.9049\u00b0",
+    "position": "-37.84396\u00b0 / 144.9049\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
