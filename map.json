@@ -109,11 +109,11 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/09/07 12:00",
-    "destTime": "2022/09/07 10:00",
+    "destLocalTime": "2022/09/07 09:00",
+    "destTime": "2022/09/07 07:00",
     "position": "7.049448\u00b0 / 76.41897\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9590591": {
     "rowidx": 10,
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/01 04:00",
     "destTime": "2022/09/01 02:00",
-    "position": "52.03579\u00b0 / 2.773365\u00b0",
+    "position": "51.95681\u00b0 / 2.520722\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/01 04:00",
     "destTime": "2022/09/01 03:00",
-    "position": "50.45555\u00b0 / -0.9974967\u00b0",
+    "position": "50.45804\u00b0 / -0.9960217\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -428,9 +428,9 @@
     "dest": "GR PIR",
     "destLong": "Piraeus",
     "destType": "ETA",
-    "destLocalTime": "2022/09/01 04:30",
-    "destTime": "2022/09/01 01:30",
-    "position": "37.48191\u00b0 / 24.15035\u00b0",
+    "destLocalTime": "2022/09/01 06:30",
+    "destTime": "2022/09/01 03:30",
+    "position": "37.60211\u00b0 / 23.89456\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/31 18:22",
     "destTime": "2022/08/31 16:22",
-    "position": "29.85745\u00b0 / 32.56157\u00b0",
+    "position": "29.85745\u00b0 / 32.56115\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
