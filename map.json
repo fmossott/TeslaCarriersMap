@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/31 19:36",
     "destTime": "2022/08/31 18:36",
-    "position": "50.90436\u00b0 / -1.428388\u00b0",
+    "position": "50.90435\u00b0 / -1.428358\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -224,12 +224,12 @@
     "deptTime": "2022/08/31 18:26",
     "dest": "GB SOU",
     "destLong": "Southampton",
-    "destType": "ETA",
-    "destLocalTime": "2022/09/02 09:30",
-    "destTime": "2022/09/02 08:30",
-    "position": "50.87906\u00b0 / -1.392063\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/09/02 11:43",
+    "destTime": "2022/09/02 10:43",
+    "position": "50.88793\u00b0 / -1.398658\u00b0",
     "area": "English Channel",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9700512": {
     "rowidx": 228,
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/31 21:30",
     "destTime": "2022/08/31 19:30",
-    "position": "51.30891\u00b0 / 3.230095\u00b0",
+    "position": "51.30891\u00b0 / 3.230083\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -282,10 +282,10 @@
     "deptTime": "2022/09/01 06:02",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
-    "destType": "ETA",
-    "destLocalTime": "2022/08/31 07:07",
-    "destTime": "2022/08/30 22:07",
-    "position": "37.13683\u00b0 / 126.4705\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/09/02 20:29",
+    "destTime": "2022/09/02 11:29",
+    "position": "37.00283\u00b0 / 126.7124\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/02 22:00",
     "destTime": "2022/09/02 20:00",
-    "position": "50.8852\u00b0 / -1.396832\u00b0",
+    "position": "50.88521\u00b0 / -1.396805\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -459,9 +459,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/01 22:45",
     "destTime": "2022/09/02 01:45",
-    "position": "-20.3724\u00b0 / -40.05499\u00b0",
+    "position": "-20.37424\u00b0 / -40.06618\u00b0",
     "area": "East Coast South America",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9355252": {
     "rowidx": 236,
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/02 06:23",
     "destTime": "2022/09/01 23:23",
-    "position": "13.06719\u00b0 / 100.8801\u00b0",
+    "position": "13.06721\u00b0 / 100.8802\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
