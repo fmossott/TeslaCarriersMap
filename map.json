@@ -19,14 +19,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/08/29 00:21",
     "deptTime": "2022/08/28 16:21",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2022/09/03 12:15",
-    "destTime": "2022/09/03 04:15",
-    "position": "1.229945\u00b0 / 103.9142\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/09/03 12:54",
+    "destTime": "2022/09/03 04:54",
+    "position": "1.273333\u00b0 / 103.9011\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9707003": {
     "rowidx": 7,
@@ -140,9 +140,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/04 23:00",
     "destTime": "2022/09/04 21:00",
-    "position": "12.44361\u00b0 / 43.79\u00b0",
-    "area": "West Coast India",
-    "status": "Out of Range"
+    "position": "19.78235\u00b0 / 39.05109\u00b0",
+    "area": "Red Sea",
+    "status": "Underway using Engine"
   },
   "9460899": {
     "rowidx": 11,
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/03 15:00",
     "destTime": "2022/09/03 13:00",
-    "position": "50.3871\u00b0 / 0.428975\u00b0",
+    "position": "50.46296\u00b0 / 0.81496\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -372,8 +372,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/08 10:00",
     "destTime": "2022/09/08 08:00",
-    "position": "49.23471\u00b0 / -7.158973\u00b0",
-    "area": "Celtic Sea",
+    "position": "43.51151\u00b0 / -9.959565\u00b0",
+    "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
   "9832561": {
