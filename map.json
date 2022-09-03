@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/03 05:29",
     "destTime": "2022/09/03 03:29",
-    "position": "51.40237\u00b0 / 2.618853\u00b0",
+    "position": "51.40231\u00b0 / 2.618667\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/08 04:00",
     "destTime": "2022/09/08 03:00",
-    "position": "51.31645\u00b0 / 3.225198\u00b0",
+    "position": "51.31645\u00b0 / 3.225202\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/31 21:30",
     "destTime": "2022/08/31 19:30",
-    "position": "51.30891\u00b0 / 3.230087\u00b0",
+    "position": "51.30891\u00b0 / 3.230085\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -278,16 +278,16 @@
     "dept": "KR PTK",
     "deptLong": "Pyeongtaek",
     "deptType": "ATD",
-    "deptLocalTime": "2022/09/01 15:02",
-    "deptTime": "2022/09/01 06:02",
+    "deptLocalTime": "2022/09/03 15:52",
+    "deptTime": "2022/09/03 06:52",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2022/09/02 20:29",
     "destTime": "2022/09/02 11:29",
-    "position": "37.00135\u00b0 / 126.7227\u00b0",
+    "position": "37.13735\u00b0 / 126.5141\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9707015": {
     "rowidx": 230,
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/04 05:00",
     "destTime": "2022/09/04 08:00",
-    "position": "-20.34929\u00b0 / -40.24015\u00b0",
+    "position": "-21.0136\u00b0 / -40.22713\u00b0",
     "area": "East Coast South America",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/02 13:03",
     "destTime": "2022/09/02 10:03",
-    "position": "26.49144\u00b0 / 50.19364\u00b0",
+    "position": "26.49143\u00b0 / 50.19363\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/02 06:23",
     "destTime": "2022/09/01 23:23",
-    "position": "13.06718\u00b0 / 100.8801\u00b0",
+    "position": "13.06717\u00b0 / 100.8801\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
