@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/04 23:00",
     "destTime": "2022/09/04 21:00",
-    "position": "27.24504\u00b0 / 34.43855\u00b0",
+    "position": "28.98061\u00b0 / 32.88842\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -188,19 +188,19 @@
     "length": "199.96",
     "breadth": "38",
     "grossTonnage": "75,036",
-    "dept": "GB SOU",
+    "dept": "DE DW ANCHORAGE",
     "deptLong": "Southampton",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/09/03 00:35",
-    "deptTime": "2022/09/02 23:35",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/09/04 18:22",
+    "deptTime": "2022/09/04 17:22",
     "dest": "DE BRV",
     "destLong": "Bremerhaven",
     "destType": "ETA",
     "destLocalTime": "2022/09/04 16:00",
     "destTime": "2022/09/04 14:00",
-    "position": "54.01507\u00b0 / 7.413597\u00b0",
+    "position": "54.02985\u00b0 / 7.426177\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9700512": {
     "rowidx": 228,
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/03 19:15",
     "destTime": "2022/09/03 17:15",
-    "position": "51.27223\u00b0 / 4.220378\u00b0",
+    "position": "51.27221\u00b0 / 4.220358\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -430,9 +430,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/06 13:00",
     "destTime": "2022/09/06 16:00",
-    "position": "-23.95892\u00b0 / -46.29886\u00b0",
+    "position": "-23.99298\u00b0 / -46.30474\u00b0",
     "area": "East Coast South America",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9355252": {
     "rowidx": 236,
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/03 20:11",
     "destTime": "2022/09/03 17:11",
-    "position": "26.49418\u00b0 / 50.1944\u00b0",
+    "position": "26.49428\u00b0 / 50.19412\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
