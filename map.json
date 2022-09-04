@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/08 04:00",
     "destTime": "2022/09/08 03:00",
-    "position": "51.31645\u00b0 / 3.2252\u00b0",
+    "position": "51.31645\u00b0 / 3.225195\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/31 21:30",
     "destTime": "2022/08/31 19:30",
-    "position": "51.30892\u00b0 / 3.230095\u00b0",
+    "position": "51.30891\u00b0 / 3.230092\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -253,11 +253,11 @@
     "deptTime": "2022/09/03 06:52",
     "dest": "CN YTG",
     "destLong": "Yantai",
-    "destType": "ETA",
-    "destLocalTime": "2022/09/04 14:00",
-    "destTime": "2022/09/04 06:00",
-    "position": "37.58901\u00b0 / 121.4473\u00b0",
-    "area": "Yellow Sea",
+    "destType": "ATA",
+    "destLocalTime": "2022/09/04 16:37",
+    "destTime": "2022/09/04 08:37",
+    "position": "37.56209\u00b0 / 121.3757\u00b0",
+    "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
   "9707015": {
@@ -515,9 +515,9 @@
     "dest": "ID JKT",
     "destLong": "Jakarta",
     "destType": "ETA",
-    "destLocalTime": "2022/09/14 16:00",
-    "destTime": "2022/09/14 09:00",
-    "position": "26.49144\u00b0 / 50.19365\u00b0",
+    "destLocalTime": "2022/09/13 19:00",
+    "destTime": "2022/09/13 12:00",
+    "position": "26.49144\u00b0 / 50.19366\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
