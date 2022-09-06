@@ -26,7 +26,7 @@
     "destTime": "2022/09/16 20:00",
     "position": "5.305935\u00b0 / 97.82766\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9707003": {
     "rowidx": 7,
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/04 19:22",
     "destTime": "2022/09/04 17:22",
-    "position": "54.03064\u00b0 / 7.425135\u00b0",
+    "position": "54.03031\u00b0 / 7.425142\u00b0",
     "area": "North Sea",
     "status": "Underway"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/09 15:00",
     "destTime": "2022/09/09 13:00",
-    "position": "51.27224\u00b0 / 4.220375\u00b0",
+    "position": "51.27226\u00b0 / 4.220353\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -836,8 +836,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/07 08:01",
     "destTime": "2022/09/07 00:01",
-    "position": "1.595528\u00b0 / 104.6298\u00b0",
-    "area": "Riau Archipelago",
+    "position": "1.463483\u00b0 / 104.4919\u00b0",
+    "area": "Singapore Area",
     "status": "Underway using Engine"
   },
   "9574080": {
@@ -894,7 +894,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/06 10:29",
     "destTime": "2022/09/06 02:29",
-    "position": "30.83605\u00b0 / 121.8344\u00b0",
+    "position": "30.83608\u00b0 / 121.8344\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -923,7 +923,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/06 19:44",
     "destTime": "2022/09/06 11:44",
-    "position": "31.32334\u00b0 / 121.6797\u00b0",
+    "position": "31.32337\u00b0 / 121.6797\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -952,7 +952,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/13 14:00",
     "destTime": "2022/09/13 06:00",
-    "position": "31.322\u00b0 / 121.6816\u00b0",
+    "position": "31.32204\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
