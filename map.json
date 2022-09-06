@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/08 04:00",
     "destTime": "2022/09/08 03:00",
-    "position": "51.31645\u00b0 / 3.2252\u00b0",
+    "position": "51.31645\u00b0 / 3.225193\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/07 13:00",
     "destTime": "2022/09/07 04:00",
-    "position": "33.84238\u00b0 / 126.2091\u00b0",
+    "position": "33.82971\u00b0 / 126.5577\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -372,8 +372,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/10 04:30",
     "destTime": "2022/09/09 21:30",
-    "position": "1.850855\u00b0 / 102.3644\u00b0",
-    "area": "Malacca Strait",
+    "position": "1.276557\u00b0 / 104.254\u00b0",
+    "area": "Singapore Area",
     "status": "Underway using Engine"
   },
   "9339832": {
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/09 03:30",
     "destTime": "2022/09/09 02:30",
-    "position": "38.27653\u00b0 / -9.75058\u00b0",
+    "position": "39.79086\u00b0 / -9.857991\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -427,12 +427,12 @@
     "deptTime": "2022/09/04 18:23",
     "dest": "UY MVD",
     "destLong": "Montevideo",
-    "destType": "ETA",
-    "destLocalTime": "2022/09/06 14:00",
-    "destTime": "2022/09/06 17:00",
-    "position": "-34.97084\u00b0 / -56.22461\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/09/06 18:04",
+    "destTime": "2022/09/06 21:04",
+    "position": "-34.90033\u00b0 / -56.20527\u00b0",
     "area": "East Coast South America",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9355252": {
     "rowidx": 236,
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/06 23:00",
     "destTime": "2022/09/06 21:00",
-    "position": "51.3657\u00b0 / 2.63905\u00b0",
+    "position": "51.37335\u00b0 / 2.928167\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -488,9 +488,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/05 17:02",
     "destTime": "2022/09/05 15:02",
-    "position": "43.48633\u00b0 / 10.28378\u00b0",
+    "position": "43.4861\u00b0 / 10.28293\u00b0",
     "area": "Ligurean Sea",
-    "status": "At Anchor"
+    "status": "Stopped"
   },
   "9728083": {
     "rowidx": 238,
@@ -807,7 +807,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/06 23:14",
     "destTime": "2022/09/06 13:14",
-    "position": "-27.37954\u00b0 / 153.1648\u00b0",
+    "position": "-27.37948\u00b0 / 153.1648\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
