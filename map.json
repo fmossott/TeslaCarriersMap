@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/09 10:00",
     "destTime": "2022/09/09 08:00",
-    "position": "39.26279\u00b0 / 7.037583\u00b0",
+    "position": "39.45057\u00b0 / 6.541438\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/14 06:00",
     "destTime": "2022/09/14 05:00",
-    "position": "51.31645\u00b0 / 3.225193\u00b0",
+    "position": "51.31645\u00b0 / 3.2252\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/08/31 21:30",
     "destTime": "2022/08/31 19:30",
-    "position": "51.31379\u00b0 / 3.227362\u00b0",
+    "position": "51.31379\u00b0 / 3.227363\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/09 03:30",
     "destTime": "2022/09/09 02:30",
-    "position": "50.58089\u00b0 / -5.50696\u00b0",
+    "position": "50.76265\u00b0 / -5.348918\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
@@ -306,17 +306,17 @@
     "grossTonnage": "59,217",
     "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/09/07 06:40",
-    "deptTime": "2022/09/06 22:40",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/09/08 20:27",
+    "deptTime": "2022/09/08 18:27",
     "dest": "GB SOU",
     "destLong": "Southampton",
     "destType": "ETA",
     "destLocalTime": "2022/09/09 08:00",
     "destTime": "2022/09/09 07:00",
-    "position": "51.33412\u00b0 / 3.217117\u00b0",
+    "position": "51.3788\u00b0 / 2.925583\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9448140": {
     "rowidx": 232,
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/07 00:59",
     "destTime": "2022/09/06 22:59",
-    "position": "43.58048\u00b0 / 10.30557\u00b0",
+    "position": "43.58057\u00b0 / 10.30557\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/08 21:00",
     "destTime": "2022/09/08 19:00",
-    "position": "29.66263\u00b0 / 32.5678\u00b0",
+    "position": "29.81492\u00b0 / 32.55122\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -602,8 +602,8 @@
     "dest": "AU BNE",
     "destLong": "Brisbane",
     "destType": "ETA",
-    "destLocalTime": "2022/09/14 05:00",
-    "destTime": "2022/09/13 19:00",
+    "destLocalTime": "2022/09/13 02:00",
+    "destTime": "2022/09/12 16:00",
     "position": "30.45601\u00b0 / 131.991\u00b0",
     "area": "Japan Coast",
     "status": "Out of Range"
@@ -778,7 +778,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/08 10:12",
     "destTime": "2022/09/08 02:12",
-    "position": "30.83592\u00b0 / 121.8343\u00b0",
+    "position": "30.83597\u00b0 / 121.8343\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
