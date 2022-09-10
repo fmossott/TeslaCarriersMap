@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/12 16:00",
     "destTime": "2022/09/12 14:00",
-    "position": "51.31379\u00b0 / 3.227363\u00b0",
+    "position": "51.31379\u00b0 / 3.227368\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -277,17 +277,17 @@
     "grossTonnage": "56,951",
     "dept": "GB PRU",
     "deptLong": "Portbury",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/09/09 07:19",
-    "deptTime": "2022/09/09 04:19",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/09/10 05:22",
+    "deptTime": "2022/09/10 04:22",
     "dest": "BE ANR",
     "destLong": "Antwerp",
     "destType": "ETA",
     "destLocalTime": "2022/09/11 18:30",
     "destTime": "2022/09/11 16:30",
-    "position": "51.49873\u00b0 / -2.725808\u00b0",
+    "position": "51.46331\u00b0 / -2.897645\u00b0",
     "area": "Bristol Channel",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9355252": {
     "rowidx": 231,
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/12 08:00",
     "destTime": "2022/09/12 06:00",
-    "position": "43.58052\u00b0 / 10.30558\u00b0",
+    "position": "43.5805\u00b0 / 10.30557\u00b0",
     "area": "Ligurean Sea",
     "status": "Moored"
   },
@@ -396,14 +396,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/08/27 00:23",
     "deptTime": "2022/08/26 16:23",
-    "dest": "EG SUEZ SOUTH ANCH",
+    "dest": "EG SUZ",
     "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2022/09/09 17:47",
-    "destTime": "2022/09/09 15:47",
-    "position": "29.85863\u00b0 / 32.56018\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2022/09/09 15:00",
+    "destTime": "2022/09/09 13:00",
+    "position": "29.94222\u00b0 / 32.57442\u00b0",
     "area": "Red Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9702455": {
     "rowidx": 235,
