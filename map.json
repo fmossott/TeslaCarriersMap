@@ -82,8 +82,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/13 01:00",
     "destTime": "2022/09/12 17:00",
-    "position": "12.66275\u00b0 / 43.33416\u00b0",
-    "area": "Gulf of Aden",
+    "position": "18.96347\u00b0 / 39.76808\u00b0",
+    "area": "Red Sea",
     "status": "Underway using Engine"
   },
   "9749568": {
@@ -161,17 +161,17 @@
     "grossTonnage": "58,288",
     "dept": "ES BCN",
     "deptLong": "Barcelona",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/09/09 16:43",
-    "deptTime": "2022/09/09 08:43",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/09/10 20:18",
+    "deptTime": "2022/09/10 18:18",
     "dest": "EG PSD",
     "destLong": "Port Said",
     "destType": "ETA",
     "destLocalTime": "2022/09/14 12:00",
     "destTime": "2022/09/14 10:00",
-    "position": "41.33415\u00b0 / 2.146688\u00b0",
+    "position": "41.26669\u00b0 / 2.201383\u00b0",
     "area": "Balearic Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9700524": {
     "rowidx": 227,
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/10 15:39",
     "destTime": "2022/09/10 14:39",
-    "position": "50.63109\u00b0 / -1.082902\u00b0",
+    "position": "50.63109\u00b0 / -1.08284\u00b0",
     "area": "English Channel",
     "status": "At Anchor"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/11 18:30",
     "destTime": "2022/09/11 16:30",
-    "position": "49.98644\u00b0 / -5.99924\u00b0",
+    "position": "49.82963\u00b0 / -4.844643\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
@@ -335,17 +335,17 @@
     "grossTonnage": "59,217",
     "dept": "GB SOU",
     "deptLong": "Southampton",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/09/09 12:20",
-    "deptTime": "2022/09/09 10:20",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/09/10 19:28",
+    "deptTime": "2022/09/10 18:28",
     "dest": "DE BRV",
     "destLong": "Bremerhaven",
     "destType": "ETA",
     "destLocalTime": "2022/09/12 02:00",
     "destTime": "2022/09/12 00:00",
-    "position": "50.8878\u00b0 / -1.398633\u00b0",
+    "position": "50.86052\u00b0 / -1.359517\u00b0",
     "area": "English Channel",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9448140": {
     "rowidx": 233,
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/10 05:40",
     "destTime": "2022/09/09 21:40",
-    "position": "24.54638\u00b0 / 118.0929\u00b0",
+    "position": "24.54642\u00b0 / 118.0929\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
