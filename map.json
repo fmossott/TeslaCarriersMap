@@ -51,8 +51,8 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/09/13 02:00",
-    "destTime": "2022/09/12 18:00",
+    "destLocalTime": "2022/09/13 01:00",
+    "destTime": "2022/09/12 17:00",
     "position": "12.66275\u00b0 / 43.33416\u00b0",
     "area": "Gulf of Aden",
     "status": "Underway using Engine"
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/12 16:00",
     "destTime": "2022/09/12 14:00",
-    "position": "51.31379\u00b0 / 3.227365\u00b0",
+    "position": "51.31379\u00b0 / 3.227362\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -335,17 +335,17 @@
     "grossTonnage": "47,090",
     "dept": "IT LIV",
     "deptLong": "Livorno",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/09/07 06:59",
-    "deptTime": "2022/09/06 22:59",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/09/10 09:02",
+    "deptTime": "2022/09/10 07:02",
     "dest": "ES ALG",
     "destLong": "Algeciras",
     "destType": "ETA",
     "destLocalTime": "2022/09/12 08:00",
     "destTime": "2022/09/12 06:00",
-    "position": "43.58048\u00b0 / 10.30555\u00b0",
+    "position": "43.53705\u00b0 / 10.27415\u00b0",
     "area": "Ligurean Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9451719": {
     "rowidx": 233,
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/10 07:10",
     "destTime": "2022/09/10 05:10",
-    "position": "30.04385\u00b0 / 32.57488\u00b0",
+    "position": "30.1871\u00b0 / 32.56883\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
