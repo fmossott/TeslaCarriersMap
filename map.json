@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/10 15:39",
     "destTime": "2022/09/10 14:39",
-    "position": "50.6303\u00b0 / -1.083345\u00b0",
+    "position": "50.6303\u00b0 / -1.083292\u00b0",
     "area": "English Channel",
     "status": "At Anchor"
   },
@@ -309,14 +309,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/09/10 05:22",
     "deptTime": "2022/09/10 04:22",
-    "dest": "BE ANR",
+    "dest": "BE ANTWERP ANCH",
     "destLong": "Antwerp",
-    "destType": "ETA",
-    "destLocalTime": "2022/09/11 18:30",
-    "destTime": "2022/09/11 16:30",
-    "position": "51.37461\u00b0 / 2.595677\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/09/11 17:09",
+    "destTime": "2022/09/11 15:09",
+    "position": "51.40903\u00b0 / 2.612297\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9355252": {
     "rowidx": 232,
@@ -778,9 +778,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/11 21:06",
     "destTime": "2022/09/11 13:06",
-    "position": "38.925\u00b0 / 118.169\u00b0",
+    "position": "38.93668\u00b0 / 118.1646\u00b0",
     "area": "Bohai Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9510149": {
     "rowidx": 248,
