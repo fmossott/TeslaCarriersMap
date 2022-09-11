@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/11 09:59",
     "destTime": "2022/09/11 07:59",
-    "position": "29.84905\u00b0 / 32.56203\u00b0",
+    "position": "29.84905\u00b0 / 32.56219\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/10 15:39",
     "destTime": "2022/09/10 14:39",
-    "position": "50.63066\u00b0 / -1.08167\u00b0",
+    "position": "50.63076\u00b0 / -1.081635\u00b0",
     "area": "English Channel",
     "status": "At Anchor"
   },
@@ -251,12 +251,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/09/10 05:22",
     "deptTime": "2022/09/10 04:22",
-    "dest": "BE ANTWERP ANCH",
+    "dest": "BE ANR",
     "destLong": "Antwerp",
-    "destType": "ATA",
-    "destLocalTime": "2022/09/11 17:09",
-    "destTime": "2022/09/11 15:09",
-    "position": "51.35968\u00b0 / 2.725685\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2022/09/11 18:30",
+    "destTime": "2022/09/11 16:30",
+    "position": "51.37864\u00b0 / 2.955068\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/12 04:00",
     "destTime": "2022/09/12 02:00",
-    "position": "53.63717\u00b0 / 5.788183\u00b0",
+    "position": "53.70945\u00b0 / 6.140033\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -430,9 +430,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/15 05:00",
     "destTime": "2022/09/14 21:00",
-    "position": "-3.062702\u00b0 / 107.3052\u00b0",
+    "position": "-26.77722\u00b0 / 112.6234\u00b0",
     "area": "Java Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9434321": {
     "rowidx": 237,
@@ -720,9 +720,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/12 02:51",
     "destTime": "2022/09/11 18:51",
-    "position": "38.98625\u00b0 / 117.7795\u00b0",
+    "position": "38.9861\u00b0 / 117.7794\u00b0",
     "area": "Bohai Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9303211": {
     "rowidx": 247,
