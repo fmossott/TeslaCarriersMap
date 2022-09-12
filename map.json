@@ -82,9 +82,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/11 09:59",
     "destTime": "2022/09/11 07:59",
-    "position": "29.8491\u00b0 / 32.56168\u00b0",
+    "position": "29.85396\u00b0 / 32.55747\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9702405": {
     "rowidx": 9,
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/10 15:39",
     "destTime": "2022/09/10 14:39",
-    "position": "50.62993\u00b0 / -1.083395\u00b0",
+    "position": "50.62992\u00b0 / -1.083365\u00b0",
     "area": "English Channel",
     "status": "At Anchor"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/12 09:00",
     "destTime": "2022/09/12 07:00",
-    "position": "57.80871\u00b0 / 10.37012\u00b0",
+    "position": "57.80863\u00b0 / 10.66833\u00b0",
     "area": "Skagerrak",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/12 03:21",
     "destTime": "2022/09/12 01:21",
-    "position": "51.27871\u00b0 / 4.247573\u00b0",
+    "position": "51.27871\u00b0 / 4.247548\u00b0",
     "area": "Antwerp Area",
     "status": "Stopped"
   },
@@ -275,19 +275,19 @@
     "length": "199.9",
     "breadth": "32.25",
     "grossTonnage": "59,217",
-    "dept": "GB SOU",
+    "dept": "DE DW ANCHORAGE",
     "deptLong": "Southampton",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/09/10 19:28",
-    "deptTime": "2022/09/10 18:28",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/09/12 03:47",
+    "deptTime": "2022/09/12 02:47",
     "dest": "DE BRV",
     "destLong": "Bremerhaven",
     "destType": "ETA",
     "destLocalTime": "2022/09/12 04:00",
     "destTime": "2022/09/12 02:00",
-    "position": "54.0285\u00b0 / 7.41245\u00b0",
+    "position": "54.02762\u00b0 / 7.415733\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9448140": {
     "rowidx": 232,
@@ -691,9 +691,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/15 02:00",
     "destTime": "2022/09/14 18:00",
-    "position": "23.09904\u00b0 / 117.5229\u00b0",
+    "position": "15.55544\u00b0 / 113.0858\u00b0",
     "area": "South China",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9082934": {
     "rowidx": 246,
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/12 02:51",
     "destTime": "2022/09/11 18:51",
-    "position": "38.98616\u00b0 / 117.7794\u00b0",
+    "position": "38.98613\u00b0 / 117.7794\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
