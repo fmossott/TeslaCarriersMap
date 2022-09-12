@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/11 09:59",
     "destTime": "2022/09/11 07:59",
-    "position": "29.85396\u00b0 / 32.55747\u00b0",
+    "position": "29.95241\u00b0 / 32.58153\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/10 15:39",
     "destTime": "2022/09/10 14:39",
-    "position": "50.62992\u00b0 / -1.083365\u00b0",
+    "position": "50.62995\u00b0 / -1.08339\u00b0",
     "area": "English Channel",
     "status": "At Anchor"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/12 09:00",
     "destTime": "2022/09/12 07:00",
-    "position": "57.80863\u00b0 / 10.66833\u00b0",
+    "position": "57.76483\u00b0 / 10.921\u00b0",
     "area": "Skagerrak",
     "status": "Underway using Engine"
   },
@@ -256,9 +256,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/12 03:21",
     "destTime": "2022/09/12 01:21",
-    "position": "51.27871\u00b0 / 4.247548\u00b0",
+    "position": "51.27721\u00b0 / 4.226007\u00b0",
     "area": "Antwerp Area",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9355252": {
     "rowidx": 231,
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/12 04:00",
     "destTime": "2022/09/12 02:00",
-    "position": "54.02762\u00b0 / 7.415733\u00b0",
+    "position": "54.02743\u00b0 / 7.415767\u00b0",
     "area": "North Sea",
     "status": "Stopped"
   },
@@ -710,19 +710,19 @@
     "length": "199.11",
     "breadth": "32.29",
     "grossTonnage": "55,598",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/09/09 21:13",
-    "deptTime": "2022/09/09 13:13",
-    "dest": "CN TXG",
-    "destLong": "Tianjin",
-    "destType": "ATA",
-    "destLocalTime": "2022/09/12 02:51",
-    "destTime": "2022/09/11 18:51",
-    "position": "38.98613\u00b0 / 117.7794\u00b0",
+    "dept": "CN TXG",
+    "deptLong": "Tianjin",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/09/12 02:51",
+    "deptTime": "2022/09/11 18:51",
+    "dest": "KR MAS",
+    "destLong": "Masan",
+    "destType": "ETA",
+    "destLocalTime": "2022/09/14 10:00",
+    "destTime": "2022/09/14 01:00",
+    "position": "38.95604\u00b0 / 117.8891\u00b0",
     "area": "Bohai Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9303211": {
     "rowidx": 247,
