@@ -53,9 +53,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/12 23:00",
     "destTime": "2022/09/12 15:00",
-    "position": "29.84927\u00b0 / 32.56087\u00b0",
+    "position": "29.84922\u00b0 / 32.56199\u00b0",
     "area": "Red Sea",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9749568": {
     "rowidx": 8,
@@ -169,9 +169,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/13 08:00",
     "destTime": "2022/09/13 06:00",
-    "position": "51.28029\u00b0 / 4.249418\u00b0",
+    "position": "51.35063\u00b0 / 4.253937\u00b0",
     "area": "Antwerp Area",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9355252": {
     "rowidx": 228,
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/12 04:47",
     "destTime": "2022/09/12 02:47",
-    "position": "54.02753\u00b0 / 7.419933\u00b0",
+    "position": "54.02767\u00b0 / 7.420017\u00b0",
     "area": "North Sea",
     "status": "Stopped"
   },
@@ -219,17 +219,17 @@
     "grossTonnage": "47,090",
     "dept": "IT LIV",
     "deptLong": "Livorno",
-    "deptType": "ATA",
+    "deptType": "ATD",
     "deptLocalTime": "2022/09/10 09:02",
     "deptTime": "2022/09/10 07:02",
-    "dest": "ES ALG",
+    "dest": "ES ALGECIRAS ANCH",
     "destLong": "Algeciras",
-    "destType": "ETA",
-    "destLocalTime": "2022/09/12 19:30",
-    "destTime": "2022/09/12 17:30",
-    "position": "36.15597\u00b0 / -5.416633\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/09/12 23:36",
+    "destTime": "2022/09/12 21:36",
+    "position": "36.15527\u00b0 / -5.415783\u00b0",
     "area": "Gibraltar",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9451719": {
     "rowidx": 230,
@@ -345,7 +345,7 @@
     "destTime": "2022/09/14 21:00",
     "position": "-26.77722\u00b0 / 112.6234\u00b0",
     "area": "Java Sea",
-    "status": "Stopped"
+    "status": "Out of Range"
   },
   "9434321": {
     "rowidx": 234,
