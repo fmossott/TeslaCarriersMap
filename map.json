@@ -43,18 +43,18 @@
     "length": "199.98",
     "breadth": "32",
     "grossTonnage": "59,954",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/08/25 20:53",
-    "deptTime": "2022/08/25 12:53",
+    "dept": "EG SUZ",
+    "deptLong": "Suez Canal",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/09/13 11:48",
+    "deptTime": "2022/09/13 03:48",
     "dest": "SI KOP",
     "destLong": "Koper",
     "destType": "ETA",
     "destLocalTime": "2022/09/16 17:00",
     "destTime": "2022/09/16 15:00",
-    "position": "29.9323\u00b0 / 32.56339\u00b0",
-    "area": "Red Sea",
+    "position": "30.97013\u00b0 / 32.31286\u00b0",
+    "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
   "9749568": {
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/14 04:00",
     "destTime": "2022/09/14 02:00",
-    "position": "41.40847\u00b0 / 8.852734\u00b0",
+    "position": "41.63085\u00b0 / 8.372784\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -343,9 +343,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/15 05:00",
     "destTime": "2022/09/14 21:00",
-    "position": "-26.77722\u00b0 / 112.6234\u00b0",
+    "position": "-26.09479\u00b0 / 112.9038\u00b0",
     "area": "Java Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9434321": {
     "rowidx": 234,
@@ -488,9 +488,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/13 02:00",
     "destTime": "2022/09/12 16:00",
-    "position": "-26.70098\u00b0 / 153.8225\u00b0",
+    "position": "-26.70643\u00b0 / 153.8311\u00b0",
     "area": "East Australia",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9432880": {
     "rowidx": 239,
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/13 14:10",
     "destTime": "2022/09/13 06:10",
-    "position": "1.284863\u00b0 / 103.7527\u00b0",
+    "position": "1.284843\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/13 13:00",
     "destTime": "2022/09/13 05:00",
-    "position": "38.85187\u00b0 / 118.3554\u00b0",
+    "position": "38.92953\u00b0 / 118.1112\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
