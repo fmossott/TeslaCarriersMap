@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/13 05:22",
     "destTime": "2022/09/13 03:22",
-    "position": "51.30381\u00b0 / 3.229518\u00b0",
+    "position": "51.30379\u00b0 / 3.229513\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/12 04:47",
     "destTime": "2022/09/12 02:47",
-    "position": "54.02585\u00b0 / 7.423934\u00b0",
+    "position": "54.0257\u00b0 / 7.424\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -222,14 +222,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/09/10 09:02",
     "deptTime": "2022/09/10 07:02",
-    "dest": "ES ALGECIRAS ANCH",
-    "destLong": "Algeciras",
-    "destType": "ATA",
-    "destLocalTime": "2022/09/12 23:36",
-    "destTime": "2022/09/12 21:36",
-    "position": "36.15033\u00b0 / -5.4141\u00b0",
+    "dest": "BE ANR",
+    "destLong": "Antwerp",
+    "destType": "ETA",
+    "destLocalTime": "2022/09/17 08:00",
+    "destTime": "2022/09/17 06:00",
+    "position": "35.99595\u00b0 / -5.4876\u00b0",
     "area": "Gibraltar",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9451719": {
     "rowidx": 230,
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/14 06:00",
     "destTime": "2022/09/14 02:00",
-    "position": "24.96593\u00b0 / 58.04959\u00b0",
+    "position": "25.36672\u00b0 / 57.57359\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/13 04:10",
     "destTime": "2022/09/12 20:10",
-    "position": "31.32357\u00b0 / 121.6793\u00b0",
+    "position": "31.32358\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -749,7 +749,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/13 10:02",
     "destTime": "2022/09/13 02:02",
-    "position": "31.32205\u00b0 / 121.6818\u00b0",
+    "position": "31.32205\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
