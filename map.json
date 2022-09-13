@@ -138,9 +138,9 @@
     "dest": "GB SOU",
     "destLong": "Southampton",
     "destType": "ETA",
-    "destLocalTime": "2022/09/14 05:00",
-    "destTime": "2022/09/14 04:00",
-    "position": "50.51641\u00b0 / -0.938495\u00b0",
+    "destLocalTime": "2022/09/13 13:00",
+    "destTime": "2022/09/13 12:00",
+    "position": "50.51344\u00b0 / -0.9751416\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/13 05:22",
     "destTime": "2022/09/13 03:22",
-    "position": "51.30381\u00b0 / 3.229515\u00b0",
+    "position": "51.30377\u00b0 / 3.229478\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/12 04:47",
     "destTime": "2022/09/12 02:47",
-    "position": "54.02648\u00b0 / 7.42325\u00b0",
+    "position": "54.02623\u00b0 / 7.423117\u00b0",
     "area": "North Sea",
     "status": "Stopped"
   },
@@ -227,9 +227,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/12 23:36",
     "destTime": "2022/09/12 21:36",
-    "position": "36.15695\u00b0 / -5.415517\u00b0",
+    "position": "36.15638\u00b0 / -5.415617\u00b0",
     "area": "Gibraltar",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9451719": {
     "rowidx": 230,
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/21 21:30",
     "destTime": "2022/09/21 17:30",
-    "position": "1.264463\u00b0 / 103.8477\u00b0",
+    "position": "1.264472\u00b0 / 103.8477\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/13 04:10",
     "destTime": "2022/09/12 20:10",
-    "position": "31.32358\u00b0 / 121.6793\u00b0",
+    "position": "31.32361\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -749,8 +749,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/13 10:02",
     "destTime": "2022/09/13 02:02",
-    "position": "31.32252\u00b0 / 121.6823\u00b0",
+    "position": "31.32203\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   }
 }
