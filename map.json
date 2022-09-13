@@ -22,8 +22,8 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/09/17 01:00",
-    "destTime": "2022/09/16 23:00",
+    "destLocalTime": "2022/09/17 02:01",
+    "destTime": "2022/09/17 00:01",
     "position": "6.988125\u00b0 / 76.15916\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
@@ -111,8 +111,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/15 23:00",
     "destTime": "2022/09/15 22:00",
-    "position": "36.24763\u00b0 / -7.330307\u00b0",
-    "area": "Gibraltar",
+    "position": "37.07353\u00b0 / -9.370625\u00b0",
+    "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
   "9700524": {
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/13 05:22",
     "destTime": "2022/09/13 03:22",
-    "position": "51.30382\u00b0 / 3.229547\u00b0",
+    "position": "51.3038\u00b0 / 3.229492\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,9 +198,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/12 04:47",
     "destTime": "2022/09/12 02:47",
-    "position": "54.02527\u00b0 / 7.423383\u00b0",
+    "position": "54.02628\u00b0 / 7.42415\u00b0",
     "area": "North Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9448140": {
     "rowidx": 229,
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/13 04:10",
     "destTime": "2022/09/12 20:10",
-    "position": "31.32359\u00b0 / 121.6793\u00b0",
+    "position": "31.32358\u00b0 / 121.6793\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
