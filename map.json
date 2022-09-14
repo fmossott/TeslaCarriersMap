@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/15 23:00",
     "destTime": "2022/09/15 22:00",
-    "position": "39.98661\u00b0 / -9.845342\u00b0",
+    "position": "41.3774\u00b0 / -9.839539\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -227,8 +227,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/17 08:00",
     "destTime": "2022/09/17 06:00",
-    "position": "36.44923\u00b0 / -8.003016\u00b0",
-    "area": "Gibraltar",
+    "position": "37.65207\u00b0 / -9.530617\u00b0",
+    "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
   "9451719": {
@@ -430,9 +430,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/14 08:28",
     "destTime": "2022/09/14 04:28",
-    "position": "24.9873\u00b0 / 55.07052\u00b0",
-    "area": "Dubai Area",
-    "status": "Underway using Engine"
+    "position": "24.99178\u00b0 / 55.07817\u00b0",
+    "area": "Persian Gulf",
+    "status": "Moored"
   },
   "9702443": {
     "rowidx": 237,
@@ -565,17 +565,17 @@
     "length": "199.98",
     "breadth": "36",
     "grossTonnage": "69,938",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/09/07 22:35",
-    "deptTime": "2022/09/07 14:35",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2022/09/13 14:10",
-    "destTime": "2022/09/13 06:10",
-    "position": "1.28485\u00b0 / 103.7527\u00b0",
+    "dept": "SG SIN",
+    "deptLong": "Singapore",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/09/13 14:10",
+    "deptTime": "2022/09/13 06:10",
+    "dest": "AE MZD",
+    "destLong": "Free Port",
+    "destType": "ETA",
+    "destLocalTime": "2022/09/23 15:00",
+    "destTime": "2022/09/23 11:00",
+    "position": "1.284838\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -664,7 +664,7 @@
     "destTime": "2022/09/17 23:00",
     "position": "19.1076\u00b0 / 115.4143\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9610444": {
     "rowidx": 245,
