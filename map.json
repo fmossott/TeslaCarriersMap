@@ -135,14 +135,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/09/10 00:27",
     "deptTime": "2022/09/09 22:27",
-    "dest": "GB SOU",
+    "dest": "GB NAB ANCHORAGE",
     "destLong": "Southampton",
-    "destType": "ETA",
-    "destLocalTime": "2022/09/15 06:00",
-    "destTime": "2022/09/15 05:00",
-    "position": "50.55503\u00b0 / -0.9498566\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/09/14 13:16",
+    "destTime": "2022/09/14 12:16",
+    "position": "50.6338\u00b0 / -1.007358\u00b0",
     "area": "English Channel",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9339832": {
     "rowidx": 227,
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/13 05:22",
     "destTime": "2022/09/13 03:22",
-    "position": "51.29897\u00b0 / 3.239583\u00b0",
+    "position": "51.29898\u00b0 / 3.239618\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/14 13:57",
     "destTime": "2022/09/14 11:57",
-    "position": "53.571\u00b0 / 8.550034\u00b0",
+    "position": "53.57818\u00b0 / 8.552217\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/17 08:00",
     "destTime": "2022/09/17 06:00",
-    "position": "37.65207\u00b0 / -9.530617\u00b0",
+    "position": "39.4847\u00b0 / -9.837833\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
