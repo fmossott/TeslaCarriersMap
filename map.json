@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/17 03:00",
     "destTime": "2022/09/17 01:00",
-    "position": "21.30449\u00b0 / 38.03549\u00b0",
+    "position": "22.12994\u00b0 / 37.53397\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -256,8 +256,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/16 10:00",
     "destTime": "2022/09/16 08:00",
-    "position": "42.86517\u00b0 / 6.13855\u00b0",
-    "area": "West Mediterranean",
+    "position": "42.93818\u00b0 / 6.697134\u00b0",
+    "area": "Ligurean Sea",
     "status": "Underway using Engine"
   },
   "9565558": {
@@ -367,14 +367,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/08/25 12:51",
     "deptTime": "2022/08/25 04:51",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/09/15 21:00",
-    "destTime": "2022/09/15 19:00",
-    "position": "29.84537\u00b0 / 32.56055\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/09/15 19:17",
+    "destTime": "2022/09/15 17:17",
+    "position": "29.85573\u00b0 / 32.56182\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9308883": {
     "rowidx": 235,
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/14 08:28",
     "destTime": "2022/09/14 04:28",
-    "position": "24.9918\u00b0 / 55.07818\u00b0",
+    "position": "24.9918\u00b0 / 55.07817\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/15 21:12",
     "destTime": "2022/09/15 11:12",
-    "position": "-27.37945\u00b0 / 153.1649\u00b0",
+    "position": "-27.37951\u00b0 / 153.1649\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
