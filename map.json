@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/14 13:16",
     "destTime": "2022/09/14 12:16",
-    "position": "50.63598\u00b0 / -1.006323\u00b0",
+    "position": "50.63604\u00b0 / -1.006543\u00b0",
     "area": "English Channel",
     "status": "At Anchor"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/14 13:57",
     "destTime": "2022/09/14 11:57",
-    "position": "53.57818\u00b0 / 8.5522\u00b0",
+    "position": "53.57817\u00b0 / 8.55225\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -246,19 +246,19 @@
     "length": "168.06",
     "breadth": "28.03",
     "grossTonnage": "36,711",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
+    "dept": "FR FOS",
+    "deptLong": "Fos Sur Mer",
     "deptType": "ATD",
-    "deptLocalTime": "2022/08/17 16:19",
-    "deptTime": "2022/08/17 08:19",
+    "deptLocalTime": "2022/09/15 13:23",
+    "deptTime": "2022/09/15 11:23",
     "dest": "FR FOS",
     "destLong": "Fos Sur Mer",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2022/09/14 06:30",
     "destTime": "2022/09/14 04:30",
-    "position": "43.40183\u00b0 / 4.844917\u00b0",
+    "position": "43.3747\u00b0 / 4.95735\u00b0",
     "area": "West Mediterranean",
-    "status": "Moored"
+    "status": "Underway"
   },
   "9565558": {
     "rowidx": 231,
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/15 05:25",
     "destTime": "2022/09/14 21:25",
-    "position": "-32.04432\u00b0 / 115.7017\u00b0",
+    "position": "-31.92423\u00b0 / 115.5547\u00b0",
     "area": "West Australia",
     "status": "Underway using Engine"
   },
@@ -374,7 +374,7 @@
     "destTime": "2022/09/15 22:30",
     "position": "24.68915\u00b0 / 36.14877\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9308883": {
     "rowidx": 235,
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/15 18:00",
     "destTime": "2022/09/15 10:00",
-    "position": "21.46773\u00b0 / 39.15868\u00b0",
+    "position": "21.46772\u00b0 / 39.1587\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
