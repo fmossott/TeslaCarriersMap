@@ -24,8 +24,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/17 03:00",
     "destTime": "2022/09/17 01:00",
-    "position": "18.92293\u00b0 / 39.48649\u00b0",
-    "area": "Gulf of Aden",
+    "position": "20.32227\u00b0 / 38.6265\u00b0",
+    "area": "Red Sea",
     "status": "Underway using Engine"
   },
   "9707003": {
@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/16 20:00",
     "destTime": "2022/09/16 18:00",
-    "position": "37.44001\u00b0 / 20.54221\u00b0",
+    "position": "38.52468\u00b0 / 19.90281\u00b0",
     "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/16 00:00",
     "destTime": "2022/09/15 23:00",
-    "position": "48.65174\u00b0 / -5.67353\u00b0",
+    "position": "48.92762\u00b0 / -5.229505\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/14 13:16",
     "destTime": "2022/09/14 12:16",
-    "position": "50.63601\u00b0 / -1.00644\u00b0",
+    "position": "50.63598\u00b0 / -1.006323\u00b0",
     "area": "English Channel",
     "status": "At Anchor"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/14 13:57",
     "destTime": "2022/09/14 11:57",
-    "position": "53.5782\u00b0 / 8.5522\u00b0",
+    "position": "53.57818\u00b0 / 8.5522\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/14 06:30",
     "destTime": "2022/09/14 04:30",
-    "position": "43.40183\u00b0 / 4.844967\u00b0",
+    "position": "43.40183\u00b0 / 4.844917\u00b0",
     "area": "West Mediterranean",
     "status": "Moored"
   },
@@ -335,17 +335,17 @@
     "grossTonnage": "60,169",
     "dept": "AU FRE",
     "deptLong": "Fremantle",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/09/15 05:25",
-    "deptTime": "2022/09/14 21:25",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/09/15 18:29",
+    "deptTime": "2022/09/15 10:29",
     "dest": "AU ADL",
     "destLong": "Adelaide",
     "destType": "ETA",
     "destLocalTime": "2022/09/15 05:25",
     "destTime": "2022/09/14 21:25",
-    "position": "-32.0443\u00b0 / 115.7504\u00b0",
+    "position": "-32.04432\u00b0 / 115.7017\u00b0",
     "area": "West Australia",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9434321": {
     "rowidx": 234,
@@ -401,9 +401,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/15 18:00",
     "destTime": "2022/09/15 10:00",
-    "position": "21.46735\u00b0 / 39.15852\u00b0",
+    "position": "21.46773\u00b0 / 39.15868\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9561253": {
     "rowidx": 236,
