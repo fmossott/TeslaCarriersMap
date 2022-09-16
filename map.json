@@ -81,9 +81,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/16 20:30",
     "destTime": "2022/09/16 18:30",
-    "position": "45.56129\u00b0 / 13.67074\u00b0",
+    "position": "45.56085\u00b0 / 13.67038\u00b0",
     "area": "Adriatic Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9749568": {
     "rowidx": 9,
@@ -226,7 +226,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/16 16:30",
     "destTime": "2022/09/16 14:30",
-    "position": "53.33477\u00b0 / 7.171233\u00b0",
+    "position": "53.33482\u00b0 / 7.171367\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -342,7 +342,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/16 19:04",
     "destTime": "2022/09/16 17:04",
-    "position": "29.85644\u00b0 / 32.56347\u00b0",
+    "position": "29.85655\u00b0 / 32.56352\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -448,19 +448,19 @@
     "length": "199.95",
     "breadth": "32.2",
     "grossTonnage": "58,939",
-    "dept": "AE JEA",
-    "deptLong": "Jebel Ali",
+    "dept": "AE KHL",
+    "deptLong": "Khalifa",
     "deptType": "ATD",
-    "deptLocalTime": "2022/09/16 12:07",
-    "deptTime": "2022/09/16 08:07",
-    "dest": "AE KHL",
-    "destLong": "Khalifa",
-    "destType": "ATA",
-    "destLocalTime": "2022/09/16 15:37",
-    "destTime": "2022/09/16 11:37",
-    "position": "24.82013\u00b0 / 54.66751\u00b0",
+    "deptLocalTime": "2022/09/17 01:48",
+    "deptTime": "2022/09/16 21:48",
+    "dest": "BH KBS",
+    "destLong": "Khalifa Bin Salman",
+    "destType": "ETA",
+    "destLocalTime": "2022/09/17 21:00",
+    "destTime": "2022/09/17 18:00",
+    "position": "24.87598\u00b0 / 54.6339\u00b0",
     "area": "Persian Gulf",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9702443": {
     "rowidx": 238,
@@ -601,8 +601,8 @@
     "dest": "AE MZD",
     "destLong": "Free Port",
     "destType": "ETA",
-    "destLocalTime": "2022/09/23 15:00",
-    "destTime": "2022/09/23 11:00",
+    "destLocalTime": "2022/09/23 06:00",
+    "destTime": "2022/09/23 02:00",
     "position": "2.731772\u00b0 / 101.1808\u00b0",
     "area": "Malacca Strait",
     "status": "Out of Range"
