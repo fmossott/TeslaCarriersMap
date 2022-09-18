@@ -81,7 +81,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/16 20:30",
     "destTime": "2022/09/16 18:30",
-    "position": "45.56087\u00b0 / 13.67049\u00b0",
+    "position": "45.56067\u00b0 / 13.67044\u00b0",
     "area": "Adriatic Sea",
     "status": "At Anchor"
   },
@@ -197,7 +197,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/19 07:30",
     "destTime": "2022/09/19 04:30",
-    "position": "22.96465\u00b0 / 37.43365\u00b0",
+    "position": "23.76795\u00b0 / 36.90535\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -419,19 +419,19 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "61,002",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
+    "dept": "CN TXG",
+    "deptLong": "Tianjin",
     "deptType": "ATD",
-    "deptLocalTime": "2022/09/14 00:33",
-    "deptTime": "2022/09/13 16:33",
+    "deptLocalTime": "2022/09/18 08:40",
+    "deptTime": "2022/09/18 00:40",
     "dest": "CN TXG",
     "destLong": "Tianjin",
     "destType": "ATA",
     "destLocalTime": "2022/09/17 18:50",
     "destTime": "2022/09/17 10:50",
-    "position": "38.97585\u00b0 / 117.8127\u00b0",
+    "position": "38.934\u00b0 / 118.0289\u00b0",
     "area": "Bohai Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9285615": {
     "rowidx": 237,
@@ -545,7 +545,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/17 04:21",
     "destTime": "2022/09/16 20:21",
-    "position": "31.27343\u00b0 / 121.8479\u00b0",
+    "position": "30.84983\u00b0 / 122.8738\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
