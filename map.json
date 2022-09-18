@@ -7,6 +7,7 @@
     "notes": "",
     "quarter": "22Q3",
     "numDept": "11",
+    "mapStatus": "2",
     "mtsid": "4265856",
     "name": "Hoegh Traveller",
     "mmsi": "259075000",
@@ -23,9 +24,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/18 15:00",
     "destTime": "2022/09/18 07:00",
-    "position": "",
+    "position": "1.271532\u00b0 / 104.0328\u00b0",
     "area": "East China Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9651101": {
     "rowidx": 7,
@@ -81,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/16 20:30",
     "destTime": "2022/09/16 18:30",
-    "position": "45.56085\u00b0 / 13.67052\u00b0",
+    "position": "45.56082\u00b0 / 13.67054\u00b0",
     "area": "Adriatic Sea",
     "status": "At Anchor"
   },
@@ -456,10 +457,10 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/09/22 14:00",
-    "destTime": "2022/09/22 06:00",
-    "position": "27.29461\u00b0 / 122.5376\u00b0",
-    "area": "East China Sea",
+    "destLocalTime": "2022/09/22 16:00",
+    "destTime": "2022/09/22 08:00",
+    "position": "23.48342\u00b0 / 119.8368\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   },
   "9383429": {
