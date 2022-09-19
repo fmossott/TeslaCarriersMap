@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/19 23:00",
     "destTime": "2022/09/19 21:00",
-    "position": "50.90499\u00b0 / -1.431025\u00b0",
+    "position": "50.90498\u00b0 / -1.43104\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -188,16 +188,16 @@
     "length": "199.94",
     "breadth": "32.26",
     "grossTonnage": "62,556",
-    "dept": "JO AQABA INDUSTRIAL",
+    "dept": "SA JED",
     "deptLong": "Jeddah",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/09/19 04:54",
-    "deptTime": "2022/09/19 01:54",
-    "dest": "JO AQJ",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/09/17 16:11",
+    "deptTime": "2022/09/17 13:11",
+    "dest": "JO AQABA INDUSTRIAL",
     "destLong": "Aqaba",
-    "destType": "ETA",
-    "destLocalTime": "2022/09/19 07:30",
-    "destTime": "2022/09/19 04:30",
+    "destType": "ATA",
+    "destLocalTime": "2022/09/19 04:54",
+    "destTime": "2022/09/19 01:54",
     "position": "29.36033\u00b0 / 34.9492\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
@@ -229,7 +229,7 @@
     "destTime": "2022/09/22 19:00",
     "position": "14.41823\u00b0 / 52.87248\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9432880": {
     "rowidx": 230,
@@ -258,7 +258,7 @@
     "destTime": "2022/09/28 20:30",
     "position": "6.267267\u00b0 / 95.15123\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9554200": {
     "rowidx": 231,
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/18 07:52",
     "destTime": "2022/09/17 23:52",
-    "position": "1.284617\u00b0 / 103.7524\u00b0",
+    "position": "1.284633\u00b0 / 103.7524\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -515,9 +515,9 @@
     "dest": "CN TXG",
     "destLong": "Tianjin",
     "destType": "ETA",
-    "destLocalTime": "2022/09/20 11:00",
-    "destTime": "2022/09/20 03:00",
-    "position": "34.86983\u00b0 / 123.2766\u00b0",
+    "destLocalTime": "2022/09/21 03:00",
+    "destTime": "2022/09/20 19:00",
+    "position": "35.74168\u00b0 / 123.4107\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
