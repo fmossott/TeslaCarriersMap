@@ -225,11 +225,11 @@
     "dest": "IL ETH",
     "destLong": "Eilat",
     "destType": "ETA",
-    "destLocalTime": "2022/09/28 23:30",
-    "destTime": "2022/09/28 20:30",
+    "destLocalTime": "2022/09/29 03:00",
+    "destTime": "2022/09/29 00:00",
     "position": "7.059683\u00b0 / 76.22421\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9554200": {
     "rowidx": 231,
@@ -251,14 +251,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/09/13 16:37",
     "deptTime": "2022/09/13 08:37",
-    "dest": "AE JEA",
+    "dest": "AE JEBEL ALI ANCH",
     "destLong": "Jebel Ali",
-    "destType": "ETA",
-    "destLocalTime": "2022/09/21 16:00",
-    "destTime": "2022/09/21 12:00",
-    "position": "25.17685\u00b0 / 54.80323\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/09/21 22:29",
+    "destTime": "2022/09/21 18:29",
+    "position": "25.15003\u00b0 / 54.80851\u00b0",
     "area": "Dubai Area",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9832573": {
     "rowidx": 232,
@@ -486,9 +486,9 @@
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
     "destType": "ETA",
-    "destLocalTime": "2022/09/23 00:00",
-    "destTime": "2022/09/22 15:00",
-    "position": "39.02103\u00b0 / 117.7688\u00b0",
+    "destLocalTime": "2022/09/23 10:00",
+    "destTime": "2022/09/23 01:00",
+    "position": "39.02101\u00b0 / 117.7688\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
