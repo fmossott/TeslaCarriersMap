@@ -57,35 +57,6 @@
     "area": "Balearic Sea",
     "status": "Moored"
   },
-  "9749568": {
-    "rowidx": 9,
-    "silence": "FALSE",
-    "num": "204",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "22Q3",
-    "numDept": "8",
-    "mapStatus": "3",
-    "mtsid": "3779595",
-    "name": "Glovis Sun",
-    "mmsi": "538006693",
-    "length": "199.97",
-    "breadth": "35",
-    "grossTonnage": "65,748",
-    "dept": "BE ZEE",
-    "deptLong": "Zeebrugge",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/09/22 08:09",
-    "deptTime": "2022/09/22 06:09",
-    "dest": "DE BRV",
-    "destLong": "Bremerhaven",
-    "destType": "ETA",
-    "destLocalTime": "2022/09/23 03:00",
-    "destTime": "2022/09/23 01:00",
-    "position": "51.70063\u00b0 / 2.68184\u00b0",
-    "area": "North Sea",
-    "status": "Underway using Engine"
-  },
   "9434321": {
     "rowidx": 227,
     "silence": "FALSE",
@@ -227,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/22 01:59",
     "destTime": "2022/09/21 21:59",
-    "position": "24.99184\u00b0 / 55.07809\u00b0",
+    "position": "24.99184\u00b0 / 55.07811\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -340,10 +311,10 @@
     "deptTime": "2022/09/16 16:15",
     "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2022/09/22 15:45",
-    "destTime": "2022/09/22 07:45",
-    "position": "1.258235\u00b0 / 103.9543\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/09/22 16:37",
+    "destTime": "2022/09/22 08:37",
+    "position": "1.280375\u00b0 / 103.9028\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -432,7 +403,7 @@
     "destTime": "2022/09/27 15:00",
     "position": "31.08834\u00b0 / 122.6387\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9782699": {
     "rowidx": 239,
@@ -488,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/22 11:42",
     "destTime": "2022/09/22 03:42",
-    "position": "31.32204\u00b0 / 121.6818\u00b0",
+    "position": "31.32201\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -517,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/21 23:19",
     "destTime": "2022/09/21 15:19",
-    "position": "31.32355\u00b0 / 121.6797\u00b0",
+    "position": "31.32352\u00b0 / 121.6797\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -531,7 +502,7 @@
     "numDept": "0",
     "mapStatus": "4",
     "mtsid": "5206625",
-    "name": "Gold Xing",
+    "name": "CSAV Rio Grande",
     "mmsi": "636015992",
     "length": "182.8",
     "breadth": "31.53",
@@ -546,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/22 09:24",
     "destTime": "2022/09/22 01:24",
-    "position": "30.83602\u00b0 / 121.8365\u00b0",
+    "position": "30.836\u00b0 / 121.8365\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
