@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/22 01:59",
     "destTime": "2022/09/21 21:59",
-    "position": "24.99188\u00b0 / 55.07814\u00b0",
+    "position": "24.99187\u00b0 / 55.07813\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/22 16:37",
     "destTime": "2022/09/22 08:37",
-    "position": "1.28056\u00b0 / 103.9035\u00b0",
+    "position": "1.280545\u00b0 / 103.9036\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -459,9 +459,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/22 11:42",
     "destTime": "2022/09/22 03:42",
-    "position": "31.32198\u00b0 / 121.6817\u00b0",
+    "position": "31.32266\u00b0 / 121.6826\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9303209": {
     "rowidx": 241,
@@ -480,17 +480,17 @@
     "grossTonnage": "59,217",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/09/21 16:19",
-    "deptTime": "2022/09/21 15:19",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/09/22 22:59",
+    "deptTime": "2022/09/22 14:59",
     "dest": "CN TXG",
     "destLong": "Tianjin",
     "destType": "ETA",
     "destLocalTime": "2022/09/24 18:30",
     "destTime": "2022/09/24 10:30",
-    "position": "31.32349\u00b0 / 121.6796\u00b0",
+    "position": "31.32629\u00b0 / 121.6929\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9308807": {
     "rowidx": 242,
@@ -502,7 +502,7 @@
     "numDept": "0",
     "mapStatus": "4",
     "mtsid": "5206625",
-    "name": "CSAV Rio Grande",
+    "name": "Gold Xing",
     "mmsi": "636015992",
     "length": "182.8",
     "breadth": "31.53",
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/22 09:24",
     "destTime": "2022/09/22 01:24",
-    "position": "30.83603\u00b0 / 121.8365\u00b0",
+    "position": "30.83607\u00b0 / 121.8365\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
