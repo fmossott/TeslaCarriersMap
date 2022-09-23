@@ -130,17 +130,17 @@
     "length": "199.97",
     "breadth": "36.54",
     "grossTonnage": "75,283",
-    "dept": "EG SUZ",
-    "deptLong": "Suez Canal",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/09/23 11:40",
-    "deptTime": "2022/09/23 03:40",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/09/01 18:32",
+    "deptTime": "2022/09/01 10:32",
     "dest": "GB SOU",
     "destLong": "Southampton",
     "destType": "ETA",
     "destLocalTime": "2022/10/01 05:00",
     "destTime": "2022/10/01 04:00",
-    "position": "31.21551\u00b0 / 32.34181\u00b0",
+    "position": "31.30563\u00b0 / 32.36812\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/22 01:59",
     "destTime": "2022/09/21 21:59",
-    "position": "24.99187\u00b0 / 55.07809\u00b0",
+    "position": "24.99187\u00b0 / 55.07811\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -502,7 +502,7 @@
     "numDept": "0",
     "mapStatus": "4",
     "mtsid": "5206625",
-    "name": "Gold Xing",
+    "name": "CSAV Rio Grande",
     "mmsi": "636015992",
     "length": "182.8",
     "breadth": "31.53",
@@ -517,8 +517,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/12 01:00",
     "destTime": "2022/10/11 22:00",
-    "position": "30.83602\u00b0 / 121.8365\u00b0",
+    "position": "30.81973\u00b0 / 121.8396\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
