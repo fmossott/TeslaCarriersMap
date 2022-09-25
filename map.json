@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/25 04:11",
     "destTime": "2022/09/25 02:11",
-    "position": "45.56695\u00b0 / 13.7442\u00b0",
+    "position": "45.56687\u00b0 / 13.74415\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -341,8 +341,8 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/09/27 15:00",
-    "destTime": "2022/09/27 07:00",
+    "destLocalTime": "2022/09/27 16:00",
+    "destTime": "2022/09/27 08:00",
     "position": "21.88447\u00b0 / 121.1035\u00b0",
     "area": "South China",
     "status": "Out of Range"
@@ -403,7 +403,7 @@
     "destTime": "2022/09/28 04:00",
     "position": "22.06516\u00b0 / 119.6275\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9303209": {
     "rowidx": 240,
@@ -478,18 +478,18 @@
     "length": "182.8",
     "breadth": "31.8",
     "grossTonnage": "46,800",
-    "dept": "KR KUV",
-    "deptLong": "Gunsan",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/09/22 20:50",
-    "deptTime": "2022/09/22 11:50",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/09/24 12:34",
-    "destTime": "2022/09/24 04:34",
-    "position": "31.32205\u00b0 / 121.6817\u00b0",
+    "deptLocalTime": "2022/09/25 14:59",
+    "deptTime": "2022/09/25 06:59",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/10/01 23:00",
+    "destTime": "2022/10/01 15:00",
+    "position": "31.2743\u00b0 / 121.8449\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
