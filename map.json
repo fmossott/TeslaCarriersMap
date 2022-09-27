@@ -84,7 +84,7 @@
     "destTime": "2022/10/01 04:00",
     "position": "37.675\u00b0 / 9.39\u00b0",
     "area": "West Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9432880": {
     "rowidx": 229,
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/26 04:33",
     "destTime": "2022/09/26 01:33",
-    "position": "21.46713\u00b0 / 39.16139\u00b0",
+    "position": "21.46714\u00b0 / 39.1614\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/26 12:36",
     "destTime": "2022/09/26 04:36",
-    "position": "32.66868\u00b0 / 123.7286\u00b0",
+    "position": "32.95455\u00b0 / 123.8222\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -536,17 +536,17 @@
     "length": "199.11",
     "breadth": "32.29",
     "grossTonnage": "55,598",
-    "dept": "NC NOU",
-    "deptLong": "Noumea",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/09/15 20:55",
-    "deptTime": "2022/09/15 09:55",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/09/26 00:03",
-    "destTime": "2022/09/25 16:03",
-    "position": "31.32355\u00b0 / 121.6795\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/09/26 03:03",
+    "deptTime": "2022/09/25 16:03",
+    "dest": "AU BNE",
+    "destLong": "Brisbane",
+    "destType": "ETA",
+    "destLocalTime": "2022/10/07 07:00",
+    "destTime": "2022/10/06 21:00",
+    "position": "31.32357\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
