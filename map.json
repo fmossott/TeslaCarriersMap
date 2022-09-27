@@ -38,7 +38,7 @@
     "numDept": "0",
     "mapStatus": "4",
     "mtsid": "415593",
-    "name": "Sebring Express",
+    "name": "Sebring",
     "mmsi": "215876000",
     "length": "180",
     "breadth": "30",
@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/29 17:15",
     "destTime": "2022/09/29 15:15",
-    "position": "39.15935\u00b0 / 18.15857\u00b0",
+    "position": "38.01442\u00b0 / 16.99148\u00b0",
     "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
@@ -82,9 +82,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/01 05:00",
     "destTime": "2022/10/01 04:00",
-    "position": "37.675\u00b0 / 9.39\u00b0",
+    "position": "36.46197\u00b0 / -0.9970117\u00b0",
     "area": "West Mediterranean",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9432880": {
     "rowidx": 229,
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/28 04:30",
     "destTime": "2022/09/27 19:30",
-    "position": "37.05721\u00b0 / 125.0005\u00b0",
+    "position": "36.97864\u00b0 / 125.3393\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/26 12:36",
     "destTime": "2022/09/26 04:36",
-    "position": "35.39845\u00b0 / 123.8059\u00b0",
+    "position": "35.6258\u00b0 / 123.7642\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
