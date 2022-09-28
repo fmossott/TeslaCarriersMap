@@ -38,7 +38,7 @@
     "numDept": "0",
     "mapStatus": "4",
     "mtsid": "415593",
-    "name": "Sebring",
+    "name": "Sebring Express",
     "mmsi": "215876000",
     "length": "180",
     "breadth": "30",
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/25 20:30",
     "destTime": "2022/09/25 17:30",
-    "position": "26.49635\u00b0 / 50.19473\u00b0",
+    "position": "26.49632\u00b0 / 50.19475\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -169,9 +169,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/27 07:30",
     "destTime": "2022/09/27 04:30",
-    "position": "26.80657\u00b0 / 50.48555\u00b0",
+    "position": "26.80563\u00b0 / 50.4861\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9293648": {
     "rowidx": 232,
@@ -227,9 +227,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/28 15:44",
     "destTime": "2022/09/28 13:44",
-    "position": "29.85593\u00b0 / 32.56068\u00b0",
+    "position": "29.85515\u00b0 / 32.55993\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9285615": {
     "rowidx": 234,
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/28 14:25",
     "destTime": "2022/09/28 06:25",
-    "position": "1.27046\u00b0 / 103.8517\u00b0",
+    "position": "1.27045\u00b0 / 103.8517\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
