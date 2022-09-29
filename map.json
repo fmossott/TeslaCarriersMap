@@ -50,12 +50,12 @@
     "deptTime": "2022/09/26 02:03",
     "dest": "ES BCN",
     "destLong": "Barcelona",
-    "destType": "ETA",
-    "destLocalTime": "2022/09/29 17:15",
-    "destTime": "2022/09/29 15:15",
-    "position": "41.27252\u00b0 / 2.195517\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/09/29 21:26",
+    "destTime": "2022/09/29 19:26",
+    "position": "41.33187\u00b0 / 2.146467\u00b0",
     "area": "Balearic Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9702443": {
     "rowidx": 228,
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/01 10:00",
     "destTime": "2022/10/01 07:00",
-    "position": "26.49608\u00b0 / 50.19478\u00b0",
+    "position": "26.4961\u00b0 / 50.19479\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -488,8 +488,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/02 06:00",
     "destTime": "2022/10/01 21:00",
-    "position": "38.63768\u00b0 / 119.8695\u00b0",
-    "area": "Bohai Sea",
+    "position": "38.30528\u00b0 / 121.5583\u00b0",
+    "area": "Yellow Sea",
     "status": "Underway using Engine"
   }
 }
