@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/29 09:00",
     "destTime": "2022/09/29 06:00",
-    "position": "29.4836\u00b0 / 34.92342\u00b0",
+    "position": "29.4898\u00b0 / 34.92538\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/29 21:00",
     "destTime": "2022/09/29 18:00",
-    "position": "28.03512\u00b0 / 50.47488\u00b0",
+    "position": "28.59924\u00b0 / 50.01567\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -478,18 +478,18 @@
     "length": "168.06",
     "breadth": "28",
     "grossTonnage": "36,711",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
+    "dept": "CN TXG",
+    "deptLong": "Tianjin",
     "deptType": "ATD",
-    "deptLocalTime": "2022/09/27 00:15",
-    "deptTime": "2022/09/26 16:15",
-    "dest": "CN TXG",
-    "destLong": "Tianjin",
-    "destType": "ATA",
-    "destLocalTime": "2022/09/29 02:18",
-    "destTime": "2022/09/28 18:18",
-    "position": "38.98635\u00b0 / 117.7796\u00b0",
+    "deptLocalTime": "2022/09/29 16:01",
+    "deptTime": "2022/09/29 08:01",
+    "dest": "KR BNP",
+    "destLong": "Busan New Port",
+    "destType": "ETA",
+    "destLocalTime": "2022/10/01 21:00",
+    "destTime": "2022/10/01 12:00",
+    "position": "38.9036\u00b0 / 118.0832\u00b0",
     "area": "Bohai Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
