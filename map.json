@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/09/29 21:00",
     "destTime": "2022/09/29 18:00",
-    "position": "27.78951\u00b0 / 50.56893\u00b0",
+    "position": "28.03512\u00b0 / 50.47488\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -227,8 +227,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/07 05:00",
     "destTime": "2022/10/07 04:00",
-    "position": "30.3127\u00b0 / 32.4139\u00b0",
-    "area": "Red Sea",
+    "position": "30.38152\u00b0 / 32.36952\u00b0",
+    "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
   "9285615": {
@@ -491,34 +491,5 @@
     "position": "38.98635\u00b0 / 117.7796\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
-  },
-  "9633185": {
-    "rowidx": 243,
-    "silence": "FALSE",
-    "num": "-30",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "22Q3",
-    "numDept": "0",
-    "mapStatus": "4",
-    "mtsid": "412711",
-    "name": "Morning Cindy",
-    "mmsi": "353647000",
-    "length": "199.97",
-    "breadth": "32.26",
-    "grossTonnage": "59,580",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/09/29 01:24",
-    "deptTime": "2022/09/28 17:24",
-    "dest": "KR PTK",
-    "destLong": "Pyeongtaek",
-    "destType": "ETA",
-    "destLocalTime": "2022/09/30 18:00",
-    "destTime": "2022/09/30 09:00",
-    "position": "31.08933\u00b0 / 122.7411\u00b0",
-    "area": "East China Sea",
-    "status": "Underway using Engine"
   }
 }
