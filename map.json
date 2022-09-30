@@ -43,19 +43,19 @@
     "length": "180",
     "breadth": "30",
     "grossTonnage": "43,810",
-    "dept": "SI KOP",
-    "deptLong": "Koper",
+    "dept": "ES BCN",
+    "deptLong": "Barcelona",
     "deptType": "ATD",
-    "deptLocalTime": "2022/09/26 04:03",
-    "deptTime": "2022/09/26 02:03",
-    "dest": "ES BCN",
-    "destLong": "Barcelona",
-    "destType": "ATA",
-    "destLocalTime": "2022/09/29 21:26",
-    "destTime": "2022/09/29 19:26",
-    "position": "41.33193\u00b0 / 2.146433\u00b0",
+    "deptLocalTime": "2022/10/01 00:26",
+    "deptTime": "2022/09/30 22:26",
+    "dest": "PA PCN",
+    "destLong": "Panama Canal",
+    "destType": "ETA",
+    "destLocalTime": "2022/10/12 10:00",
+    "destTime": "2022/10/12 15:00",
+    "position": "41.28527\u00b0 / 2.1766\u00b0",
     "area": "Balearic Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9702443": {
     "rowidx": 228,
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/30 09:36",
     "destTime": "2022/09/30 06:36",
-    "position": "29.53138\u00b0 / 34.94172\u00b0",
+    "position": "29.53133\u00b0 / 34.9417\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -130,19 +130,19 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "59,490",
-    "dept": "SA DMM",
-    "deptLong": "Dammam",
+    "dept": "KW KWI",
+    "deptLong": "Kuwait",
     "deptType": "ATD",
-    "deptLocalTime": "2022/09/29 02:37",
-    "deptTime": "2022/09/28 23:37",
-    "dest": "KW KWI",
-    "destLong": "Kuwait",
-    "destType": "ATA",
-    "destLocalTime": "2022/09/29 21:59",
-    "destTime": "2022/09/29 18:59",
-    "position": "29.09064\u00b0 / 48.58305\u00b0",
+    "deptLocalTime": "2022/10/01 00:39",
+    "deptTime": "2022/09/30 21:39",
+    "dest": "QA HMD",
+    "destLong": "Hamad",
+    "destType": "ETA",
+    "destLocalTime": "2022/10/02 00:15",
+    "destTime": "2022/10/01 21:15",
+    "position": "29.39247\u00b0 / 48.09473\u00b0",
     "area": "Persian Gulf",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9832573": {
     "rowidx": 231,
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/01 09:00",
     "destTime": "2022/10/01 06:00",
-    "position": "28.56414\u00b0 / 49.88931\u00b0",
+    "position": "28.74196\u00b0 / 49.70347\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -198,9 +198,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/30 22:30",
     "destTime": "2022/09/30 20:30",
-    "position": "29.85488\u00b0 / 32.56867\u00b0",
+    "position": "29.85516\u00b0 / 32.56794\u00b0",
     "area": "Red Sea",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9303211": {
     "rowidx": 233,
@@ -256,9 +256,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/02 11:00",
     "destTime": "2022/10/02 08:00",
-    "position": "12.54343\u00b0 / 73.80042\u00b0",
+    "position": "24.34944\u00b0 / 58.81321\u00b0",
     "area": "Laccadive Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9383429": {
     "rowidx": 235,
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/30 10:52",
     "destTime": "2022/09/30 02:52",
-    "position": "31.32216\u00b0 / 121.6816\u00b0",
+    "position": "31.32217\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
