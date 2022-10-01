@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/01 17:00",
     "destTime": "2022/10/01 16:00",
-    "position": "49.88165\u00b0 / -2.621298\u00b0",
+    "position": "49.94533\u00b0 / -2.317203\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/30 09:36",
     "destTime": "2022/09/30 06:36",
-    "position": "29.53137\u00b0 / 34.94168\u00b0",
+    "position": "29.53135\u00b0 / 34.9417\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/02 00:15",
     "destTime": "2022/10/01 21:15",
-    "position": "28.43826\u00b0 / 50.16787\u00b0",
+    "position": "27.8942\u00b0 / 50.61275\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -314,8 +314,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/03 06:00",
     "destTime": "2022/10/02 23:00",
-    "position": "1.416883\u00b0 / 104.46\u00b0",
-    "area": "Singapore Area",
+    "position": "5.360816\u00b0 / 103.9177\u00b0",
+    "area": "Riau Archipelago",
     "status": "Underway using Engine"
   },
   "9889112": {
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/02 06:00",
     "destTime": "2022/10/01 21:00",
-    "position": "33.04379\u00b0 / 126.7884\u00b0",
+    "position": "33.27038\u00b0 / 127.1978\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -507,19 +507,19 @@
     "length": "182.8",
     "breadth": "32.2",
     "grossTonnage": "51,671",
-    "dept": "CL SAI",
-    "deptLong": "San Antonio",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/08/28 21:01",
-    "deptTime": "2022/08/29 01:01",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/09/30 10:52",
-    "destTime": "2022/09/30 02:52",
-    "position": "31.32224\u00b0 / 121.6815\u00b0",
+    "deptLocalTime": "2022/10/01 14:56",
+    "deptTime": "2022/10/01 06:56",
+    "dest": "CL SAI",
+    "destLong": "San Antonio",
+    "destType": "ETA",
+    "destLocalTime": "2022/11/04 15:00",
+    "destTime": "2022/11/04 18:00",
+    "position": "31.29311\u00b0 / 121.7921\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9675585": {
     "rowidx": 244,
