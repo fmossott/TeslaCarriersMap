@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/01 17:00",
     "destTime": "2022/10/01 16:00",
-    "position": "49.74978\u00b0 / -3.081773\u00b0",
+    "position": "49.88165\u00b0 / -2.621298\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/30 09:36",
     "destTime": "2022/09/30 06:36",
-    "position": "29.53133\u00b0 / 34.94167\u00b0",
+    "position": "29.53137\u00b0 / 34.94168\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -164,14 +164,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/09/30 15:25",
     "deptTime": "2022/09/30 12:25",
-    "dest": "KW KWI",
+    "dest": "KW KUWAIT ANCH",
     "destLong": "Kuwait",
-    "destType": "ETA",
-    "destLocalTime": "2022/10/01 09:00",
-    "destTime": "2022/10/01 06:00",
-    "position": "29.39447\u00b0 / 48.10751\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/10/01 08:57",
+    "destTime": "2022/10/01 05:57",
+    "position": "29.40498\u00b0 / 48.08531\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9293648": {
     "rowidx": 232,
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/30 10:52",
     "destTime": "2022/09/30 02:52",
-    "position": "31.32219\u00b0 / 121.6815\u00b0",
+    "position": "31.32224\u00b0 / 121.6815\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
