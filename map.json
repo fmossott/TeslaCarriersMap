@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/01 14:21",
     "destTime": "2022/10/01 13:21",
-    "position": "50.61895\u00b0 / -1.079875\u00b0",
+    "position": "50.61889\u00b0 / -1.079868\u00b0",
     "area": "English Channel",
     "status": "At Anchor"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/09/30 09:36",
     "destTime": "2022/09/30 06:36",
-    "position": "29.53135\u00b0 / 34.9417\u00b0",
+    "position": "29.53133\u00b0 / 34.9417\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/01 23:11",
     "destTime": "2022/10/01 20:11",
-    "position": "25.00576\u00b0 / 51.60007\u00b0",
+    "position": "25.00576\u00b0 / 51.60004\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -251,14 +251,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/09/17 00:15",
     "deptTime": "2022/09/16 16:15",
-    "dest": "SA DMM",
+    "dest": "SA DAMMAM ANCH",
     "destLong": "Dammam",
-    "destType": "ETA",
-    "destLocalTime": "2022/10/02 10:00",
-    "destTime": "2022/10/02 07:00",
-    "position": "26.61662\u00b0 / 50.3297\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/10/02 09:07",
+    "destTime": "2022/10/02 06:07",
+    "position": "26.61024\u00b0 / 50.30261\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9383429": {
     "rowidx": 235,
@@ -403,7 +403,7 @@
     "destTime": "2022/10/08 06:00",
     "position": "6.202096\u00b0 / 95.16341\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9308807": {
     "rowidx": 240,
