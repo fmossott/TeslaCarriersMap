@@ -111,9 +111,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/01 14:21",
     "destTime": "2022/10/01 13:21",
-    "position": "50.62058\u00b0 / -1.074382\u00b0",
+    "position": "50.61948\u00b0 / -1.073505\u00b0",
     "area": "English Channel",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9432880": {
     "rowidx": 230,
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/03 00:52",
     "destTime": "2022/10/02 21:52",
-    "position": "26.49293\u00b0 / 50.19402\u00b0",
+    "position": "26.49292\u00b0 / 50.19402\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -546,7 +546,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/05 08:05",
     "destTime": "2022/10/05 00:05",
-    "position": "31.32202\u00b0 / 121.6818\u00b0",
+    "position": "31.32188\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -568,15 +568,15 @@
     "dept": "CN SHG",
     "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/10/02 08:33",
-    "deptTime": "2022/10/02 00:33",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/10/04 20:16",
-    "destTime": "2022/10/04 12:16",
-    "position": "31.32377\u00b0 / 121.6795\u00b0",
+    "deptLocalTime": "2022/10/05 21:32",
+    "deptTime": "2022/10/05 13:32",
+    "dest": "JP YOK",
+    "destLong": "Yokohama",
+    "destType": "ETA",
+    "destLocalTime": "2022/10/09 05:00",
+    "destTime": "2022/10/08 20:00",
+    "position": "31.3002\u00b0 / 121.7738\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
