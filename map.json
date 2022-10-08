@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/05 17:10",
     "destTime": "2022/10/05 13:10",
-    "position": "22.68285\u00b0 / 69.73006\u00b0",
+    "position": "22.68296\u00b0 / 69.73097\u00b0",
     "area": "West Coast India",
     "status": "At Anchor"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/07 06:13",
     "destTime": "2022/10/07 05:13",
-    "position": "51.49703\u00b0 / -2.71755\u00b0",
+    "position": "51.49703\u00b0 / -2.717533\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -285,9 +285,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/07 16:20",
     "destTime": "2022/10/07 12:20",
-    "position": "25.14916\u00b0 / 54.81069\u00b0",
+    "position": "25.12877\u00b0 / 54.89096\u00b0",
     "area": "Dubai Area",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9383429": {
     "rowidx": 236,
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/08 20:00",
     "destTime": "2022/10/08 18:00",
-    "position": "23.39678\u00b0 / 36.93061\u00b0",
+    "position": "24.02688\u00b0 / 36.54475\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -333,19 +333,19 @@
     "length": "199.54",
     "breadth": "32.26",
     "grossTonnage": "57,789",
-    "dept": "SG SIN",
-    "deptLong": "Singapore",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/10/07 06:37",
-    "deptTime": "2022/10/06 23:37",
+    "dept": "TH LCH",
+    "deptLong": "Laem Chabang",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/10/04 20:07",
+    "deptTime": "2022/10/04 13:07",
     "dest": "AU FRE",
     "destLong": "Fremantle",
     "destType": "ETA",
     "destLocalTime": "2022/10/14 12:00",
     "destTime": "2022/10/14 04:00",
-    "position": "1.264433\u00b0 / 103.8478\u00b0",
+    "position": "1.249317\u00b0 / 103.8555\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9889112": {
     "rowidx": 238,
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/08 14:09",
     "destTime": "2022/10/08 10:09",
-    "position": "24.99425\u00b0 / 55.08097\u00b0",
+    "position": "24.99421\u00b0 / 55.08092\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
