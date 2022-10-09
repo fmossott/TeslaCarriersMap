@@ -19,13 +19,13 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/10/07 22:16",
     "deptTime": "2022/10/07 14:16",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
+    "dest": "CN STG",
+    "destLong": "Shantou",
     "destType": "ETA",
-    "destLocalTime": "2022/10/25 18:00",
+    "destLocalTime": "2022/10/26 00:00",
     "destTime": "2022/10/25 16:00",
-    "position": "27.6905\u00b0 / 121.4442\u00b0",
-    "area": "East China Sea",
+    "position": "23.77677\u00b0 / 117.9747\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   },
   "9738777": {
@@ -80,10 +80,10 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/10/21 00:00",
-    "destTime": "2022/10/20 22:00",
-    "position": "1.265958\u00b0 / 104.0277\u00b0",
-    "area": "Singapore Area",
+    "destLocalTime": "2022/10/20 12:00",
+    "destTime": "2022/10/20 10:00",
+    "position": "2.765245\u00b0 / 101.123\u00b0",
+    "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
   "9710737": {
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/07 06:13",
     "destTime": "2022/10/07 05:13",
-    "position": "51.49697\u00b0 / -2.717617\u00b0",
+    "position": "51.49698\u00b0 / -2.71755\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/08 19:39",
     "destTime": "2022/10/08 15:39",
-    "position": "24.99646\u00b0 / 55.08017\u00b0",
+    "position": "24.99646\u00b0 / 55.08018\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/08 14:09",
     "destTime": "2022/10/08 10:09",
-    "position": "24.9942\u00b0 / 55.08092\u00b0",
+    "position": "24.99417\u00b0 / 55.08092\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/07 11:56",
     "destTime": "2022/10/07 03:56",
-    "position": "38.62609\u00b0 / 120.64\u00b0",
+    "position": "38.65511\u00b0 / 120.2663\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   }
