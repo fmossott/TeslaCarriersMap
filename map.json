@@ -19,14 +19,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/09/30 06:53",
     "deptTime": "2022/09/30 09:53",
-    "dest": "US SFO",
+    "dest": "US SAN FRANCISCO ANCH",
     "destLong": "San Francisco",
-    "destType": "ETA",
-    "destLocalTime": "2022/10/11 17:30",
-    "destTime": "2022/10/12 00:30",
-    "position": "37.81339\u00b0 / -122.3943\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/10/11 19:08",
+    "destTime": "2022/10/12 02:08",
+    "position": "37.75027\u00b0 / -122.3336\u00b0",
     "area": "US West Coast",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9796377": {
     "rowidx": 7,
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/12 08:00",
     "destTime": "2022/10/12 06:00",
-    "position": "51.01754\u00b0 / 1.649185\u00b0",
+    "position": "51.18507\u00b0 / 1.960493\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -546,7 +546,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/13 05:00",
     "destTime": "2022/10/12 20:00",
-    "position": "32.50747\u00b0 / 126.0734\u00b0",
+    "position": "32.77135\u00b0 / 126.4626\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
