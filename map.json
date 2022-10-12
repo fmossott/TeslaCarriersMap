@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/12 07:15",
     "destTime": "2022/10/12 05:15",
-    "position": "51.30376\u00b0 / 3.229825\u00b0",
+    "position": "51.30376\u00b0 / 3.229832\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/01 14:21",
     "destTime": "2022/10/01 13:21",
-    "position": "50.61759\u00b0 / -1.07659\u00b0",
+    "position": "50.61771\u00b0 / -1.076687\u00b0",
     "area": "English Channel",
     "status": "At Anchor"
   },
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/12 00:37",
     "destTime": "2022/10/11 14:37",
-    "position": "-27.3636\u00b0 / 153.1764\u00b0",
+    "position": "-27.36359\u00b0 / 153.1764\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -459,9 +459,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/11 20:14",
     "destTime": "2022/10/11 11:14",
-    "position": "36.97884\u00b0 / 126.8273\u00b0",
+    "position": "37.01095\u00b0 / 126.7116\u00b0",
     "area": "Yellow Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9174282": {
     "rowidx": 242,
@@ -573,8 +573,8 @@
     "dest": "CN TXG",
     "destLong": "Tianjin",
     "destType": "ETA",
-    "destLocalTime": "2022/10/13 20:00",
-    "destTime": "2022/10/13 12:00",
+    "destLocalTime": "2022/10/13 21:00",
+    "destTime": "2022/10/13 13:00",
     "position": "31.25705\u00b0 / 121.9266\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
