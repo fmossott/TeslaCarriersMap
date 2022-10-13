@@ -1,32 +1,32 @@
 {
-  "9690547": {
+  "9318462": {
     "rowidx": 6,
     "silence": "FALSE",
     "num": "211",
-    "manDept": "SFO",
+    "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
-    "numDept": "1",
-    "mapStatus": "0",
-    "mtsid": "3434808",
-    "name": "Helios Ray",
-    "mmsi": "311000321",
-    "length": "199.97",
-    "breadth": "35.4",
-    "grossTonnage": "71,177",
-    "dept": "CL SAI",
-    "deptLong": "San Antonio",
+    "numDept": "4",
+    "mapStatus": "1",
+    "mtsid": "729334",
+    "name": "Viking Queen",
+    "mmsi": "538009733",
+    "length": "199.9",
+    "breadth": "32.29",
+    "grossTonnage": "55,775",
+    "dept": "PA BLB",
+    "deptLong": "Balboa",
     "deptType": "ATD",
-    "deptLocalTime": "2022/09/30 06:53",
-    "deptTime": "2022/09/30 09:53",
+    "deptLocalTime": "2022/09/21 13:03",
+    "deptTime": "2022/09/21 18:03",
     "dest": "CN SHG",
     "destLong": "Shanghai",
-    "destType": "ETA",
-    "destLocalTime": "2022/10/25 12:30",
-    "destTime": "2022/10/25 04:30",
-    "position": "37.77303\u00b0 / -122.6131\u00b0",
-    "area": "US West Coast",
-    "status": "Underway using Engine"
+    "destType": "ATA",
+    "destLocalTime": "2022/10/13 01:08",
+    "destTime": "2022/10/12 17:08",
+    "position": "30.83617\u00b0 / 121.8363\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
   },
   "9796377": {
     "rowidx": 7,
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/12 07:15",
     "destTime": "2022/10/12 05:15",
-    "position": "51.30375\u00b0 / 3.229807\u00b0",
+    "position": "51.30376\u00b0 / 3.229813\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/13 02:14",
     "destTime": "2022/10/13 01:14",
-    "position": "50.89164\u00b0 / -1.398778\u00b0",
+    "position": "50.89159\u00b0 / -1.398773\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/12 21:08",
     "destTime": "2022/10/12 19:08",
-    "position": "51.32047\u00b0 / 3.21133\u00b0",
+    "position": "51.32048\u00b0 / 3.211343\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/13 06:00",
     "destTime": "2022/10/13 04:00",
-    "position": "49.52795\u00b0 / -6.137116\u00b0",
+    "position": "49.55437\u00b0 / -6.112967\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
@@ -282,10 +282,10 @@
     "deptTime": "2022/09/21 08:10",
     "dest": "IT GIT",
     "destLong": "Gioia Tauro",
-    "destType": "ETA",
-    "destLocalTime": "2022/10/10 05:00",
-    "destTime": "2022/10/10 03:00",
-    "position": "38.46553\u00b0 / 15.84454\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/10/13 08:33",
+    "destTime": "2022/10/13 06:33",
+    "position": "38.44835\u00b0 / 15.90141\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
@@ -314,9 +314,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/13 08:31",
     "destTime": "2022/10/13 05:31",
-    "position": "21.46613\u00b0 / 39.1568\u00b0",
+    "position": "21.4677\u00b0 / 39.15899\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9451006": {
     "rowidx": 237,
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/13 00:54",
     "destTime": "2022/10/12 13:54",
-    "position": "-27.28586\u00b0 / 153.2569\u00b0",
+    "position": "-27.28593\u00b0 / 153.257\u00b0",
     "area": "East Australia",
     "status": "At Anchor"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/13 07:01",
     "destTime": "2022/10/12 23:01",
-    "position": "1.268328\u00b0 / 103.9034\u00b0",
+    "position": "1.268382\u00b0 / 103.9033\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -575,7 +575,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/13 21:00",
     "destTime": "2022/10/13 13:00",
-    "position": "38.6442\u00b0 / 120.6828\u00b0",
+    "position": "38.6925\u00b0 / 120.0991\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   }
