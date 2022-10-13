@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/12 07:15",
     "destTime": "2022/10/12 05:15",
-    "position": "51.30376\u00b0 / 3.229808\u00b0",
+    "position": "51.30376\u00b0 / 3.229818\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/13 02:14",
     "destTime": "2022/10/13 01:14",
-    "position": "50.89163\u00b0 / -1.398793\u00b0",
+    "position": "50.89159\u00b0 / -1.398762\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/14 02:00",
     "destTime": "2022/10/14 00:00",
-    "position": "51.38703\u00b0 / 3.160923\u00b0",
+    "position": "51.42171\u00b0 / 3.534502\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/13 06:00",
     "destTime": "2022/10/13 04:00",
-    "position": "49.31268\u00b0 / -6.162833\u00b0",
+    "position": "49.32563\u00b0 / -6.138733\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/13 08:33",
     "destTime": "2022/10/13 06:33",
-    "position": "38.47377\u00b0 / 15.91579\u00b0",
+    "position": "38.47376\u00b0 / 15.91582\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/13 08:31",
     "destTime": "2022/10/13 05:31",
-    "position": "21.46772\u00b0 / 39.15899\u00b0",
+    "position": "21.46767\u00b0 / 39.15905\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/13 00:54",
     "destTime": "2022/10/12 13:54",
-    "position": "-27.28649\u00b0 / 153.2574\u00b0",
+    "position": "-27.28637\u00b0 / 153.2573\u00b0",
     "area": "East Australia",
     "status": "At Anchor"
   },
@@ -401,8 +401,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/13 07:01",
     "destTime": "2022/10/12 23:01",
-    "position": "1.918288\u00b0 / 102.2935\u00b0",
-    "area": "Indonesia",
+    "position": "2.085942\u00b0 / 102.1117\u00b0",
+    "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
   "9574080": {
@@ -575,8 +575,8 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/13 22:40",
     "destTime": "2022/10/13 14:40",
-    "position": "39.02243\u00b0 / 117.7701\u00b0",
+    "position": "39.02094\u00b0 / 117.7687\u00b0",
     "area": "Bohai Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   }
 }
