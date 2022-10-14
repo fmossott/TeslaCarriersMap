@@ -16,17 +16,17 @@
     "grossTonnage": "50,309",
     "dept": "US SFO",
     "deptLong": "San Francisco",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/10/13 01:31",
-    "deptTime": "2022/10/13 08:31",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/10/14 14:15",
+    "deptTime": "2022/10/14 21:15",
     "dest": "TW TPE",
     "destLong": "Taipei",
     "destType": "ETA",
     "destLocalTime": "2022/10/28 19:00",
     "destTime": "2022/10/28 11:00",
-    "position": "37.75107\u00b0 / -122.3727\u00b0",
+    "position": "37.80787\u00b0 / -122.5147\u00b0",
     "area": "US West Coast",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9318462": {
     "rowidx": 7,
@@ -140,9 +140,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/20 12:00",
     "destTime": "2022/10/20 10:00",
-    "position": "7.043973\u00b0 / 76.55824\u00b0",
-    "area": "Laccadive Sea",
-    "status": "Out of Range"
+    "position": "11.38863\u00b0 / 63.91439\u00b0",
+    "area": "East Africa",
+    "status": "Underway using Engine"
   },
   "9702443": {
     "rowidx": 232,
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/15 11:00",
     "destTime": "2022/10/15 09:00",
-    "position": "50.84459\u00b0 / -1.329295\u00b0",
+    "position": "50.70083\u00b0 / -0.9669366\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -227,8 +227,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/15 05:00",
     "destTime": "2022/10/15 03:00",
-    "position": "51.29807\u00b0 / 2.27275\u00b0",
-    "area": "English Channel",
+    "position": "51.33377\u00b0 / 2.379583\u00b0",
+    "area": "North Sea",
     "status": "Underway using Engine"
   },
   "9889112": {
