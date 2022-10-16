@@ -169,9 +169,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/15 11:00",
     "destTime": "2022/10/15 09:00",
-    "position": "50.48861\u00b0 / -1.163603\u00b0",
+    "position": "50.47864\u00b0 / -1.147365\u00b0",
     "area": "English Channel",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9303211": {
     "rowidx": 233,
@@ -224,10 +224,10 @@
     "deptTime": "2022/09/28 05:59",
     "dest": "ES BCN",
     "destLong": "Barcelona",
-    "destType": "ETA",
-    "destLocalTime": "2022/10/16 05:00",
-    "destTime": "2022/10/16 03:00",
-    "position": "41.24966\u00b0 / 2.228827\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/10/16 05:16",
+    "destTime": "2022/10/16 03:16",
+    "position": "41.34464\u00b0 / 2.159645\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -256,8 +256,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/17 01:00",
     "destTime": "2022/10/16 23:00",
-    "position": "38.71478\u00b0 / 9.40302\u00b0",
-    "area": "Tyrrhenian Sea",
+    "position": "38.78989\u00b0 / 8.442445\u00b0",
+    "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
   "9308807": {
@@ -367,12 +367,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/10/10 12:28",
     "deptTime": "2022/10/10 04:28",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2022/10/16 11:00",
-    "destTime": "2022/10/16 03:00",
-    "position": "1.23576\u00b0 / 103.9314\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/10/16 10:58",
+    "destTime": "2022/10/16 02:58",
+    "position": "1.266453\u00b0 / 103.9073\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
