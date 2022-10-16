@@ -253,12 +253,12 @@
     "deptTime": "2022/10/15 07:39",
     "dest": "ES BCN",
     "destLong": "Barcelona",
-    "destType": "ETA",
-    "destLocalTime": "2022/10/17 01:00",
-    "destTime": "2022/10/16 23:00",
-    "position": "41.26963\u00b0 / 2.196993\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/10/17 00:23",
+    "destTime": "2022/10/16 22:23",
+    "position": "41.33175\u00b0 / 2.14624\u00b0",
     "area": "Balearic Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9308807": {
     "rowidx": 236,
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/16 10:15",
     "destTime": "2022/10/16 07:15",
-    "position": "29.53147\u00b0 / 34.9419\u00b0",
+    "position": "29.53148\u00b0 / 34.94185\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
