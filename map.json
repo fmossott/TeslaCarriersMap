@@ -51,8 +51,8 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/10/19 23:59",
-    "destTime": "2022/10/19 15:59",
+    "destLocalTime": "2022/10/19 21:00",
+    "destTime": "2022/10/19 13:00",
     "position": "24.68846\u00b0 / 119.3187\u00b0",
     "area": "East China Sea",
     "status": "Out of Range"
@@ -113,7 +113,7 @@
     "destTime": "2022/10/19 21:00",
     "position": "7.854755\u00b0 / 76.51779\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9674177": {
     "rowidx": 10,
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/15 11:00",
     "destTime": "2022/10/15 09:00",
-    "position": "50.4755\u00b0 / -1.260803\u00b0",
+    "position": "50.48031\u00b0 / -1.19602\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/17 00:23",
     "destTime": "2022/10/16 22:23",
-    "position": "41.33179\u00b0 / 2.146273\u00b0",
+    "position": "41.33179\u00b0 / 2.14628\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/16 10:15",
     "destTime": "2022/10/16 07:15",
-    "position": "29.53147\u00b0 / 34.94183\u00b0",
+    "position": "29.5315\u00b0 / 34.94185\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -362,17 +362,17 @@
     "length": "167.25",
     "breadth": "28",
     "grossTonnage": "39,454",
-    "dept": "ZA DUR",
-    "deptLong": "Durban",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/09/22 07:36",
-    "deptTime": "2022/09/22 05:36",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
+    "deptLocalTime": "2022/10/17 16:35",
+    "deptTime": "2022/10/17 08:35",
+    "dest": "CN XMG",
+    "destLong": "Xiamen",
     "destType": "ETA",
-    "destLocalTime": "2022/10/16 23:26",
-    "destTime": "2022/10/16 15:26",
-    "position": "31.29915\u00b0 / 121.7762\u00b0",
+    "destLocalTime": "2022/10/20 06:00",
+    "destTime": "2022/10/19 22:00",
+    "position": "31.24447\u00b0 / 122.003\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
