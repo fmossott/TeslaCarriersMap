@@ -109,8 +109,8 @@
     "dest": "OM SOH",
     "destLong": "Sohar",
     "destType": "ETA",
-    "destLocalTime": "2022/10/20 01:00",
-    "destTime": "2022/10/19 21:00",
+    "destLocalTime": "2022/10/19 23:30",
+    "destTime": "2022/10/19 19:30",
     "position": "7.854755\u00b0 / 76.51779\u00b0",
     "area": "Malacca Strait",
     "status": "Out of Range"
@@ -169,9 +169,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/15 11:00",
     "destTime": "2022/10/15 09:00",
-    "position": "50.47451\u00b0 / -1.451332\u00b0",
+    "position": "50.46573\u00b0 / -1.435955\u00b0",
     "area": "English Channel",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9782699": {
     "rowidx": 233,
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/17 00:23",
     "destTime": "2022/10/16 22:23",
-    "position": "41.3318\u00b0 / 2.146252\u00b0",
+    "position": "41.3318\u00b0 / 2.146312\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/16 10:15",
     "destTime": "2022/10/16 07:15",
-    "position": "29.53148\u00b0 / 34.94185\u00b0",
+    "position": "29.53152\u00b0 / 34.94187\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
