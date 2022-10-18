@@ -111,9 +111,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/19 23:30",
     "destTime": "2022/10/19 19:30",
-    "position": "7.854755\u00b0 / 76.51779\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "18.36655\u00b0 / 65.70601\u00b0",
+    "area": "West Coast India",
+    "status": "Underway using Engine"
   },
   "9674177": {
     "rowidx": 10,
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/15 11:00",
     "destTime": "2022/10/15 09:00",
-    "position": "50.45371\u00b0 / -1.28697\u00b0",
+    "position": "50.41264\u00b0 / -0.948035\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/18 06:31",
     "destTime": "2022/10/18 04:31",
-    "position": "39.44497\u00b0 / -0.3118417\u00b0",
+    "position": "39.44494\u00b0 / -0.3118633\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/16 10:15",
     "destTime": "2022/10/16 07:15",
-    "position": "29.53147\u00b0 / 34.94183\u00b0",
+    "position": "29.53147\u00b0 / 34.94185\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -346,34 +346,5 @@
     "position": "23.9944\u00b0 / 127.8011\u00b0",
     "area": "Japan Coast",
     "status": "Out of Range"
-  },
-  "9515008": {
-    "rowidx": 239,
-    "silence": "FALSE",
-    "num": "-21",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "22Q4",
-    "numDept": "0",
-    "mapStatus": "4",
-    "mtsid": "732771",
-    "name": "Viking Sea",
-    "mmsi": "538009734",
-    "length": "167.25",
-    "breadth": "28",
-    "grossTonnage": "39,454",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/10/17 16:35",
-    "deptTime": "2022/10/17 08:35",
-    "dest": "CN XMG",
-    "destLong": "Xiamen",
-    "destType": "ETA",
-    "destLocalTime": "2022/10/20 06:00",
-    "destTime": "2022/10/19 22:00",
-    "position": "31.23798\u00b0 / 122.0412\u00b0",
-    "area": "East China Sea",
-    "status": "Underway using Engine"
   }
 }
