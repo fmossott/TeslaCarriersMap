@@ -17,16 +17,16 @@
     "dept": "CN SHG",
     "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/10/17 03:48",
-    "deptTime": "2022/10/16 19:48",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/10/18 16:42",
-    "destTime": "2022/10/18 08:42",
-    "position": "30.83318\u00b0 / 121.8384\u00b0",
+    "deptLocalTime": "2022/10/19 19:31",
+    "deptTime": "2022/10/19 11:31",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/10/25 08:30",
+    "destTime": "2022/10/25 00:30",
+    "position": "30.61999\u00b0 / 121.8672\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9184940": {
     "rowidx": 7,
@@ -82,8 +82,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/19 22:00",
     "destTime": "2022/10/19 14:00",
-    "position": "1.433773\u00b0 / 104.4593\u00b0",
-    "area": "East China Sea",
+    "position": "1.300575\u00b0 / 104.2861\u00b0",
+    "area": "Singapore Area",
     "status": "Underway using Engine"
   },
   "9796377": {
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/19 23:30",
     "destTime": "2022/10/19 19:30",
-    "position": "23.86464\u00b0 / 58.82859\u00b0",
+    "position": "24.02617\u00b0 / 58.58344\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/19 00:30",
     "destTime": "2022/10/18 22:30",
-    "position": "51.3138\u00b0 / 3.227412\u00b0",
+    "position": "51.31379\u00b0 / 3.227383\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
