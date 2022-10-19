@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/18 16:42",
     "destTime": "2022/10/18 08:42",
-    "position": "30.8359\u00b0 / 121.8371\u00b0",
+    "position": "30.83591\u00b0 / 121.8371\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/20 15:00",
     "destTime": "2022/10/20 13:00",
-    "position": "21.00974\u00b0 / 38.43272\u00b0",
+    "position": "21.99096\u00b0 / 37.82764\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -198,9 +198,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/19 00:30",
     "destTime": "2022/10/18 22:30",
-    "position": "51.33441\u00b0 / 3.216798\u00b0",
+    "position": "51.32499\u00b0 / 3.222463\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9782699": {
     "rowidx": 234,
@@ -217,19 +217,19 @@
     "length": "199.9",
     "breadth": "36",
     "grossTonnage": "65,148",
-    "dept": "ES BCN",
-    "deptLong": "Barcelona",
+    "dept": "ES VLC",
+    "deptLong": "Valencia",
     "deptType": "ATD",
-    "deptLocalTime": "2022/10/17 19:59",
-    "deptTime": "2022/10/17 17:59",
-    "dest": "ES VLC",
-    "destLong": "Valencia",
-    "destType": "ATA",
-    "destLocalTime": "2022/10/18 06:31",
-    "destTime": "2022/10/18 04:31",
-    "position": "39.44495\u00b0 / -0.3118417\u00b0",
+    "deptLocalTime": "2022/10/19 01:42",
+    "deptTime": "2022/10/18 23:42",
+    "dest": "GB BRS",
+    "destLong": "Bristol",
+    "destType": "ETA",
+    "destLocalTime": "2022/10/22 21:00",
+    "destTime": "2022/10/22 20:00",
+    "position": "39.36287\u00b0 / -0.1763417\u00b0",
     "area": "Balearic Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9308807": {
     "rowidx": 235,
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/26 22:30",
     "destTime": "2022/10/26 20:30",
-    "position": "31.32202\u00b0 / 32.37364\u00b0",
+    "position": "34.34789\u00b0 / 22.8032\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
