@@ -77,14 +77,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/10/14 14:44",
     "deptTime": "2022/10/14 06:44",
-    "dest": "SG SINGAPORE ANCH",
+    "dest": "SG SIN",
     "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2022/10/19 22:48",
-    "destTime": "2022/10/19 14:48",
-    "position": "1.255333\u00b0 / 103.8627\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2022/10/19 22:00",
+    "destTime": "2022/10/19 14:00",
+    "position": "1.165198\u00b0 / 103.7814\u00b0",
     "area": "Singapore Area",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9796377": {
     "rowidx": 9,
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/19 23:30",
     "destTime": "2022/10/19 19:30",
-    "position": "24.74046\u00b0 / 56.73911\u00b0",
+    "position": "24.74261\u00b0 / 56.74265\u00b0",
     "area": "Oman Gulf",
     "status": "Stopped"
   },
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/19 00:30",
     "destTime": "2022/10/18 22:30",
-    "position": "51.3138\u00b0 / 3.227385\u00b0",
+    "position": "51.3138\u00b0 / 3.227372\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
