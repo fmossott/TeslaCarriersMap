@@ -16,17 +16,17 @@
     "grossTonnage": "58,767",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/10/19 22:13",
-    "deptTime": "2022/10/19 13:13",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/10/21 07:15",
+    "deptTime": "2022/10/20 23:15",
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/10/26 06:00",
-    "destTime": "2022/10/25 22:00",
-    "position": "30.8359\u00b0 / 121.8364\u00b0",
+    "destLocalTime": "2022/10/26 10:00",
+    "destTime": "2022/10/26 02:00",
+    "position": "30.70046\u00b0 / 121.862\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9680712": {
     "rowidx": 7,
@@ -198,7 +198,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/20 14:21",
     "destTime": "2022/10/20 12:21",
-    "position": "29.85689\u00b0 / 32.56053\u00b0",
+    "position": "29.85735\u00b0 / 32.56126\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -401,8 +401,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/21 12:00",
     "destTime": "2022/10/21 01:00",
-    "position": "-34.14203\u00b0 / 151.4079\u00b0",
-    "area": "Coral Sea",
+    "position": "-34.33633\u00b0 / 151.2454\u00b0",
+    "area": "East Australia",
     "status": "Underway using Engine"
   },
   "9283863": {
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/02 08:00",
     "destTime": "2022/11/01 21:00",
-    "position": "31.32344\u00b0 / 121.6796\u00b0",
+    "position": "31.3234\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
