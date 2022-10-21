@@ -169,7 +169,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/21 17:30",
     "destTime": "2022/10/21 13:30",
-    "position": "24.64747\u00b0 / 56.64144\u00b0",
+    "position": "25.0635\u00b0 / 56.79661\u00b0",
     "area": "Oman Gulf",
     "status": "Underway"
   },
@@ -188,19 +188,19 @@
     "length": "199.97",
     "breadth": "35",
     "grossTonnage": "64,650",
-    "dept": "CN SHG",
+    "dept": "EG SUEZ SOUTH ANCH",
     "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/10/02 15:02",
-    "deptTime": "2022/10/02 07:02",
-    "dest": "EG SUEZ SOUTH ANCH",
-    "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2022/10/20 14:21",
-    "destTime": "2022/10/20 12:21",
-    "position": "29.85784\u00b0 / 32.56045\u00b0",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/10/20 20:21",
+    "deptTime": "2022/10/20 12:21",
+    "dest": "ES BCN",
+    "destLong": "Barcelona",
+    "destType": "ETA",
+    "destLocalTime": "2022/10/25 12:00",
+    "destTime": "2022/10/25 10:00",
+    "position": "29.91022\u00b0 / 32.54567\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9702443": {
     "rowidx": 234,
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/02 08:00",
     "destTime": "2022/11/01 21:00",
-    "position": "31.32342\u00b0 / 121.6796\u00b0",
+    "position": "31.32344\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
