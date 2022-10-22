@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/22 10:25",
     "destTime": "2022/10/22 06:25",
-    "position": "25.13802\u00b0 / 54.81861\u00b0",
+    "position": "25.13795\u00b0 / 54.81847\u00b0",
     "area": "Dubai Area",
     "status": "At Anchor"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/19 00:30",
     "destTime": "2022/10/18 22:30",
-    "position": "51.31256\u00b0 / 3.21624\u00b0",
+    "position": "51.31259\u00b0 / 3.216232\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/22 01:30",
     "destTime": "2022/10/22 00:30",
-    "position": "50.00945\u00b0 / -5.893643\u00b0",
+    "position": "50.20997\u00b0 / -5.881407\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
@@ -398,12 +398,12 @@
     "deptTime": "2022/10/10 16:53",
     "dest": "AU PKL",
     "destLong": "Port Kembla",
-    "destType": "ETA",
-    "destLocalTime": "2022/10/23 02:00",
-    "destTime": "2022/10/22 15:00",
-    "position": "-34.40299\u00b0 / 150.9596\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/10/23 02:07",
+    "destTime": "2022/10/22 15:07",
+    "position": "-34.45592\u00b0 / 150.8913\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9283863": {
     "rowidx": 241,
@@ -452,15 +452,15 @@
     "dept": "CN SHG",
     "deptLong": "Shanghai",
     "deptType": "ATA",
-    "deptLocalTime": "2022/10/21 07:24",
-    "deptTime": "2022/10/21 10:24",
+    "deptLocalTime": "2022/10/22 23:19",
+    "deptTime": "2022/10/22 15:19",
     "dest": "CN CJK",
     "destLong": "Cjk",
     "destType": "ETA",
     "destLocalTime": "2022/10/22 23:30",
     "destTime": "2022/10/22 15:30",
-    "position": "31.32367\u00b0 / 121.6796\u00b0",
+    "position": "31.365\u00b0 / 121.6462\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Stopped"
   }
 }
