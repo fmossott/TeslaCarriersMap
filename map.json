@@ -164,14 +164,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/10/22 08:11",
     "deptTime": "2022/10/22 04:11",
-    "dest": "AE JEA",
+    "dest": "AE JEBEL ALI ANCH",
     "destLong": "Jebel Ali",
-    "destType": "ETA",
-    "destLocalTime": "2022/10/22 12:00",
-    "destTime": "2022/10/22 08:00",
-    "position": "25.12242\u00b0 / 54.69241\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/10/22 10:25",
+    "destTime": "2022/10/22 06:25",
+    "position": "25.13913\u00b0 / 54.81772\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9674177": {
     "rowidx": 12,
@@ -227,9 +227,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/19 00:30",
     "destTime": "2022/10/18 22:30",
-    "position": "51.31561\u00b0 / 3.213487\u00b0",
+    "position": "51.31258\u00b0 / 3.216145\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Underway"
   },
   "9782699": {
     "rowidx": 235,
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/22 17:00",
     "destTime": "2022/10/22 06:00",
-    "position": "-34.37051\u00b0 / 151.3042\u00b0",
+    "position": "-34.39758\u00b0 / 151.3056\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
