@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/23 03:41",
     "destTime": "2022/10/23 10:41",
-    "position": "37.74951\u00b0 / -122.3757\u00b0",
+    "position": "37.74952\u00b0 / -122.3757\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -196,9 +196,9 @@
     "dest": "SI KOP",
     "destLong": "Koper",
     "destType": "ETA",
-    "destLocalTime": "2022/10/25 06:31",
-    "destTime": "2022/10/25 04:31",
-    "position": "31.30269\u00b0 / 32.36823\u00b0",
+    "destLocalTime": "2022/10/28 20:00",
+    "destTime": "2022/10/28 18:00",
+    "position": "31.32935\u00b0 / 32.37673\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/25 11:11",
     "destTime": "2022/10/25 09:11",
-    "position": "41.33418\u00b0 / 2.14695\u00b0",
+    "position": "41.33416\u00b0 / 2.146947\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/19 00:30",
     "destTime": "2022/10/18 22:30",
-    "position": "51.32056\u00b0 / 3.211483\u00b0",
+    "position": "51.32058\u00b0 / 3.21149\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/25 13:32",
     "destTime": "2022/10/25 05:32",
-    "position": "31.36109\u00b0 / 121.4989\u00b0",
+    "position": "31.36108\u00b0 / 121.4989\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/25 01:05",
     "destTime": "2022/10/24 17:05",
-    "position": "31.53083\u00b0 / 121.3793\u00b0",
+    "position": "31.5309\u00b0 / 121.3793\u00b0",
     "area": "East China Sea",
     "status": "At Anchor"
   },
@@ -451,17 +451,17 @@
     "grossTonnage": "61,321",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/10/25 00:56",
-    "deptTime": "2022/10/24 15:56",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/10/25 23:52",
+    "deptTime": "2022/10/25 15:52",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
     "destType": "ETA",
     "destLocalTime": "2022/10/27 10:30",
     "destTime": "2022/10/27 01:30",
-    "position": "31.32253\u00b0 / 121.6821\u00b0",
+    "position": "31.28683\u00b0 / 121.8098\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9293650": {
     "rowidx": 244,
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/25 11:54",
     "destTime": "2022/10/25 03:54",
-    "position": "31.32337\u00b0 / 121.6796\u00b0",
+    "position": "31.32338\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
