@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/24 10:48",
     "destTime": "2022/10/24 02:48",
-    "position": "30.83595\u00b0 / 121.8363\u00b0",
+    "position": "30.83597\u00b0 / 121.8363\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/23 03:41",
     "destTime": "2022/10/23 10:41",
-    "position": "37.74955\u00b0 / -122.3757\u00b0",
+    "position": "37.74952\u00b0 / -122.3757\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -101,17 +101,17 @@
     "length": "236.32",
     "breadth": "36.16",
     "grossTonnage": "71,543",
-    "dept": "CN SHG",
+    "dept": "SG SINGAPORE ANCH",
     "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/10/19 19:31",
-    "deptTime": "2022/10/19 11:31",
-    "dest": "SG SINGAPORE ANCH",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2022/10/25 09:20",
-    "destTime": "2022/10/25 01:20",
-    "position": "1.285857\u00b0 / 103.9886\u00b0",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/10/25 09:20",
+    "deptTime": "2022/10/25 01:20",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ETA",
+    "destLocalTime": "2022/10/25 02:30",
+    "destTime": "2022/10/25 00:30",
+    "position": "1.286077\u00b0 / 103.9888\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/25 11:11",
     "destTime": "2022/10/25 09:11",
-    "position": "41.33417\u00b0 / 2.146932\u00b0",
+    "position": "41.33415\u00b0 / 2.146962\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/19 00:30",
     "destTime": "2022/10/18 22:30",
-    "position": "51.32056\u00b0 / 3.211495\u00b0",
+    "position": "51.32056\u00b0 / 3.211502\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/23 02:07",
     "destTime": "2022/10/22 15:07",
-    "position": "-34.45592\u00b0 / 150.8914\u00b0",
+    "position": "-34.45591\u00b0 / 150.8913\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/25 13:32",
     "destTime": "2022/10/25 05:32",
-    "position": "31.36109\u00b0 / 121.4989\u00b0",
+    "position": "31.3611\u00b0 / 121.4989\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/25 01:05",
     "destTime": "2022/10/24 17:05",
-    "position": "31.53005\u00b0 / 121.381\u00b0",
+    "position": "31.52998\u00b0 / 121.381\u00b0",
     "area": "East China Sea",
     "status": "At Anchor"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/24 23:56",
     "destTime": "2022/10/24 15:56",
-    "position": "31.32208\u00b0 / 121.6816\u00b0",
+    "position": "31.32215\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/25 11:54",
     "destTime": "2022/10/25 03:54",
-    "position": "31.32338\u00b0 / 121.6796\u00b0",
+    "position": "31.32339\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
