@@ -198,9 +198,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/29 16:00",
     "destTime": "2022/10/29 07:00",
-    "position": "37.95177\u00b0 / -132.9316\u00b0",
-    "area": "US West Coast",
-    "status": "Out of Range"
+    "position": "41.68902\u00b0 / 142.6242\u00b0",
+    "area": "Japan Coast",
+    "status": "Underway using Engine"
   },
   "9318462": {
     "rowidx": 13,
@@ -517,7 +517,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/27 08:00",
     "destTime": "2022/10/26 23:00",
-    "position": "35.57218\u00b0 / 125.4139\u00b0",
+    "position": "36.09055\u00b0 / 125.7688\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -567,17 +567,17 @@
     "grossTonnage": "64,546",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/10/26 12:39",
-    "deptTime": "2022/10/26 04:39",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/10/27 00:48",
+    "deptTime": "2022/10/26 16:48",
     "dest": "KR KUV",
     "destLong": "Gunsan",
     "destType": "ETA",
     "destLocalTime": "2022/10/28 04:00",
     "destTime": "2022/10/27 19:00",
-    "position": "31.32223\u00b0 / 121.6819\u00b0",
+    "position": "31.28162\u00b0 / 121.8245\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9082324": {
     "rowidx": 248,
@@ -604,7 +604,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/26 13:21",
     "destTime": "2022/10/26 05:21",
-    "position": "31.32347\u00b0 / 121.6794\u00b0",
+    "position": "31.32353\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
