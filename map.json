@@ -1,13 +1,71 @@
 {
-  "9690559": {
+  "9391593": {
     "rowidx": 6,
+    "silence": "FALSE",
+    "num": "218",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q4",
+    "numDept": "8",
+    "mapStatus": "1",
+    "mtsid": "372234",
+    "name": "RCC Europe",
+    "mmsi": "311003100",
+    "length": "199.9",
+    "breadth": "32.26",
+    "grossTonnage": "57,692",
+    "dept": "CA ANI",
+    "deptLong": "Annacis Island",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/10/10 17:34",
+    "deptTime": "2022/10/11 00:34",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/10/25 23:59",
+    "destTime": "2022/10/25 15:59",
+    "position": "30.83614\u00b0 / 121.8364\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
+  },
+  "9889100": {
+    "rowidx": 7,
+    "silence": "FALSE",
+    "num": "217",
+    "manDept": "KOP",
+    "notes": "",
+    "quarter": "",
+    "numDept": "0",
+    "mapStatus": "1",
+    "mtsid": "6607317",
+    "name": "Azul Ace",
+    "mmsi": "372424000",
+    "length": "199.96",
+    "breadth": "38",
+    "grossTonnage": "72,705",
+    "dept": "SI KOP",
+    "deptLong": "Koper",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/10/22 14:28",
+    "deptTime": "2022/10/22 12:28",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ATA",
+    "destLocalTime": "2022/10/26 05:00",
+    "destTime": "2022/10/26 03:00",
+    "position": "31.10035\u00b0 / 32.30842\u00b0",
+    "area": "East Mediterranean",
+    "status": "Underway using Engine"
+  },
+  "9690559": {
+    "rowidx": 8,
     "silence": "FALSE",
     "num": "216",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
     "numDept": "7",
-    "mapStatus": "1",
+    "mapStatus": "2",
     "mtsid": "3553106",
     "name": "Hyperion Ray",
     "mmsi": "311000322",
@@ -29,14 +87,14 @@
     "status": "Underway using Engine"
   },
   "9493365": {
-    "rowidx": 7,
+    "rowidx": 9,
     "silence": "FALSE",
     "num": "215",
     "manDept": "SFO",
     "notes": "",
     "quarter": "22Q4",
     "numDept": "2",
-    "mapStatus": "1",
+    "mapStatus": "2",
     "mtsid": "1010925",
     "name": "Noble Ace",
     "mmsi": "235086166",
@@ -58,7 +116,7 @@
     "status": "Underway using Engine"
   },
   "9660798": {
-    "rowidx": 8,
+    "rowidx": 10,
     "silence": "FALSE",
     "num": "214",
     "manDept": "SHG",
@@ -87,7 +145,7 @@
     "status": "At Anchor"
   },
   "9680712": {
-    "rowidx": 9,
+    "rowidx": 11,
     "silence": "FALSE",
     "num": "213",
     "manDept": "SHG",
@@ -111,12 +169,12 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/07 09:00",
     "destTime": "2022/11/07 07:00",
-    "position": "1.23153\u00b0 / 103.9287\u00b0",
-    "area": "Singapore Area",
+    "position": "3.34185\u00b0 / 100.4748\u00b0",
+    "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
   "9184940": {
-    "rowidx": 10,
+    "rowidx": 12,
     "silence": "FALSE",
     "num": "212",
     "manDept": "SFO",
@@ -145,7 +203,7 @@
     "status": "Out of Range"
   },
   "9318462": {
-    "rowidx": 11,
+    "rowidx": 13,
     "silence": "FALSE",
     "num": "211",
     "manDept": "SHG",
@@ -174,7 +232,7 @@
     "status": "Out of Range"
   },
   "9796377": {
-    "rowidx": 12,
+    "rowidx": 14,
     "silence": "FALSE",
     "num": "210",
     "manDept": "SHG",
@@ -203,7 +261,7 @@
     "status": "Underway using Engine"
   },
   "9674177": {
-    "rowidx": 14,
+    "rowidx": 16,
     "silence": "FALSE",
     "num": "208",
     "manDept": "SHG",
@@ -232,7 +290,7 @@
     "status": "Moored"
   },
   "9702443": {
-    "rowidx": 236,
+    "rowidx": 238,
     "silence": "FALSE",
     "num": "-14",
     "manDept": "SHG",
@@ -261,7 +319,7 @@
     "status": "Moored"
   },
   "9451006": {
-    "rowidx": 237,
+    "rowidx": 239,
     "silence": "FALSE",
     "num": "-15",
     "manDept": "SHG",
@@ -285,12 +343,12 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/26 22:30",
     "destTime": "2022/10/26 20:30",
-    "position": "50.06721\u00b0 / -1.505548\u00b0",
+    "position": "50.20956\u00b0 / -0.7079417\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
   "9174282": {
-    "rowidx": 238,
+    "rowidx": 240,
     "silence": "FALSE",
     "num": "-16",
     "manDept": "SHG",
@@ -319,7 +377,7 @@
     "status": "Out of Range"
   },
   "9441506": {
-    "rowidx": 239,
+    "rowidx": 241,
     "silence": "FALSE",
     "num": "-17",
     "manDept": "SHG",
@@ -348,7 +406,7 @@
     "status": "Moored"
   },
   "9283863": {
-    "rowidx": 240,
+    "rowidx": 242,
     "silence": "FALSE",
     "num": "-18",
     "manDept": "SHG",
@@ -377,7 +435,7 @@
     "status": "Out of Range"
   },
   "9454723": {
-    "rowidx": 241,
+    "rowidx": 243,
     "silence": "FALSE",
     "num": "-19",
     "manDept": "SHG",
@@ -406,7 +464,7 @@
     "status": "Moored"
   },
   "9432880": {
-    "rowidx": 242,
+    "rowidx": 244,
     "silence": "FALSE",
     "num": "-20",
     "manDept": "SHG",
@@ -435,7 +493,7 @@
     "status": "Underway using Engine"
   },
   "9319765": {
-    "rowidx": 243,
+    "rowidx": 245,
     "silence": "FALSE",
     "num": "-21",
     "manDept": "SHG",
@@ -464,7 +522,7 @@
     "status": "Underway using Engine"
   },
   "9293650": {
-    "rowidx": 244,
+    "rowidx": 246,
     "silence": "FALSE",
     "num": "-22",
     "manDept": "SHG",
@@ -491,5 +549,63 @@
     "position": "31.2669\u00b0 / 121.8683\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
+  },
+  "9702405": {
+    "rowidx": 247,
+    "silence": "FALSE",
+    "num": "-23",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q4",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "714558",
+    "name": "Glovis Sunrise",
+    "mmsi": "538005503",
+    "length": "199.97",
+    "breadth": "35",
+    "grossTonnage": "64,546",
+    "dept": "CN MCI",
+    "deptLong": "Mcid",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/10/23 12:02",
+    "deptTime": "2022/10/23 04:02",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/10/26 12:39",
+    "destTime": "2022/10/26 04:39",
+    "position": "31.32217\u00b0 / 121.6819\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
+  },
+  "9082324": {
+    "rowidx": 248,
+    "silence": "FALSE",
+    "num": "-24",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q4",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "1226313",
+    "name": "Grand Vision",
+    "mmsi": "533180090",
+    "length": "179.95",
+    "breadth": "32.2",
+    "grossTonnage": "47,077",
+    "dept": "US HNL",
+    "deptLong": "Honolulu",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/10/14 23:23",
+    "deptTime": "2022/10/15 09:23",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/10/26 13:21",
+    "destTime": "2022/10/26 05:21",
+    "position": "31.3234\u00b0 / 121.6795\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
   }
 }
