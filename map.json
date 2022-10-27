@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/25 23:59",
     "destTime": "2022/10/25 15:59",
-    "position": "30.83611\u00b0 / 121.8365\u00b0",
+    "position": "30.83614\u00b0 / 121.8364\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -256,8 +256,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/10/28 22:00",
     "destTime": "2022/10/28 20:00",
-    "position": "35.76834\u00b0 / 22.71545\u00b0",
-    "area": "Aegean Sea",
+    "position": "36.67782\u00b0 / 21.5174\u00b0",
+    "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
   "9674177": {
@@ -519,7 +519,7 @@
     "destTime": "2022/10/26 23:50",
     "position": "36.98107\u00b0 / 126.8257\u00b0",
     "area": "Yellow Sea",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9293650": {
     "rowidx": 246,
@@ -594,17 +594,17 @@
     "length": "179.95",
     "breadth": "32.2",
     "grossTonnage": "47,077",
-    "dept": "US HNL",
-    "deptLong": "Honolulu",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/10/14 23:23",
-    "deptTime": "2022/10/15 09:23",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/10/26 13:21",
-    "destTime": "2022/10/26 05:21",
-    "position": "31.3235\u00b0 / 121.6794\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/10/25 19:21",
+    "deptTime": "2022/10/26 05:21",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/11/01 21:00",
+    "destTime": "2022/11/01 13:00",
+    "position": "31.32363\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
