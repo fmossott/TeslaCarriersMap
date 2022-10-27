@@ -14,19 +14,19 @@
     "length": "199.9",
     "breadth": "32.26",
     "grossTonnage": "57,692",
-    "dept": "CA ANI",
-    "deptLong": "Annacis Island",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/10/10 17:34",
-    "deptTime": "2022/10/11 00:34",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/10/25 23:59",
-    "destTime": "2022/10/25 15:59",
-    "position": "30.83614\u00b0 / 121.8364\u00b0",
+    "deptLocalTime": "2022/10/27 13:07",
+    "deptTime": "2022/10/27 05:07",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/11/01 18:00",
+    "destTime": "2022/11/01 10:00",
+    "position": "30.67562\u00b0 / 121.8661\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9889100": {
     "rowidx": 7,
@@ -519,7 +519,7 @@
     "destTime": "2022/10/26 23:50",
     "position": "36.98107\u00b0 / 126.8257\u00b0",
     "area": "Yellow Sea",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9293650": {
     "rowidx": 246,
@@ -596,16 +596,16 @@
     "grossTonnage": "47,077",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/10/25 19:21",
-    "deptTime": "2022/10/26 05:21",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/10/27 13:00",
+    "deptTime": "2022/10/27 05:00",
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
     "destLocalTime": "2022/11/01 21:00",
     "destTime": "2022/11/01 13:00",
-    "position": "31.32363\u00b0 / 121.6794\u00b0",
+    "position": "31.28742\u00b0 / 121.8089\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
