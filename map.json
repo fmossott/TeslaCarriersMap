@@ -26,7 +26,7 @@
     "destTime": "2022/11/01 10:00",
     "position": "22.55603\u00b0 / 119.1513\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9889100": {
     "rowidx": 7,
@@ -340,12 +340,12 @@
     "deptTime": "2022/10/10 04:28",
     "dest": "IL ETH",
     "destLong": "Eilat",
-    "destType": "ETA",
-    "destLocalTime": "2022/10/29 19:30",
-    "destTime": "2022/10/29 16:30",
-    "position": "29.52293\u00b0 / 34.94836\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/10/29 20:07",
+    "destTime": "2022/10/29 17:07",
+    "position": "29.53136\u00b0 / 34.94162\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9441506": {
     "rowidx": 241,
@@ -546,9 +546,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/29 23:52",
     "destTime": "2022/10/29 15:52",
-    "position": "39.00677\u00b0 / 117.7782\u00b0",
+    "position": "39.02107\u00b0 / 117.7689\u00b0",
     "area": "Bohai Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9082324": {
     "rowidx": 248,
