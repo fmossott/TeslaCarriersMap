@@ -109,8 +109,8 @@
     "dest": "TW TPE",
     "destLong": "Taipei",
     "destType": "ETA",
-    "destLocalTime": "2022/11/09 01:00",
-    "destTime": "2022/11/08 17:00",
+    "destLocalTime": "2022/11/09 05:00",
+    "destTime": "2022/11/08 21:00",
     "position": "37.56406\u00b0 / -124.4739\u00b0",
     "area": "US West Coast",
     "status": "Out of Range"
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/28 21:50",
     "destTime": "2022/10/28 19:50",
-    "position": "45.58066\u00b0 / 13.69144\u00b0",
+    "position": "45.58076\u00b0 / 13.69147\u00b0",
     "area": "Adriatic Sea",
     "status": "At Anchor"
   },
@@ -277,17 +277,17 @@
     "grossTonnage": "75,283",
     "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/10/18 23:30",
-    "deptTime": "2022/10/18 22:30",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/10/29 21:28",
+    "deptTime": "2022/10/29 19:28",
     "dest": "DE BRV",
     "destLong": "Bremerhaven",
     "destType": "ETA",
     "destLocalTime": "2022/11/02 05:00",
     "destTime": "2022/11/02 04:00",
-    "position": "51.33429\u00b0 / 3.216927\u00b0",
+    "position": "51.38944\u00b0 / 2.976923\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9451006": {
     "rowidx": 239,
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/26 23:38",
     "destTime": "2022/10/26 21:38",
-    "position": "51.30658\u00b0 / 3.227345\u00b0",
+    "position": "51.30659\u00b0 / 3.227343\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
