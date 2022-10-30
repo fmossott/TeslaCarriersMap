@@ -171,7 +171,7 @@
     "destTime": "2022/11/07 07:00",
     "position": "5.905335\u00b0 / 80.16827\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9184940": {
     "rowidx": 12,
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/29 20:07",
     "destTime": "2022/10/29 17:07",
-    "position": "29.53127\u00b0 / 34.94159\u00b0",
+    "position": "29.53129\u00b0 / 34.94156\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/02 06:00",
     "destTime": "2022/11/01 19:00",
-    "position": "-21.17747\u00b0 / 154.0808\u00b0",
+    "position": "-21.44869\u00b0 / 154.1321\u00b0",
     "area": "Coral Sea",
     "status": "Underway using Engine"
   },
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/30 15:39",
     "destTime": "2022/10/30 07:39",
-    "position": "31.32209\u00b0 / 121.6816\u00b0",
+    "position": "31.3221\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -652,18 +652,18 @@
     "length": "199.11",
     "breadth": "32.29",
     "grossTonnage": "55,598",
-    "dept": "AU PKL",
-    "deptLong": "Port Kembla",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/10/18 23:33",
-    "deptTime": "2022/10/18 12:33",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/10/30 02:47",
-    "destTime": "2022/10/29 18:47",
-    "position": "31.32345\u00b0 / 121.6794\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/10/30 05:47",
+    "deptTime": "2022/10/29 18:47",
+    "dest": "AU BNE",
+    "destLong": "Brisbane",
+    "destType": "ETA",
+    "destLocalTime": "2022/11/10 06:00",
+    "destTime": "2022/11/09 20:00",
+    "position": "31.32341\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Stopped"
   }
 }
