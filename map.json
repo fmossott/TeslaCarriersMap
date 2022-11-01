@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/01 16:00",
     "destTime": "2022/11/01 08:00",
-    "position": "1.304908\u00b0 / 104.2776\u00b0",
+    "position": "1.268133\u00b0 / 104.0543\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -181,7 +181,7 @@
     "notes": "",
     "quarter": "22Q4",
     "numDept": "1",
-    "mapStatus": "2",
+    "mapStatus": "3",
     "mtsid": "421804",
     "name": "Grand Race",
     "mmsi": "357983000",
@@ -239,7 +239,7 @@
     "notes": "",
     "quarter": "22Q4",
     "numDept": "3",
-    "mapStatus": "2",
+    "mapStatus": "3",
     "mtsid": "6655570",
     "name": "Grande California",
     "mmsi": "247441300",
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/31 16:50",
     "destTime": "2022/10/31 15:50",
-    "position": "45.56697\u00b0 / 13.74402\u00b0",
+    "position": "45.56695\u00b0 / 13.744\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -285,9 +285,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/01 23:30",
     "destTime": "2022/11/01 22:30",
-    "position": "54.04985\u00b0 / 7.432364\u00b0",
+    "position": "54.05005\u00b0 / 7.433991\u00b0",
     "area": "North Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9451006": {
     "rowidx": 239,
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/26 23:38",
     "destTime": "2022/10/26 21:38",
-    "position": "51.30661\u00b0 / 3.227383\u00b0",
+    "position": "51.30659\u00b0 / 3.227365\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -372,7 +372,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/23 02:07",
     "destTime": "2022/10/22 15:07",
-    "position": "-34.4559\u00b0 / 150.8914\u00b0",
+    "position": "-34.45593\u00b0 / 150.8913\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/02 06:00",
     "destTime": "2022/11/01 19:00",
-    "position": "-32.79347\u00b0 / 152.6765\u00b0",
+    "position": "-33.07067\u00b0 / 152.5419\u00b0",
     "area": "Coral Sea",
     "status": "Underway using Engine"
   },
