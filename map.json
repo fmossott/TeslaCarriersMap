@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/31 16:50",
     "destTime": "2022/10/31 15:50",
-    "position": "45.56699\u00b0 / 13.74398\u00b0",
+    "position": "45.56701\u00b0 / 13.74399\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/02 04:24",
     "destTime": "2022/11/02 03:24",
-    "position": "53.57826\u00b0 / 8.552018\u00b0",
+    "position": "53.57825\u00b0 / 8.552018\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/26 23:38",
     "destTime": "2022/10/26 21:38",
-    "position": "51.3066\u00b0 / 3.227368\u00b0",
+    "position": "51.30659\u00b0 / 3.227365\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -458,9 +458,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/02 06:00",
     "destTime": "2022/11/01 19:00",
-    "position": "-34.24241\u00b0 / 151.5274\u00b0",
+    "position": "-34.23203\u00b0 / 151.5361\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9454723": {
     "rowidx": 245,
@@ -690,7 +690,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/03 23:00",
     "destTime": "2022/11/03 15:00",
-    "position": "24.48969\u00b0 / 119.4224\u00b0",
+    "position": "24.12762\u00b0 / 118.9962\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -806,7 +806,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/02 06:44",
     "destTime": "2022/11/01 22:44",
-    "position": "31.32167\u00b0 / 121.6817\u00b0",
+    "position": "31.32282\u00b0 / 121.6831\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -827,16 +827,16 @@
     "grossTonnage": "55,598",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/11/01 20:27",
-    "deptTime": "2022/11/01 09:27",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/11/02 18:59",
+    "deptTime": "2022/11/02 10:59",
     "dest": "NZ AKL",
     "destLong": "Auckland",
     "destType": "ETA",
     "destLocalTime": "2022/11/15 18:00",
     "destTime": "2022/11/15 05:00",
-    "position": "31.32363\u00b0 / 121.6795\u00b0",
+    "position": "31.32031\u00b0 / 121.7101\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
