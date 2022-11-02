@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/31 16:50",
     "destTime": "2022/10/31 15:50",
-    "position": "45.56696\u00b0 / 13.744\u00b0",
+    "position": "45.56694\u00b0 / 13.74398\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/02 04:24",
     "destTime": "2022/11/02 03:24",
-    "position": "53.57825\u00b0 / 8.552015\u00b0",
+    "position": "53.57829\u00b0 / 8.552003\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/26 23:38",
     "destTime": "2022/10/26 21:38",
-    "position": "51.30661\u00b0 / 3.227372\u00b0",
+    "position": "51.30659\u00b0 / 3.22736\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -401,14 +401,42 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/23 02:07",
     "destTime": "2022/10/22 15:07",
-    "position": "-34.45591\u00b0 / 150.8913\u00b0",
+    "position": "-34.45592\u00b0 / 150.8913\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
-  "9283863": {
+  "9702417": {
     "rowidx": 243,
     "silence": "FALSE",
     "num": "-18",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q4",
+    "numDept": "0",
+    "mtsid": "714636",
+    "name": "Glovis Summit",
+    "mmsi": "538005600",
+    "length": "199.97",
+    "breadth": "35",
+    "grossTonnage": "64,546",
+    "dept": "CN TAG",
+    "deptLong": "Taicang",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/10/17 12:27",
+    "deptTime": "2022/10/17 04:27",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ETA",
+    "destLocalTime": "2022/11/06 10:00",
+    "destTime": "2022/11/06 08:00",
+    "position": "",
+    "area": "Laccadive Sea",
+    "status": "Out of Range"
+  },
+  "9283863": {
+    "rowidx": 244,
+    "silence": "FALSE",
+    "num": "-19",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -430,14 +458,14 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/02 06:00",
     "destTime": "2022/11/01 19:00",
-    "position": "-34.26661\u00b0 / 151.5222\u00b0",
+    "position": "-34.25553\u00b0 / 151.5166\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
   "9454723": {
-    "rowidx": 244,
+    "rowidx": 245,
     "silence": "FALSE",
-    "num": "-19",
+    "num": "-20",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -464,9 +492,9 @@
     "status": "Underway using Engine"
   },
   "9432880": {
-    "rowidx": 245,
+    "rowidx": 246,
     "silence": "FALSE",
-    "num": "-20",
+    "num": "-21",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -493,9 +521,9 @@
     "status": "Out of Range"
   },
   "9319765": {
-    "rowidx": 246,
+    "rowidx": 247,
     "silence": "FALSE",
-    "num": "-21",
+    "num": "-22",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -522,9 +550,9 @@
     "status": "Underway using Engine"
   },
   "9293650": {
-    "rowidx": 247,
+    "rowidx": 248,
     "silence": "FALSE",
-    "num": "-22",
+    "num": "-23",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -551,9 +579,9 @@
     "status": "Moored"
   },
   "9702405": {
-    "rowidx": 248,
+    "rowidx": 249,
     "silence": "FALSE",
-    "num": "-23",
+    "num": "-24",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -580,9 +608,9 @@
     "status": "Underway using Engine"
   },
   "9082324": {
-    "rowidx": 249,
+    "rowidx": 250,
     "silence": "FALSE",
-    "num": "-24",
+    "num": "-25",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -609,9 +637,9 @@
     "status": "Underway using Engine"
   },
   "9285641": {
-    "rowidx": 250,
+    "rowidx": 251,
     "silence": "FALSE",
-    "num": "-25",
+    "num": "-26",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -638,9 +666,9 @@
     "status": "Out of Range"
   },
   "9453298": {
-    "rowidx": 251,
+    "rowidx": 252,
     "silence": "FALSE",
-    "num": "-26",
+    "num": "-27",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -667,9 +695,9 @@
     "status": "Underway using Engine"
   },
   "9082934": {
-    "rowidx": 252,
+    "rowidx": 253,
     "silence": "FALSE",
-    "num": "-27",
+    "num": "-28",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -696,9 +724,9 @@
     "status": "Out of Range"
   },
   "9171280": {
-    "rowidx": 253,
+    "rowidx": 254,
     "silence": "FALSE",
-    "num": "-28",
+    "num": "-29",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -725,9 +753,9 @@
     "status": "Out of Range"
   },
   "9782089": {
-    "rowidx": 254,
+    "rowidx": 255,
     "silence": "FALSE",
-    "num": "-29",
+    "num": "-30",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -754,9 +782,9 @@
     "status": "Underway using Engine"
   },
   "9441520": {
-    "rowidx": 255,
+    "rowidx": 256,
     "silence": "FALSE",
-    "num": "-30",
+    "num": "-31",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -783,9 +811,9 @@
     "status": "Moored"
   },
   "9070450": {
-    "rowidx": 256,
+    "rowidx": 257,
     "silence": "FALSE",
-    "num": "-31",
+    "num": "-32",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
