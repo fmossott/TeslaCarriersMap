@@ -14,19 +14,19 @@
     "length": "199.97",
     "breadth": "32.3",
     "grossTonnage": "57,542",
-    "dept": "KR PTK",
-    "deptLong": "Pyeongtaek",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/11/01 21:32",
-    "deptTime": "2022/11/01 12:32",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/11/03 06:55",
-    "destTime": "2022/11/02 22:55",
-    "position": "30.8362\u00b0 / 121.8364\u00b0",
+    "deptLocalTime": "2022/11/03 19:38",
+    "deptTime": "2022/11/03 11:38",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/11/09 12:00",
+    "destTime": "2022/11/09 04:00",
+    "position": "30.74505\u00b0 / 121.8509\u00b0",
     "area": "East China Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9446477": {
     "rowidx": 7,
@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/04 15:30",
     "destTime": "2022/11/04 06:30",
-    "position": "33.20635\u00b0 / 128.2491\u00b0",
+    "position": "33.59835\u00b0 / 128.9501\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/31 16:50",
     "destTime": "2022/10/31 15:50",
-    "position": "45.56695\u00b0 / 13.74398\u00b0",
+    "position": "45.56696\u00b0 / 13.744\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/02 04:24",
     "destTime": "2022/11/02 03:24",
-    "position": "53.57826\u00b0 / 8.552023\u00b0",
+    "position": "53.57825\u00b0 / 8.55206\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/10/26 23:38",
     "destTime": "2022/10/26 21:38",
-    "position": "51.3066\u00b0 / 3.227377\u00b0",
+    "position": "51.3066\u00b0 / 3.22732\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -545,9 +545,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/05 12:00",
     "destTime": "2022/11/05 04:00",
-    "position": "15.9709\u00b0 / 117.6577\u00b0",
+    "position": "9.446917\u00b0 / 110.2832\u00b0",
     "area": "Philippines",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9293650": {
     "rowidx": 249,
@@ -690,7 +690,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/03 17:30",
     "destTime": "2022/11/03 09:30",
-    "position": "21.8268\u00b0 / 113.7369\u00b0",
+    "position": "21.81494\u00b0 / 113.6816\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
@@ -864,7 +864,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/02 19:34",
     "destTime": "2022/11/02 11:34",
-    "position": "31.32355\u00b0 / 121.6796\u00b0",
+    "position": "31.32353\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -893,7 +893,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/03 10:01",
     "destTime": "2022/11/03 02:01",
-    "position": "31.32213\u00b0 / 121.6818\u00b0",
+    "position": "31.32212\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
