@@ -282,12 +282,12 @@
     "deptTime": "2022/11/03 20:30",
     "dest": "IT MNF",
     "destLong": "Monfalcone",
-    "destType": "ETA",
-    "destLocalTime": "2022/11/03 22:30",
-    "destTime": "2022/11/03 21:30",
-    "position": "45.70837\u00b0 / 13.63602\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/11/03 23:19",
+    "destTime": "2022/11/03 22:19",
+    "position": "45.78561\u00b0 / 13.55293\u00b0",
     "area": "Adriatic Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9702443": {
     "rowidx": 240,
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/02 04:24",
     "destTime": "2022/11/02 03:24",
-    "position": "53.82323\u00b0 / 8.106413\u00b0",
+    "position": "53.88619\u00b0 / 7.759353\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -603,7 +603,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/01 21:23",
     "destTime": "2022/11/01 12:23",
-    "position": "36.98335\u00b0 / 126.8237\u00b0",
+    "position": "36.97458\u00b0 / 126.8299\u00b0",
     "area": "Yellow Sea",
     "status": "Stopped"
   },
@@ -661,7 +661,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/03 21:44",
     "destTime": "2022/11/03 13:44",
-    "position": "31.3235\u00b0 / 121.6794\u00b0",
+    "position": "31.32353\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -690,7 +690,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/03 17:30",
     "destTime": "2022/11/03 09:30",
-    "position": "21.81426\u00b0 / 113.7561\u00b0",
+    "position": "21.79609\u00b0 / 113.7371\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
@@ -777,9 +777,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/02 23:14",
     "destTime": "2022/11/02 14:14",
-    "position": "36.98109\u00b0 / 126.8256\u00b0",
+    "position": "36.97788\u00b0 / 126.8259\u00b0",
     "area": "Yellow Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9441520": {
     "rowidx": 257,
@@ -883,16 +883,16 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "60,131",
-    "dept": "JP MIZ",
-    "deptLong": "Mizushima",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/10/31 20:29",
-    "deptTime": "2022/10/31 11:29",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/11/03 10:01",
-    "destTime": "2022/11/03 02:01",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/11/03 11:01",
+    "deptTime": "2022/11/03 02:01",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/11/09 19:00",
+    "destTime": "2022/11/09 11:00",
     "position": "31.32212\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
