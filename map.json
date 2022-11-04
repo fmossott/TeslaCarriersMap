@@ -6,7 +6,7 @@
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
-    "numDept": "9",
+    "numDept": "10",
     "mapStatus": "2",
     "mtsid": "730665",
     "name": "Morning Cello",
@@ -58,14 +58,14 @@
     "status": "Underway using Engine"
   },
   "9171280": {
-    "rowidx": 256,
+    "rowidx": 8,
     "silence": "FALSE",
-    "num": "-29",
+    "num": "219",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
-    "numDept": "0",
-    "mapStatus": "4",
+    "numDept": "9",
+    "mapStatus": "2",
     "mtsid": "312911",
     "name": "Hoegh Trader",
     "mmsi": "258882000",
@@ -285,8 +285,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/06 18:00",
     "destTime": "2022/11/06 17:00",
-    "position": "35.3979\u00b0 / 17.95083\u00b0",
-    "area": "East Mediterranean",
+    "position": "36.23653\u00b0 / 14.65805\u00b0",
+    "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
   "9702443": {
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/02 04:24",
     "destTime": "2022/11/02 03:24",
-    "position": "51.67855\u00b0 / 2.262578\u00b0",
+    "position": "51.50876\u00b0 / 2.038427\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -458,7 +458,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/05 09:00",
     "destTime": "2022/11/04 22:00",
-    "position": "-34.54208\u00b0 / 151.5401\u00b0",
+    "position": "-34.34277\u00b0 / 151.3802\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -603,7 +603,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/05 11:00",
     "destTime": "2022/11/05 02:00",
-    "position": "34.04323\u00b0 / 126.5835\u00b0",
+    "position": "34.05121\u00b0 / 126.7398\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -637,9 +637,9 @@
     "status": "Underway using Engine"
   },
   "9285641": {
-    "rowidx": 262,
+    "rowidx": 261,
     "silence": "FALSE",
-    "num": "-35",
+    "num": "-34",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -690,7 +690,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/04 16:01",
     "destTime": "2022/11/04 08:01",
-    "position": "23.0123\u00b0 / 113.5291\u00b0",
+    "position": "23.01227\u00b0 / 113.5291\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -724,9 +724,9 @@
     "status": "Out of Range"
   },
   "9782089": {
-    "rowidx": 257,
+    "rowidx": 256,
     "silence": "FALSE",
-    "num": "-30",
+    "num": "-29",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -753,9 +753,9 @@
     "status": "Stopped"
   },
   "9441520": {
-    "rowidx": 258,
+    "rowidx": 257,
     "silence": "FALSE",
-    "num": "-31",
+    "num": "-30",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -782,9 +782,9 @@
     "status": "Underway using Engine"
   },
   "9070450": {
-    "rowidx": 259,
+    "rowidx": 258,
     "silence": "FALSE",
-    "num": "-32",
+    "num": "-31",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -811,9 +811,9 @@
     "status": "Underway using Engine"
   },
   "9312834": {
-    "rowidx": 260,
+    "rowidx": 259,
     "silence": "FALSE",
-    "num": "-33",
+    "num": "-32",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -835,14 +835,14 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/05 07:00",
     "destTime": "2022/11/04 22:00",
-    "position": "33.94352\u00b0 / 129.6876\u00b0",
-    "area": "East China Sea",
+    "position": "33.8378\u00b0 / 129.9903\u00b0",
+    "area": "Japan Coast",
     "status": "Underway using Engine"
   },
   "9539224": {
-    "rowidx": 261,
+    "rowidx": 260,
     "silence": "FALSE",
-    "num": "-34",
+    "num": "-33",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -869,9 +869,9 @@
     "status": "Underway using Engine"
   },
   "9477725": {
-    "rowidx": 263,
+    "rowidx": 262,
     "silence": "FALSE",
-    "num": "-36",
+    "num": "-35",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
