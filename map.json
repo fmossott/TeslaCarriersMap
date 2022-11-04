@@ -254,8 +254,8 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/11/07 09:00",
-    "destTime": "2022/11/07 07:00",
+    "destLocalTime": "2022/11/07 17:00",
+    "destTime": "2022/11/07 15:00",
     "position": "5.905335\u00b0 / 80.16827\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/04 22:30",
     "destTime": "2022/11/04 11:30",
-    "position": "-38.49829\u00b0 / 144.7189\u00b0",
+    "position": "-38.44456\u00b0 / 144.6198\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -603,7 +603,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/05 11:00",
     "destTime": "2022/11/05 02:00",
-    "position": "36.09555\u00b0 / 125.6254\u00b0",
+    "position": "35.45412\u00b0 / 125.5688\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
@@ -661,7 +661,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/03 21:44",
     "destTime": "2022/11/03 13:44",
-    "position": "31.32354\u00b0 / 121.6794\u00b0",
+    "position": "31.32352\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -777,7 +777,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/05 09:30",
     "destTime": "2022/11/05 01:30",
-    "position": "38.86349\u00b0 / 118.8115\u00b0",
+    "position": "38.84276\u00b0 / 118.8069\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
@@ -883,18 +883,18 @@
     "length": "165",
     "breadth": "27.6",
     "grossTonnage": "28,755",
-    "dept": "JP HKT",
-    "deptLong": "Hakata",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/11/02 17:21",
-    "deptTime": "2022/11/02 08:21",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/11/04 09:58",
-    "destTime": "2022/11/04 01:58",
-    "position": "31.32222\u00b0 / 121.6814\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/11/04 10:58",
+    "deptTime": "2022/11/04 01:58",
+    "dest": "TW TPE",
+    "destLong": "Taipei",
+    "destType": "ETA",
+    "destLocalTime": "2022/11/06 06:00",
+    "destTime": "2022/11/05 22:00",
+    "position": "31.32167\u00b0 / 121.6878\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
