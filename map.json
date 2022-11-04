@@ -2,12 +2,12 @@
   "9329461": {
     "rowidx": 6,
     "silence": "FALSE",
-    "num": "220",
+    "num": "221",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
-    "numDept": "9",
-    "mapStatus": "1",
+    "numDept": "10",
+    "mapStatus": "2",
     "mtsid": "730665",
     "name": "Morning Cello",
     "mmsi": "374042000",
@@ -31,7 +31,7 @@
   "9446477": {
     "rowidx": 7,
     "silence": "FALSE",
-    "num": "219",
+    "num": "220",
     "manDept": "SHG",
     "notes": "",
     "quarter": "",
@@ -57,8 +57,37 @@
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
+  "9171280": {
+    "rowidx": 256,
+    "silence": "FALSE",
+    "num": "-29",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q4",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "312911",
+    "name": "Hoegh Trader",
+    "mmsi": "258882000",
+    "length": "228.77",
+    "breadth": "32.29",
+    "grossTonnage": "68,060",
+    "dept": "CN TAG",
+    "deptLong": "Taicang",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/10/29 14:28",
+    "deptTime": "2022/10/29 06:28",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/11/06 11:00",
+    "destTime": "2022/11/06 03:00",
+    "position": "10.27594\u00b0 / 111.5172\u00b0",
+    "area": "Indonesia",
+    "status": "Underway using Engine"
+  },
   "9391593": {
-    "rowidx": 8,
+    "rowidx": 9,
     "silence": "FALSE",
     "num": "218",
     "manDept": "SHG",
@@ -87,7 +116,7 @@
     "status": "Underway using Engine"
   },
   "9889100": {
-    "rowidx": 9,
+    "rowidx": 10,
     "silence": "FALSE",
     "num": "217",
     "manDept": "KOP",
@@ -116,7 +145,7 @@
     "status": "Underway using Engine"
   },
   "9690559": {
-    "rowidx": 10,
+    "rowidx": 11,
     "silence": "FALSE",
     "num": "216",
     "manDept": "SHG",
@@ -145,7 +174,7 @@
     "status": "Out of Range"
   },
   "9493365": {
-    "rowidx": 11,
+    "rowidx": 12,
     "silence": "FALSE",
     "num": "215",
     "manDept": "SFO",
@@ -174,7 +203,7 @@
     "status": "Out of Range"
   },
   "9660798": {
-    "rowidx": 12,
+    "rowidx": 13,
     "silence": "FALSE",
     "num": "214",
     "manDept": "SHG",
@@ -203,7 +232,7 @@
     "status": "Out of Range"
   },
   "9680712": {
-    "rowidx": 13,
+    "rowidx": 14,
     "silence": "FALSE",
     "num": "213",
     "manDept": "SHG",
@@ -232,7 +261,7 @@
     "status": "Out of Range"
   },
   "9318462": {
-    "rowidx": 15,
+    "rowidx": 16,
     "silence": "FALSE",
     "num": "211",
     "manDept": "SHG",
@@ -256,41 +285,12 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/06 18:00",
     "destTime": "2022/11/06 17:00",
-    "position": "34.69442\u00b0 / 20.75029\u00b0",
+    "position": "35.26203\u00b0 / 18.47659\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
-  "9796377": {
-    "rowidx": 16,
-    "silence": "FALSE",
-    "num": "210",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "22Q4",
-    "numDept": "3",
-    "mapStatus": "3",
-    "mtsid": "6655570",
-    "name": "Grande California",
-    "mmsi": "247441300",
-    "length": "199.9",
-    "breadth": "36",
-    "grossTonnage": "65,148",
-    "dept": "SI KOP",
-    "deptLong": "Koper",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/11/03 21:30",
-    "deptTime": "2022/11/03 20:30",
-    "dest": "IT MNF",
-    "destLong": "Monfalcone",
-    "destType": "ATA",
-    "destLocalTime": "2022/11/03 23:19",
-    "destTime": "2022/11/03 22:19",
-    "position": "45.78618\u00b0 / 13.55362\u00b0",
-    "area": "Adriatic Sea",
-    "status": "Moored"
-  },
   "9702443": {
-    "rowidx": 240,
+    "rowidx": 241,
     "silence": "FALSE",
     "num": "-14",
     "manDept": "SHG",
@@ -319,7 +319,7 @@
     "status": "Underway using Engine"
   },
   "9451006": {
-    "rowidx": 241,
+    "rowidx": 242,
     "silence": "FALSE",
     "num": "-15",
     "manDept": "SHG",
@@ -348,7 +348,7 @@
     "status": "Underway using Engine"
   },
   "9174282": {
-    "rowidx": 242,
+    "rowidx": 243,
     "silence": "FALSE",
     "num": "-16",
     "manDept": "SHG",
@@ -377,7 +377,7 @@
     "status": "Out of Range"
   },
   "9441506": {
-    "rowidx": 243,
+    "rowidx": 244,
     "silence": "FALSE",
     "num": "-17",
     "manDept": "SHG",
@@ -401,12 +401,12 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/04 22:30",
     "destTime": "2022/11/04 11:30",
-    "position": "-38.95451\u00b0 / 145.6908\u00b0",
+    "position": "-38.79795\u00b0 / 145.3241\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
   "9702417": {
-    "rowidx": 244,
+    "rowidx": 245,
     "silence": "FALSE",
     "num": "-18",
     "manDept": "SHG",
@@ -434,7 +434,7 @@
     "status": "Out of Range"
   },
   "9283863": {
-    "rowidx": 245,
+    "rowidx": 246,
     "silence": "FALSE",
     "num": "-19",
     "manDept": "SHG",
@@ -463,7 +463,7 @@
     "status": "Underway using Engine"
   },
   "9454723": {
-    "rowidx": 246,
+    "rowidx": 247,
     "silence": "FALSE",
     "num": "-20",
     "manDept": "SHG",
@@ -492,7 +492,7 @@
     "status": "Out of Range"
   },
   "9432880": {
-    "rowidx": 247,
+    "rowidx": 248,
     "silence": "FALSE",
     "num": "-21",
     "manDept": "SHG",
@@ -521,7 +521,7 @@
     "status": "Underway using Engine"
   },
   "9319765": {
-    "rowidx": 248,
+    "rowidx": 249,
     "silence": "FALSE",
     "num": "-22",
     "manDept": "SHG",
@@ -550,7 +550,7 @@
     "status": "Underway using Engine"
   },
   "9293650": {
-    "rowidx": 249,
+    "rowidx": 250,
     "silence": "FALSE",
     "num": "-23",
     "manDept": "SHG",
@@ -579,7 +579,7 @@
     "status": "Underway using Engine"
   },
   "9702405": {
-    "rowidx": 250,
+    "rowidx": 251,
     "silence": "FALSE",
     "num": "-24",
     "manDept": "SHG",
@@ -608,7 +608,7 @@
     "status": "Underway using Engine"
   },
   "9082324": {
-    "rowidx": 251,
+    "rowidx": 252,
     "silence": "FALSE",
     "num": "-25",
     "manDept": "SHG",
@@ -632,14 +632,14 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/04 14:09",
     "destTime": "2022/11/04 06:09",
-    "position": "1.282733\u00b0 / 103.7514\u00b0",
+    "position": "1.282767\u00b0 / 103.7514\u00b0",
     "area": "Singapore Area",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9285641": {
-    "rowidx": 252,
+    "rowidx": 262,
     "silence": "FALSE",
-    "num": "-26",
+    "num": "-35",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -661,12 +661,12 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/03 21:44",
     "destTime": "2022/11/03 13:44",
-    "position": "31.32354\u00b0 / 121.6794\u00b0",
+    "position": "31.32333\u00b0 / 121.6783\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
   "9453298": {
-    "rowidx": 253,
+    "rowidx": 254,
     "silence": "FALSE",
     "num": "-27",
     "manDept": "SHG",
@@ -695,7 +695,7 @@
     "status": "Underway using Engine"
   },
   "9082934": {
-    "rowidx": 254,
+    "rowidx": 255,
     "silence": "FALSE",
     "num": "-28",
     "manDept": "SHG",
@@ -723,37 +723,8 @@
     "area": "East China Sea",
     "status": "Out of Range"
   },
-  "9171280": {
-    "rowidx": 255,
-    "silence": "FALSE",
-    "num": "-29",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "22Q4",
-    "numDept": "0",
-    "mapStatus": "4",
-    "mtsid": "312911",
-    "name": "Hoegh Trader",
-    "mmsi": "258882000",
-    "length": "228.77",
-    "breadth": "32.29",
-    "grossTonnage": "68,060",
-    "dept": "CN TAG",
-    "deptLong": "Taicang",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/10/29 14:28",
-    "deptTime": "2022/10/29 06:28",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2022/11/06 11:00",
-    "destTime": "2022/11/06 03:00",
-    "position": "10.27594\u00b0 / 111.5172\u00b0",
-    "area": "Indonesia",
-    "status": "Underway using Engine"
-  },
   "9782089": {
-    "rowidx": 256,
+    "rowidx": 257,
     "silence": "FALSE",
     "num": "-30",
     "manDept": "SHG",
@@ -782,7 +753,7 @@
     "status": "Stopped"
   },
   "9441520": {
-    "rowidx": 257,
+    "rowidx": 258,
     "silence": "FALSE",
     "num": "-31",
     "manDept": "SHG",
@@ -806,12 +777,12 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/05 09:30",
     "destTime": "2022/11/05 01:30",
-    "position": "38.65672\u00b0 / 120.3302\u00b0",
+    "position": "38.88825\u00b0 / 118.8361\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
   "9070450": {
-    "rowidx": 258,
+    "rowidx": 259,
     "silence": "FALSE",
     "num": "-32",
     "manDept": "SHG",
@@ -840,7 +811,7 @@
     "status": "Underway using Engine"
   },
   "9312834": {
-    "rowidx": 259,
+    "rowidx": 260,
     "silence": "FALSE",
     "num": "-33",
     "manDept": "SHG",
@@ -864,12 +835,12 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/05 06:30",
     "destTime": "2022/11/04 21:30",
-    "position": "31.08797\u00b0 / 122.9157\u00b0",
+    "position": "32.68416\u00b0 / 126.6649\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
   "9539224": {
-    "rowidx": 260,
+    "rowidx": 261,
     "silence": "FALSE",
     "num": "-34",
     "manDept": "SHG",
@@ -896,5 +867,34 @@
     "position": "31.29317\u00b0 / 121.7902\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
+  },
+  "9477725": {
+    "rowidx": 263,
+    "silence": "FALSE",
+    "num": "-36",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q4",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "728123",
+    "name": "Tocho",
+    "mmsi": "564352000",
+    "length": "165",
+    "breadth": "27.6",
+    "grossTonnage": "28,755",
+    "dept": "JP HKT",
+    "deptLong": "Hakata",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/11/02 17:21",
+    "deptTime": "2022/11/02 08:21",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/11/04 09:58",
+    "destTime": "2022/11/04 01:58",
+    "position": "31.32219\u00b0 / 121.6815\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
   }
 }
