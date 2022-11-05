@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/05 09:16",
     "destTime": "2022/11/05 01:16",
-    "position": "30.83607\u00b0 / 121.8358\u00b0",
+    "position": "30.83601\u00b0 / 121.8358\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -55,7 +55,7 @@
     "destTime": "2022/11/09 04:00",
     "position": "24.63854\u00b0 / 119.5897\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9446477": {
     "rowidx": 8,
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/06 18:00",
     "destTime": "2022/11/06 17:00",
-    "position": "38.79833\u00b0 / 8.093\u00b0",
+    "position": "38.94507\u00b0 / 7.721853\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/05 03:28",
     "destTime": "2022/11/04 16:28",
-    "position": "-37.84134\u00b0 / 144.9041\u00b0",
+    "position": "-37.84135\u00b0 / 144.9041\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -546,9 +546,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/14 19:00",
     "destTime": "2022/11/14 17:00",
-    "position": "6.314967\u00b0 / 95.14415\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "5.849683\u00b0 / 80.09179\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9319765": {
     "rowidx": 250,
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/05 10:30",
     "destTime": "2022/11/05 02:30",
-    "position": "1.248933\u00b0 / 103.8776\u00b0",
+    "position": "1.247983\u00b0 / 103.8766\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
