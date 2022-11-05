@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/05 09:16",
     "destTime": "2022/11/05 01:16",
-    "position": "30.83603\u00b0 / 121.8358\u00b0",
+    "position": "30.83604\u00b0 / 121.8358\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/05 03:28",
     "destTime": "2022/11/04 16:28",
-    "position": "-37.84135\u00b0 / 144.9041\u00b0",
+    "position": "-37.84136\u00b0 / 144.9041\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -575,7 +575,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/05 10:30",
     "destTime": "2022/11/05 02:30",
-    "position": "1.2478\u00b0 / 103.8767\u00b0",
+    "position": "1.247833\u00b0 / 103.8767\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -606,7 +606,7 @@
     "destTime": "2022/11/10 23:00",
     "position": "6.180977\u00b0 / 95.16798\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9702405": {
     "rowidx": 252,
@@ -797,19 +797,19 @@
     "length": "199.95",
     "breadth": "32.29",
     "grossTonnage": "58,767",
-    "dept": "CN TXG",
-    "deptLong": "Tianjin",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/11/05 09:09",
-    "deptTime": "2022/11/05 01:09",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/11/02 19:21",
+    "deptTime": "2022/11/02 11:21",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
     "destType": "ETA",
     "destLocalTime": "2022/11/07 07:00",
     "destTime": "2022/11/06 22:00",
-    "position": "39.0214\u00b0 / 117.769\u00b0",
+    "position": "38.95369\u00b0 / 117.9057\u00b0",
     "area": "Bohai Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9070450": {
     "rowidx": 259,
@@ -894,7 +894,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/09 19:00",
     "destTime": "2022/11/09 11:00",
-    "position": "27.14511\u00b0 / 121.4576\u00b0",
+    "position": "23.94831\u00b0 / 118.7086\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
