@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/06 06:52",
     "destTime": "2022/11/05 21:52",
-    "position": "35.45422\u00b0 / 139.6853\u00b0",
+    "position": "35.45425\u00b0 / 139.6853\u00b0",
     "area": "Japan Coast",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/02 04:24",
     "destTime": "2022/11/02 03:24",
-    "position": "50.5088\u00b0 / -1.28998\u00b0",
+    "position": "50.50975\u00b0 / -1.233277\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/05 09:04",
     "destTime": "2022/11/04 22:04",
-    "position": "-34.45575\u00b0 / 150.8914\u00b0",
+    "position": "-34.45574\u00b0 / 150.8914\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -623,19 +623,19 @@
     "length": "199.97",
     "breadth": "35",
     "grossTonnage": "64,546",
-    "dept": "KR KAN",
-    "deptLong": "Gwangyang",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/11/05 11:30",
-    "deptTime": "2022/11/05 02:30",
+    "dept": "KR PTK",
+    "deptLong": "Pyeongtaek",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/11/04 12:39",
+    "deptTime": "2022/11/04 03:39",
     "dest": "CN YTG",
     "destLong": "Yantai",
     "destType": "ETA",
     "destLocalTime": "2022/11/08 01:00",
     "destTime": "2022/11/07 17:00",
-    "position": "34.88559\u00b0 / 127.6429\u00b0",
+    "position": "34.88121\u00b0 / 127.7565\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9082324": {
     "rowidx": 253,
@@ -865,9 +865,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/06 17:00",
     "destTime": "2022/11/06 08:00",
-    "position": "34.68265\u00b0 / 135.2907\u00b0",
+    "position": "34.68277\u00b0 / 135.2905\u00b0",
     "area": "Japan Coast",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9539224": {
     "rowidx": 261,
@@ -952,8 +952,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/07 05:00",
     "destTime": "2022/11/06 20:00",
-    "position": "31.08981\u00b0 / 122.928\u00b0",
-    "area": "East China Sea",
+    "position": "34.86035\u00b0 / 124.8382\u00b0",
+    "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
   "9519119": {
