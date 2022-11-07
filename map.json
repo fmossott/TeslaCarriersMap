@@ -19,12 +19,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/11/06 21:40",
     "deptTime": "2022/11/06 13:40",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ETA",
-    "destLocalTime": "2022/11/07 09:00",
-    "destTime": "2022/11/07 01:00",
-    "position": "31.13077\u00b0 / 122.603\u00b0",
+    "dest": "CN CJK",
+    "destLong": "Cjk",
+    "destType": "ATA",
+    "destLocalTime": "2022/11/07 08:42",
+    "destTime": "2022/11/07 00:42",
+    "position": "31.15236\u00b0 / 122.5992\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/06 06:52",
     "destTime": "2022/11/05 21:52",
-    "position": "35.45433\u00b0 / 139.6852\u00b0",
+    "position": "35.45429\u00b0 / 139.6853\u00b0",
     "area": "Japan Coast",
     "status": "Moored"
   },
@@ -256,9 +256,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/06 19:58",
     "destTime": "2022/11/06 17:58",
-    "position": "29.77073\u00b0 / 32.5677\u00b0",
+    "position": "29.82112\u00b0 / 32.55032\u00b0",
     "area": "Red Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9680712": {
     "rowidx": 15,
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/07 17:00",
     "destTime": "2022/11/07 15:00",
-    "position": "26.91732\u00b0 / 34.59577\u00b0",
+    "position": "27.28527\u00b0 / 34.31816\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -720,7 +720,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/08 21:00",
     "destTime": "2022/11/08 13:00",
-    "position": "31.11282\u00b0 / 123.03\u00b0",
+    "position": "31.49208\u00b0 / 123.2775\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
