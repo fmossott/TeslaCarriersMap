@@ -17,16 +17,16 @@
     "dept": "CN SHG",
     "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/11/06 21:40",
-    "deptTime": "2022/11/06 13:40",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/11/08 00:14",
-    "destTime": "2022/11/07 16:14",
-    "position": "31.32187\u00b0 / 121.6821\u00b0",
+    "deptLocalTime": "2022/11/08 11:53",
+    "deptTime": "2022/11/08 03:53",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/11/13 15:00",
+    "destTime": "2022/11/13 07:00",
+    "position": "31.31857\u00b0 / 121.7183\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9329461": {
     "rowidx": 7,
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/08 02:48",
     "destTime": "2022/11/08 00:48",
-    "position": "31.8323\u00b0 / 34.6493\u00b0",
+    "position": "31.83229\u00b0 / 34.64931\u00b0",
     "area": "East Mediterranean",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/07 17:34",
     "destTime": "2022/11/07 15:34",
-    "position": "29.84837\u00b0 / 32.55868\u00b0",
+    "position": "29.84917\u00b0 / 32.55878\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/06 16:16",
     "destTime": "2022/11/06 15:16",
-    "position": "41.33181\u00b0 / 2.146265\u00b0",
+    "position": "41.33181\u00b0 / 2.146262\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/08 21:00",
     "destTime": "2022/11/08 13:00",
-    "position": "38.61362\u00b0 / 120.7988\u00b0",
+    "position": "38.69878\u00b0 / 120.3512\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
