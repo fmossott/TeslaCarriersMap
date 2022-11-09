@@ -222,14 +222,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/10/21 07:15",
     "deptTime": "2022/10/20 23:15",
-    "dest": "IL ASH",
-    "destLong": "Ashdod",
-    "destType": "ATA",
+    "dest": "SI KOP",
+    "destLong": "Koper",
+    "destType": "ETA",
     "destLocalTime": "2022/11/08 02:48",
     "destTime": "2022/11/08 00:48",
-    "position": "31.83235\u00b0 / 34.64935\u00b0",
+    "position": "31.87171\u00b0 / 34.6207\u00b0",
     "area": "East Mediterranean",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9680712": {
     "rowidx": 15,
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/08 07:21",
     "destTime": "2022/11/08 05:21",
-    "position": "31.29191\u00b0 / 32.36397\u00b0",
+    "position": "34.1139\u00b0 / 26.52609\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/05 09:04",
     "destTime": "2022/11/04 22:04",
-    "position": "-34.45575\u00b0 / 150.8914\u00b0",
+    "position": "-34.45577\u00b0 / 150.8914\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -604,7 +604,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/10 04:30",
     "destTime": "2022/11/09 19:30",
-    "position": "33.18729\u00b0 / 135.6715\u00b0",
+    "position": "33.22645\u00b0 / 135.751\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -749,7 +749,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/09 13:44",
     "destTime": "2022/11/09 05:44",
-    "position": "31.32226\u00b0 / 121.6813\u00b0",
+    "position": "31.32228\u00b0 / 121.6813\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -778,7 +778,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/08 23:13",
     "destTime": "2022/11/08 15:13",
-    "position": "31.3237\u00b0 / 121.6795\u00b0",
+    "position": "31.32368\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
