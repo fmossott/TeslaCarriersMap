@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/08 02:48",
     "destTime": "2022/11/08 00:48",
-    "position": "34.55656\u00b0 / 24.19391\u00b0",
+    "position": "34.69493\u00b0 / 23.81409\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/05 09:04",
     "destTime": "2022/11/04 22:04",
-    "position": "-34.45577\u00b0 / 150.8914\u00b0",
+    "position": "-34.45575\u00b0 / 150.8914\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/11 03:00",
     "destTime": "2022/11/10 23:00",
-    "position": "26.01275\u00b0 / 55.48325\u00b0",
+    "position": "25.83708\u00b0 / 55.33793\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/10 11:32",
     "destTime": "2022/11/10 01:32",
-    "position": "-27.36775\u00b0 / 153.1737\u00b0",
+    "position": "-27.3678\u00b0 / 153.1738\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -797,18 +797,18 @@
     "length": "182.8",
     "breadth": "31.53",
     "grossTonnage": "46,800",
-    "dept": "IL ETH",
-    "deptLong": "Eilat",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/10/18 21:56",
-    "deptTime": "2022/10/18 18:56",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/11/10 01:26",
-    "destTime": "2022/11/09 17:26",
-    "position": "31.32247\u00b0 / 121.6817\u00b0",
+    "deptLocalTime": "2022/11/11 01:22",
+    "deptTime": "2022/11/10 17:22",
+    "dest": "IL ETH",
+    "destLong": "Eilat",
+    "destType": "ETA",
+    "destLocalTime": "2022/11/30 13:00",
+    "destTime": "2022/11/30 11:00",
+    "position": "31.32487\u00b0 / 121.7018\u00b0",
     "area": "East China Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   }
 }
