@@ -130,16 +130,16 @@
     "length": "199.96",
     "breadth": "38",
     "grossTonnage": "72,705",
-    "dept": "HK HKG",
-    "deptLong": "Hong Kong",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/11/11 21:56",
-    "deptTime": "2022/11/11 13:56",
-    "dest": "CN MCI",
-    "destLong": "Mcid",
-    "destType": "ATA",
-    "destLocalTime": "2022/11/12 17:25",
-    "destTime": "2022/11/12 09:25",
+    "dept": "CN MCI",
+    "deptLong": "Mcid",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/11/12 17:25",
+    "deptTime": "2022/11/12 09:25",
+    "dest": "CN STG",
+    "destLong": "Shantou",
+    "destType": "ETA",
+    "destLocalTime": "2022/11/15 16:00",
+    "destTime": "2022/11/15 08:00",
     "position": "23.01238\u00b0 / 113.5291\u00b0",
     "area": "South China",
     "status": "Moored"
@@ -169,9 +169,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/12 19:43",
     "destTime": "2022/11/12 17:43",
-    "position": "29.85063\u00b0 / 32.56122\u00b0",
+    "position": "29.85064\u00b0 / 32.56148\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9660798": {
     "rowidx": 14,
@@ -198,9 +198,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/12 21:23",
     "destTime": "2022/11/12 20:23",
-    "position": "45.56529\u00b0 / 13.73259\u00b0",
+    "position": "45.56696\u00b0 / 13.74399\u00b0",
     "area": "Adriatic Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9680712": {
     "rowidx": 15,
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/06 15:39",
     "destTime": "2022/11/06 13:39",
-    "position": "38.34387\u00b0 / -9.778143\u00b0",
+    "position": "38.62047\u00b0 / -9.840638\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/05 09:04",
     "destTime": "2022/11/04 22:04",
-    "position": "-34.45577\u00b0 / 150.8914\u00b0",
+    "position": "-34.45573\u00b0 / 150.8914\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
