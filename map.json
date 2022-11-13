@@ -19,14 +19,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/11/08 11:53",
     "deptTime": "2022/11/08 03:53",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2022/11/13 14:00",
-    "destTime": "2022/11/13 06:00",
-    "position": "1.286687\u00b0 / 103.991\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/11/13 14:18",
+    "destTime": "2022/11/13 06:18",
+    "position": "1.293902\u00b0 / 103.9984\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9329461": {
     "rowidx": 7,
@@ -138,9 +138,9 @@
     "dest": "CN STG",
     "destLong": "Shantou",
     "destType": "ETA",
-    "destLocalTime": "2022/11/15 16:00",
-    "destTime": "2022/11/15 08:00",
-    "position": "22.98496\u00b0 / 113.5362\u00b0",
+    "destLocalTime": "2022/11/15 17:00",
+    "destTime": "2022/11/15 09:00",
+    "position": "21.84143\u00b0 / 113.8637\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/13 11:30",
     "destTime": "2022/11/13 08:30",
-    "position": "26.4348\u00b0 / 50.97264\u00b0",
+    "position": "26.39161\u00b0 / 50.87115\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/13 23:30",
     "destTime": "2022/11/13 19:30",
-    "position": "25.96982\u00b0 / 56.6778\u00b0",
+    "position": "26.26267\u00b0 / 56.70847\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
