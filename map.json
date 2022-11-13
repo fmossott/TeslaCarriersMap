@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/11 19:30",
     "destTime": "2022/12/11 11:30",
-    "position": "30.83614\u00b0 / 121.8359\u00b0",
+    "position": "30.83607\u00b0 / 121.8359\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/13 14:18",
     "destTime": "2022/11/13 06:18",
-    "position": "1.293587\u00b0 / 103.9979\u00b0",
+    "position": "1.29344\u00b0 / 103.9976\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/13 23:30",
     "destTime": "2022/11/13 19:30",
-    "position": "25.71975\u00b0 / 55.27495\u00b0",
+    "position": "25.59223\u00b0 / 55.08809\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -604,7 +604,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/14 03:00",
     "destTime": "2022/11/13 18:00",
-    "position": "32.75687\u00b0 / 132.1617\u00b0",
+    "position": "32.944\u00b0 / 132.162\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -776,11 +776,11 @@
     "dest": "JP YOK",
     "destLong": "Yokohama",
     "destType": "ETA",
-    "destLocalTime": "2022/11/14 14:30",
-    "destTime": "2022/11/14 05:30",
-    "position": "34.43892\u00b0 / 139.7781\u00b0",
+    "destLocalTime": "2022/11/14 14:40",
+    "destTime": "2022/11/14 05:40",
+    "position": "34.48748\u00b0 / 139.8369\u00b0",
     "area": "Japan Coast",
-    "status": "Not Under Command"
+    "status": "Underway using Engine"
   },
   "9432907": {
     "rowidx": 261,
@@ -807,8 +807,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/01 14:00",
     "destTime": "2022/12/01 12:00",
-    "position": "24.92182\u00b0 / 120.5977\u00b0",
-    "area": "East China Sea",
+    "position": "21.77108\u00b0 / 119.2943\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   },
   "9308807": {
@@ -865,8 +865,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/18 06:00",
     "destTime": "2022/11/17 22:00",
-    "position": "31.08888\u00b0 / 122.7211\u00b0",
-    "area": "East China Sea",
+    "position": "23.63237\u00b0 / 119.8529\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   }
 }
