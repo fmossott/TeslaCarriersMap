@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/14 01:31",
     "destTime": "2022/11/14 09:31",
-    "position": "37.74958\u00b0 / -122.3758\u00b0",
+    "position": "37.74959\u00b0 / -122.3757\u00b0",
     "area": "US West Coast",
     "status": "Stopped"
   },
@@ -166,10 +166,10 @@
     "deptTime": "2022/10/27 05:07",
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2022/11/14 05:21",
-    "destTime": "2022/11/14 03:21",
-    "position": "31.12762\u00b0 / 32.31665\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2022/11/13 18:00",
+    "destTime": "2022/11/13 16:00",
+    "position": "31.26841\u00b0 / 32.3574\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/12 21:23",
     "destTime": "2022/11/12 20:23",
-    "position": "45.56697\u00b0 / 13.74398\u00b0",
+    "position": "45.56697\u00b0 / 13.74399\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -314,8 +314,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/06 15:39",
     "destTime": "2022/11/06 13:39",
-    "position": "49.16794\u00b0 / -4.671952\u00b0",
-    "area": "Celtic Sea",
+    "position": "49.30654\u00b0 / -4.307153\u00b0",
+    "area": "English Channel",
     "status": "Underway using Engine"
   },
   "9283863": {
@@ -712,17 +712,17 @@
     "grossTonnage": "57,692",
     "dept": "SG SIN",
     "deptLong": "Singapore",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/11/13 22:08",
-    "deptTime": "2022/11/13 14:08",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/11/14 21:01",
+    "deptTime": "2022/11/14 13:01",
     "dest": "SA JED",
     "destLong": "Jeddah",
     "destType": "ETA",
     "destLocalTime": "2022/11/25 12:00",
     "destTime": "2022/11/25 09:00",
-    "position": "1.265572\u00b0 / 103.8462\u00b0",
+    "position": "1.205917\u00b0 / 103.8595\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9565558": {
     "rowidx": 259,
@@ -807,7 +807,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/14 18:09",
     "destTime": "2022/11/14 09:09",
-    "position": "35.45638\u00b0 / 139.6807\u00b0",
+    "position": "35.4563\u00b0 / 139.6807\u00b0",
     "area": "Japan Coast",
     "status": "Moored"
   },
