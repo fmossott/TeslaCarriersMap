@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/12 21:23",
     "destTime": "2022/11/12 20:23",
-    "position": "45.56698\u00b0 / 13.74398\u00b0",
+    "position": "45.56697\u00b0 / 13.74399\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/08 07:21",
     "destTime": "2022/11/08 05:21",
-    "position": "43.80213\u00b0 / -8.573653\u00b0",
+    "position": "43.91062\u00b0 / -8.227818\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -314,9 +314,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/06 15:39",
     "destTime": "2022/11/06 13:39",
-    "position": "50.90136\u00b0 / -1.420152\u00b0",
+    "position": "50.90137\u00b0 / -1.420123\u00b0",
     "area": "English Channel",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9283863": {
     "rowidx": 245,
@@ -575,9 +575,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/15 15:35",
     "destTime": "2022/11/15 02:35",
-    "position": "-36.70606\u00b0 / 174.8565\u00b0",
+    "position": "-36.70552\u00b0 / 174.8545\u00b0",
     "area": "South Pacific",
-    "status": "Stopped"
+    "status": "At Anchor"
   },
   "9539224": {
     "rowidx": 254,
@@ -838,7 +838,7 @@
     "destTime": "2022/12/01 12:00",
     "position": "21.77108\u00b0 / 119.2943\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9308807": {
     "rowidx": 263,
