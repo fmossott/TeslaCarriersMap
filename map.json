@@ -396,12 +396,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/10/26 13:55",
     "deptTime": "2022/10/26 05:55",
-    "dest": "EG SUEZ SOUTH ANCH",
+    "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ATA",
-    "destLocalTime": "2022/11/14 14:17",
-    "destTime": "2022/11/14 12:17",
-    "position": "29.87558\u00b0 / 32.55005\u00b0",
+    "destLocalTime": "2022/11/15 05:49",
+    "destTime": "2022/11/15 03:49",
+    "position": "29.98232\u00b0 / 32.58597\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -459,9 +459,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/14 10:57",
     "destTime": "2022/11/14 07:57",
-    "position": "26.59384\u00b0 / 50.21706\u00b0",
+    "position": "26.49564\u00b0 / 50.19466\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9082324": {
     "rowidx": 250,
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/14 08:44",
     "destTime": "2022/11/14 04:44",
-    "position": "24.98625\u00b0 / 55.06597\u00b0",
+    "position": "24.98628\u00b0 / 55.06588\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -630,10 +630,10 @@
     "deptTime": "2022/11/14 09:49",
     "dest": "JP KND",
     "destLong": "Kanda",
-    "destType": "ETA",
-    "destLocalTime": "2022/11/15 07:30",
-    "destTime": "2022/11/14 22:30",
-    "position": "33.8069\u00b0 / 131.0396\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/11/15 12:10",
+    "destTime": "2022/11/15 03:10",
+    "position": "33.77702\u00b0 / 131.0107\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -691,7 +691,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/15 08:59",
     "destTime": "2022/11/14 23:59",
-    "position": "34.7338\u00b0 / 137.3147\u00b0",
+    "position": "34.73382\u00b0 / 137.3147\u00b0",
     "area": "Japan Coast",
     "status": "Moored"
   },
@@ -896,6 +896,6 @@
     "destTime": "2022/11/17 23:00",
     "position": "21.17708\u00b0 / 118.0042\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   }
 }
