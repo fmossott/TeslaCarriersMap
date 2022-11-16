@@ -454,14 +454,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/11/16 01:30",
     "deptTime": "2022/11/15 22:30",
-    "dest": "KW KWI",
+    "dest": "KW KUWAIT ANCH",
     "destLong": "Kuwait",
-    "destType": "ETA",
-    "destLocalTime": "2022/11/16 20:00",
-    "destTime": "2022/11/16 17:00",
-    "position": "29.38558\u00b0 / 48.12946\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/11/16 20:17",
+    "destTime": "2022/11/16 17:17",
+    "position": "29.43646\u00b0 / 48.03288\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9082324": {
     "rowidx": 251,
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/17 00:30",
     "destTime": "2022/11/16 21:30",
-    "position": "26.93105\u00b0 / 50.96767\u00b0",
+    "position": "26.84443\u00b0 / 50.6604\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -633,7 +633,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/17 03:50",
     "destTime": "2022/11/16 18:50",
-    "position": "33.81516\u00b0 / 136.5661\u00b0",
+    "position": "34.35548\u00b0 / 137.0176\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
