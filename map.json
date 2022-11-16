@@ -113,7 +113,7 @@
     "destTime": "2022/11/25 08:00",
     "position": "6.385532\u00b0 / 95.15553\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9329461": {
     "rowidx": 10,
@@ -217,19 +217,19 @@
     "length": "199.96",
     "breadth": "38",
     "grossTonnage": "72,705",
-    "dept": "CN MCI",
-    "deptLong": "Mcid",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/11/13 09:28",
-    "deptTime": "2022/11/13 01:28",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/11/16 17:31",
-    "destTime": "2022/11/16 09:31",
-    "position": "31.32205\u00b0 / 121.6817\u00b0",
+    "deptLocalTime": "2022/11/17 06:00",
+    "deptTime": "2022/11/16 22:00",
+    "dest": "CN TXG",
+    "destLong": "Tianjin",
+    "destType": "ETA",
+    "destLocalTime": "2022/11/19 01:00",
+    "destTime": "2022/11/18 17:00",
+    "position": "31.3237\u00b0 / 121.6999\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9690559": {
     "rowidx": 15,
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/17 15:30",
     "destTime": "2022/11/17 14:30",
-    "position": "38.86567\u00b0 / 7.844612\u00b0",
+    "position": "38.95035\u00b0 / 7.635275\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/17 00:30",
     "destTime": "2022/11/16 21:30",
-    "position": "26.62405\u00b0 / 50.25208\u00b0",
+    "position": "26.55022\u00b0 / 50.18095\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
@@ -630,12 +630,12 @@
     "deptTime": "2022/11/15 09:37",
     "dest": "JP NGO",
     "destLong": "Nagoya",
-    "destType": "ETA",
-    "destLocalTime": "2022/11/17 03:50",
-    "destTime": "2022/11/16 18:50",
-    "position": "34.92542\u00b0 / 136.7759\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/11/17 06:25",
+    "destTime": "2022/11/16 21:25",
+    "position": "35.04656\u00b0 / 136.8401\u00b0",
     "area": "Japan Coast",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9519119": {
     "rowidx": 257,
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/16 10:46",
     "destTime": "2022/11/16 02:46",
-    "position": "1.2849\u00b0 / 103.7527\u00b0",
+    "position": "1.284883\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
