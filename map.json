@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/15 15:22",
     "destTime": "2022/11/15 07:22",
-    "position": "30.83601\u00b0 / 121.8362\u00b0",
+    "position": "30.83602\u00b0 / 121.8362\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -517,9 +517,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/19 17:00",
     "destTime": "2022/11/19 14:00",
-    "position": "7.670249\u00b0 / 76.71894\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "15.09587\u00b0 / 69.44778\u00b0",
+    "area": "West Coast India",
+    "status": "Underway using Engine"
   },
   "9082934": {
     "rowidx": 253,
@@ -662,9 +662,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/16 10:46",
     "destTime": "2022/11/16 02:46",
-    "position": "1.280283\u00b0 / 103.7463\u00b0",
+    "position": "1.28485\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9338826": {
     "rowidx": 258,
@@ -683,15 +683,15 @@
     "grossTonnage": "58,685",
     "dept": "JP THS",
     "deptLong": "Toyohashi",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/11/15 08:59",
-    "deptTime": "2022/11/14 23:59",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/11/16 12:15",
+    "deptTime": "2022/11/16 03:15",
     "dest": "JP HTC",
     "destLong": "Hitachi",
     "destType": "ETA",
-    "destLocalTime": "2022/11/17 06:20",
-    "destTime": "2022/11/16 21:20",
-    "position": "34.73243\u00b0 / 137.3061\u00b0",
+    "destLocalTime": "2022/11/17 06:15",
+    "destTime": "2022/11/16 21:15",
+    "position": "34.66703\u00b0 / 137.0486\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
