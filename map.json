@@ -16,17 +16,17 @@
     "grossTonnage": "65,748",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/11/15 00:22",
-    "deptTime": "2022/11/15 07:22",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/11/16 15:51",
+    "deptTime": "2022/11/16 07:51",
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
     "destLocalTime": "2022/11/22 13:00",
     "destTime": "2022/11/22 05:00",
-    "position": "30.83599\u00b0 / 121.8362\u00b0",
+    "position": "30.73049\u00b0 / 121.8524\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9463205": {
     "rowidx": 7,
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/16 10:46",
     "destTime": "2022/11/16 02:46",
-    "position": "1.284883\u00b0 / 103.7527\u00b0",
+    "position": "1.2849\u00b0 / 103.7527\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/17 06:15",
     "destTime": "2022/11/16 21:15",
-    "position": "34.45212\u00b0 / 137.3533\u00b0",
+    "position": "34.42705\u00b0 / 137.8753\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
