@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/17 00:01",
     "destTime": "2022/11/08 05:21",
-    "position": "50.90388\u00b0 / -1.427577\u00b0",
+    "position": "50.90386\u00b0 / -1.427538\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/06 15:39",
     "destTime": "2022/11/06 13:39",
-    "position": "50.89166\u00b0 / -1.398927\u00b0",
+    "position": "50.89166\u00b0 / -1.398915\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/05 09:04",
     "destTime": "2022/11/04 22:04",
-    "position": "-34.45575\u00b0 / 150.8914\u00b0",
+    "position": "-34.45576\u00b0 / 150.8914\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -391,17 +391,17 @@
     "length": "199.11",
     "breadth": "32.29",
     "grossTonnage": "55,598",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/11/02 18:59",
-    "deptTime": "2022/11/02 10:59",
-    "dest": "NZ AKL",
-    "destLong": "Auckland",
-    "destType": "ATA",
-    "destLocalTime": "2022/11/16 12:13",
-    "destTime": "2022/11/15 23:13",
-    "position": "-36.84039\u00b0 / 174.7726\u00b0",
+    "dept": "NZ AKL",
+    "deptLong": "Auckland",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/11/16 07:13",
+    "deptTime": "2022/11/15 23:13",
+    "dest": "FJ SUV",
+    "destLong": "Suva",
+    "destType": "ETA",
+    "destLocalTime": "2022/11/21 16:00",
+    "destTime": "2022/11/21 03:00",
+    "position": "-36.84041\u00b0 / 174.7727\u00b0",
     "area": "South Pacific",
     "status": "Moored"
   },
@@ -459,9 +459,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/25 22:00",
     "destTime": "2022/11/25 20:00",
-    "position": "6.390117\u00b0 / 95.25635\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "6.514534\u00b0 / 76.94768\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9316311": {
     "rowidx": 251,
@@ -633,7 +633,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/19 01:30",
     "destTime": "2022/11/18 17:30",
-    "position": "38.5564\u00b0 / 121.0609\u00b0",
+    "position": "38.6377\u00b0 / 120.7067\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/17 18:15",
     "destTime": "2022/11/17 10:15",
-    "position": "31.32209\u00b0 / 121.6816\u00b0",
+    "position": "31.3221\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
