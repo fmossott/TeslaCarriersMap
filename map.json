@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/17 00:01",
     "destTime": "2022/11/08 05:21",
-    "position": "50.90386\u00b0 / -1.427538\u00b0",
+    "position": "50.90386\u00b0 / -1.427527\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/06 15:39",
     "destTime": "2022/11/06 13:39",
-    "position": "50.89166\u00b0 / -1.398915\u00b0",
+    "position": "50.89167\u00b0 / -1.398895\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -393,17 +393,17 @@
     "grossTonnage": "55,598",
     "dept": "NZ AKL",
     "deptLong": "Auckland",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/11/16 07:13",
-    "deptTime": "2022/11/15 23:13",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/11/18 22:17",
+    "deptTime": "2022/11/18 09:17",
     "dest": "FJ SUV",
     "destLong": "Suva",
     "destType": "ETA",
     "destLocalTime": "2022/11/21 16:00",
     "destTime": "2022/11/21 03:00",
-    "position": "-36.84041\u00b0 / 174.7727\u00b0",
+    "position": "-36.78684\u00b0 / 174.8076\u00b0",
     "area": "South Pacific",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9539224": {
     "rowidx": 249,
@@ -633,7 +633,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/19 01:30",
     "destTime": "2022/11/18 17:30",
-    "position": "38.6377\u00b0 / 120.7067\u00b0",
+    "position": "38.64984\u00b0 / 120.4578\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/17 18:15",
     "destTime": "2022/11/17 10:15",
-    "position": "31.3221\u00b0 / 121.6816\u00b0",
+    "position": "31.32212\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
