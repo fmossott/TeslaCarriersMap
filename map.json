@@ -1,13 +1,42 @@
 {
-  "9784051": {
+  "9441867": {
     "rowidx": 6,
+    "silence": "FALSE",
+    "num": "226",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q4",
+    "numDept": "15",
+    "mapStatus": "1",
+    "mtsid": "714679",
+    "name": "Dong A Glaucos",
+    "mmsi": "538005657",
+    "length": "232.37",
+    "breadth": "32",
+    "grossTonnage": "72,408",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/11/18 05:01",
+    "deptTime": "2022/11/18 11:01",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/11/26 17:00",
+    "destTime": "2022/11/26 09:00",
+    "position": "30.83606\u00b0 / 121.8359\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
+  },
+  "9784051": {
+    "rowidx": 7,
     "silence": "FALSE",
     "num": "225",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
     "numDept": "14",
-    "mapStatus": "1",
+    "mapStatus": "2",
     "mtsid": "5358079",
     "name": "Grande Halifax",
     "mmsi": "247376400",
@@ -29,7 +58,7 @@
     "status": "Underway using Engine"
   },
   "9749568": {
-    "rowidx": 7,
+    "rowidx": 8,
     "silence": "FALSE",
     "num": "224",
     "manDept": "SHG",
@@ -58,7 +87,7 @@
     "status": "Out of Range"
   },
   "9463205": {
-    "rowidx": 8,
+    "rowidx": 9,
     "silence": "FALSE",
     "num": "223",
     "manDept": "SFO",
@@ -87,7 +116,7 @@
     "status": "Out of Range"
   },
   "9445394": {
-    "rowidx": 9,
+    "rowidx": 10,
     "silence": "FALSE",
     "num": "222",
     "manDept": "SHG",
@@ -116,7 +145,7 @@
     "status": "Underway using Engine"
   },
   "9798399": {
-    "rowidx": 10,
+    "rowidx": 11,
     "silence": "FALSE",
     "num": "221",
     "manDept": "SHG",
@@ -145,7 +174,7 @@
     "status": "Out of Range"
   },
   "9329461": {
-    "rowidx": 11,
+    "rowidx": 12,
     "silence": "FALSE",
     "num": "220",
     "manDept": "SHG",
@@ -174,7 +203,7 @@
     "status": "Out of Range"
   },
   "9171280": {
-    "rowidx": 13,
+    "rowidx": 14,
     "silence": "FALSE",
     "num": "218",
     "manDept": "SHG",
@@ -198,12 +227,12 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/30 05:00",
     "destTime": "2022/11/30 04:00",
-    "position": "30.26679\u00b0 / 32.49026\u00b0",
+    "position": "30.27417\u00b0 / 32.46571\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
   "9391593": {
-    "rowidx": 14,
+    "rowidx": 15,
     "silence": "FALSE",
     "num": "217",
     "manDept": "SHG",
@@ -231,37 +260,8 @@
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
-  "9690559": {
-    "rowidx": 15,
-    "silence": "FALSE",
-    "num": "216",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "22Q4",
-    "numDept": "7",
-    "mapStatus": "3",
-    "mtsid": "3553106",
-    "name": "Hyperion Ray",
-    "mmsi": "311000322",
-    "length": "199.97",
-    "breadth": "35.43",
-    "grossTonnage": "71,177",
-    "dept": "ES BCN",
-    "deptLong": "Barcelona",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/11/19 09:29",
-    "deptTime": "2022/11/19 08:29",
-    "dest": "EG PSD",
-    "destLong": "Port Said",
-    "destType": "ETA",
-    "destLocalTime": "2022/11/23 20:00",
-    "destTime": "2022/11/23 18:00",
-    "position": "38.48495\u00b0 / 8.925147\u00b0",
-    "area": "West Mediterranean",
-    "status": "Underway using Engine"
-  },
   "9680712": {
-    "rowidx": 18,
+    "rowidx": 19,
     "silence": "FALSE",
     "num": "213",
     "manDept": "SHG",
@@ -290,7 +290,7 @@
     "status": "Moored"
   },
   "9702417": {
-    "rowidx": 245,
+    "rowidx": 246,
     "silence": "FALSE",
     "num": "-14",
     "manDept": "SHG",
@@ -319,7 +319,7 @@
     "status": "Underway using Engine"
   },
   "9283863": {
-    "rowidx": 246,
+    "rowidx": 247,
     "silence": "FALSE",
     "num": "-15",
     "manDept": "SHG",
@@ -348,7 +348,7 @@
     "status": "Moored"
   },
   "9432880": {
-    "rowidx": 247,
+    "rowidx": 248,
     "silence": "FALSE",
     "num": "-16",
     "manDept": "SHG",
@@ -377,7 +377,7 @@
     "status": "Out of Range"
   },
   "9070450": {
-    "rowidx": 248,
+    "rowidx": 249,
     "silence": "FALSE",
     "num": "-17",
     "manDept": "SHG",
@@ -406,7 +406,7 @@
     "status": "Out of Range"
   },
   "9539224": {
-    "rowidx": 249,
+    "rowidx": 250,
     "silence": "FALSE",
     "num": "-18",
     "manDept": "SHG",
@@ -435,7 +435,7 @@
     "status": "Moored"
   },
   "9565558": {
-    "rowidx": 250,
+    "rowidx": 251,
     "silence": "FALSE",
     "num": "-19",
     "manDept": "SHG",
@@ -464,7 +464,7 @@
     "status": "Out of Range"
   },
   "9316311": {
-    "rowidx": 251,
+    "rowidx": 252,
     "silence": "FALSE",
     "num": "-20",
     "manDept": "SHG",
@@ -493,7 +493,7 @@
     "status": "Out of Range"
   },
   "9432907": {
-    "rowidx": 252,
+    "rowidx": 253,
     "silence": "FALSE",
     "num": "-21",
     "manDept": "SHG",
@@ -522,7 +522,7 @@
     "status": "Underway using Engine"
   },
   "9308807": {
-    "rowidx": 253,
+    "rowidx": 254,
     "silence": "FALSE",
     "num": "-22",
     "manDept": "SHG",
@@ -551,7 +551,7 @@
     "status": "Out of Range"
   },
   "9684988": {
-    "rowidx": 254,
+    "rowidx": 255,
     "silence": "FALSE",
     "num": "-23",
     "manDept": "SHG",
@@ -580,7 +580,7 @@
     "status": "Underway using Engine"
   },
   "9574080": {
-    "rowidx": 255,
+    "rowidx": 256,
     "silence": "FALSE",
     "num": "-24",
     "manDept": "SHG",
@@ -609,7 +609,7 @@
     "status": "Out of Range"
   },
   "9889100": {
-    "rowidx": 256,
+    "rowidx": 257,
     "silence": "FALSE",
     "num": "-25",
     "manDept": "SHG",
@@ -638,7 +638,7 @@
     "status": "Underway using Engine"
   },
   "9335965": {
-    "rowidx": 257,
+    "rowidx": 258,
     "silence": "FALSE",
     "num": "-26",
     "manDept": "SHG",
@@ -667,7 +667,7 @@
     "status": "Underway using Engine"
   },
   "9738777": {
-    "rowidx": 258,
+    "rowidx": 259,
     "silence": "FALSE",
     "num": "-27",
     "manDept": "SHG",
@@ -696,7 +696,7 @@
     "status": "Moored"
   },
   "9624029": {
-    "rowidx": 259,
+    "rowidx": 260,
     "silence": "FALSE",
     "num": "-28",
     "manDept": "SHG",
@@ -723,5 +723,34 @@
     "position": "31.3236\u00b0 / 121.6922\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
+  },
+  "9303182": {
+    "rowidx": 261,
+    "silence": "FALSE",
+    "num": "-29",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q4",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "461148",
+    "name": "Grand Cosmo",
+    "mmsi": "371648000",
+    "length": "199.9",
+    "breadth": "32.26",
+    "grossTonnage": "59,217",
+    "dept": "KR KUV",
+    "deptLong": "Gunsan",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/11/17 18:57",
+    "deptTime": "2022/11/17 09:57",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/11/19 21:17",
+    "destTime": "2022/11/19 13:17",
+    "position": "31.32216\u00b0 / 121.6818\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
   }
 }
