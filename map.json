@@ -106,14 +106,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/11/14 14:17",
     "deptTime": "2022/11/14 06:17",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/11/19 15:30",
-    "destTime": "2022/11/19 07:30",
-    "position": "1.503547\u00b0 / 103.1217\u00b0",
+    "destLocalTime": "2022/12/01 09:30",
+    "destTime": "2022/12/01 07:30",
+    "position": "1.911373\u00b0 / 102.3131\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9798399": {
     "rowidx": 10,
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/30 05:00",
     "destTime": "2022/11/30 04:00",
-    "position": "29.85772\u00b0 / 32.56127\u00b0",
+    "position": "29.85828\u00b0 / 32.56158\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -633,7 +633,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/21 02:00",
     "destTime": "2022/11/20 17:00",
-    "position": "38.47999\u00b0 / 121.0381\u00b0",
+    "position": "38.28527\u00b0 / 121.6115\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
