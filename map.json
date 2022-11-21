@@ -367,14 +367,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/11/15 09:15",
     "deptTime": "2022/11/15 01:15",
-    "dest": "GI GIB",
+    "dest": "GI GIBRALTAR WEST ANCH",
     "destLong": "Gibraltar",
-    "destType": "ETA",
-    "destLocalTime": "2022/11/21 21:00",
-    "destTime": "2022/11/21 20:00",
-    "position": "36.09257\u00b0 / -5.368647\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/11/21 22:57",
+    "destTime": "2022/11/21 21:57",
+    "position": "36.11711\u00b0 / -5.366825\u00b0",
     "area": "Gibraltar",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9283863": {
     "rowidx": 250,
@@ -430,9 +430,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/22 09:51",
     "destTime": "2022/11/21 20:51",
-    "position": "-18.13182\u00b0 / 178.4244\u00b0",
+    "position": "-18.13185\u00b0 / 178.4244\u00b0",
     "area": "East Australia",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9539224": {
     "rowidx": 252,
@@ -633,7 +633,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/22 11:30",
     "destTime": "2022/11/22 02:30",
-    "position": "36.76096\u00b0 / 125.1799\u00b0",
+    "position": "36.6848\u00b0 / 125.1243\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
