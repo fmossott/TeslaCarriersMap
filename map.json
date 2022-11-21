@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/21 13:30",
     "destTime": "2022/11/21 12:30",
-    "position": "35.91793\u00b0 / -5.64296\u00b0",
+    "position": "36.03239\u00b0 / -5.351147\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/21 16:00",
     "destTime": "2022/11/21 03:00",
-    "position": "-18.41825\u00b0 / 178.3792\u00b0",
+    "position": "-18.42789\u00b0 / 178.3715\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -519,7 +519,7 @@
     "destTime": "2022/11/29 20:00",
     "position": "5.849727\u00b0 / 80.01049\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9308807": {
     "rowidx": 255,
@@ -778,7 +778,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/21 10:51",
     "destTime": "2022/11/21 02:51",
-    "position": "31.32357\u00b0 / 121.6795\u00b0",
+    "position": "31.32353\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -805,9 +805,9 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/12/12 12:00",
-    "destTime": "2022/12/12 10:00",
-    "position": "31.32219\u00b0 / 121.6818\u00b0",
+    "destLocalTime": "2022/12/11 12:00",
+    "destTime": "2022/12/11 10:00",
+    "position": "31.3222\u00b0 / 121.6818\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
