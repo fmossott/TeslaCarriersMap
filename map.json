@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/02 02:00",
     "destTime": "2022/12/02 01:00",
-    "position": "39.2415\u00b0 / -76.56583\u00b0",
+    "position": "39.24166\u00b0 / -76.56583\u00b0",
     "area": "US East Coast",
     "status": "Moored"
   },
@@ -53,8 +53,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/25 21:00",
     "destTime": "2022/11/25 13:00",
-    "position": "24.24951\u00b0 / 122.2491\u00b0",
-    "area": "East China Sea",
+    "position": "21.93433\u00b0 / 121.1402\u00b0",
+    "area": "South China",
     "status": "Underway using Engine"
   },
   "9784051": {
@@ -106,14 +106,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/11/16 15:51",
     "deptTime": "2022/11/16 07:51",
-    "dest": "SG SINGAPORE ANCH",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2022/11/21 17:03",
-    "destTime": "2022/11/21 09:03",
-    "position": "1.286115\u00b0 / 103.9843\u00b0",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ETA",
+    "destLocalTime": "2022/12/03 14:00",
+    "destTime": "2022/12/03 12:00",
+    "position": "1.214658\u00b0 / 103.8912\u00b0",
     "area": "Singapore Area",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9463205": {
     "rowidx": 10,
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/13 18:00",
     "destTime": "2022/11/13 16:00",
-    "position": "50.52171\u00b0 / -2.966965\u00b0",
+    "position": "50.53703\u00b0 / -2.951562\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/05 09:04",
     "destTime": "2022/11/04 22:04",
-    "position": "-34.45576\u00b0 / 150.8914\u00b0",
+    "position": "-34.45575\u00b0 / 150.8914\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
