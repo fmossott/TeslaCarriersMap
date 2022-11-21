@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/02 02:00",
     "destTime": "2022/12/02 01:00",
-    "position": "39.2415\u00b0 / -76.566\u00b0",
+    "position": "39.2415\u00b0 / -76.56583\u00b0",
     "area": "US East Coast",
     "status": "Moored"
   },
@@ -51,9 +51,9 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/11/26 17:00",
-    "destTime": "2022/11/26 09:00",
-    "position": "30.77179\u00b0 / 121.8466\u00b0",
+    "destLocalTime": "2022/11/25 21:00",
+    "destTime": "2022/11/25 13:00",
+    "position": "30.05615\u00b0 / 123.1403\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/21 13:00",
     "destTime": "2022/11/21 12:00",
-    "position": "36.52487\u00b0 / -9.089805\u00b0",
+    "position": "36.44067\u00b0 / -8.684399\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/05 09:04",
     "destTime": "2022/11/04 22:04",
-    "position": "-34.45576\u00b0 / 150.8914\u00b0",
+    "position": "-34.45575\u00b0 / 150.8914\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -456,12 +456,12 @@
     "deptTime": "2022/11/20 08:13",
     "dest": "BH KBS",
     "destLong": "Khalifa Bin Salman",
-    "destType": "ETA",
-    "destLocalTime": "2022/11/21 04:00",
-    "destTime": "2022/11/21 01:00",
-    "position": "26.16997\u00b0 / 50.73649\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/11/21 04:28",
+    "destTime": "2022/11/21 01:28",
+    "position": "26.18777\u00b0 / 50.71124\u00b0",
     "area": "Persian Gulf",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9565558": {
     "rowidx": 253,
