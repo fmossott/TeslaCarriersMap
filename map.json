@@ -16,17 +16,17 @@
     "grossTonnage": "57,757",
     "dept": "US BAL",
     "deptLong": "Baltimore",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/11/20 03:01",
-    "deptTime": "2022/11/20 08:01",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/11/22 00:58",
+    "deptTime": "2022/11/22 05:58",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
     "destLocalTime": "2022/12/02 02:00",
     "destTime": "2022/12/02 01:00",
-    "position": "39.2415\u00b0 / -76.56583\u00b0",
+    "position": "39.23967\u00b0 / -76.5515\u00b0",
     "area": "US East Coast",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9441867": {
     "rowidx": 7,
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/13 18:00",
     "destTime": "2022/11/13 16:00",
-    "position": "50.52664\u00b0 / -2.957577\u00b0",
+    "position": "50.48575\u00b0 / -3.04938\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/05 09:04",
     "destTime": "2022/11/04 22:04",
-    "position": "-34.45575\u00b0 / 150.8914\u00b0",
+    "position": "-34.45577\u00b0 / 150.8914\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
