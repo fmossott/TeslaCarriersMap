@@ -251,14 +251,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/11/03 19:38",
     "deptTime": "2022/11/03 11:38",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/11/22 21:00",
-    "destTime": "2022/11/22 19:00",
-    "position": "29.83361\u00b0 / 32.55428\u00b0",
-    "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "destType": "ATA",
+    "destLocalTime": "2022/11/23 22:33",
+    "destTime": "2022/11/23 20:33",
+    "position": "29.84345\u00b0 / 32.58031\u00b0",
+    "area": "Red Sea",
+    "status": "Stopped"
   },
   "9171280": {
     "rowidx": 16,
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/23 14:40",
     "destTime": "2022/11/23 07:40",
-    "position": "13.05398\u00b0 / 100.9056\u00b0",
+    "position": "13.05399\u00b0 / 100.9056\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -689,8 +689,8 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2022/11/24 09:00",
-    "destTime": "2022/11/24 01:00",
+    "destLocalTime": "2022/11/24 10:30",
+    "destTime": "2022/11/24 02:30",
     "position": "21.61531\u00b0 / 113.8445\u00b0",
     "area": "South China",
     "status": "Out of Range"
