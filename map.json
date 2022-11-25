@@ -110,9 +110,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/25 23:51",
     "destTime": "2022/11/25 15:51",
-    "position": "1.263927\u00b0 / 103.9048\u00b0",
+    "position": "1.263937\u00b0 / 103.9048\u00b0",
     "area": "Singapore Area",
-    "status": "Stopped"
+    "status": "At Anchor"
   },
   "9784051": {
     "rowidx": 10,
@@ -139,7 +139,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/25 15:42",
     "destTime": "2022/11/25 07:42",
-    "position": "1.243858\u00b0 / 103.8811\u00b0",
+    "position": "1.24382\u00b0 / 103.8811\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -166,11 +166,11 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/12/03 17:00",
-    "destTime": "2022/12/03 15:00",
-    "position": "6.14421\u00b0 / 95.17538\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "destLocalTime": "2022/12/03 15:00",
+    "destTime": "2022/12/03 13:00",
+    "position": "6.230322\u00b0 / 79.05889\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9463205": {
     "rowidx": 12,
@@ -284,7 +284,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/25 14:09",
     "destTime": "2022/11/25 12:09",
-    "position": "29.85933\u00b0 / 32.56264\u00b0",
+    "position": "29.85895\u00b0 / 32.56275\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -315,7 +315,7 @@
     "destTime": "2022/11/28 17:00",
     "position": "31.75672\u00b0 / 31.98906\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9171280": {
     "rowidx": 18,
@@ -429,7 +429,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/28 08:00",
     "destTime": "2022/11/28 06:00",
-    "position": "29.85042\u00b0 / 32.56108\u00b0",
+    "position": "29.85038\u00b0 / 32.56108\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
