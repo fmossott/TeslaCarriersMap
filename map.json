@@ -342,7 +342,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/28 12:00",
     "destTime": "2022/11/28 11:00",
-    "position": "50.90145\u00b0 / -1.419658\u00b0",
+    "position": "50.9014\u00b0 / -1.41964\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -390,17 +390,17 @@
     "length": "199.9",
     "breadth": "32.26",
     "grossTonnage": "58,535",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/11/09 00:07",
-    "deptTime": "2022/11/08 16:07",
+    "dept": "EG SUZ",
+    "deptLong": "Suez Canal",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/11/26 11:50",
+    "deptTime": "2022/11/26 03:50",
     "dest": "GR PIR",
     "destLong": "Piraeus",
     "destType": "ETA",
     "destLocalTime": "2022/11/28 08:00",
     "destTime": "2022/11/28 06:00",
-    "position": "29.92902\u00b0 / 32.55922\u00b0",
+    "position": "30.10253\u00b0 / 32.57065\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -516,9 +516,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/26 19:00",
     "destTime": "2022/11/26 09:00",
-    "position": "-26.68298\u00b0 / 153.7169\u00b0",
+    "position": "-26.67884\u00b0 / 153.7082\u00b0",
     "area": "East Australia",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9738777": {
     "rowidx": 255,
@@ -719,7 +719,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/26 18:00",
     "destTime": "2022/11/26 10:00",
-    "position": "38.90044\u00b0 / 118.1936\u00b0",
+    "position": "38.9507\u00b0 / 117.9229\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
@@ -777,7 +777,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/26 14:01",
     "destTime": "2022/11/26 06:01",
-    "position": "31.32336\u00b0 / 121.6796\u00b0",
+    "position": "31.32338\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -806,7 +806,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/26 14:28",
     "destTime": "2022/11/26 06:28",
-    "position": "31.32226\u00b0 / 121.6818\u00b0",
+    "position": "31.32225\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
