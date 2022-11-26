@@ -36,6 +36,7 @@
     "notes": "",
     "quarter": "22Q4",
     "numDept": "18",
+    "mapStatus": "2",
     "mtsid": "312657",
     "name": "Hoegh Shanghai",
     "mmsi": "258758000",
@@ -52,9 +53,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/27 09:00",
     "destTime": "2022/11/27 01:00",
-    "position": "",
-    "area": "South China",
-    "status": "Out of Range"
+    "position": "1.310562\u00b0 / 104.2855\u00b0",
+    "area": "Singapore Area",
+    "status": "Underway using Engine"
   },
   "9441867": {
     "rowidx": 8,
@@ -79,10 +80,10 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/12/07 17:00",
-    "destTime": "2022/12/07 15:00",
-    "position": "1.237325\u00b0 / 103.9386\u00b0",
-    "area": "Singapore Area",
+    "destLocalTime": "2022/12/07 16:00",
+    "destTime": "2022/12/07 14:00",
+    "position": "2.7391\u00b0 / 101.2371\u00b0",
+    "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
   "9784051": {
@@ -108,10 +109,10 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/12/08 09:00",
-    "destTime": "2022/12/08 07:00",
-    "position": "1.176395\u00b0 / 103.6682\u00b0",
-    "area": "Singapore Area",
+    "destLocalTime": "2022/12/08 17:00",
+    "destTime": "2022/12/08 15:00",
+    "position": "2.833507\u00b0 / 101.0166\u00b0",
+    "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
   "9749568": {
@@ -513,12 +514,12 @@
     "deptTime": "2022/11/16 18:15",
     "dest": "AU BNE",
     "destLong": "Brisbane",
-    "destType": "ETA",
-    "destLocalTime": "2022/11/28 04:00",
-    "destTime": "2022/11/27 18:00",
-    "position": "-27.15182\u00b0 / 153.3496\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/11/27 07:09",
+    "destTime": "2022/11/26 21:09",
+    "position": "-27.3876\u00b0 / 153.1592\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9738777": {
     "rowidx": 255,
