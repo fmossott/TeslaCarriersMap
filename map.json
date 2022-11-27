@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/28 12:00",
     "destTime": "2022/11/28 11:00",
-    "position": "50.90143\u00b0 / -1.419635\u00b0",
+    "position": "50.90144\u00b0 / -1.419655\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -577,7 +577,7 @@
     "destTime": "2022/12/07 04:00",
     "position": "6.279002\u00b0 / 95.25015\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9303182": {
     "rowidx": 257,
@@ -768,19 +768,19 @@
     "length": "199.99",
     "breadth": "32",
     "grossTonnage": "61,106",
-    "dept": "PA MIT",
-    "deptLong": "Manzanillo",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/10/31 11:29",
-    "deptTime": "2022/10/31 16:29",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/11/26 14:01",
-    "destTime": "2022/11/26 06:01",
-    "position": "31.32336\u00b0 / 121.6796\u00b0",
+    "deptLocalTime": "2022/11/27 11:00",
+    "deptTime": "2022/11/27 03:00",
+    "dest": "CN TXG",
+    "destLong": "Tianjin",
+    "destType": "ETA",
+    "destLocalTime": "2022/11/29 08:01",
+    "destTime": "2022/11/29 00:01",
+    "position": "31.32455\u00b0 / 121.701\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9441611": {
     "rowidx": 264,
