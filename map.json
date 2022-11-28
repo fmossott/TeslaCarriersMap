@@ -372,7 +372,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/28 11:00",
     "destTime": "2022/11/28 10:00",
-    "position": "51.03458\u00b0 / 1.631833\u00b0",
+    "position": "51.16748\u00b0 / 1.885733\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -398,12 +398,12 @@
     "deptTime": "2022/11/08 16:07",
     "dest": "GR PIR",
     "destLong": "Piraeus",
-    "destType": "ETA",
-    "destLocalTime": "2022/11/28 05:30",
-    "destTime": "2022/11/28 03:30",
-    "position": "37.92102\u00b0 / 23.60165\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/11/28 07:53",
+    "destTime": "2022/11/28 05:53",
+    "position": "37.96068\u00b0 / 23.60502\u00b0",
     "area": "Piraeus Area",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9316311": {
     "rowidx": 251,
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/28 05:16",
     "destTime": "2022/11/27 22:16",
-    "position": "13.065\u00b0 / 100.8813\u00b0",
+    "position": "13.06502\u00b0 / 100.8813\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -836,7 +836,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/28 02:58",
     "destTime": "2022/11/27 18:58",
-    "position": "31.32206\u00b0 / 121.6817\u00b0",
+    "position": "31.32207\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -855,18 +855,18 @@
     "length": "199.97",
     "breadth": "32.5",
     "grossTonnage": "57,542",
-    "dept": "KR KAN",
-    "deptLong": "Gwangyang",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/11/25 17:50",
-    "deptTime": "2022/11/25 08:50",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/11/27 11:25",
-    "destTime": "2022/11/27 03:25",
-    "position": "31.32353\u00b0 / 121.6793\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/11/27 12:25",
+    "deptTime": "2022/11/27 03:25",
+    "dest": "CO BUN",
+    "destLong": "Buenaventura",
+    "destType": "ETA",
+    "destLocalTime": "2022/12/19 00:00",
+    "destTime": "2022/12/19 05:00",
+    "position": "31.32375\u00b0 / 121.6796\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Stopped"
   }
 }
