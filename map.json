@@ -285,8 +285,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/28 18:00",
     "destTime": "2022/11/28 17:00",
-    "position": "38.70685\u00b0 / 8.236782\u00b0",
-    "area": "West Mediterranean",
+    "position": "40.60411\u00b0 / 2.727438\u00b0",
+    "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
   "9171280": {
@@ -369,10 +369,10 @@
     "deptTime": "2022/10/26 05:55",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2022/11/28 11:00",
-    "destTime": "2022/11/28 10:00",
-    "position": "51.37945\u00b0 / 2.9649\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/11/28 12:19",
+    "destTime": "2022/11/28 11:19",
+    "position": "51.33972\u00b0 / 3.21245\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/28 07:53",
     "destTime": "2022/11/28 05:53",
-    "position": "37.96068\u00b0 / 23.60502\u00b0",
+    "position": "37.9607\u00b0 / 23.60505\u00b0",
     "area": "Piraeus Area",
     "status": "Moored"
   },
@@ -546,9 +546,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/03 05:30",
     "destTime": "2022/12/03 01:30",
-    "position": "6.217185\u00b0 / 95.1104\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "5.676082\u00b0 / 80.15766\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9624029": {
     "rowidx": 256,
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/28 05:16",
     "destTime": "2022/11/27 22:16",
-    "position": "13.06512\u00b0 / 100.8813\u00b0",
+    "position": "13.06503\u00b0 / 100.8813\u00b0",
     "area": "Gulf of Thailand",
     "status": "Moored"
   },
@@ -836,7 +836,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/28 02:58",
     "destTime": "2022/11/27 18:58",
-    "position": "31.32209\u00b0 / 121.6816\u00b0",
+    "position": "31.32205\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
