@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/28 18:12",
     "destTime": "2022/11/28 17:12",
-    "position": "41.09407\u00b0 / 1.206298\u00b0",
+    "position": "41.09406\u00b0 / 1.206325\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/28 12:19",
     "destTime": "2022/11/28 11:19",
-    "position": "51.30635\u00b0 / 3.22755\u00b0",
+    "position": "51.30633\u00b0 / 3.22755\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -488,7 +488,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/27 07:09",
     "destTime": "2022/11/26 21:09",
-    "position": "-27.37952\u00b0 / 153.1649\u00b0",
+    "position": "-27.37954\u00b0 / 153.1648\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -630,12 +630,12 @@
     "deptTime": "2022/11/24 04:17",
     "dest": "SG SIN",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2022/11/29 18:30",
-    "destTime": "2022/11/29 10:30",
-    "position": "1.252183\u00b0 / 103.8602\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/11/29 19:13",
+    "destTime": "2022/11/29 11:13",
+    "position": "1.2706\u00b0 / 103.8516\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9252204": {
     "rowidx": 260,
@@ -659,10 +659,10 @@
     "deptTime": "2022/11/26 06:41",
     "dest": "CN XMG",
     "destLong": "Xiamen",
-    "destType": "ETA",
-    "destLocalTime": "2022/11/29 18:50",
-    "destTime": "2022/11/29 10:50",
-    "position": "24.40917\u00b0 / 118.0926\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/11/29 19:23",
+    "destTime": "2022/11/29 11:23",
+    "position": "24.5404\u00b0 / 118.0854\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/29 23:00",
     "destTime": "2022/11/29 15:00",
-    "position": "38.79066\u00b0 / 118.3388\u00b0",
+    "position": "38.75251\u00b0 / 118.3345\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
