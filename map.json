@@ -161,17 +161,17 @@
     "grossTonnage": "59,835",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/11/29 22:10",
-    "deptTime": "2022/11/30 06:10",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/12/01 06:16",
+    "deptTime": "2022/11/30 22:16",
     "dest": "AU BNE",
     "destLong": "Brisbane",
     "destType": "ETA",
     "destLocalTime": "2022/12/12 01:00",
     "destTime": "2022/12/11 15:00",
-    "position": "31.3221\u00b0 / 121.6816\u00b0",
+    "position": "31.32302\u00b0 / 121.7054\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway"
   },
   "9445394": {
     "rowidx": 12,
@@ -367,11 +367,11 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/11/10 00:24",
     "deptTime": "2022/11/09 16:24",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
+    "dest": "TN RDS",
+    "destLong": "Rades",
     "destType": "ETA",
-    "destLocalTime": "2022/11/29 22:00",
-    "destTime": "2022/11/29 20:00",
+    "destLocalTime": "2022/12/03 23:00",
+    "destTime": "2022/12/03 22:00",
     "position": "31.30837\u00b0 / 32.36886\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
@@ -633,9 +633,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/18 04:00",
     "destTime": "2022/12/18 02:00",
-    "position": "24.54241\u00b0 / 118.0893\u00b0",
+    "position": "24.50792\u00b0 / 118.0721\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9605798": {
     "rowidx": 261,
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/30 16:51",
     "destTime": "2022/11/30 08:51",
-    "position": "38.97506\u00b0 / 117.8176\u00b0",
+    "position": "38.97511\u00b0 / 117.8176\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
