@@ -222,14 +222,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/11/11 01:04",
     "deptTime": "2022/11/10 17:04",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/11/30 17:00",
-    "destTime": "2022/11/30 15:00",
-    "position": "29.81758\u00b0 / 32.55499\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/11/30 17:50",
+    "destTime": "2022/11/30 15:50",
+    "position": "29.85787\u00b0 / 32.5617\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9798399": {
     "rowidx": 14,
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/01 18:00",
     "destTime": "2022/12/01 07:00",
-    "position": "-30.39321\u00b0 / 153.4348\u00b0",
+    "position": "-31.03155\u00b0 / 153.267\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
