@@ -113,7 +113,7 @@
     "destTime": "2022/12/08 13:00",
     "position": "6.309697\u00b0 / 77.08347\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9749568": {
     "rowidx": 10,
@@ -138,8 +138,8 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/12/03 16:00",
-    "destTime": "2022/12/03 14:00",
+    "destLocalTime": "2022/12/03 21:00",
+    "destTime": "2022/12/03 19:00",
     "position": "12.48283\u00b0 / 43.65702\u00b0",
     "area": "Laccadive Sea",
     "status": "Underway using Engine"
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/28 18:12",
     "destTime": "2022/11/28 17:12",
-    "position": "37.28709\u00b0 / -0.768495\u00b0",
+    "position": "36.59194\u00b0 / -1.892672\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -306,7 +306,7 @@
     "grossTonnage": "68,060",
     "dept": "CN TAG",
     "deptLong": "Taicang",
-    "deptType": "ATD",
+    "deptType": "ATA",
     "deptLocalTime": "2022/10/29 14:28",
     "deptTime": "2022/10/29 06:28",
     "dest": "BE ZEE",
@@ -314,8 +314,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/01 12:00",
     "destTime": "2022/12/01 11:00",
-    "position": "51.34723\u00b0 / 2.420582\u00b0",
-    "area": "English Channel",
+    "position": "51.42171\u00b0 / 2.593223\u00b0",
+    "area": "North Sea",
     "status": "Underway using Engine"
   },
   "9565558": {
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/01 18:00",
     "destTime": "2022/12/01 07:00",
-    "position": "-34.28974\u00b0 / 151.2543\u00b0",
+    "position": "-34.27444\u00b0 / 151.2689\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -604,8 +604,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/08 22:00",
     "destTime": "2022/12/08 18:00",
-    "position": "1.234167\u00b0 / 103.8648\u00b0",
-    "area": "Singapore Area",
+    "position": "2.7409\u00b0 / 101.1985\u00b0",
+    "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
   "9252204": {
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/30 16:51",
     "destTime": "2022/11/30 08:51",
-    "position": "38.97505\u00b0 / 117.8176\u00b0",
+    "position": "38.97511\u00b0 / 117.8175\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -778,7 +778,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/05 12:00",
     "destTime": "2022/12/05 04:00",
-    "position": "22.45362\u00b0 / 119.7293\u00b0",
+    "position": "21.78057\u00b0 / 119.3079\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
@@ -836,7 +836,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/02 04:00",
     "destTime": "2022/12/01 20:00",
-    "position": "38.52473\u00b0 / 121.0819\u00b0",
+    "position": "38.68755\u00b0 / 120.6108\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   }
