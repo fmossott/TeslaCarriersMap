@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/28 18:12",
     "destTime": "2022/11/28 17:12",
-    "position": "36.59194\u00b0 / -1.892672\u00b0",
+    "position": "36.39112\u00b0 / -2.475503\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -306,17 +306,17 @@
     "grossTonnage": "68,060",
     "dept": "CN TAG",
     "deptLong": "Taicang",
-    "deptType": "ATA",
+    "deptType": "ATD",
     "deptLocalTime": "2022/10/29 14:28",
     "deptTime": "2022/10/29 06:28",
-    "dest": "BE ZEE",
+    "dest": "BE ANTWERP ANCH",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2022/12/01 12:00",
-    "destTime": "2022/12/01 11:00",
-    "position": "51.42171\u00b0 / 2.593223\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/12/01 11:45",
+    "destTime": "2022/12/01 10:45",
+    "position": "51.42189\u00b0 / 2.593413\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9565558": {
     "rowidx": 250,
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/01 18:00",
     "destTime": "2022/12/01 07:00",
-    "position": "-34.27444\u00b0 / 151.2689\u00b0",
+    "position": "-34.25987\u00b0 / 151.2816\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -662,9 +662,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/11/30 16:51",
     "destTime": "2022/11/30 08:51",
-    "position": "38.97511\u00b0 / 117.8175\u00b0",
+    "position": "38.9647\u00b0 / 117.8302\u00b0",
     "area": "Bohai Sea",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9441611": {
     "rowidx": 262,
@@ -834,9 +834,9 @@
     "dest": "CN TXG",
     "destLong": "Tianjin",
     "destType": "ETA",
-    "destLocalTime": "2022/12/02 04:00",
-    "destTime": "2022/12/01 20:00",
-    "position": "38.68755\u00b0 / 120.6108\u00b0",
+    "destLocalTime": "2022/12/02 05:00",
+    "destTime": "2022/12/01 21:00",
+    "position": "38.70932\u00b0 / 120.364\u00b0",
     "area": "Bohai Sea",
     "status": "Underway using Engine"
   }
