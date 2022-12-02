@@ -343,9 +343,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/03 23:00",
     "destTime": "2022/12/03 22:00",
-    "position": "31.30837\u00b0 / 32.36886\u00b0",
+    "position": "34.11375\u00b0 / 23.72813\u00b0",
     "area": "East Mediterranean",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9308807": {
     "rowidx": 252,
@@ -461,7 +461,7 @@
     "destTime": "2022/12/03 08:00",
     "position": "17.16962\u00b0 / 67.05824\u00b0",
     "area": "West Coast India",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9624029": {
     "rowidx": 256,
@@ -770,7 +770,7 @@
     "grossTonnage": "47,053",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATD",
+    "deptType": "ATA",
     "deptLocalTime": "2022/11/30 04:54",
     "deptTime": "2022/11/29 20:54",
     "dest": "KR YOS",
@@ -778,7 +778,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/02 08:00",
     "destTime": "2022/12/01 23:00",
-    "position": "34.6298\u00b0 / 127.9607\u00b0",
+    "position": "34.63993\u00b0 / 127.9773\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -857,17 +857,17 @@
     "grossTonnage": "58,767",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/12/01 18:13",
-    "deptTime": "2022/12/01 10:13",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/12/02 07:51",
+    "deptTime": "2022/12/01 23:51",
     "dest": "MX LZC",
     "destLong": "Lazaro Cardenas",
     "destType": "ETA",
-    "destLocalTime": "2022/12/18 06:00",
-    "destTime": "2022/12/18 12:00",
-    "position": "31.32221\u00b0 / 121.6818\u00b0",
+    "destLocalTime": "2022/12/18 10:00",
+    "destTime": "2022/12/18 16:00",
+    "position": "31.32209\u00b0 / 121.695\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9294343": {
     "rowidx": 270,
@@ -884,18 +884,18 @@
     "length": "179.99",
     "breadth": "32.2",
     "grossTonnage": "48,927",
-    "dept": "JP UKB",
-    "deptLong": "Kobe",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/11/26 22:08",
-    "deptTime": "2022/11/26 13:08",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/12/01 16:29",
-    "destTime": "2022/12/01 08:29",
-    "position": "31.32367\u00b0 / 121.6794\u00b0",
+    "deptLocalTime": "2022/12/02 07:17",
+    "deptTime": "2022/12/01 23:17",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/12/02 11:22",
+    "destTime": "2022/12/02 03:22",
+    "position": "31.2636\u00b0 / 121.8874\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
