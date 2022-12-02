@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/06 05:00",
     "destTime": "2022/12/06 04:00",
-    "position": "51.29676\u00b0 / 3.241233\u00b0",
+    "position": "51.29679\u00b0 / 3.241225\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/28 07:53",
     "destTime": "2022/11/28 05:53",
-    "position": "36.44695\u00b0 / -8.012917\u00b0",
+    "position": "36.54027\u00b0 / -8.397433\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -430,9 +430,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/01 18:00",
     "destTime": "2022/12/01 07:00",
-    "position": "-34.34577\u00b0 / 151.2018\u00b0",
+    "position": "-34.34813\u00b0 / 151.1883\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9738777": {
     "rowidx": 255,
@@ -799,17 +799,17 @@
     "grossTonnage": "60,175",
     "dept": "CN TXG",
     "deptLong": "Tianjin",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/12/02 05:30",
-    "deptTime": "2022/12/01 21:30",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/12/02 17:08",
+    "deptTime": "2022/12/02 09:08",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
     "destType": "ETA",
     "destLocalTime": "2022/12/03 22:00",
     "destTime": "2022/12/03 13:00",
-    "position": "38.97508\u00b0 / 117.8176\u00b0",
+    "position": "38.93419\u00b0 / 118.0124\u00b0",
     "area": "Bohai Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9463205": {
     "rowidx": 268,
