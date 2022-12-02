@@ -164,12 +164,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/11/14 14:17",
     "deptTime": "2022/11/14 06:17",
-    "dest": "EG SUEZ SOUTH ANCH",
+    "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ATA",
-    "destLocalTime": "2022/12/01 19:38",
-    "destTime": "2022/12/01 17:38",
-    "position": "29.92682\u00b0 / 32.55657\u00b0",
+    "destLocalTime": "2022/12/02 05:49",
+    "destTime": "2022/12/02 03:49",
+    "position": "30.05612\u00b0 / 32.57303\u00b0",
     "area": "Red Sea",
     "status": "Underway"
   },
@@ -256,8 +256,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/28 18:12",
     "destTime": "2022/11/28 17:12",
-    "position": "35.97842\u00b0 / -6.075377\u00b0",
-    "area": "Gibraltar",
+    "position": "36.50289\u00b0 / -8.204922\u00b0",
+    "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
   "9171280": {
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/06 05:00",
     "destTime": "2022/12/06 04:00",
-    "position": "51.29679\u00b0 / 3.241218\u00b0",
+    "position": "51.29678\u00b0 / 3.241222\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/28 07:53",
     "destTime": "2022/11/28 05:53",
-    "position": "35.96122\u00b0 / -6.2079\u00b0",
+    "position": "36.05398\u00b0 / -6.583117\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -396,12 +396,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/11/12 10:02",
     "deptTime": "2022/11/12 02:02",
-    "dest": "EG SUEZ SOUTH ANCH",
+    "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ATA",
-    "destLocalTime": "2022/12/01 22:29",
-    "destTime": "2022/12/01 20:29",
-    "position": "29.88399\u00b0 / 32.54793\u00b0",
+    "destLocalTime": "2022/12/02 06:11",
+    "destTime": "2022/12/02 04:11",
+    "position": "30.00573\u00b0 / 32.5818\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -430,9 +430,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/01 18:00",
     "destTime": "2022/12/01 07:00",
-    "position": "-34.34621\u00b0 / 151.2688\u00b0",
+    "position": "-34.34437\u00b0 / 151.2602\u00b0",
     "area": "East Australia",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9738777": {
     "rowidx": 255,
@@ -662,7 +662,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/01 12:46",
     "destTime": "2022/12/01 03:46",
-    "position": "36.98331\u00b0 / 126.8238\u00b0",
+    "position": "36.98167\u00b0 / 126.8233\u00b0",
     "area": "Yellow Sea",
     "status": "Stopped"
   },
@@ -807,7 +807,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/02 05:30",
     "destTime": "2022/12/01 21:30",
-    "position": "38.97507\u00b0 / 117.8176\u00b0",
+    "position": "38.97508\u00b0 / 117.8176\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
