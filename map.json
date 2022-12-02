@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/28 18:12",
     "destTime": "2022/11/28 17:12",
-    "position": "38.66419\u00b0 / -9.838973\u00b0",
+    "position": "39.00667\u00b0 / -9.856042\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/06 05:00",
     "destTime": "2022/12/06 04:00",
-    "position": "51.29675\u00b0 / 3.24123\u00b0",
+    "position": "51.29681\u00b0 / 3.241215\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/28 07:53",
     "destTime": "2022/11/28 05:53",
-    "position": "37.28535\u00b0 / -9.438583\u00b0",
+    "position": "37.58425\u00b0 / -9.543034\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -391,17 +391,17 @@
     "length": "199.94",
     "breadth": "40.77",
     "grossTonnage": "76,420",
-    "dept": "EG SUZ",
-    "deptLong": "Suez Canal",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/12/02 12:11",
-    "deptTime": "2022/12/02 04:11",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/11/12 10:02",
+    "deptTime": "2022/11/12 02:02",
     "dest": "CY LCA",
     "destLong": "Larnaca",
     "destType": "ETA",
     "destLocalTime": "2022/12/03 08:00",
     "destTime": "2022/12/03 06:00",
-    "position": "31.20487\u00b0 / 32.33842\u00b0",
+    "position": "31.34772\u00b0 / 32.38065\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -430,9 +430,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/01 18:00",
     "destTime": "2022/12/01 07:00",
-    "position": "-34.32505\u00b0 / 151.2265\u00b0",
+    "position": "-34.35803\u00b0 / 151.2803\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9738777": {
     "rowidx": 255,
@@ -459,9 +459,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/03 12:00",
     "destTime": "2022/12/03 08:00",
-    "position": "17.16962\u00b0 / 67.05824\u00b0",
-    "area": "West Coast India",
-    "status": "Out of Range"
+    "position": "24.68249\u00b0 / 57.44347\u00b0",
+    "area": "Oman Gulf",
+    "status": "Underway using Engine"
   },
   "9624029": {
     "rowidx": 256,
@@ -836,7 +836,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/12 01:00",
     "destTime": "2022/12/11 15:00",
-    "position": "28.84667\u00b0 / 124.5067\u00b0",
+    "position": "25.98499\u00b0 / 126.4492\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
