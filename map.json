@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/04 04:00",
     "destTime": "2022/12/04 03:00",
-    "position": "49.719\u00b0 / -3.278667\u00b0",
+    "position": "49.82833\u00b0 / -2.794167\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/06 05:00",
     "destTime": "2022/12/06 04:00",
-    "position": "51.29677\u00b0 / 3.24124\u00b0",
+    "position": "51.29679\u00b0 / 3.24124\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/28 07:53",
     "destTime": "2022/11/28 05:53",
-    "position": "43.6886\u00b0 / -9.502533\u00b0",
+    "position": "43.912\u00b0 / -9.364067\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/01 18:00",
     "destTime": "2022/12/01 07:00",
-    "position": "-34.45004\u00b0 / 151.228\u00b0",
+    "position": "-34.46217\u00b0 / 151.1987\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -548,7 +548,7 @@
     "destTime": "2022/12/08 18:00",
     "position": "6.2742\u00b0 / 95.07996\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9252204": {
     "rowidx": 259,
@@ -691,9 +691,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/05 14:00",
     "destTime": "2022/12/05 06:00",
-    "position": "18.01238\u00b0 / 116.8565\u00b0",
-    "area": "Philippines",
-    "status": "Out of Range"
+    "position": "8.9619\u00b0 / 110.3845\u00b0",
+    "area": "Indonesia",
+    "status": "Underway using Engine"
   },
   "9491874": {
     "rowidx": 264,
@@ -805,10 +805,10 @@
     "dest": "MX LZC",
     "destLong": "Lazaro Cardenas",
     "destType": "ETA",
-    "destLocalTime": "2022/12/18 10:00",
-    "destTime": "2022/12/18 16:00",
-    "position": "31.32209\u00b0 / 121.695\u00b0",
-    "area": "East China Sea",
+    "destLocalTime": "2022/12/18 07:00",
+    "destTime": "2022/12/18 13:00",
+    "position": "31.27415\u00b0 / 132.0092\u00b0",
+    "area": "Japan Coast",
     "status": "Underway using Engine"
   },
   "9294343": {
@@ -855,18 +855,18 @@
     "length": "199.98",
     "breadth": "36",
     "grossTonnage": "70,497",
-    "dept": "JP NGO",
-    "deptLong": "Nagoya",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/11/29 17:29",
-    "deptTime": "2022/11/29 08:29",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/12/03 09:06",
-    "destTime": "2022/12/03 01:06",
-    "position": "31.32222\u00b0 / 121.6818\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/12/03 10:06",
+    "deptTime": "2022/12/03 01:06",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2022/12/03 04:25",
+    "destTime": "2022/12/02 20:25",
+    "position": "31.32647\u00b0 / 121.6839\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
