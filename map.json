@@ -24,8 +24,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/04 04:00",
     "destTime": "2022/12/04 03:00",
-    "position": "49.03316\u00b0 / -5.7995\u00b0",
-    "area": "Biscay Bay",
+    "position": "49.29933\u00b0 / -4.994167\u00b0",
+    "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
   "9312482": {
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/10 22:00",
     "destTime": "2022/12/10 21:00",
-    "position": "31.30298\u00b0 / 32.36757\u00b0",
+    "position": "34.35667\u00b0 / 22.6811\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/28 18:12",
     "destTime": "2022/11/28 17:12",
-    "position": "39.64611\u00b0 / -9.858519\u00b0",
+    "position": "42.52594\u00b0 / -9.808864\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -268,7 +268,7 @@
     "notes": "",
     "quarter": "22Q4",
     "numDept": "10",
-    "mapStatus": "2",
+    "mapStatus": "3",
     "mtsid": "312911",
     "name": "Hoegh Trader",
     "mmsi": "258882000",
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/06 05:00",
     "destTime": "2022/12/06 04:00",
-    "position": "51.29678\u00b0 / 3.241203\u00b0",
+    "position": "51.29679\u00b0 / 3.241212\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/11/28 07:53",
     "destTime": "2022/11/28 05:53",
-    "position": "39.81088\u00b0 / -9.840567\u00b0",
+    "position": "41.33175\u00b0 / -9.800134\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/01 18:00",
     "destTime": "2022/12/01 07:00",
-    "position": "-34.38565\u00b0 / 151.1634\u00b0",
+    "position": "-34.40899\u00b0 / 151.1466\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -463,39 +463,10 @@
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
-  "9624029": {
+  "9392353": {
     "rowidx": 256,
     "silence": "FALSE",
     "num": "-20",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "22Q4",
-    "numDept": "0",
-    "mapStatus": "4",
-    "mtsid": "713879",
-    "name": "Nocc Oceanic",
-    "mmsi": "257767000",
-    "length": "199.98",
-    "breadth": "32.26",
-    "grossTonnage": "58,250",
-    "dept": "LK HBA",
-    "deptLong": "Hambantota",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/11/19 06:07",
-    "deptTime": "2022/11/18 22:07",
-    "dest": "IL ETH",
-    "destLong": "Eilat",
-    "destType": "ETA",
-    "destLocalTime": "2022/12/07 02:00",
-    "destTime": "2022/12/07 00:00",
-    "position": "6.98772\u00b0 / 75.76085\u00b0",
-    "area": "Laccadive Sea",
-    "status": "Out of Range"
-  },
-  "9392353": {
-    "rowidx": 257,
-    "silence": "FALSE",
-    "num": "-21",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -522,9 +493,9 @@
     "status": "Underway using Engine"
   },
   "9247936": {
-    "rowidx": 258,
+    "rowidx": 257,
     "silence": "FALSE",
-    "num": "-22",
+    "num": "-21",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -551,9 +522,9 @@
     "status": "Underway using Engine"
   },
   "9267675": {
-    "rowidx": 259,
+    "rowidx": 258,
     "silence": "FALSE",
-    "num": "-23",
+    "num": "-22",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -580,9 +551,9 @@
     "status": "Underway using Engine"
   },
   "9252204": {
-    "rowidx": 260,
+    "rowidx": 259,
     "silence": "FALSE",
-    "num": "-24",
+    "num": "-23",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -609,9 +580,9 @@
     "status": "Underway using Engine"
   },
   "9605798": {
-    "rowidx": 261,
+    "rowidx": 260,
     "silence": "FALSE",
-    "num": "-25",
+    "num": "-24",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -637,39 +608,10 @@
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
-  "9441611": {
-    "rowidx": 262,
-    "silence": "FALSE",
-    "num": "-26",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "22Q4",
-    "numDept": "0",
-    "mapStatus": "4",
-    "mtsid": "374068",
-    "name": "RCC Compass",
-    "mmsi": "311072400",
-    "length": "199.99",
-    "breadth": "32.29",
-    "grossTonnage": "58,767",
-    "dept": "KR PTK",
-    "deptLong": "Pyeongtaek",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/11/30 17:30",
-    "deptTime": "2022/11/30 08:30",
-    "dest": "KR PTK",
-    "destLong": "Pyeongtaek",
-    "destType": "ATA",
-    "destLocalTime": "2022/12/01 12:46",
-    "destTime": "2022/12/01 03:46",
-    "position": "36.98167\u00b0 / 126.8233\u00b0",
-    "area": "Yellow Sea",
-    "status": "Stopped"
-  },
   "9336062": {
-    "rowidx": 263,
+    "rowidx": 261,
     "silence": "FALSE",
-    "num": "-27",
+    "num": "-25",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -696,9 +638,9 @@
     "status": "Out of Range"
   },
   "9782704": {
-    "rowidx": 264,
+    "rowidx": 262,
     "silence": "FALSE",
-    "num": "-28",
+    "num": "-26",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -725,9 +667,9 @@
     "status": "Out of Range"
   },
   "9303211": {
-    "rowidx": 265,
+    "rowidx": 263,
     "silence": "FALSE",
-    "num": "-29",
+    "num": "-27",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -754,9 +696,9 @@
     "status": "Out of Range"
   },
   "9491874": {
-    "rowidx": 266,
+    "rowidx": 264,
     "silence": "FALSE",
-    "num": "-30",
+    "num": "-28",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -783,9 +725,9 @@
     "status": "Underway using Engine"
   },
   "9293648": {
-    "rowidx": 267,
+    "rowidx": 265,
     "silence": "FALSE",
-    "num": "-31",
+    "num": "-29",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -812,9 +754,9 @@
     "status": "Underway using Engine"
   },
   "9463205": {
-    "rowidx": 268,
+    "rowidx": 266,
     "silence": "FALSE",
-    "num": "-32",
+    "num": "-30",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -841,9 +783,9 @@
     "status": "Underway using Engine"
   },
   "9672416": {
-    "rowidx": 269,
+    "rowidx": 267,
     "silence": "FALSE",
-    "num": "-33",
+    "num": "-31",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -870,9 +812,9 @@
     "status": "Underway using Engine"
   },
   "9294343": {
-    "rowidx": 270,
+    "rowidx": 268,
     "silence": "FALSE",
-    "num": "-34",
+    "num": "-32",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
@@ -897,5 +839,34 @@
     "position": "31.06188\u00b0 / 122.9615\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
+  },
+  "9832561": {
+    "rowidx": 269,
+    "silence": "FALSE",
+    "num": "-33",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "22Q4",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "5567345",
+    "name": "Sara Leader",
+    "mmsi": "357155000",
+    "length": "199.98",
+    "breadth": "36",
+    "grossTonnage": "70,497",
+    "dept": "JP NGO",
+    "deptLong": "Nagoya",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/11/29 17:29",
+    "deptTime": "2022/11/29 08:29",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ATA",
+    "destLocalTime": "2022/12/03 09:06",
+    "destTime": "2022/12/03 01:06",
+    "position": "31.32224\u00b0 / 121.6819\u00b0",
+    "area": "East China Sea",
+    "status": "Moored"
   }
 }
