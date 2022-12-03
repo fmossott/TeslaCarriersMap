@@ -341,9 +341,9 @@
     "dest": "TN RDS",
     "destLong": "Rades",
     "destType": "ETA",
-    "destLocalTime": "2022/12/03 23:00",
-    "destTime": "2022/12/03 22:00",
-    "position": "36.91451\u00b0 / 13.52735\u00b0",
+    "destLocalTime": "2022/12/03 22:00",
+    "destTime": "2022/12/03 21:00",
+    "position": "37.0428\u00b0 / 12.96992\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -459,9 +459,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/03 12:58",
     "destTime": "2022/12/03 08:58",
-    "position": "24.99563\u00b0 / 55.07867\u00b0",
+    "position": "24.99649\u00b0 / 55.07995\u00b0",
     "area": "Persian Gulf",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9392353": {
     "rowidx": 256,
@@ -601,10 +601,10 @@
     "deptTime": "2022/12/01 12:24",
     "dest": "KR USN",
     "destLong": "Ulsan",
-    "destType": "ETA",
-    "destLocalTime": "2022/12/03 19:15",
-    "destTime": "2022/12/03 10:15",
-    "position": "35.33632\u00b0 / 129.4523\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/12/03 19:50",
+    "destTime": "2022/12/03 10:50",
+    "position": "35.37201\u00b0 / 129.4442\u00b0",
     "area": "North China",
     "status": "Underway using Engine"
   },
