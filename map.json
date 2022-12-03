@@ -140,9 +140,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/03 21:05",
     "destTime": "2022/12/03 19:05",
-    "position": "29.84892\u00b0 / 32.56313\u00b0",
+    "position": "29.84859\u00b0 / 32.5624\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9445394": {
     "rowidx": 12,
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/04 04:00",
     "destTime": "2022/12/04 04:00",
-    "position": "50.04702\u00b0 / -1.8953\u00b0",
+    "position": "50.16385\u00b0 / -1.641178\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/06 05:00",
     "destTime": "2022/12/06 04:00",
-    "position": "51.29678\u00b0 / 3.241232\u00b0",
+    "position": "51.29676\u00b0 / 3.241223\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -335,17 +335,17 @@
     "grossTonnage": "23,498",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
+    "deptType": "ATD",
     "deptLocalTime": "2022/11/10 00:24",
     "deptTime": "2022/11/09 16:24",
-    "dest": "TN RDS",
+    "dest": "TN RADES ANCH",
     "destLong": "Rades",
-    "destType": "ETA",
-    "destLocalTime": "2022/12/03 22:00",
-    "destTime": "2022/12/03 21:00",
-    "position": "36.81534\u00b0 / 10.43012\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/12/03 22:07",
+    "destTime": "2022/12/03 21:07",
+    "position": "36.81606\u00b0 / 10.43091\u00b0",
     "area": "West Mediterranean",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9308807": {
     "rowidx": 252,
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/01 18:00",
     "destTime": "2022/12/01 07:00",
-    "position": "-34.30103\u00b0 / 151.3518\u00b0",
+    "position": "-34.31594\u00b0 / 151.3312\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/03 12:58",
     "destTime": "2022/12/03 08:58",
-    "position": "24.99649\u00b0 / 55.07996\u00b0",
+    "position": "24.99651\u00b0 / 55.07993\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
