@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/04 04:00",
     "destTime": "2022/12/04 04:00",
-    "position": "50.9046\u00b0 / -1.428998\u00b0",
+    "position": "50.90452\u00b0 / -1.429028\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/04 19:00",
     "destTime": "2022/12/04 19:00",
-    "position": "50.9026\u00b0 / -1.422895\u00b0",
+    "position": "50.90261\u00b0 / -1.422897\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -285,7 +285,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/01 18:45",
     "destTime": "2022/12/01 17:45",
-    "position": "51.32037\u00b0 / 3.211557\u00b0",
+    "position": "51.32036\u00b0 / 3.211557\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -304,19 +304,19 @@
     "length": "199.9",
     "breadth": "32.26",
     "grossTonnage": "58,535",
-    "dept": "GR PIR",
-    "deptLong": "Piraeus",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/11/28 17:22",
-    "deptTime": "2022/11/28 15:22",
+    "dept": "GB PRU",
+    "deptLong": "Portbury",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/12/05 07:01",
+    "deptTime": "2022/12/05 05:01",
     "dest": "GB BRS",
     "destLong": "Bristol",
     "destType": "ETA",
     "destLocalTime": "2022/11/28 07:53",
     "destTime": "2022/11/28 05:53",
-    "position": "51.49565\u00b0 / -2.778033\u00b0",
+    "position": "51.49768\u00b0 / -2.724233\u00b0",
     "area": "Bristol Channel",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9316311": {
     "rowidx": 251,
@@ -430,7 +430,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/01 18:00",
     "destTime": "2022/12/01 07:00",
-    "position": "-34.24212\u00b0 / 151.4835\u00b0",
+    "position": "-34.19857\u00b0 / 151.5485\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/06 05:00",
     "destTime": "2022/12/06 02:00",
-    "position": "24.99644\u00b0 / 55.07996\u00b0",
+    "position": "24.99653\u00b0 / 55.07991\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
