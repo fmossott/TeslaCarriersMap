@@ -543,12 +543,12 @@
     "deptTime": "2022/12/02 09:08",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
-    "destType": "ETA",
-    "destLocalTime": "2022/12/06 15:00",
-    "destTime": "2022/12/06 06:00",
-    "position": "37.04964\u00b0 / 126.6698\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/12/06 15:45",
+    "destTime": "2022/12/06 06:45",
+    "position": "36.98109\u00b0 / 126.8254\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9463205": {
     "rowidx": 261,
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/05 22:20",
     "destTime": "2022/12/05 14:20",
-    "position": "31.32362\u00b0 / 121.6795\u00b0",
+    "position": "31.32352\u00b0 / 121.6794\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -749,7 +749,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/06 10:24",
     "destTime": "2022/12/06 02:24",
-    "position": "30.83595\u00b0 / 121.8344\u00b0",
+    "position": "30.83593\u00b0 / 121.8343\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
