@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/04 15:50",
     "destTime": "2022/12/04 14:50",
-    "position": "51.3065\u00b0 / 3.2275\u00b0",
+    "position": "51.30667\u00b0 / 3.2275\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/04 04:00",
     "destTime": "2022/12/04 04:00",
-    "position": "50.90453\u00b0 / -1.429018\u00b0",
+    "position": "50.90449\u00b0 / -1.429043\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -483,14 +483,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/12/06 17:28",
     "deptTime": "2022/12/06 09:28",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
+    "dest": "AE JEA",
+    "destLong": "Jebel Ali",
     "destType": "ETA",
-    "destLocalTime": "2022/12/05 08:43",
-    "destTime": "2022/12/05 00:43",
-    "position": "1.201133\u00b0 / 103.6173\u00b0",
-    "area": "Singapore Area",
-    "status": "Underway"
+    "destLocalTime": "2022/12/15 02:30",
+    "destTime": "2022/12/14 22:30",
+    "position": "1.341983\u00b0 / 103.2871\u00b0",
+    "area": "Malacca Strait",
+    "status": "Underway using Engine"
   },
   "9491874": {
     "rowidx": 259,
@@ -749,7 +749,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/06 10:24",
     "destTime": "2022/12/06 02:24",
-    "position": "30.83593\u00b0 / 121.8343\u00b0",
+    "position": "30.83593\u00b0 / 121.8344\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
