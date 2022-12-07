@@ -24,7 +24,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/07 23:00",
     "destTime": "2022/12/07 22:00",
-    "position": "51.3065\u00b0 / 3.227667\u00b0",
+    "position": "51.3065\u00b0 / 3.2275\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -111,9 +111,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/08 19:00",
     "destTime": "2022/12/08 17:00",
-    "position": "6.309697\u00b0 / 77.08347\u00b0",
-    "area": "Laccadive Sea",
-    "status": "Out of Range"
+    "position": "21.52493\u00b0 / 38.32329\u00b0",
+    "area": "Red Sea",
+    "status": "Underway using Engine"
   },
   "9749568": {
     "rowidx": 10,
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/04 04:00",
     "destTime": "2022/12/04 04:00",
-    "position": "50.90448\u00b0 / -1.429053\u00b0",
+    "position": "50.90449\u00b0 / -1.429038\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -454,14 +454,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/11/29 13:18",
     "deptTime": "2022/11/29 05:18",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2022/12/07 08:01",
-    "destTime": "2022/12/07 00:01",
-    "position": "1.261528\u00b0 / 103.8961\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/12/07 08:39",
+    "destTime": "2022/12/07 00:39",
+    "position": "1.261342\u00b0 / 103.8965\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9303211": {
     "rowidx": 258,
