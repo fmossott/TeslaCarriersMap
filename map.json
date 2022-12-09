@@ -1,6 +1,35 @@
 {
+  "9186302": {
+    "rowidx": 6,
+    "silence": "FALSE",
+    "num": "231",
+    "manDept": "BAL",
+    "notes": "",
+    "quarter": "22Q4",
+    "numDept": "2",
+    "mapStatus": "1",
+    "mtsid": "5776263",
+    "name": "Hoegh Trove",
+    "mmsi": "258774000",
+    "length": "199.9",
+    "breadth": "32.29",
+    "grossTonnage": "58,684",
+    "dept": "US DDQ",
+    "deptLong": "Dundalk",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/12/09 01:09",
+    "deptTime": "2022/12/09 06:09",
+    "dest": "US BAL",
+    "destLong": "Baltimore",
+    "destType": "ATA",
+    "destLocalTime": "2022/12/09 01:43",
+    "destTime": "2022/12/09 06:43",
+    "position": "39.24133\u00b0 / -76.56584\u00b0",
+    "area": "US East Coast",
+    "status": "Moored"
+  },
   "9312482": {
-    "rowidx": 7,
+    "rowidx": 8,
     "silence": "FALSE",
     "num": "229",
     "manDept": "SHG",
@@ -29,7 +58,7 @@
     "status": "Out of Range"
   },
   "9441867": {
-    "rowidx": 8,
+    "rowidx": 9,
     "silence": "FALSE",
     "num": "228",
     "manDept": "SHG",
@@ -58,7 +87,7 @@
     "status": "Underway using Engine"
   },
   "9784051": {
-    "rowidx": 9,
+    "rowidx": 10,
     "silence": "FALSE",
     "num": "227",
     "manDept": "SHG",
@@ -87,14 +116,14 @@
     "status": "Underway using Engine"
   },
   "9749568": {
-    "rowidx": 10,
+    "rowidx": 11,
     "silence": "FALSE",
     "num": "226",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
     "numDept": "15",
-    "mapStatus": "2",
+    "mapStatus": "3",
     "mtsid": "3779595",
     "name": "Glovis Sun",
     "mmsi": "538006693",
@@ -116,7 +145,7 @@
     "status": "Moored"
   },
   "9445394": {
-    "rowidx": 12,
+    "rowidx": 13,
     "silence": "FALSE",
     "num": "224",
     "manDept": "SHG",
@@ -145,7 +174,7 @@
     "status": "Underway by Sail"
   },
   "9432907": {
-    "rowidx": 13,
+    "rowidx": 14,
     "silence": "FALSE",
     "num": "223",
     "manDept": "SHG",
@@ -173,37 +202,8 @@
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
-  "9798399": {
-    "rowidx": 14,
-    "silence": "FALSE",
-    "num": "222",
-    "manDept": "SHG",
-    "notes": "",
-    "quarter": "22Q4",
-    "numDept": "12",
-    "mapStatus": "3",
-    "mtsid": "5075094",
-    "name": "Glovis Safety",
-    "mmsi": "538007438",
-    "length": "229.97",
-    "breadth": "32.26",
-    "grossTonnage": "72,269",
-    "dept": "GB SOU",
-    "deptLong": "Southampton",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/11/08 11:53",
-    "deptTime": "2022/11/08 03:53",
-    "dest": "NL ANK",
-    "destLong": "Everingen",
-    "destType": "ATA",
-    "destLocalTime": "2022/12/09 03:41",
-    "destTime": "2022/12/09 02:41",
-    "position": "51.39853\u00b0 / 3.752292\u00b0",
-    "area": "Antwerp Area",
-    "status": "At Anchor"
-  },
   "9316311": {
-    "rowidx": 250,
+    "rowidx": 251,
     "silence": "FALSE",
     "num": "-14",
     "manDept": "SHG",
@@ -227,12 +227,12 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/08 12:11",
     "destTime": "2022/12/08 11:11",
-    "position": "45.56473\u00b0 / 13.7384\u00b0",
+    "position": "45.56474\u00b0 / 13.73843\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
   "9308807": {
-    "rowidx": 251,
+    "rowidx": 252,
     "silence": "FALSE",
     "num": "-15",
     "manDept": "SHG",
@@ -261,7 +261,7 @@
     "status": "Out of Range"
   },
   "9392353": {
-    "rowidx": 252,
+    "rowidx": 253,
     "silence": "FALSE",
     "num": "-16",
     "manDept": "SHG",
@@ -290,7 +290,7 @@
     "status": "Out of Range"
   },
   "9247936": {
-    "rowidx": 253,
+    "rowidx": 254,
     "silence": "FALSE",
     "num": "-17",
     "manDept": "SHG",
@@ -319,7 +319,7 @@
     "status": "Out of Range"
   },
   "9267675": {
-    "rowidx": 254,
+    "rowidx": 255,
     "silence": "FALSE",
     "num": "-18",
     "manDept": "SHG",
@@ -348,7 +348,7 @@
     "status": "Underway"
   },
   "9252204": {
-    "rowidx": 255,
+    "rowidx": 256,
     "silence": "FALSE",
     "num": "-19",
     "manDept": "SHG",
@@ -377,7 +377,7 @@
     "status": "Underway using Engine"
   },
   "9336062": {
-    "rowidx": 256,
+    "rowidx": 257,
     "silence": "FALSE",
     "num": "-20",
     "manDept": "SHG",
@@ -406,7 +406,7 @@
     "status": "Out of Range"
   },
   "9782704": {
-    "rowidx": 257,
+    "rowidx": 258,
     "silence": "FALSE",
     "num": "-21",
     "manDept": "SHG",
@@ -435,7 +435,7 @@
     "status": "Underway using Engine"
   },
   "9303211": {
-    "rowidx": 258,
+    "rowidx": 259,
     "silence": "FALSE",
     "num": "-22",
     "manDept": "SHG",
@@ -457,14 +457,14 @@
     "dest": "AE JEA",
     "destLong": "Jebel Ali",
     "destType": "ETA",
-    "destLocalTime": "2022/12/15 02:30",
-    "destTime": "2022/12/14 22:30",
+    "destLocalTime": "2022/12/15 11:00",
+    "destTime": "2022/12/15 07:00",
     "position": "5.944433\u00b0 / 90.18927\u00b0",
     "area": "East Asia",
     "status": "Underway using Engine"
   },
   "9491874": {
-    "rowidx": 259,
+    "rowidx": 260,
     "silence": "FALSE",
     "num": "-23",
     "manDept": "SHG",
@@ -493,7 +493,7 @@
     "status": "Out of Range"
   },
   "9293648": {
-    "rowidx": 260,
+    "rowidx": 261,
     "silence": "FALSE",
     "num": "-24",
     "manDept": "SHG",
@@ -522,7 +522,7 @@
     "status": "Underway using Engine"
   },
   "9463205": {
-    "rowidx": 261,
+    "rowidx": 262,
     "silence": "FALSE",
     "num": "-25",
     "manDept": "SHG",
@@ -551,7 +551,7 @@
     "status": "Out of Range"
   },
   "9672416": {
-    "rowidx": 262,
+    "rowidx": 263,
     "silence": "FALSE",
     "num": "-26",
     "manDept": "SHG",
@@ -580,7 +580,7 @@
     "status": "Out of Range"
   },
   "9294343": {
-    "rowidx": 263,
+    "rowidx": 264,
     "silence": "FALSE",
     "num": "-27",
     "manDept": "SHG",
@@ -609,7 +609,7 @@
     "status": "Underway using Engine"
   },
   "9832561": {
-    "rowidx": 264,
+    "rowidx": 265,
     "silence": "FALSE",
     "num": "-28",
     "manDept": "SHG",
@@ -638,7 +638,7 @@
     "status": "Out of Range"
   },
   "9889100": {
-    "rowidx": 265,
+    "rowidx": 266,
     "silence": "FALSE",
     "num": "-29",
     "manDept": "SHG",
@@ -667,7 +667,7 @@
     "status": "Out of Range"
   },
   "9360568": {
-    "rowidx": 266,
+    "rowidx": 267,
     "silence": "FALSE",
     "num": "-30",
     "manDept": "SHG",
@@ -696,7 +696,7 @@
     "status": "Underway using Engine"
   },
   "9446477": {
-    "rowidx": 267,
+    "rowidx": 268,
     "silence": "FALSE",
     "num": "-31",
     "manDept": "SHG",
