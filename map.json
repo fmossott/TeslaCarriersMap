@@ -72,17 +72,17 @@
     "length": "199.9",
     "breadth": "32",
     "grossTonnage": "62,134",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
+    "dept": "EG SUZ",
+    "deptLong": "Suez Canal",
     "deptType": "ATA",
-    "deptLocalTime": "2022/11/19 21:22",
-    "deptTime": "2022/11/19 13:22",
+    "deptLocalTime": "2022/12/09 11:01",
+    "deptTime": "2022/12/09 03:01",
     "dest": "GB SOU",
     "destLong": "Southampton",
     "destType": "ETA",
     "destLocalTime": "2022/12/08 18:30",
     "destTime": "2022/12/08 16:30",
-    "position": "29.96212\u00b0 / 32.58538\u00b0",
+    "position": "30.08629\u00b0 / 32.57113\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -198,9 +198,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/09 03:41",
     "destTime": "2022/12/09 02:41",
-    "position": "51.39791\u00b0 / 3.752353\u00b0",
+    "position": "51.39855\u00b0 / 3.751918\u00b0",
     "area": "Antwerp Area",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9316311": {
     "rowidx": 250,
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/08 12:11",
     "destTime": "2022/12/08 11:11",
-    "position": "45.56468\u00b0 / 13.73843\u00b0",
+    "position": "45.56467\u00b0 / 13.73842\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -720,7 +720,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/10 00:00",
     "destTime": "2022/12/09 15:00",
-    "position": "35.60169\u00b0 / 140.9925\u00b0",
+    "position": "35.80942\u00b0 / 141.0368\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   }
