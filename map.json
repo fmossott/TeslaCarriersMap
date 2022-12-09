@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/08 09:52",
     "destTime": "2022/12/08 08:52",
-    "position": "41.33403\u00b0 / 2.14688\u00b0",
+    "position": "41.33402\u00b0 / 2.146868\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/09 14:04",
     "destTime": "2022/12/09 10:04",
-    "position": "24.98983\u00b0 / 55.07588\u00b0",
+    "position": "24.98982\u00b0 / 55.07585\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -689,11 +689,11 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/12/24 14:00",
-    "destTime": "2022/12/24 12:00",
+    "destLocalTime": "2022/12/26 16:00",
+    "destTime": "2022/12/26 14:00",
     "position": "24.63713\u00b0 / 119.5455\u00b0",
-    "area": "East China Sea",
-    "status": "Underway using Engine"
+    "area": "South China",
+    "status": "Out of Range"
   },
   "9446477": {
     "rowidx": 268,
@@ -710,17 +710,17 @@
     "length": "180",
     "breadth": "30",
     "grossTonnage": "43,810",
-    "dept": "JP OARAI ANCH",
-    "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/12/09 22:11",
-    "deptTime": "2022/12/09 13:11",
+    "dept": "JP HIC",
+    "deptLong": "Hitachinaka",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/12/09 21:46",
+    "deptTime": "2022/12/09 12:46",
     "dest": "JP YOK",
     "destLong": "Yokohama",
     "destType": "ETA",
     "destLocalTime": "2022/12/10 17:00",
     "destTime": "2022/12/10 08:00",
-    "position": "36.21056\u00b0 / 140.7839\u00b0",
+    "position": "36.09241\u00b0 / 140.8485\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   }
