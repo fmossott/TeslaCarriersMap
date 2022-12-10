@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/09 01:43",
     "destTime": "2022/12/09 06:43",
-    "position": "39.24135\u00b0 / -76.56586\u00b0",
+    "position": "39.24134\u00b0 / -76.56583\u00b0",
     "area": "US East Coast",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/08 18:30",
     "destTime": "2022/12/08 16:30",
-    "position": "31.34412\u00b0 / 32.37945\u00b0",
+    "position": "33.27589\u00b0 / 26.81404\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -227,9 +227,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/12 17:00",
     "destTime": "2022/12/12 16:00",
-    "position": "45.5647\u00b0 / 13.73843\u00b0",
+    "position": "45.56527\u00b0 / 13.72926\u00b0",
     "area": "Adriatic Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9308807": {
     "rowidx": 252,
@@ -710,18 +710,18 @@
     "length": "180",
     "breadth": "30",
     "grossTonnage": "43,810",
-    "dept": "JP HIC",
-    "deptLong": "Hitachinaka",
+    "dept": "JP YOK",
+    "deptLong": "Yokohama",
     "deptType": "ATD",
-    "deptLocalTime": "2022/12/09 21:46",
-    "deptTime": "2022/12/09 12:46",
-    "dest": "JP YOK",
-    "destLong": "Yokohama",
-    "destType": "ATA",
-    "destLocalTime": "2022/12/10 09:32",
-    "destTime": "2022/12/10 00:32",
-    "position": "35.45386\u00b0 / 139.6861\u00b0",
+    "deptLocalTime": "2022/12/10 18:54",
+    "deptTime": "2022/12/10 09:54",
+    "dest": "JP NGO",
+    "destLong": "Nagoya",
+    "destType": "ETA",
+    "destLocalTime": "2022/12/11 16:35",
+    "destTime": "2022/12/11 07:35",
+    "position": "35.40901\u00b0 / 139.7116\u00b0",
     "area": "Japan Coast",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
