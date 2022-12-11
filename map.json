@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/12 07:00",
     "destTime": "2022/12/12 06:00",
-    "position": "41.34466\u00b0 / 17.38211\u00b0",
+    "position": "40.74043\u00b0 / 18.20798\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/11 12:00",
     "destTime": "2022/12/11 10:00",
-    "position": "26.81447\u00b0 / 34.64762\u00b0",
+    "position": "29.66619\u00b0 / 32.56042\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -509,17 +509,17 @@
     "grossTonnage": "60,175",
     "dept": "JP HTC",
     "deptLong": "Hitachi",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/12/11 07:50",
-    "deptTime": "2022/12/10 22:50",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/12/11 17:44",
+    "deptTime": "2022/12/11 08:44",
     "dest": "JP MIZ",
     "destLong": "Mizushima",
     "destType": "ETA",
-    "destLocalTime": "2022/12/12 23:25",
-    "destTime": "2022/12/12 14:25",
-    "position": "36.49125\u00b0 / 140.6211\u00b0",
+    "destLocalTime": "2022/12/12 23:20",
+    "destTime": "2022/12/12 14:20",
+    "position": "36.45124\u00b0 / 140.731\u00b0",
     "area": "Japan Coast",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9463205": {
     "rowidx": 262,
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/11 09:58",
     "destTime": "2022/12/11 00:58",
-    "position": "35.04821\u00b0 / 136.8534\u00b0",
+    "position": "35.0482\u00b0 / 136.8534\u00b0",
     "area": "Japan Coast",
     "status": "Moored"
   }
