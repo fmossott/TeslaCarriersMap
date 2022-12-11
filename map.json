@@ -16,17 +16,17 @@
     "grossTonnage": "58,684",
     "dept": "US BAL",
     "deptLong": "Baltimore",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/12/09 01:43",
-    "deptTime": "2022/12/09 06:43",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/12/10 18:54",
+    "deptTime": "2022/12/10 23:54",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
     "destLocalTime": "2022/12/21 03:00",
     "destTime": "2022/12/21 02:00",
-    "position": "39.24136\u00b0 / -76.56586\u00b0",
+    "position": "39.23493\u00b0 / -76.54784\u00b0",
     "area": "US East Coast",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9312482": {
     "rowidx": 8,
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/11 11:30",
     "destTime": "2022/12/11 10:30",
-    "position": "50.3885\u00b0 / 0.4608167\u00b0",
+    "position": "50.46627\u00b0 / 0.85735\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/12 07:00",
     "destTime": "2022/12/12 06:00",
-    "position": "43.56777\u00b0 / 14.60723\u00b0",
+    "position": "42.6424\u00b0 / 15.64201\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -517,9 +517,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/11 07:50",
     "destTime": "2022/12/10 22:50",
-    "position": "36.49011\u00b0 / 140.622\u00b0",
+    "position": "36.49126\u00b0 / 140.6211\u00b0",
     "area": "Japan Coast",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9463205": {
     "rowidx": 262,
@@ -718,9 +718,9 @@
     "dest": "JP NGO",
     "destLong": "Nagoya",
     "destType": "ETA",
-    "destLocalTime": "2022/12/11 16:35",
-    "destTime": "2022/12/11 07:35",
-    "position": "34.61193\u00b0 / 136.9429\u00b0",
+    "destLocalTime": "2022/12/11 16:40",
+    "destTime": "2022/12/11 07:40",
+    "position": "34.84177\u00b0 / 136.7651\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   }
