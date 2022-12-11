@@ -254,8 +254,8 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/12/13 23:00",
-    "destTime": "2022/12/13 21:00",
+    "destLocalTime": "2022/12/13 22:00",
+    "destTime": "2022/12/13 20:00",
     "position": "7.465883\u00b0 / 74.53367\u00b0",
     "area": "West Coast India",
     "status": "Out of Range"
@@ -280,14 +280,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/11/21 22:23",
     "deptTime": "2022/11/21 14:23",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/12/11 12:00",
-    "destTime": "2022/12/11 10:00",
-    "position": "29.82587\u00b0 / 32.55811\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/12/11 12:40",
+    "destTime": "2022/12/11 10:40",
+    "position": "29.85732\u00b0 / 32.56167\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9267675": {
     "rowidx": 255,
@@ -345,7 +345,7 @@
     "destTime": "2022/12/18 12:00",
     "position": "7.056665\u00b0 / 76.80817\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9336062": {
     "rowidx": 257,
@@ -517,9 +517,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/12 21:30",
     "destTime": "2022/12/12 11:30",
-    "position": "25.98499\u00b0 / 126.4492\u00b0",
+    "position": "-26.16349\u00b0 / 153.7828\u00b0",
     "area": "East China Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9672416": {
     "rowidx": 263,
