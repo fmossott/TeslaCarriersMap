@@ -48,13 +48,13 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/11/21 12:25",
     "deptTime": "2022/11/21 04:25",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
+    "dest": "FR LEH",
+    "destLong": "Le Havre",
     "destType": "ETA",
-    "destLocalTime": "2022/12/20 07:00",
+    "destLocalTime": "2022/12/20 06:00",
     "destTime": "2022/12/20 05:00",
-    "position": "29.94101\u00b0 / 32.57309\u00b0",
-    "area": "Red Sea",
+    "position": "31.3369\u00b0 / 32.37763\u00b0",
+    "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
   "9441867": {
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/10 08:02",
     "destTime": "2022/12/10 07:02",
-    "position": "51.47775\u00b0 / 2.692505\u00b0",
+    "position": "51.47591\u00b0 / 2.691777\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/11 12:51",
     "destTime": "2022/12/11 11:51",
-    "position": "51.2965\u00b0 / 3.241483\u00b0",
+    "position": "51.29647\u00b0 / 3.2415\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/12 07:00",
     "destTime": "2022/12/12 06:00",
-    "position": "38.17967\u00b0 / 16.98914\u00b0",
+    "position": "37.84846\u00b0 / 16.65726\u00b0",
     "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
@@ -432,7 +432,7 @@
     "destTime": "2022/12/15 09:00",
     "position": "7.1186\u00b0 / 77.3465\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9491874": {
     "rowidx": 260,
