@@ -48,14 +48,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/11/21 12:25",
     "deptTime": "2022/11/21 04:25",
-    "dest": "EG SUEZ SOUTH ANCH",
+    "dest": "EG SUZ",
     "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2022/12/10 17:07",
-    "destTime": "2022/12/10 15:07",
-    "position": "29.85693\u00b0 / 32.56804\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2022/12/20 07:00",
+    "destTime": "2022/12/20 05:00",
+    "position": "29.94101\u00b0 / 32.57309\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9441867": {
     "rowidx": 9,
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/10 08:02",
     "destTime": "2022/12/10 07:02",
-    "position": "51.47736\u00b0 / 2.69369\u00b0",
+    "position": "51.47744\u00b0 / 2.693535\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/11 11:30",
     "destTime": "2022/12/11 10:30",
-    "position": "50.86913\u00b0 / 1.4573\u00b0",
+    "position": "51.05492\u00b0 / 1.711233\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/12 07:00",
     "destTime": "2022/12/12 06:00",
-    "position": "42.6424\u00b0 / 15.64201\u00b0",
+    "position": "41.88677\u00b0 / 16.60875\u00b0",
     "area": "Adriatic Sea",
     "status": "Underway using Engine"
   },
@@ -343,7 +343,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/11 04:30",
     "destTime": "2022/12/11 00:30",
-    "position": "24.95117\u00b0 / 54.58073\u00b0",
+    "position": "24.89475\u00b0 / 54.63785\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
