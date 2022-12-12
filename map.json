@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/11 12:00",
     "destTime": "2022/12/11 10:00",
-    "position": "31.43757\u00b0 / 32.40715\u00b0",
+    "position": "31.59183\u00b0 / 32.16755\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -594,19 +594,19 @@
     "length": "199.98",
     "breadth": "36",
     "grossTonnage": "70,497",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
+    "dept": "SG SIN",
+    "deptLong": "Singapore",
     "deptType": "ATD",
-    "deptLocalTime": "2022/12/03 19:43",
-    "deptTime": "2022/12/03 11:43",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2022/12/12 06:17",
-    "destTime": "2022/12/11 22:17",
-    "position": "1.283313\u00b0 / 103.7511\u00b0",
+    "deptLocalTime": "2022/12/12 22:51",
+    "deptTime": "2022/12/12 14:51",
+    "dest": "AE AUH",
+    "destLong": "Abu Dhabi",
+    "destType": "ETA",
+    "destLocalTime": "2022/12/21 04:00",
+    "destTime": "2022/12/21 00:00",
+    "position": "1.212725\u00b0 / 103.6691\u00b0",
     "area": "Singapore Area",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9889100": {
     "rowidx": 266,
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/12 14:40",
     "destTime": "2022/12/12 06:40",
-    "position": "1.264392\u00b0 / 103.8478\u00b0",
+    "position": "1.264412\u00b0 / 103.8477\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -691,7 +691,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/13 14:00",
     "destTime": "2022/12/13 05:00",
-    "position": "33.96996\u00b0 / 136.6782\u00b0",
+    "position": "33.31384\u00b0 / 135.5195\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   }
