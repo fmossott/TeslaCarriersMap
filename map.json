@@ -280,13 +280,13 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/11/21 22:23",
     "deptTime": "2022/11/21 14:23",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
+    "dest": "GB BRS",
+    "destLong": "Bristol",
     "destType": "ETA",
     "destLocalTime": "2022/12/11 12:00",
     "destTime": "2022/12/11 10:00",
-    "position": "31.24578\u00b0 / 32.35079\u00b0",
-    "area": "Red Sea",
+    "position": "31.43757\u00b0 / 32.40715\u00b0",
+    "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
   "9267675": {
@@ -604,9 +604,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/12 06:17",
     "destTime": "2022/12/11 22:17",
-    "position": "1.282997\u00b0 / 103.7513\u00b0",
+    "position": "1.283313\u00b0 / 103.7511\u00b0",
     "area": "Singapore Area",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9889100": {
     "rowidx": 266,
@@ -633,7 +633,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/12 14:40",
     "destTime": "2022/12/12 06:40",
-    "position": "1.264397\u00b0 / 103.8478\u00b0",
+    "position": "1.264392\u00b0 / 103.8478\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
