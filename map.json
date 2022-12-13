@@ -82,9 +82,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/14 13:00",
     "destTime": "2022/12/14 12:00",
-    "position": "41.0457\u00b0 / 2.296793\u00b0",
+    "position": "41.06945\u00b0 / 2.271318\u00b0",
     "area": "Balearic Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9784051": {
     "rowidx": 10,
@@ -251,14 +251,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/11/29 01:23",
     "deptTime": "2022/11/28 18:23",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2022/12/13 22:00",
-    "destTime": "2022/12/13 20:00",
-    "position": "29.86323\u00b0 / 32.56255\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/12/13 19:10",
+    "destTime": "2022/12/13 17:10",
+    "position": "29.86522\u00b0 / 32.56082\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9247936": {
     "rowidx": 254,
@@ -488,7 +488,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/14 06:45",
     "destTime": "2022/12/13 21:45",
-    "position": "33.72093\u00b0 / 132.2319\u00b0",
+    "position": "33.72672\u00b0 / 131.9618\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
