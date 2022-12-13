@@ -53,7 +53,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/20 06:00",
     "destTime": "2022/12/20 05:00",
-    "position": "33.88239\u00b0 / 24.71651\u00b0",
+    "position": "34.41821\u00b0 / 22.62114\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -137,10 +137,10 @@
     "deptTime": "2022/11/14 06:17",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2022/12/10 07:30",
-    "destTime": "2022/12/10 06:30",
-    "position": "51.36916\u00b0 / 2.905205\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/12/13 10:26",
+    "destTime": "2022/12/13 09:26",
+    "position": "51.34951\u00b0 / 3.20475\u00b0",
     "area": "North Sea",
     "status": "Underway by Sail"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/11 12:51",
     "destTime": "2022/12/11 11:51",
-    "position": "51.309\u00b0 / 3.225383\u00b0",
+    "position": "51.30902\u00b0 / 3.225367\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/15 12:00",
     "destTime": "2022/12/15 11:00",
-    "position": "35.88536\u00b0 / 14.50892\u00b0",
+    "position": "35.88535\u00b0 / 14.50892\u00b0",
     "area": "West Mediterranean",
     "status": "Moored"
   },
@@ -341,8 +341,8 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/12/18 14:00",
-    "destTime": "2022/12/18 12:00",
+    "destLocalTime": "2022/12/18 15:00",
+    "destTime": "2022/12/18 13:00",
     "position": "7.056665\u00b0 / 76.80817\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
@@ -403,7 +403,7 @@
     "destTime": "2022/12/19 12:00",
     "position": "6.71734\u00b0 / 76.15516\u00b0",
     "area": "Laccadive Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9303211": {
     "rowidx": 259,
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/12 14:36",
     "destTime": "2022/12/12 04:36",
-    "position": "-27.36773\u00b0 / 153.1736\u00b0",
+    "position": "-27.36777\u00b0 / 153.1736\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -683,17 +683,17 @@
     "grossTonnage": "43,810",
     "dept": "JP SAK",
     "deptLong": "Sakai",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/12/13 07:19",
-    "deptTime": "2022/12/12 22:19",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/12/13 18:18",
+    "deptTime": "2022/12/13 09:18",
     "dest": "TW TPE",
     "destLong": "Taipei",
     "destType": "ETA",
-    "destLocalTime": "2022/12/16 07:00",
-    "destTime": "2022/12/15 23:00",
-    "position": "34.52797\u00b0 / 135.401\u00b0",
+    "destLocalTime": "2022/12/16 09:00",
+    "destTime": "2022/12/16 01:00",
+    "position": "34.53111\u00b0 / 135.2999\u00b0",
     "area": "Japan Coast",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9285615": {
     "rowidx": 269,
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/13 03:25",
     "destTime": "2022/12/12 19:25",
-    "position": "31.32218\u00b0 / 121.6816\u00b0",
+    "position": "31.32216\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
