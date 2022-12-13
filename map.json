@@ -82,9 +82,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/14 13:00",
     "destTime": "2022/12/14 12:00",
-    "position": "41.20132\u00b0 / 2.642345\u00b0",
+    "position": "41.22683\u00b0 / 2.672805\u00b0",
     "area": "Balearic Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9784051": {
     "rowidx": 10,
@@ -140,9 +140,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/13 10:26",
     "destTime": "2022/12/13 09:26",
-    "position": "51.34951\u00b0 / 3.20475\u00b0",
+    "position": "51.33223\u00b0 / 3.218407\u00b0",
     "area": "North Sea",
-    "status": "Underway by Sail"
+    "status": "Stopped"
   },
   "9432907": {
     "rowidx": 14,
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/11 12:51",
     "destTime": "2022/12/11 11:51",
-    "position": "51.30902\u00b0 / 3.225367\u00b0",
+    "position": "51.30898\u00b0 / 3.22535\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/15 12:00",
     "destTime": "2022/12/15 11:00",
-    "position": "35.88535\u00b0 / 14.50892\u00b0",
+    "position": "35.88535\u00b0 / 14.50894\u00b0",
     "area": "West Mediterranean",
     "status": "Moored"
   },
@@ -309,11 +309,11 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/12/12 14:50",
     "deptTime": "2022/12/12 11:50",
-    "dest": "SA DMM",
-    "destLong": "Dammam",
-    "destType": "ATA",
-    "destLocalTime": "2022/12/12 22:12",
-    "destTime": "2022/12/12 19:12",
+    "dest": "KW KWI",
+    "destLong": "Kuwait",
+    "destType": "ETA",
+    "destLocalTime": "2022/12/14 10:00",
+    "destTime": "2022/12/14 07:00",
     "position": "26.17932\u00b0 / 50.76245\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
@@ -488,9 +488,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/13 07:07",
     "destTime": "2022/12/12 22:07",
-    "position": "34.50871\u00b0 / 133.7372\u00b0",
+    "position": "34.48051\u00b0 / 133.7466\u00b0",
     "area": "Japan Coast",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9463205": {
     "rowidx": 262,
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/12 14:36",
     "destTime": "2022/12/12 04:36",
-    "position": "-27.36777\u00b0 / 153.1736\u00b0",
+    "position": "-27.36779\u00b0 / 153.1736\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/13 03:25",
     "destTime": "2022/12/12 19:25",
-    "position": "31.32216\u00b0 / 121.6816\u00b0",
+    "position": "31.32217\u00b0 / 121.6815\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
