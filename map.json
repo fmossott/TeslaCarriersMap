@@ -113,7 +113,7 @@
     "destTime": "2022/12/08 16:30",
     "position": "37.58279\u00b0 / 11.54461\u00b0",
     "area": "West Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9445394": {
     "rowidx": 13,
@@ -123,7 +123,7 @@
     "notes": "",
     "quarter": "22Q4",
     "numDept": "14",
-    "mapStatus": "2",
+    "mapStatus": "3",
     "mtsid": "413840",
     "name": "G Poseidon",
     "mmsi": "354149000",
@@ -140,9 +140,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/13 10:26",
     "destTime": "2022/12/13 09:26",
-    "position": "51.33223\u00b0 / 3.218407\u00b0",
+    "position": "51.3236\u00b0 / 3.222598\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway by Sail"
   },
   "9432907": {
     "rowidx": 14,
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/11 12:51",
     "destTime": "2022/12/11 11:51",
-    "position": "51.30898\u00b0 / 3.22535\u00b0",
+    "position": "51.30898\u00b0 / 3.225367\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -198,7 +198,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/15 12:00",
     "destTime": "2022/12/15 11:00",
-    "position": "35.88535\u00b0 / 14.50894\u00b0",
+    "position": "35.88536\u00b0 / 14.50892\u00b0",
     "area": "West Mediterranean",
     "status": "Moored"
   },
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/14 07:00",
     "destTime": "2022/12/13 21:00",
-    "position": "-23.67637\u00b0 / 154.084\u00b0",
+    "position": "-24.08925\u00b0 / 154.0753\u00b0",
     "area": "Coral Sea",
     "status": "Underway using Engine"
   },
@@ -478,17 +478,17 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "60,175",
-    "dept": "JP HTC",
-    "deptLong": "Hitachi",
+    "dept": "JP MIZ",
+    "deptLong": "Mizushima",
     "deptType": "ATD",
-    "deptLocalTime": "2022/12/11 17:44",
-    "deptTime": "2022/12/11 08:44",
-    "dest": "JP MIZ",
-    "destLong": "Mizushima",
-    "destType": "ATA",
-    "destLocalTime": "2022/12/13 07:07",
-    "destTime": "2022/12/12 22:07",
-    "position": "34.48051\u00b0 / 133.7466\u00b0",
+    "deptLocalTime": "2022/12/13 19:45",
+    "deptTime": "2022/12/13 10:45",
+    "dest": "JP KND",
+    "destLong": "Kanda",
+    "destType": "ETA",
+    "destLocalTime": "2022/12/14 06:45",
+    "destTime": "2022/12/13 21:45",
+    "position": "34.33757\u00b0 / 133.6763\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -517,7 +517,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/12 14:36",
     "destTime": "2022/12/12 04:36",
-    "position": "-27.36779\u00b0 / 153.1736\u00b0",
+    "position": "-27.36775\u00b0 / 153.1736\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -599,13 +599,13 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/12/12 22:51",
     "deptTime": "2022/12/12 14:51",
-    "dest": "AE AUH",
-    "destLong": "Abu Dhabi",
+    "dest": "AE KHL",
+    "destLong": "Khalifa",
     "destType": "ETA",
     "destLocalTime": "2022/12/21 04:00",
     "destTime": "2022/12/21 00:00",
-    "position": "1.212725\u00b0 / 103.6691\u00b0",
-    "area": "Singapore Area",
+    "position": "3.079293\u00b0 / 100.7433\u00b0",
+    "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
   "9889100": {
@@ -720,7 +720,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/13 03:25",
     "destTime": "2022/12/12 19:25",
-    "position": "31.32217\u00b0 / 121.6815\u00b0",
+    "position": "31.32216\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
