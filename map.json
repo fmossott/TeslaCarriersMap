@@ -110,7 +110,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/14 14:09",
     "destTime": "2022/12/14 13:09",
-    "position": "41.33395\u00b0 / 2.146945\u00b0",
+    "position": "41.33392\u00b0 / 2.14695\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -139,7 +139,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/08 18:30",
     "destTime": "2022/12/08 16:30",
-    "position": "36.52036\u00b0 / -6.564232\u00b0",
+    "position": "36.72455\u00b0 / -6.746388\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -168,7 +168,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/13 10:26",
     "destTime": "2022/12/13 09:26",
-    "position": "51.29703\u00b0 / 3.241187\u00b0",
+    "position": "51.297\u00b0 / 3.241212\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -192,14 +192,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/12/14 17:43",
     "deptTime": "2022/12/14 16:43",
-    "dest": "NL RTM",
+    "dest": "NL ROTTERDAM ANCH",
     "destLong": "Rotterdam",
-    "destType": "ETA",
-    "destLocalTime": "2022/12/14 23:00",
-    "destTime": "2022/12/14 22:00",
-    "position": "51.92282\u00b0 / 3.464567\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/12/14 23:13",
+    "destTime": "2022/12/14 22:13",
+    "position": "51.92378\u00b0 / 3.563733\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9392353": {
     "rowidx": 252,
@@ -255,7 +255,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/11 12:00",
     "destTime": "2022/12/11 10:00",
-    "position": "36.09672\u00b0 / 16.50406\u00b0",
+    "position": "36.17494\u00b0 / 16.21512\u00b0",
     "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
@@ -342,7 +342,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/15 13:00",
     "destTime": "2022/12/15 09:00",
-    "position": "26.62033\u00b0 / 56.59057\u00b0",
+    "position": "26.40115\u00b0 / 56.09553\u00b0",
     "area": "Oman Gulf",
     "status": "Underway using Engine"
   },
@@ -371,7 +371,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/14 12:26",
     "destTime": "2022/12/14 02:26",
-    "position": "-27.44791\u00b0 / 153.0956\u00b0",
+    "position": "-27.44793\u00b0 / 153.0956\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
