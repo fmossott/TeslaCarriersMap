@@ -36,6 +36,7 @@
     "notes": "",
     "quarter": "22Q4",
     "numDept": "19",
+    "mapStatus": "2",
     "mtsid": "4189877",
     "name": "Themis",
     "mmsi": "563220000",
@@ -52,9 +53,9 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/19 20:00",
     "destTime": "2022/12/19 18:00",
-    "position": "",
+    "position": "20.23292\u00b0 / 38.90037\u00b0",
     "area": "Laccadive Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9312482": {
     "rowidx": 9,
@@ -313,7 +314,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/17 17:00",
     "destTime": "2022/12/17 14:00",
-    "position": "25.04732\u00b0 / 54.50347\u00b0",
+    "position": "25.55588\u00b0 / 54.01413\u00b0",
     "area": "Persian Gulf",
     "status": "Underway using Engine"
   },
