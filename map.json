@@ -82,7 +82,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/20 08:00",
     "destTime": "2022/12/20 07:00",
-    "position": "46.36929\u00b0 / -4.321303\u00b0",
+    "position": "46.37359\u00b0 / -3.8214\u00b0",
     "area": "Biscay Bay",
     "status": "Underway using Engine"
   },
@@ -193,12 +193,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/12/01 07:01",
     "deptTime": "2022/11/30 23:01",
-    "dest": "EG SUZ",
-    "destLong": "Suez Canal",
-    "destType": "ATA",
+    "dest": "GB BRS",
+    "destLong": "Bristol",
+    "destType": "ETA",
     "destLocalTime": "2022/12/19 05:32",
     "destTime": "2022/12/19 03:32",
-    "position": "31.15669\u00b0 / 32.32458\u00b0",
+    "position": "31.31343\u00b0 / 32.37086\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -370,11 +370,11 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2022/12/24 12:00",
-    "destTime": "2022/12/24 10:00",
+    "destLocalTime": "2022/12/24 08:00",
+    "destTime": "2022/12/24 06:00",
     "position": "11.33205\u00b0 / 65.01528\u00b0",
     "area": "West Coast India",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9360568": {
     "rowidx": 261,
@@ -459,7 +459,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/19 20:13",
     "destTime": "2022/12/19 11:13",
-    "position": "36.98132\u00b0 / 126.8255\u00b0",
+    "position": "36.98\u00b0 / 126.825\u00b0",
     "area": "Yellow Sea",
     "status": "Stopped"
   },
