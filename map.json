@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/21 02:04",
     "destTime": "2022/12/20 23:04",
-    "position": "40.7588\u00b0 / 29.74645\u00b0",
+    "position": "40.75878\u00b0 / 29.74647\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/11 12:00",
     "destTime": "2022/12/11 10:00",
-    "position": "51.49467\u00b0 / -2.714613\u00b0",
+    "position": "51.49467\u00b0 / -2.714603\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/21 06:15",
     "destTime": "2022/12/20 22:15",
-    "position": "1.27915\u00b0 / 103.907\u00b0",
+    "position": "1.279217\u00b0 / 103.9071\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -536,18 +536,18 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "59,524",
-    "dept": "AU PKL",
-    "deptLong": "Port Kembla",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2022/12/09 02:00",
-    "deptTime": "2022/12/08 15:00",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2022/12/20 22:02",
-    "destTime": "2022/12/20 14:02",
-    "position": "31.32341\u00b0 / 121.6796\u00b0",
+    "deptLocalTime": "2022/12/21 22:15",
+    "deptTime": "2022/12/21 14:15",
+    "dest": "AU BNE",
+    "destLong": "Brisbane",
+    "destType": "ETA",
+    "destLocalTime": "2022/12/31 18:00",
+    "destTime": "2022/12/31 08:00",
+    "position": "31.30942\u00b0 / 121.7486\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
