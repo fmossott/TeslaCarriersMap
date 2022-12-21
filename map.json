@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/21 12:00",
     "destTime": "2022/12/21 11:00",
-    "position": "50.67346\u00b0 / 1.347615\u00b0",
+    "position": "50.91212\u00b0 / 1.513852\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/21 02:04",
     "destTime": "2022/12/20 23:04",
-    "position": "40.75878\u00b0 / 29.74647\u00b0",
+    "position": "40.75882\u00b0 / 29.74643\u00b0",
     "area": "Marmara Sea",
     "status": "Moored"
   },
@@ -159,19 +159,19 @@
     "length": "196.4",
     "breadth": "31.1",
     "grossTonnage": "44,408",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/11/21 22:23",
-    "deptTime": "2022/11/21 14:23",
+    "dept": "GB PRU",
+    "deptLong": "Portbury",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/12/21 13:54",
+    "deptTime": "2022/12/21 05:54",
     "dest": "GB BRS",
     "destLong": "Bristol",
     "destType": "ETA",
     "destLocalTime": "2022/12/11 12:00",
     "destTime": "2022/12/11 10:00",
-    "position": "51.50164\u00b0 / -2.74663\u00b0",
+    "position": "51.4979\u00b0 / -2.72416\u00b0",
     "area": "Bristol Channel",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9252204": {
     "rowidx": 254,
@@ -227,7 +227,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/21 05:27",
     "destTime": "2022/12/21 03:27",
-    "position": "30.20809\u00b0 / 32.56204\u00b0",
+    "position": "30.27057\u00b0 / 32.47716\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/21 06:15",
     "destTime": "2022/12/20 22:15",
-    "position": "1.27925\u00b0 / 103.9081\u00b0",
+    "position": "1.279233\u00b0 / 103.9081\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
