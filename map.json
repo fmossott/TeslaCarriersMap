@@ -77,14 +77,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/12/22 02:23",
     "deptTime": "2022/12/22 01:23",
-    "dest": "BE ZEE",
+    "dest": "BE ANTWERP ANCH",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2022/12/22 08:00",
-    "destTime": "2022/12/22 07:00",
-    "position": "51.37865\u00b0 / 2.51984\u00b0",
-    "area": "English Channel",
-    "status": "Underway using Engine"
+    "destType": "ATA",
+    "destLocalTime": "2022/12/22 15:52",
+    "destTime": "2022/12/22 14:52",
+    "position": "51.40641\u00b0 / 2.617353\u00b0",
+    "area": "North Sea",
+    "status": "Underway"
   },
   "9392353": {
     "rowidx": 252,
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/11 12:00",
     "destTime": "2022/12/11 10:00",
-    "position": "51.49466\u00b0 / -2.714603\u00b0",
+    "position": "51.49465\u00b0 / -2.7146\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/22 09:00",
     "destTime": "2022/12/21 22:00",
-    "position": "-34.29684\u00b0 / 151.0163\u00b0",
+    "position": "-34.29674\u00b0 / 151.0163\u00b0",
     "area": "East Australia",
     "status": "At Anchor"
   },
