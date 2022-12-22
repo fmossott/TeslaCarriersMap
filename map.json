@@ -82,9 +82,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/22 15:52",
     "destTime": "2022/12/22 14:52",
-    "position": "51.40529\u00b0 / 2.619383\u00b0",
+    "position": "51.40522\u00b0 / 2.62124\u00b0",
     "area": "North Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9392353": {
     "rowidx": 252,
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/11 12:00",
     "destTime": "2022/12/11 10:00",
-    "position": "51.49465\u00b0 / -2.714603\u00b0",
+    "position": "51.49465\u00b0 / -2.714602\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -198,8 +198,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/23 22:00",
     "destTime": "2022/12/23 21:00",
-    "position": "35.38552\u00b0 / 22.90697\u00b0",
-    "area": "East Mediterranean",
+    "position": "35.49865\u00b0 / 22.58262\u00b0",
+    "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
   "9303211": {
@@ -256,7 +256,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/22 09:00",
     "destTime": "2022/12/21 22:00",
-    "position": "-34.29676\u00b0 / 151.0161\u00b0",
+    "position": "-34.29676\u00b0 / 151.0159\u00b0",
     "area": "East Australia",
     "status": "At Anchor"
   },
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/22 00:30",
     "destTime": "2022/12/21 13:30",
-    "position": "-34.42086\u00b0 / 151.419\u00b0",
+    "position": "-34.42489\u00b0 / 151.4135\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -314,7 +314,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/22 22:17",
     "destTime": "2022/12/22 19:17",
-    "position": "25.00525\u00b0 / 51.60029\u00b0",
+    "position": "25.0053\u00b0 / 51.60024\u00b0",
     "area": "Persian Gulf",
     "status": "Moored"
   },
@@ -485,10 +485,10 @@
     "deptTime": "2022/12/16 10:25",
     "dest": "SG SIN",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2022/12/23 06:00",
-    "destTime": "2022/12/22 22:00",
-    "position": "1.222117\u00b0 / 103.8894\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/12/23 06:43",
+    "destTime": "2022/12/22 22:43",
+    "position": "1.278433\u00b0 / 103.7471\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -515,9 +515,9 @@
     "dest": "CN XNA",
     "destLong": "Xinsha",
     "destType": "ETA",
-    "destLocalTime": "2022/12/23 04:00",
-    "destTime": "2022/12/22 20:00",
-    "position": "21.80103\u00b0 / 113.7861\u00b0",
+    "destLocalTime": "2022/12/23 09:00",
+    "destTime": "2022/12/23 01:00",
+    "position": "21.84185\u00b0 / 113.7863\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
