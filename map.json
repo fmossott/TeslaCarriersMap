@@ -19,12 +19,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2022/12/10 18:54",
     "deptTime": "2022/12/10 23:54",
-    "dest": "BE ZEE",
+    "dest": "BE ANTWERP ANCH",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2022/12/23 16:00",
-    "destTime": "2022/12/23 15:00",
-    "position": "51.38531\u00b0 / 2.637125\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2022/12/23 15:01",
+    "destTime": "2022/12/23 14:01",
+    "position": "51.46006\u00b0 / 2.719378\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -82,9 +82,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/22 15:52",
     "destTime": "2022/12/22 14:52",
-    "position": "51.40588\u00b0 / 2.621488\u00b0",
+    "position": "51.40589\u00b0 / 2.621913\u00b0",
     "area": "North Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9247936": {
     "rowidx": 252,
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/11 12:00",
     "destTime": "2022/12/11 10:00",
-    "position": "51.49467\u00b0 / -2.714595\u00b0",
+    "position": "51.49465\u00b0 / -2.71459\u00b0",
     "area": "Bristol Channel",
     "status": "Moored"
   },
@@ -140,8 +140,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/23 22:00",
     "destTime": "2022/12/23 21:00",
-    "position": "35.79479\u00b0 / 21.72691\u00b0",
-    "area": "Aegean Sea",
+    "position": "37.38811\u00b0 / 17.13743\u00b0",
+    "area": "Ionian Sea",
     "status": "Underway using Engine"
   },
   "9889100": {
