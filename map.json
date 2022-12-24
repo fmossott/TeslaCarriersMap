@@ -53,7 +53,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/24 04:09",
     "destTime": "2022/12/24 03:09",
-    "position": "51.30382\u00b0 / 3.229528\u00b0",
+    "position": "51.30381\u00b0 / 3.229555\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -101,19 +101,19 @@
     "length": "228.74",
     "breadth": "32.29",
     "grossTonnage": "68,871",
-    "dept": "FR LEH",
+    "dept": "BE ANTWERP ANCH",
     "deptLong": "Le Havre",
-    "deptType": "ATD",
-    "deptLocalTime": "2022/12/22 02:23",
-    "deptTime": "2022/12/22 01:23",
-    "dest": "BE ANTWERP ANCH",
+    "deptType": "ATA",
+    "deptLocalTime": "2022/12/22 15:52",
+    "deptTime": "2022/12/22 14:52",
+    "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ATA",
-    "destLocalTime": "2022/12/22 15:52",
-    "destTime": "2022/12/22 14:52",
-    "position": "51.40572\u00b0 / 2.62049\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2022/12/24 18:00",
+    "destTime": "2022/12/24 17:00",
+    "position": "51.40201\u00b0 / 2.622882\u00b0",
     "area": "North Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9247936": {
     "rowidx": 253,
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/23 22:41",
     "destTime": "2022/12/23 21:41",
-    "position": "38.47377\u00b0 / 15.91578\u00b0",
+    "position": "38.47376\u00b0 / 15.9158\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Moored"
   },
@@ -287,7 +287,7 @@
     "destTime": "2023/01/03 06:30",
     "position": "5.120587\u00b0 / 98.43778\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9334234": {
     "rowidx": 259,
