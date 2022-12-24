@@ -14,17 +14,17 @@
     "length": "199.9",
     "breadth": "32.29",
     "grossTonnage": "58,684",
-    "dept": "BE ANTWERP ANCH",
+    "dept": "US BAL",
     "deptLong": "Baltimore",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/12/23 09:01",
-    "deptTime": "2022/12/23 14:01",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/12/10 18:54",
+    "deptTime": "2022/12/10 23:54",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
     "destLocalTime": "2022/12/24 03:45",
     "destTime": "2022/12/24 02:45",
-    "position": "51.45598\u00b0 / 2.72576\u00b0",
+    "position": "51.35806\u00b0 / 2.822912\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -82,9 +82,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/22 15:52",
     "destTime": "2022/12/22 14:52",
-    "position": "51.40626\u00b0 / 2.623658\u00b0",
+    "position": "51.40685\u00b0 / 2.622637\u00b0",
     "area": "North Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9247936": {
     "rowidx": 252,
@@ -111,7 +111,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/25 20:00",
     "destTime": "2022/12/25 19:00",
-    "position": "51.47824\u00b0 / -2.840948\u00b0",
+    "position": "51.05574\u00b0 / -4.657317\u00b0",
     "area": "Bristol Channel",
     "status": "Underway using Engine"
   },
@@ -140,9 +140,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/23 22:41",
     "destTime": "2022/12/23 21:41",
-    "position": "38.47378\u00b0 / 15.91579\u00b0",
+    "position": "38.47381\u00b0 / 15.91579\u00b0",
     "area": "Tyrrhenian Sea",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9889100": {
     "rowidx": 254,
