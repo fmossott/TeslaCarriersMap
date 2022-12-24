@@ -1,13 +1,42 @@
 {
-  "9186302": {
+  "9539183": {
     "rowidx": 6,
+    "silence": "FALSE",
+    "num": "233",
+    "manDept": "SFO",
+    "notes": "",
+    "quarter": "22Q4",
+    "numDept": "4",
+    "mapStatus": "0",
+    "mtsid": "6296887",
+    "name": "Opal Ace",
+    "mmsi": "319058000",
+    "length": "199.99",
+    "breadth": "32.26",
+    "grossTonnage": "60,131",
+    "dept": "MX LZC",
+    "deptLong": "Lazaro Cardenas",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/12/21 22:37",
+    "deptTime": "2022/12/22 04:37",
+    "dest": "US RCH",
+    "destLong": "Richmond",
+    "destType": "ETA",
+    "destLocalTime": "2022/12/26 02:00",
+    "destTime": "2022/12/26 10:00",
+    "position": "26.66565\u00b0 / -116.465\u00b0",
+    "area": "West Coast Central America",
+    "status": "Underway using Engine"
+  },
+  "9186302": {
+    "rowidx": 7,
     "silence": "FALSE",
     "num": "232",
     "manDept": "BAL",
     "notes": "",
     "quarter": "22Q4",
     "numDept": "2",
-    "mapStatus": "2",
+    "mapStatus": "3",
     "mtsid": "5776263",
     "name": "Hoegh Trove",
     "mmsi": "258774000",
@@ -24,19 +53,19 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/24 04:09",
     "destTime": "2022/12/24 03:09",
-    "position": "51.3038\u00b0 / 3.229517\u00b0",
+    "position": "51.30383\u00b0 / 3.229493\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
   "9722314": {
-    "rowidx": 7,
+    "rowidx": 8,
     "silence": "FALSE",
     "num": "231",
     "manDept": "SHG",
     "notes": "",
     "quarter": "22Q4",
     "numDept": "19",
-    "mapStatus": "2",
+    "mapStatus": "3",
     "mtsid": "4189877",
     "name": "Themis",
     "mmsi": "563220000",
@@ -58,7 +87,7 @@
     "status": "Moored"
   },
   "9312482": {
-    "rowidx": 9,
+    "rowidx": 10,
     "silence": "FALSE",
     "num": "229",
     "manDept": "SHG",
@@ -82,12 +111,12 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/22 15:52",
     "destTime": "2022/12/22 14:52",
-    "position": "51.40426\u00b0 / 2.619477\u00b0",
+    "position": "51.40415\u00b0 / 2.616737\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
   "9247936": {
-    "rowidx": 252,
+    "rowidx": 253,
     "silence": "FALSE",
     "num": "-14",
     "manDept": "SHG",
@@ -116,7 +145,7 @@
     "status": "Underway using Engine"
   },
   "9782704": {
-    "rowidx": 253,
+    "rowidx": 254,
     "silence": "FALSE",
     "num": "-15",
     "manDept": "SHG",
@@ -140,12 +169,12 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/23 22:41",
     "destTime": "2022/12/23 21:41",
-    "position": "38.4738\u00b0 / 15.91578\u00b0",
+    "position": "38.47377\u00b0 / 15.9158\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Moored"
   },
   "9889100": {
-    "rowidx": 254,
+    "rowidx": 255,
     "silence": "FALSE",
     "num": "-16",
     "manDept": "SHG",
@@ -174,7 +203,7 @@
     "status": "Out of Range"
   },
   "9360568": {
-    "rowidx": 255,
+    "rowidx": 256,
     "silence": "FALSE",
     "num": "-17",
     "manDept": "SHG",
@@ -203,7 +232,7 @@
     "status": "Out of Range"
   },
   "9531715": {
-    "rowidx": 256,
+    "rowidx": 257,
     "silence": "FALSE",
     "num": "-18",
     "manDept": "SHG",
@@ -232,7 +261,7 @@
     "status": "Underway using Engine"
   },
   "9782699": {
-    "rowidx": 257,
+    "rowidx": 258,
     "silence": "FALSE",
     "num": "-19",
     "manDept": "SHG",
@@ -261,7 +290,7 @@
     "status": "Underway using Engine"
   },
   "9334234": {
-    "rowidx": 258,
+    "rowidx": 259,
     "silence": "FALSE",
     "num": "-20",
     "manDept": "SHG",
@@ -290,7 +319,7 @@
     "status": "Underway using Engine"
   },
   "9610418": {
-    "rowidx": 259,
+    "rowidx": 260,
     "silence": "FALSE",
     "num": "-21",
     "manDept": "SHG",
@@ -319,7 +348,7 @@
     "status": "Out of Range"
   },
   "9574080": {
-    "rowidx": 260,
+    "rowidx": 261,
     "silence": "FALSE",
     "num": "-22",
     "manDept": "SHG",
@@ -348,7 +377,7 @@
     "status": "Out of Range"
   },
   "9277826": {
-    "rowidx": 261,
+    "rowidx": 262,
     "silence": "FALSE",
     "num": "-23",
     "manDept": "SHG",
@@ -370,14 +399,14 @@
     "dest": "JP CHB",
     "destLong": "Chiba",
     "destType": "ETA",
-    "destLocalTime": "2022/12/26 11:30",
-    "destTime": "2022/12/26 02:30",
+    "destLocalTime": "2022/12/26 12:00",
+    "destTime": "2022/12/26 03:00",
     "position": "31.0824\u00b0 / 122.7511\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
   "9382396": {
-    "rowidx": 262,
+    "rowidx": 263,
     "silence": "FALSE",
     "num": "-24",
     "manDept": "SHG",
