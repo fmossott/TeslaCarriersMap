@@ -72,19 +72,19 @@
     "length": "199.97",
     "breadth": "36.54",
     "grossTonnage": "75,283",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
+    "dept": "SI KOP",
+    "deptLong": "Koper",
     "deptType": "ATD",
-    "deptLocalTime": "2022/11/28 02:23",
-    "deptTime": "2022/11/27 18:23",
-    "dest": "SI KOP",
-    "destLong": "Koper",
-    "destType": "ATA",
-    "destLocalTime": "2022/12/24 04:20",
-    "destTime": "2022/12/24 03:20",
-    "position": "45.56695\u00b0 / 13.74406\u00b0",
+    "deptLocalTime": "2022/12/26 18:31",
+    "deptTime": "2022/12/26 17:31",
+    "dest": "ES BCN",
+    "destLong": "Barcelona",
+    "destType": "ETA",
+    "destLocalTime": "2023/01/01 13:00",
+    "destTime": "2023/01/01 12:00",
+    "position": "45.56479\u00b0 / 13.7107\u00b0",
     "area": "Adriatic Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9312482": {
     "rowidx": 10,
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/24 18:25",
     "destTime": "2022/12/24 17:25",
-    "position": "51.29676\u00b0 / 3.241202\u00b0",
+    "position": "51.29677\u00b0 / 3.241197\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -140,7 +140,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/26 05:08",
     "destTime": "2022/12/26 04:08",
-    "position": "42.23389\u00b0 / -8.746505\u00b0",
+    "position": "42.23389\u00b0 / -8.746502\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/23 22:41",
     "destTime": "2022/12/23 21:41",
-    "position": "38.47379\u00b0 / 15.91577\u00b0",
+    "position": "38.47378\u00b0 / 15.91577\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/26 13:10",
     "destTime": "2022/12/26 04:10",
-    "position": "35.16779\u00b0 / 128.584\u00b0",
+    "position": "35.16776\u00b0 / 128.584\u00b0",
     "area": "North China",
     "status": "Moored"
   }
