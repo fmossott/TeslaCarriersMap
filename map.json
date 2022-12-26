@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/26 04:59",
     "destTime": "2022/12/26 12:59",
-    "position": "37.90679\u00b0 / -122.3635\u00b0",
+    "position": "37.90678\u00b0 / -122.3635\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/24 18:25",
     "destTime": "2022/12/24 17:25",
-    "position": "51.29677\u00b0 / 3.241197\u00b0",
+    "position": "51.29677\u00b0 / 3.241173\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -130,16 +130,16 @@
     "length": "196.4",
     "breadth": "31.1",
     "grossTonnage": "44,408",
-    "dept": "GB PRU",
-    "deptLong": "Portbury",
-    "deptType": "ATD",
+    "dept": "ES VGO",
+    "deptLong": "Vigo",
+    "deptType": "ATA",
     "deptLocalTime": "2022/12/21 13:54",
     "deptTime": "2022/12/21 05:54",
-    "dest": "ES VGO",
-    "destLong": "Vigo",
-    "destType": "ATA",
-    "destLocalTime": "2022/12/26 05:08",
-    "destTime": "2022/12/26 04:08",
+    "dest": "IT LIV",
+    "destLong": "Livorno",
+    "destType": "ETA",
+    "destLocalTime": "2022/12/30 08:00",
+    "destTime": "2022/12/30 07:00",
     "position": "42.23389\u00b0 / -8.746502\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Moored"
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/23 22:41",
     "destTime": "2022/12/23 21:41",
-    "position": "38.47378\u00b0 / 15.91577\u00b0",
+    "position": "38.47377\u00b0 / 15.91578\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Moored"
   },
@@ -198,8 +198,8 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/28 21:00",
     "destTime": "2022/12/28 20:00",
-    "position": "33.9183\u00b0 / 25.91028\u00b0",
-    "area": "Red Sea",
+    "position": "34.66371\u00b0 / 23.84991\u00b0",
+    "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
   "9360568": {
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/27 15:00",
     "destTime": "2022/12/27 06:00",
-    "position": "34.59561\u00b0 / 139.3062\u00b0",
+    "position": "34.5028\u00b0 / 139.0027\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/26 13:10",
     "destTime": "2022/12/26 04:10",
-    "position": "35.16776\u00b0 / 128.584\u00b0",
+    "position": "35.1678\u00b0 / 128.584\u00b0",
     "area": "North China",
     "status": "Moored"
   }
