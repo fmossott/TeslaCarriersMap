@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/26 04:59",
     "destTime": "2022/12/26 12:59",
-    "position": "37.90679\u00b0 / -122.3635\u00b0",
+    "position": "37.90677\u00b0 / -122.3635\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/24 18:25",
     "destTime": "2022/12/24 17:25",
-    "position": "51.29676\u00b0 / 3.2412\u00b0",
+    "position": "51.29677\u00b0 / 3.24119\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -132,17 +132,17 @@
     "grossTonnage": "44,408",
     "dept": "ES VGO",
     "deptLong": "Vigo",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/12/21 13:54",
-    "deptTime": "2022/12/21 05:54",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/12/26 20:58",
+    "deptTime": "2022/12/26 19:58",
     "dest": "IT LIV",
     "destLong": "Livorno",
     "destType": "ETA",
     "destLocalTime": "2022/12/30 21:00",
     "destTime": "2022/12/30 20:00",
-    "position": "42.23461\u00b0 / -8.746357\u00b0",
+    "position": "42.18257\u00b0 / -8.863606\u00b0",
     "area": "UK Coast & Atlantic",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9782704": {
     "rowidx": 254,
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/23 22:41",
     "destTime": "2022/12/23 21:41",
-    "position": "38.4738\u00b0 / 15.91574\u00b0",
+    "position": "38.47378\u00b0 / 15.9158\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Moored"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/26 13:10",
     "destTime": "2022/12/26 04:10",
-    "position": "35.16779\u00b0 / 128.5841\u00b0",
+    "position": "35.16667\u00b0 / 128.5833\u00b0",
     "area": "North China",
     "status": "Moored"
   }
