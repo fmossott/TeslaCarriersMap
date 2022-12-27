@@ -45,17 +45,17 @@
     "grossTonnage": "68,871",
     "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "2022/12/24 18:25",
-    "deptTime": "2022/12/24 17:25",
+    "deptType": "ATD",
+    "deptLocalTime": "2022/12/27 23:12",
+    "deptTime": "2022/12/27 22:12",
     "dest": "GB TYN",
     "destLong": "Tyne",
     "destType": "ETA",
     "destLocalTime": "2022/12/24 18:25",
     "destTime": "2022/12/24 17:25",
-    "position": "51.33406\u00b0 / 3.21721\u00b0",
+    "position": "51.40857\u00b0 / 3.05395\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9782704": {
     "rowidx": 253,
@@ -82,7 +82,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/23 22:41",
     "destTime": "2022/12/23 21:41",
-    "position": "38.47377\u00b0 / 15.91578\u00b0",
+    "position": "38.47376\u00b0 / 15.91578\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Moored"
   },
@@ -140,9 +140,9 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/27 22:52",
     "destTime": "2022/12/27 20:52",
-    "position": "32.82032\u00b0 / 35.00224\u00b0",
+    "position": "32.82035\u00b0 / 35.00224\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9782699": {
     "rowidx": 256,
