@@ -14,19 +14,19 @@
     "length": "199.99",
     "breadth": "32.26",
     "grossTonnage": "60,131",
-    "dept": "MX LZC",
-    "deptLong": "Lazaro Cardenas",
+    "dept": "US RCH",
+    "deptLong": "Richmond",
     "deptType": "ATD",
-    "deptLocalTime": "2022/12/21 22:37",
-    "deptTime": "2022/12/22 04:37",
-    "dest": "US RCH",
-    "destLong": "Richmond",
-    "destType": "ATA",
-    "destLocalTime": "2022/12/26 04:59",
-    "destTime": "2022/12/26 12:59",
-    "position": "37.9068\u00b0 / -122.3635\u00b0",
+    "deptLocalTime": "2022/12/26 17:22",
+    "deptTime": "2022/12/27 01:22",
+    "dest": "US SFO",
+    "destLong": "San Francisco",
+    "destType": "ETA",
+    "destLocalTime": "2022/12/26 19:00",
+    "destTime": "2022/12/27 03:00",
+    "position": "37.91772\u00b0 / -122.4127\u00b0",
     "area": "US West Coast",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9186302": {
     "rowidx": 7,
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/24 18:25",
     "destTime": "2022/12/24 17:25",
-    "position": "51.30368\u00b0 / 3.229832\u00b0",
+    "position": "51.30369\u00b0 / 3.22981\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -169,7 +169,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/23 22:41",
     "destTime": "2022/12/23 21:41",
-    "position": "38.47377\u00b0 / 15.9158\u00b0",
+    "position": "38.47378\u00b0 / 15.91579\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Moored"
   },
@@ -227,7 +227,7 @@
     "destType": "ETA",
     "destLocalTime": "2022/12/27 06:00",
     "destTime": "2022/12/27 04:00",
-    "position": "32.50172\u00b0 / 34.20825\u00b0",
+    "position": "32.66697\u00b0 / 34.39468\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -430,7 +430,7 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/26 13:10",
     "destTime": "2022/12/26 04:10",
-    "position": "35.16781\u00b0 / 128.584\u00b0",
+    "position": "35.16782\u00b0 / 128.584\u00b0",
     "area": "North China",
     "status": "Moored"
   }
