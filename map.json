@@ -2,12 +2,12 @@
   "9328728": {
     "rowidx": 5,
     "silence": "FALSE",
-    "num": "234",
+    "num": "235",
     "manDept": "SHG",
     "notes": "",
     "quarter": "23Q1",
-    "numDept": "1",
-    "mapStatus": "1",
+    "numDept": "2",
+    "mapStatus": "2",
     "mtsid": "418121",
     "name": "Sea Hellinis",
     "mmsi": "356145000",
@@ -28,8 +28,37 @@
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
-  "9539183": {
+  "9191876": {
     "rowidx": 6,
+    "silence": "FALSE",
+    "num": "234",
+    "manDept": "SHG",
+    "notes": "",
+    "quarter": "23Q1",
+    "numDept": "1",
+    "mapStatus": "2",
+    "mtsid": "418121",
+    "name": "Hoegh Asia",
+    "mmsi": "356145000",
+    "length": "180",
+    "breadth": "30",
+    "grossTonnage": "45,232",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/01/05 09:55",
+    "deptTime": "2023/01/05 01:55",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ETA",
+    "destLocalTime": "2023/01/25 14:00",
+    "destTime": "2023/01/25 12:00",
+    "position": "30.45665\u00b0 / 122.7335\u00b0",
+    "area": "East China Sea",
+    "status": "Underway using Engine"
+  },
+  "9539183": {
+    "rowidx": 7,
     "silence": "FALSE",
     "num": "233",
     "manDept": "SFO",
@@ -58,7 +87,7 @@
     "status": "Out of Range"
   },
   "9782704": {
-    "rowidx": 253,
+    "rowidx": 254,
     "silence": "FALSE",
     "num": "-14",
     "manDept": "SHG",
@@ -82,12 +111,12 @@
     "destType": "ATA",
     "destLocalTime": "2022/12/23 22:41",
     "destTime": "2022/12/23 21:41",
-    "position": "50.90254\u00b0 / -1.423065\u00b0",
+    "position": "50.9026\u00b0 / -1.423065\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
   "9889100": {
-    "rowidx": 254,
+    "rowidx": 255,
     "silence": "FALSE",
     "num": "-15",
     "manDept": "SHG",
@@ -116,7 +145,7 @@
     "status": "Underway using Engine"
   },
   "9360568": {
-    "rowidx": 255,
+    "rowidx": 256,
     "silence": "FALSE",
     "num": "-16",
     "manDept": "SHG",
@@ -140,12 +169,12 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/06 13:00",
     "destTime": "2023/01/06 12:00",
-    "position": "48.66228\u00b0 / -5.689987\u00b0",
+    "position": "49.12111\u00b0 / -4.679966\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
   "9782699": {
-    "rowidx": 256,
+    "rowidx": 257,
     "silence": "FALSE",
     "num": "-17",
     "manDept": "SHG",
@@ -169,12 +198,12 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/07 02:00",
     "destTime": "2023/01/07 01:00",
-    "position": "32.83707\u00b0 / 29.69528\u00b0",
+    "position": "33.39388\u00b0 / 28.0258\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
   "9334234": {
-    "rowidx": 257,
+    "rowidx": 258,
     "silence": "FALSE",
     "num": "-18",
     "manDept": "SHG",
@@ -203,7 +232,7 @@
     "status": "Out of Range"
   },
   "9610418": {
-    "rowidx": 258,
+    "rowidx": 259,
     "silence": "FALSE",
     "num": "-19",
     "manDept": "SHG",
@@ -232,7 +261,7 @@
     "status": "Out of Range"
   },
   "9574080": {
-    "rowidx": 259,
+    "rowidx": 260,
     "silence": "FALSE",
     "num": "-20",
     "manDept": "SHG",
@@ -261,7 +290,7 @@
     "status": "Moored"
   },
   "9441568": {
-    "rowidx": 260,
+    "rowidx": 261,
     "silence": "FALSE",
     "num": "-21",
     "manDept": "SHG",
@@ -290,7 +319,7 @@
     "status": "Underway using Engine"
   },
   "9675585": {
-    "rowidx": 261,
+    "rowidx": 262,
     "silence": "FALSE",
     "num": "-22",
     "manDept": "SHG",
