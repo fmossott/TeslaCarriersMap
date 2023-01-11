@@ -1,6 +1,35 @@
 {
-  "9070450": {
+  "9651101": {
     "rowidx": 6,
+    "silence": "FALSE",
+    "num": "241",
+    "manDept": "SFO",
+    "notes": "",
+    "quarter": "23Q1",
+    "numDept": "2",
+    "mapStatus": "1",
+    "mtsid": "714168",
+    "name": "Glovis Courage",
+    "mmsi": "441168000",
+    "length": "199.98",
+    "breadth": "32",
+    "grossTonnage": "59,060",
+    "dept": "US BNC",
+    "deptLong": "Benicia",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/01/11 00:53",
+    "deptTime": "2023/01/11 08:53",
+    "dest": "US SFO",
+    "destLong": "San Francisco",
+    "destType": "ATA",
+    "destLocalTime": "2023/01/11 03:30",
+    "destTime": "2023/01/11 11:30",
+    "position": "37.74962\u00b0 / -122.3758\u00b0",
+    "area": "US West Coast",
+    "status": "Moored"
+  },
+  "9070450": {
+    "rowidx": 7,
     "silence": "FALSE",
     "num": "240",
     "manDept": "SHG",
@@ -24,12 +53,12 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/10 16:15",
     "destTime": "2023/01/10 06:15",
-    "position": "-27.37959\u00b0 / 153.1647\u00b0",
+    "position": "-27.37961\u00b0 / 153.1647\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
   "9463205": {
-    "rowidx": 7,
+    "rowidx": 8,
     "silence": "FALSE",
     "num": "239",
     "manDept": "SHG",
@@ -53,12 +82,12 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/11 14:15",
     "destTime": "2023/01/11 06:15",
-    "position": "30.83609\u00b0 / 121.8364\u00b0",
+    "position": "30.8361\u00b0 / 121.8364\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
   "9176565": {
-    "rowidx": 8,
+    "rowidx": 9,
     "silence": "FALSE",
     "num": "238",
     "manDept": "SHG",
@@ -87,7 +116,7 @@
     "status": "Underway using Engine"
   },
   "9327748": {
-    "rowidx": 9,
+    "rowidx": 10,
     "silence": "FALSE",
     "num": "237",
     "manDept": "SHG",
@@ -116,7 +145,7 @@
     "status": "Underway using Engine"
   },
   "9328728": {
-    "rowidx": 10,
+    "rowidx": 11,
     "silence": "FALSE",
     "num": "236",
     "manDept": "SHG",
@@ -145,7 +174,7 @@
     "status": "Underway using Engine"
   },
   "9796377": {
-    "rowidx": 11,
+    "rowidx": 12,
     "silence": "FALSE",
     "num": "235",
     "manDept": "SHG",
@@ -174,7 +203,7 @@
     "status": "Underway using Engine"
   },
   "9191876": {
-    "rowidx": 12,
+    "rowidx": 13,
     "silence": "FALSE",
     "num": "234",
     "manDept": "SHG",
@@ -203,7 +232,7 @@
     "status": "Underway using Engine"
   },
   "9539183": {
-    "rowidx": 13,
+    "rowidx": 14,
     "silence": "FALSE",
     "num": "233",
     "manDept": "SFO",
@@ -232,7 +261,7 @@
     "status": "Out of Range"
   },
   "9483786": {
-    "rowidx": 260,
+    "rowidx": 261,
     "silence": "FALSE",
     "num": "-14",
     "manDept": "SHG",
@@ -256,12 +285,12 @@
     "destType": "",
     "destLocalTime": "",
     "destTime": "",
-    "position": "36.8477\u00b0 / 126.0475\u00b0",
+    "position": "37.00451\u00b0 / 126.1961\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   },
   "9293521": {
-    "rowidx": 261,
+    "rowidx": 262,
     "silence": "FALSE",
     "num": "-15",
     "manDept": "SHG",
@@ -290,7 +319,7 @@
     "status": "Underway using Engine"
   },
   "9360568": {
-    "rowidx": 262,
+    "rowidx": 263,
     "silence": "FALSE",
     "num": "-16",
     "manDept": "SHG",
@@ -314,12 +343,12 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/20 18:00",
     "destTime": "2023/01/20 16:00",
-    "position": "51.30657\u00b0 / 3.227238\u00b0",
+    "position": "51.30657\u00b0 / 3.227227\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
   "9358888": {
-    "rowidx": 263,
+    "rowidx": 264,
     "silence": "FALSE",
     "num": "-17",
     "manDept": "SHG",
@@ -347,7 +376,7 @@
     "status": "Out of Range"
   },
   "9706918": {
-    "rowidx": 264,
+    "rowidx": 265,
     "silence": "FALSE",
     "num": "-18",
     "manDept": "SHG",
@@ -375,7 +404,7 @@
     "status": "Out of Range"
   },
   "9722302": {
-    "rowidx": 265,
+    "rowidx": 266,
     "silence": "FALSE",
     "num": "-19",
     "manDept": "SHG",
