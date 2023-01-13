@@ -24,7 +24,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/12 04:17",
     "destTime": "2023/01/12 12:17",
-    "position": "37.79239\u00b0 / -122.3585\u00b0",
+    "position": "37.79233\u00b0 / -122.3586\u00b0",
     "area": "US West Coast",
     "status": "At Anchor"
   },
@@ -171,7 +171,7 @@
     "destTime": "2023/01/25 12:00",
     "position": "5.201483\u00b0 / 97.88776\u00b0",
     "area": "Malacca Strait",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9796377": {
     "rowidx": 12,
@@ -285,7 +285,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/15 05:00",
     "destTime": "2023/01/14 21:00",
-    "position": "35.97672\u00b0 / 126.5818\u00b0",
+    "position": "35.9767\u00b0 / 126.5818\u00b0",
     "area": "Yellow Sea",
     "status": "Moored"
   },
@@ -422,15 +422,15 @@
     "grossTonnage": "75,283",
     "dept": "US TIW",
     "deptLong": "Tacoma",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/01/12 04:13",
-    "deptTime": "2023/01/12 12:13",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/01/12 18:28",
+    "deptTime": "2023/01/13 02:28",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
     "destType": "ETA",
     "destLocalTime": "2023/01/26 05:00",
     "destTime": "2023/01/25 20:00",
-    "position": "47.27695\u00b0 / -122.4114\u00b0",
+    "position": "47.48397\u00b0 / -122.408\u00b0",
     "area": "US West Coast",
     "status": "Underway using Engine"
   }
