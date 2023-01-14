@@ -77,14 +77,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/01/12 03:54",
     "deptTime": "2023/01/12 11:54",
-    "dest": "US SAN FRANCISCO ANCH",
-    "destLong": "San Francisco",
-    "destType": "ATA",
-    "destLocalTime": "2023/01/12 04:17",
-    "destTime": "2023/01/12 12:17",
-    "position": "37.79316\u00b0 / -122.3573\u00b0",
+    "dest": "KR PTK",
+    "destLong": "Pyeongtaek",
+    "destType": "ETA",
+    "destLocalTime": "2023/01/31 21:00",
+    "destTime": "2023/01/31 12:00",
+    "position": "37.78095\u00b0 / -122.5757\u00b0",
     "area": "US West Coast",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9070450": {
     "rowidx": 9,
@@ -111,7 +111,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/13 22:32",
     "destTime": "2023/01/13 12:32",
-    "position": "-34.39084\u00b0 / 150.9961\u00b0",
+    "position": "-34.39073\u00b0 / 150.9964\u00b0",
     "area": "East Australia",
     "status": "At Anchor"
   },
@@ -343,7 +343,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/14 04:40",
     "destTime": "2023/01/14 09:40",
-    "position": "40.69768\u00b0 / -74.14567\u00b0",
+    "position": "40.69769\u00b0 / -74.14565\u00b0",
     "area": "US East Coast",
     "status": "Moored"
   },
@@ -401,7 +401,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/19 06:00",
     "destTime": "2023/01/19 03:00",
-    "position": "5.676229\u00b0 / 80.04786\u00b0",
+    "position": "6.734685\u00b0 / 77.24339\u00b0",
     "area": "Laccadive Sea",
     "status": "Underway using Engine"
   },
@@ -459,7 +459,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/13 13:00",
     "destTime": "2023/01/13 05:00",
-    "position": "31.31451\u00b0 / 122.83461\u00b0",
+    "position": "31.53243\u00b0 / 122.84944\u00b0",
     "area": "East China Sea",
     "status": "Out of Range"
   },
