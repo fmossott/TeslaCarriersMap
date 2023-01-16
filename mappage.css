@@ -147,3 +147,23 @@ a {
   color: white;
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
+
+.madeIn {
+  width: 16px;
+  height: 16px;
+}
+
+.madeIn-CHN {
+  background-image: url('icons/china-circle.png');
+  background-size: 16px 16px;
+}
+
+.madeIn-USA {
+  background-image: url('icons/united-states-circle.png');
+  background-size: 16px 16px;
+}
+
+.madeIn-EU {
+  background-image: url('icons/european-union-circle.png');
+  background-size: 16px 16px;
+}

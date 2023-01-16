@@ -81,7 +81,7 @@ class Map {
     var marker = L.marker([lat, lon]).addTo(layer);
 
     var icon = L.AwesomeMarkers.icon(
-      { "extraClasses": "fa-rotate-0", "icon": ship.mapStatus==4 ? "binoculars" : "ship", "iconColor": "white", "markerColor": color, "prefix": "fa" }
+      { "extraClasses": "fa-rotate-0", "icon": ship.madeIn, "markerColor": color, "prefix": "madeIn" }
     );
     marker.setIcon(icon);
 
