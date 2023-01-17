@@ -1,6 +1,6 @@
 {
   "9441867": {
-    "rowidx": 6,
+    "rowidx": 7,
     "silence": "FALSE",
     "num": "243",
     "manDept": "SHG",
@@ -30,7 +30,7 @@
     "status": "Underway using Engine"
   },
   "9360568": {
-    "rowidx": 7,
+    "rowidx": 8,
     "silence": "FALSE",
     "num": "242",
     "manDept": "ZEE",
@@ -60,7 +60,7 @@
     "status": "Underway using Engine"
   },
   "9651101": {
-    "rowidx": 8,
+    "rowidx": 9,
     "silence": "FALSE",
     "num": "241",
     "manDept": "SFO",
@@ -90,7 +90,7 @@
     "status": "Out of Range"
   },
   "9070450": {
-    "rowidx": 9,
+    "rowidx": 10,
     "silence": "FALSE",
     "num": "240",
     "manDept": "SHG",
@@ -115,12 +115,12 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/13 22:32",
     "destTime": "2023/01/13 12:32",
-    "position": "-34.39053\u00b0 / 150.995\u00b0",
+    "position": "-34.39054\u00b0 / 150.9949\u00b0",
     "area": "East Australia",
     "status": "At Anchor"
   },
   "9463205": {
-    "rowidx": 10,
+    "rowidx": 11,
     "silence": "FALSE",
     "num": "239",
     "manDept": "SHG",
@@ -150,7 +150,7 @@
     "status": "Out of Range"
   },
   "9176565": {
-    "rowidx": 11,
+    "rowidx": 12,
     "silence": "FALSE",
     "num": "238",
     "manDept": "SHG",
@@ -180,7 +180,7 @@
     "status": "Out of Range"
   },
   "9327748": {
-    "rowidx": 12,
+    "rowidx": 13,
     "silence": "FALSE",
     "num": "237",
     "manDept": "SHG",
@@ -210,7 +210,7 @@
     "status": "Out of Range"
   },
   "9328728": {
-    "rowidx": 13,
+    "rowidx": 14,
     "silence": "FALSE",
     "num": "236",
     "manDept": "SHG",
@@ -240,7 +240,7 @@
     "status": "Out of Range"
   },
   "9796377": {
-    "rowidx": 14,
+    "rowidx": 15,
     "silence": "FALSE",
     "num": "235",
     "manDept": "SHG",
@@ -270,7 +270,7 @@
     "status": "Out of Range"
   },
   "9191876": {
-    "rowidx": 15,
+    "rowidx": 16,
     "silence": "FALSE",
     "num": "234",
     "manDept": "SHG",
@@ -295,42 +295,12 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/18 12:00",
     "destTime": "2023/01/18 11:00",
-    "position": "36.42195\u00b0 / -7.088578\u00b0",
+    "position": "36.57029\u00b0 / -7.323312\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
-  "9539183": {
-    "rowidx": 16,
-    "silence": "FALSE",
-    "num": "233",
-    "manDept": "SFO",
-    "madeIn": "USA",
-    "notes": "",
-    "quarter": "23Q1",
-    "numDept": "1",
-    "mapStatus": "3",
-    "mtsid": "6296887",
-    "name": "Opal Ace",
-    "mmsi": "319058000",
-    "length": "199.99",
-    "breadth": "32.26",
-    "grossTonnage": "60,131",
-    "dept": "JP HIJ",
-    "deptLong": "Hiroshima",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/01/16 18:50",
-    "deptTime": "2023/01/16 09:50",
-    "dest": "JP NAN",
-    "destLong": "Nakanoseki",
-    "destType": "ATA",
-    "destLocalTime": "2023/01/17 06:51",
-    "destTime": "2023/01/16 21:51",
-    "position": "34.00535\u00b0 / 131.557\u00b0",
-    "area": "Japan Coast",
-    "status": "Moored"
-  },
   "9427940": {
-    "rowidx": 264,
+    "rowidx": 265,
     "silence": "FALSE",
     "num": "-15",
     "manDept": "SHG",
@@ -355,12 +325,12 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/17 07:24",
     "destTime": "2023/01/16 23:24",
-    "position": "31.32333\u00b0 / 121.68\u00b0",
+    "position": "31.32355\u00b0 / 121.6795\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
   "9491874": {
-    "rowidx": 265,
+    "rowidx": 266,
     "silence": "FALSE",
     "num": "-16",
     "manDept": "SHG",
@@ -390,7 +360,7 @@
     "status": "Out of Range"
   },
   "9446001": {
-    "rowidx": 266,
+    "rowidx": 267,
     "silence": "FALSE",
     "num": "-17",
     "manDept": "BAL",
@@ -420,7 +390,7 @@
     "status": "Out of Range"
   },
   "9483786": {
-    "rowidx": 267,
+    "rowidx": 268,
     "silence": "FALSE",
     "num": "-18",
     "manDept": "SHG",
@@ -445,12 +415,12 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/17 15:36",
     "destTime": "2023/01/17 07:36",
-    "position": "31.10669\u00b0 / 122.4007\u00b0",
+    "position": "31.10564\u00b0 / 122.3075\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
   "9293521": {
-    "rowidx": 268,
+    "rowidx": 269,
     "silence": "FALSE",
     "num": "-19",
     "manDept": "SHG",
@@ -480,7 +450,7 @@
     "status": "Out of Range"
   },
   "9358888": {
-    "rowidx": 269,
+    "rowidx": 270,
     "silence": "FALSE",
     "num": "-20",
     "manDept": "SHG",
@@ -510,7 +480,7 @@
     "status": "Out of Range"
   },
   "9706918": {
-    "rowidx": 270,
+    "rowidx": 271,
     "silence": "FALSE",
     "num": "-21",
     "manDept": "SHG",
@@ -535,12 +505,12 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/16 18:54",
     "destTime": "2023/01/16 10:54",
-    "position": "31.6528\u00b0 / 121.2104\u00b0",
+    "position": "31.65282\u00b0 / 121.2104\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
   "9722302": {
-    "rowidx": 271,
+    "rowidx": 272,
     "silence": "FALSE",
     "num": "-22",
     "manDept": "SHG",
