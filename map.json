@@ -145,9 +145,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/13 22:32",
     "destTime": "2023/01/13 12:32",
-    "position": "-34.39032\u00b0 / 150.9949\u00b0",
+    "position": "-34.39064\u00b0 / 150.9956\u00b0",
     "area": "East Australia",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9463205": {
     "rowidx": 11,
@@ -175,7 +175,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/17 23:29",
     "destTime": "2023/01/17 15:29",
-    "position": "1.27276\u00b0 / 103.8939\u00b0",
+    "position": "1.273062\u00b0 / 103.8941\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -205,7 +205,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/20 12:00",
     "destTime": "2023/01/20 10:00",
-    "position": "14.61802\u00b0 / 42.11354\u00b0",
+    "position": "17.34373\u00b0 / 40.57661\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
@@ -347,17 +347,17 @@
     "grossTonnage": "47,057",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/01/17 07:24",
-    "deptTime": "2023/01/16 23:24",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/01/18 08:57",
+    "deptTime": "2023/01/18 00:57",
     "dest": "AU BNE",
     "destLong": "Brisbane",
     "destType": "ETA",
-    "destLocalTime": "2023/01/29 10:01",
-    "destTime": "2023/01/29 00:01",
-    "position": "31.32348\u00b0 / 121.6795\u00b0",
+    "destLocalTime": "2023/01/29 09:59",
+    "destTime": "2023/01/28 23:59",
+    "position": "31.3224\u00b0 / 121.7135\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9491874": {
     "rowidx": 266,
@@ -445,7 +445,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/24 11:00",
     "destTime": "2023/01/24 03:00",
-    "position": "31.3222\u00b0 / 121.6815\u00b0",
+    "position": "31.32218\u00b0 / 121.6815\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -533,9 +533,9 @@
     "dest": "TH LCH",
     "destLong": "Laem Chabang",
     "destType": "ETA",
-    "destLocalTime": "2023/01/16 18:54",
-    "destTime": "2023/01/16 10:54",
-    "position": "31.60577\u00b0 / 121.278\u00b0",
+    "destLocalTime": "2023/01/24 13:00",
+    "destTime": "2023/01/24 06:00",
+    "position": "31.48099\u00b0 / 121.4401\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
