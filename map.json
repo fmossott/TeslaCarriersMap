@@ -15,19 +15,19 @@
     "length": "199.41",
     "breadth": "32.26",
     "grossTonnage": "57,350",
-    "dept": "AU BNE",
-    "deptLong": "Brisbane",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
     "deptType": "ATD",
-    "deptLocalTime": "2023/01/07 22:19",
-    "deptTime": "2023/01/07 12:19",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2023/01/18 19:57",
-    "destTime": "2023/01/18 11:57",
-    "position": "30.83598\u00b0 / 121.8365\u00b0",
+    "deptLocalTime": "2023/01/20 21:31",
+    "deptTime": "2023/01/20 13:31",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2023/01/27 02:00",
+    "destTime": "2023/01/26 18:00",
+    "position": "30.53707\u00b0 / 122.3461\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9427940": {
     "rowidx": 7,
@@ -55,9 +55,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/29 09:59",
     "destTime": "2023/01/28 23:59",
-    "position": "25.63168\u00b0 / 126.6693\u00b0",
+    "position": "18.83500\u00b0 / 131.42999\u00b0",
     "area": "East China Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9308792": {
     "rowidx": 8,
@@ -205,7 +205,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/21 14:00",
     "destTime": "2023/01/21 03:00",
-    "position": "-38.81194\u00b0 / 147.84\u00b0",
+    "position": "-38.92007\u00b0 / 147.3909\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -265,7 +265,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 14:15",
     "destTime": "2023/01/25 13:15",
-    "position": "29.85667\u00b0 / 32.56108\u00b0",
+    "position": "29.85711\u00b0 / 32.56226\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -355,7 +355,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/20 21:30",
     "destTime": "2023/01/20 19:30",
-    "position": "24.64069\u00b0 / 36.37114\u00b0",
+    "position": "28.99104\u00b0 / 32.86744\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -505,7 +505,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/21 06:00",
     "destTime": "2023/01/21 03:00",
-    "position": "16.96166\u00b0 / 40.72500\u00b0",
+    "position": "19.06436\u00b0 / 39.54362\u00b0",
     "area": "Gulf of Aden",
     "status": "Out of Range"
   },
