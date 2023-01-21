@@ -10,11 +10,11 @@
     "numDept": "0",
     "mapStatus": "4",
     "mtsid": "410845",
-    "name": "Morning Lena",
-    "mmsi": "441115000",
-    "length": "232.38",
-    "breadth": "32.3",
-    "grossTonnage": "70,853",
+    "name": "",
+    "mmsi": "",
+    "length": "",
+    "breadth": "",
+    "grossTonnage": "",
     "dept": "US NYC",
     "deptLong": "New York",
     "deptType": "ATD",
@@ -25,7 +25,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 06:00",
     "destTime": "2023/01/25 05:00",
-    "position": "55.24333\u00b0 / -24.20500\u00b0",
+    "position": "",
     "area": "East Coast Canada",
     "status": "Out of Range"
   },
@@ -175,7 +175,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/08 20:00",
     "destTime": "2023/02/08 12:00",
-    "position": "31.36751\u00b0 / 32.33338\u00b0",
+    "position": "31.36762\u00b0 / 32.3339\u00b0",
     "area": "East Mediterranean",
     "status": "At Anchor"
   },
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/21 14:00",
     "destTime": "2023/01/21 03:00",
-    "position": "-38.48463\u00b0 / 144.3968\u00b0",
+    "position": "-38.55342\u00b0 / 144.3893\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -415,7 +415,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/18 12:00",
     "destTime": "2023/01/18 11:00",
-    "position": "49.86334\u00b0 / -2.486315\u00b0",
+    "position": "49.93597\u00b0 / -2.106845\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -475,9 +475,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/21 05:45",
     "destTime": "2023/01/21 02:45",
-    "position": "21.46772\u00b0 / 39.15881\u00b0",
+    "position": "21.46772\u00b0 / 39.15879\u00b0",
     "area": "Red Sea",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9358888": {
     "rowidx": 273,
@@ -535,7 +535,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/24 11:00",
     "destTime": "2023/01/24 04:00",
-    "position": "14.95382\u00b0 / 114.37616\u00b0",
+    "position": "12.46514\u00b0 / 111.96818\u00b0",
     "area": "South China",
     "status": "Out of Range"
   },
