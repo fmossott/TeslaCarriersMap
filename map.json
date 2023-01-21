@@ -205,7 +205,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/21 14:00",
     "destTime": "2023/01/21 03:00",
-    "position": "-38.47221\u00b0 / 144.448\u00b0",
+    "position": "-38.45171\u00b0 / 144.4509\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -265,7 +265,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 14:15",
     "destTime": "2023/01/25 13:15",
-    "position": "29.85669\u00b0 / 32.56089\u00b0",
+    "position": "29.85773\u00b0 / 32.56098\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -355,9 +355,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/20 21:52",
     "destTime": "2023/01/20 19:52",
-    "position": "29.83735\u00b0 / 32.56915\u00b0",
+    "position": "29.85468\u00b0 / 32.55384\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9191876": {
     "rowidx": 18,
@@ -500,14 +500,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/01/19 15:15",
     "deptTime": "2023/01/19 12:15",
-    "dest": "SA JED",
+    "dest": "SA JEDDAH ANCH",
     "destLong": "Jeddah",
-    "destType": "ETA",
-    "destLocalTime": "2023/01/21 06:00",
-    "destTime": "2023/01/21 03:00",
-    "position": "21.5018\u00b0 / 39.06697\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2023/01/21 05:45",
+    "destTime": "2023/01/21 02:45",
+    "position": "21.49917\u00b0 / 39.06742\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9358888": {
     "rowidx": 272,
