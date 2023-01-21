@@ -205,7 +205,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/21 14:00",
     "destTime": "2023/01/21 03:00",
-    "position": "-38.45171\u00b0 / 144.4509\u00b0",
+    "position": "-38.43473\u00b0 / 144.4496\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -265,9 +265,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 14:15",
     "destTime": "2023/01/25 13:15",
-    "position": "29.85773\u00b0 / 32.56098\u00b0",
+    "position": "29.89307\u00b0 / 32.54716\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9327748": {
     "rowidx": 15,
@@ -350,12 +350,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/01/01 05:50",
     "deptTime": "2022/12/31 21:50",
-    "dest": "EG SUEZ SOUTH ANCH",
+    "dest": "EG SUZ",
     "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2023/01/20 21:52",
-    "destTime": "2023/01/20 19:52",
-    "position": "29.85468\u00b0 / 32.55384\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2023/01/20 21:30",
+    "destTime": "2023/01/20 19:30",
+    "position": "29.94909\u00b0 / 32.58016\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -505,7 +505,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/21 05:45",
     "destTime": "2023/01/21 02:45",
-    "position": "21.49917\u00b0 / 39.06742\u00b0",
+    "position": "21.49777\u00b0 / 39.06787\u00b0",
     "area": "Red Sea",
     "status": "Stopped"
   },
