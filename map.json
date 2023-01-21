@@ -83,9 +83,9 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2023/02/04 09:00",
-    "destTime": "2023/02/04 07:00",
-    "position": "17.53603\u00b0 / 117.52195\u00b0",
+    "destLocalTime": "2023/02/04 15:00",
+    "destTime": "2023/02/04 13:00",
+    "position": "12.66798\u00b0 / 112.97266\u00b0",
     "area": "South China",
     "status": "Out of Range"
   },
@@ -205,7 +205,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/21 14:00",
     "destTime": "2023/01/21 03:00",
-    "position": "-38.45305\u00b0 / 144.4543\u00b0",
+    "position": "-38.49809\u00b0 / 144.4499\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/17 23:29",
     "destTime": "2023/01/17 15:29",
-    "position": "6.24833\u00b0 / 90.61166\u00b0",
+    "position": "6.10872\u00b0 / 87.47202\u00b0",
     "area": "Malacca Strait",
     "status": "Out of Range"
   },
@@ -265,7 +265,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 14:15",
     "destTime": "2023/01/25 13:15",
-    "position": "30.01699\u00b0 / 32.57984\u00b0",
+    "position": "30.05469\u00b0 / 32.57317\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -500,14 +500,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/01/19 15:15",
     "deptTime": "2023/01/19 12:15",
-    "dest": "SA JEDDAH ANCH",
+    "dest": "SA JED",
     "destLong": "Jeddah",
     "destType": "ATA",
     "destLocalTime": "2023/01/21 05:45",
     "destTime": "2023/01/21 02:45",
-    "position": "21.48338\u00b0 / 39.08163\u00b0",
+    "position": "21.4677\u00b0 / 39.15875\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9358888": {
     "rowidx": 272,
