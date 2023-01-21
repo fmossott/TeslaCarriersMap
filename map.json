@@ -165,19 +165,19 @@
     "length": "186.03",
     "breadth": "28.2",
     "grossTonnage": "41,662",
-    "dept": "EG PORT SAID ANCH",
+    "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/01/21 15:41",
-    "deptTime": "2023/01/21 14:41",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/01/12 06:06",
+    "deptTime": "2023/01/12 05:06",
     "dest": "TW TPE",
     "destLong": "Taipei",
     "destType": "ETA",
     "destLocalTime": "2023/02/08 20:00",
     "destTime": "2023/02/08 12:00",
-    "position": "31.36762\u00b0 / 32.3339\u00b0",
+    "position": "31.34523\u00b0 / 32.37991\u00b0",
     "area": "East Mediterranean",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9651101": {
     "rowidx": 14,
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/21 14:00",
     "destTime": "2023/01/21 03:00",
-    "position": "-38.55342\u00b0 / 144.3893\u00b0",
+    "position": "-38.51483\u00b0 / 144.3981\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -355,7 +355,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/23 13:00",
     "destTime": "2023/01/23 11:00",
-    "position": "21.07647\u00b0 / 38.30505\u00b0",
+    "position": "22.10628\u00b0 / 37.70757\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -415,7 +415,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/18 12:00",
     "destTime": "2023/01/18 11:00",
-    "position": "49.93597\u00b0 / -2.106845\u00b0",
+    "position": "49.95269\u00b0 / -1.638468\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -475,7 +475,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/21 05:45",
     "destTime": "2023/01/21 02:45",
-    "position": "21.46772\u00b0 / 39.15879\u00b0",
+    "position": "21.4677\u00b0 / 39.15881\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -505,9 +505,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/30 13:00",
     "destTime": "2023/01/30 05:00",
-    "position": "5.755\u00b0 / 82.15134\u00b0",
+    "position": "6.19467\u00b0 / 92.20607\u00b0",
     "area": "East Coast India",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9706918": {
     "rowidx": 274,
