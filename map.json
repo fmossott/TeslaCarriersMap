@@ -25,7 +25,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 06:00",
     "destTime": "2023/01/25 05:00",
-    "position": "54.49666\u00b0 / -29.30000\u00b0",
+    "position": "55.24333\u00b0 / -24.20500\u00b0",
     "area": "East Coast Canada",
     "status": "Out of Range"
   },
@@ -170,14 +170,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/01/12 06:06",
     "deptTime": "2023/01/12 05:06",
-    "dest": "EG PSD",
+    "dest": "EG PORT SAID ANCH",
     "destLong": "Port Said",
-    "destType": "ETA",
-    "destLocalTime": "2023/01/21 17:00",
-    "destTime": "2023/01/21 15:00",
-    "position": "31.95667\u00b0 / 31.57500\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2023/01/21 16:41",
+    "destTime": "2023/01/21 14:41",
+    "position": "31.3709\u00b0 / 32.3293\u00b0",
     "area": "East Mediterranean",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9651101": {
     "rowidx": 14,
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/21 14:00",
     "destTime": "2023/01/21 03:00",
-    "position": "-38.47371\u00b0 / 144.4329\u00b0",
+    "position": "-38.44983\u00b0 / 144.4471\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -295,8 +295,8 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 14:15",
     "destTime": "2023/01/25 13:15",
-    "position": "30.05469\u00b0 / 32.57317\u00b0",
-    "area": "Red Sea",
+    "position": "31.21547\u00b0 / 32.34197\u00b0",
+    "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
   "9327748": {
@@ -415,7 +415,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/18 12:00",
     "destTime": "2023/01/18 11:00",
-    "position": "49.29632\u00b0 / -4.18121\u00b0",
+    "position": "49.40574\u00b0 / -3.852507\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -475,9 +475,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/21 05:45",
     "destTime": "2023/01/21 02:45",
-    "position": "21.46775\u00b0 / 39.15879\u00b0",
+    "position": "21.46773\u00b0 / 39.15879\u00b0",
     "area": "Red Sea",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9358888": {
     "rowidx": 273,
