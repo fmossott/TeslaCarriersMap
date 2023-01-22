@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/21 14:00",
     "destTime": "2023/01/21 03:00",
-    "position": "-38.72058\u00b0 / 144.1259\u00b0",
+    "position": "-38.70566\u00b0 / 144.1521\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -265,7 +265,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/17 23:29",
     "destTime": "2023/01/17 15:29",
-    "position": "5.928782\u00b0 / 80.18333\u00b0",
+    "position": "5.955197\u00b0 / 80.10995\u00b0",
     "area": "Laccadive Sea",
     "status": "Underway by Sail"
   },
@@ -412,12 +412,12 @@
     "deptTime": "2022/12/20 11:26",
     "dest": "FR LEH",
     "destLong": "Le Havre",
-    "destType": "ETA",
-    "destLocalTime": "2023/01/18 12:00",
-    "destTime": "2023/01/18 11:00",
-    "position": "49.48989\u00b0 / 0.06686334\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2023/01/22 08:58",
+    "destTime": "2023/01/22 07:58",
+    "position": "49.47609\u00b0 / 0.1733333\u00b0",
     "area": "English Channel",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9483786": {
     "rowidx": 271,
@@ -475,7 +475,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/21 05:45",
     "destTime": "2023/01/21 02:45",
-    "position": "21.46771\u00b0 / 39.15876\u00b0",
+    "position": "21.4677\u00b0 / 39.15877\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
