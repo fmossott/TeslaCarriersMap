@@ -173,9 +173,9 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2023/02/04 15:00",
-    "destTime": "2023/02/04 13:00",
-    "position": "9.84918\u00b0 / 110.41941\u00b0",
+    "destLocalTime": "2023/02/04 16:00",
+    "destTime": "2023/02/04 14:00",
+    "position": "4.36800\u00b0 / 106.09008\u00b0",
     "area": "South China",
     "status": "Out of Range"
   },
@@ -205,8 +205,8 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/23 04:00",
     "destTime": "2023/01/22 20:00",
-    "position": "1.449445\u00b0 / 104.4674\u00b0",
-    "area": "South China",
+    "position": "1.301638\u00b0 / 104.2468\u00b0",
+    "area": "Singapore Area",
     "status": "Underway using Engine"
   },
   "9360568": {
@@ -295,9 +295,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/21 14:00",
     "destTime": "2023/01/21 03:00",
-    "position": "-38.60168\u00b0 / 144.341\u00b0",
+    "position": "-38.59098\u00b0 / 144.3448\u00b0",
     "area": "East Australia",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9463205": {
     "rowidx": 16,
@@ -475,7 +475,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/22 08:58",
     "destTime": "2023/01/22 07:58",
-    "position": "49.47289\u00b0 / 0.1851583\u00b0",
+    "position": "49.47291\u00b0 / 0.185155\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -505,7 +505,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/24 05:00",
     "destTime": "2023/01/23 21:00",
-    "position": "10.67894\u00b0 / 110.27907\u00b0",
+    "position": "7.66815\u00b0 / 108.30256\u00b0",
     "area": "South China",
     "status": "Out of Range"
   },
@@ -535,7 +535,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/21 05:45",
     "destTime": "2023/01/21 02:45",
-    "position": "21.46769\u00b0 / 39.15878\u00b0",
+    "position": "21.4677\u00b0 / 39.15879\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -565,7 +565,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/30 13:00",
     "destTime": "2023/01/30 05:00",
-    "position": "6.19467\u00b0 / 92.20607\u00b0",
+    "position": "5.55983\u00b0 / 97.84268\u00b0",
     "area": "East Coast India",
     "status": "Out of Range"
   },
