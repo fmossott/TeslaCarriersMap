@@ -10,11 +10,11 @@
     "numDept": "0",
     "mapStatus": "4",
     "mtsid": "410845",
-    "name": "Morning Lena",
-    "mmsi": "441115000",
-    "length": "232.38",
-    "breadth": "32.3",
-    "grossTonnage": "70,853",
+    "name": "",
+    "mmsi": "",
+    "length": "",
+    "breadth": "",
+    "grossTonnage": "",
     "dept": "US NYC",
     "deptLong": "New York",
     "deptType": "ATD",
@@ -25,7 +25,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 06:00",
     "destTime": "2023/01/25 05:00",
-    "position": "55.91000\u00b0 / -19.48500\u00b0",
+    "position": "",
     "area": "East Coast Canada",
     "status": "Out of Range"
   },
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/21 14:00",
     "destTime": "2023/01/21 03:00",
-    "position": "-38.73049\u00b0 / 144.1066\u00b0",
+    "position": "-38.72058\u00b0 / 144.1259\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -265,9 +265,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/17 23:29",
     "destTime": "2023/01/17 15:29",
-    "position": "5.95833\u00b0 / 83.98833\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "5.928782\u00b0 / 80.18333\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway by Sail"
   },
   "9176565": {
     "rowidx": 17,
@@ -415,7 +415,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/18 12:00",
     "destTime": "2023/01/18 11:00",
-    "position": "49.55441\u00b0 / -0.2497767\u00b0",
+    "position": "49.48989\u00b0 / 0.06686334\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -475,7 +475,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/21 05:45",
     "destTime": "2023/01/21 02:45",
-    "position": "21.4677\u00b0 / 39.15879\u00b0",
+    "position": "21.46771\u00b0 / 39.15876\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
