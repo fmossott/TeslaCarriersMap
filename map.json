@@ -205,7 +205,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/23 04:00",
     "destTime": "2023/01/22 20:00",
-    "position": "4.93667\u00b0 / 106.52984\u00b0",
+    "position": "1.84641\u00b0 / 104.80795\u00b0",
     "area": "South China",
     "status": "Out of Range"
   },
@@ -295,9 +295,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/21 14:00",
     "destTime": "2023/01/21 03:00",
-    "position": "-38.6197\u00b0 / 144.336\u00b0",
+    "position": "-38.60963\u00b0 / 144.3424\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9463205": {
     "rowidx": 16,
@@ -475,7 +475,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/22 08:58",
     "destTime": "2023/01/22 07:58",
-    "position": "49.47289\u00b0 / 0.1851967\u00b0",
+    "position": "49.47289\u00b0 / 0.18521\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -535,7 +535,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/21 05:45",
     "destTime": "2023/01/21 02:45",
-    "position": "21.46775\u00b0 / 39.15879\u00b0",
+    "position": "21.46776\u00b0 / 39.15877\u00b0",
     "area": "Red Sea",
     "status": "Moored"
   },
@@ -625,8 +625,8 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/27 05:00",
     "destTime": "2023/01/26 20:00",
-    "position": "44.44166\u00b0 / 148.72000\u00b0",
+    "position": "42.06473\u00b0 / 144.1183\u00b0",
     "area": "West Coast Canada",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   }
 }
