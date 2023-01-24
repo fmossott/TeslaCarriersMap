@@ -55,7 +55,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/17 15:56",
     "destTime": "2023/03/17 04:56",
-    "position": "-38.76547\u00b0 / 144.2856\u00b0",
+    "position": "-38.80115\u00b0 / 144.1544\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -85,7 +85,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/24 06:00",
     "destTime": "2023/01/23 22:00",
-    "position": "22.65796\u00b0 / 113.6909\u00b0",
+    "position": "22.86428\u00b0 / 113.5474\u00b0",
     "area": "South China",
     "status": "Underway using Engine"
   },
@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/26 22:00",
     "destTime": "2023/01/26 14:00",
-    "position": "17.09453\u00b0 / 113.82690\u00b0",
+    "position": "13.84304\u00b0 / 111.77734\u00b0",
     "area": "South China",
     "status": "Out of Range"
   },
@@ -355,7 +355,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 14:15",
     "destTime": "2023/01/25 13:15",
-    "position": "36.31599\u00b0 / 14.45934\u00b0",
+    "position": "36.52763\u00b0 / 13.80191\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -385,7 +385,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/23 15:11",
     "destTime": "2023/01/23 13:11",
-    "position": "29.8467\u00b0 / 32.56267\u00b0",
+    "position": "29.84776\u00b0 / 32.5625\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -415,7 +415,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/23 13:48",
     "destTime": "2023/01/23 11:48",
-    "position": "29.85632\u00b0 / 32.56177\u00b0",
+    "position": "29.85723\u00b0 / 32.5615\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -475,9 +475,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/22 08:58",
     "destTime": "2023/01/22 07:58",
-    "position": "49.4719\u00b0 / 0.210315\u00b0",
+    "position": "49.47194\u00b0 / 0.2103033\u00b0",
     "area": "English Channel",
-    "status": "Moored"
+    "status": "Underway"
   },
   "9483786": {
     "rowidx": 270,
@@ -495,17 +495,17 @@
     "length": "182.8",
     "breadth": "31.74",
     "grossTonnage": "46,800",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/01/18 20:56",
-    "deptTime": "2023/01/18 12:56",
-    "dest": "SG SIN",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2023/01/24 06:20",
-    "destTime": "2023/01/23 22:20",
-    "position": "1.285858\u00b0 / 103.7555\u00b0",
+    "dept": "SG SIN",
+    "deptLong": "Singapore",
+    "deptType": "ATA",
+    "deptLocalTime": "2023/01/24 06:20",
+    "deptTime": "2023/01/23 22:20",
+    "dest": "BR SSA",
+    "destLong": "Salvador",
+    "destType": "ETA",
+    "destLocalTime": "2023/02/13 06:00",
+    "destTime": "2023/02/13 09:00",
+    "position": "1.285827\u00b0 / 103.7555\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -595,9 +595,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/24 07:28",
     "destTime": "2023/01/24 00:28",
-    "position": "13.05043\u00b0 / 100.8915\u00b0",
+    "position": "13.05387\u00b0 / 100.9056\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9722302": {
     "rowidx": 274,
