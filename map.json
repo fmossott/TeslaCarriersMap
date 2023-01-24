@@ -85,7 +85,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/24 06:00",
     "destTime": "2023/01/23 22:00",
-    "position": "22.8643\u00b0 / 113.5475\u00b0",
+    "position": "22.86431\u00b0 / 113.5474\u00b0",
     "area": "South China",
     "status": "Moored"
   },
@@ -415,7 +415,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/24 06:07",
     "destTime": "2023/01/24 04:07",
-    "position": "30.01282\u00b0 / 32.58057\u00b0",
+    "position": "30.05605\u00b0 / 32.57285\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -475,9 +475,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/22 08:58",
     "destTime": "2023/01/22 07:58",
-    "position": "49.47193\u00b0 / 0.21028\u00b0",
+    "position": "49.47192\u00b0 / 0.2102767\u00b0",
     "area": "English Channel",
-    "status": "Underway"
+    "status": "Moored"
   },
   "9483786": {
     "rowidx": 270,
@@ -505,7 +505,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/13 06:00",
     "destTime": "2023/02/13 09:00",
-    "position": "1.285833\u00b0 / 103.7555\u00b0",
+    "position": "1.285825\u00b0 / 103.7555\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
@@ -525,11 +525,11 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "59,160",
-    "dept": "SA JED",
+    "dept": "JO AQABA INDUSTRIAL",
     "deptLong": "Jeddah",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/01/22 23:07",
-    "deptTime": "2023/01/22 20:07",
+    "deptType": "ATA",
+    "deptLocalTime": "2023/01/24 07:42",
+    "deptTime": "2023/01/24 04:42",
     "dest": "JO AQJ",
     "destLong": "Aqaba",
     "destType": "ETA",
@@ -595,7 +595,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/24 07:28",
     "destTime": "2023/01/24 00:28",
-    "position": "13.05386\u00b0 / 100.9056\u00b0",
+    "position": "13.05385\u00b0 / 100.9056\u00b0",
     "area": "Gulf of Thailand",
     "status": "Stopped"
   },
