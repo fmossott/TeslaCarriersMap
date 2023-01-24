@@ -25,7 +25,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 05:30",
     "destTime": "2023/01/25 04:30",
-    "position": "59.05775\u00b0 / 1.997972\u00b0",
+    "position": "58.99053\u00b0 / 2.680158\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -85,9 +85,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/24 06:00",
     "destTime": "2023/01/23 22:00",
-    "position": "22.86428\u00b0 / 113.5474\u00b0",
+    "position": "22.86426\u00b0 / 113.5474\u00b0",
     "area": "South China",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9228306": {
     "rowidx": 9,
@@ -380,14 +380,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/01/05 22:30",
     "deptTime": "2023/01/05 14:30",
-    "dest": "EG SUEZ SOUTH ANCH",
-    "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2023/01/23 15:11",
-    "destTime": "2023/01/23 13:11",
-    "position": "29.84776\u00b0 / 32.5625\u00b0",
+    "dest": "ES BCN",
+    "destLong": "Barcelona",
+    "destType": "ETA",
+    "destLocalTime": "2023/01/28 12:00",
+    "destTime": "2023/01/28 11:00",
+    "position": "29.94246\u00b0 / 32.57463\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9328728": {
     "rowidx": 19,
@@ -415,9 +415,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/23 13:48",
     "destTime": "2023/01/23 11:48",
-    "position": "29.85723\u00b0 / 32.5615\u00b0",
+    "position": "29.89643\u00b0 / 32.54607\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9796377": {
     "rowidx": 20,
@@ -475,7 +475,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/22 08:58",
     "destTime": "2023/01/22 07:58",
-    "position": "49.47194\u00b0 / 0.2103033\u00b0",
+    "position": "49.47194\u00b0 / 0.2103083\u00b0",
     "area": "English Channel",
     "status": "Underway"
   },
@@ -505,7 +505,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/13 06:00",
     "destTime": "2023/02/13 09:00",
-    "position": "1.285827\u00b0 / 103.7555\u00b0",
+    "position": "1.285823\u00b0 / 103.7555\u00b0",
     "area": "Singapore Area",
     "status": "Moored"
   },
