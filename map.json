@@ -8,7 +8,7 @@
     "notes": "",
     "quarter": "23Q1",
     "numDept": "13",
-    "mapStatus": "0",
+    "mapStatus": "2",
     "mtsid": "6791640",
     "name": "Hoegh Trapper",
     "mmsi": "258872000",
@@ -55,7 +55,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/25 04:16",
     "destTime": "2023/01/25 03:16",
-    "position": "57.68911\u00b0 / 11.86633\u00b0",
+    "position": "57.68913\u00b0 / 11.86631\u00b0",
     "area": "Kattegat",
     "status": "Moored"
   },
@@ -113,8 +113,8 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2023/01/26 15:00",
-    "destTime": "2023/01/26 07:00",
+    "destLocalTime": "2023/01/26 15:15",
+    "destTime": "2023/01/26 07:15",
     "position": "5.13742\u00b0 / 106.41709\u00b0",
     "area": "South China",
     "status": "Out of Range"
@@ -295,7 +295,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/26 13:00",
     "destTime": "2023/01/26 02:00",
-    "position": "-38.67887\u00b0 / 144.159\u00b0",
+    "position": "-38.57476\u00b0 / 144.1461\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -355,8 +355,8 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 14:15",
     "destTime": "2023/01/25 13:15",
-    "position": "38.54078\u00b0 / 8.187328\u00b0",
-    "area": "West Mediterranean",
+    "position": "40.94532\u00b0 / 2.747913\u00b0",
+    "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
   "9327748": {
@@ -445,7 +445,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 12:45",
     "destTime": "2023/01/25 11:45",
-    "position": "40.96361\u00b0 / 2.873222\u00b0",
+    "position": "41.2429\u00b0 / 2.22898\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -458,7 +458,7 @@
     "notes": "",
     "quarter": "23Q1",
     "numDept": "1",
-    "mapStatus": "2",
+    "mapStatus": "3",
     "mtsid": "308294",
     "name": "Hoegh Asia",
     "mmsi": "257711000",
@@ -475,7 +475,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/25 07:03",
     "destTime": "2023/01/25 06:03",
-    "position": "51.30367\u00b0 / 3.229695\u00b0",
+    "position": "51.30365\u00b0 / 3.229737\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -535,9 +535,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 13:00",
     "destTime": "2023/01/25 11:00",
-    "position": "27.71833\u00b0 / 33.87166\u00b0",
+    "position": "29.78285\u00b0 / 32.55782\u00b0",
     "area": "Red Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9358888": {
     "rowidx": 272,
@@ -595,8 +595,8 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/27 05:00",
     "destTime": "2023/01/26 20:00",
-    "position": "35.81500\u00b0 / 131.27333\u00b0",
-    "area": "Japan Coast",
-    "status": "Out of Range"
+    "position": "34.6692\u00b0 / 129.1638\u00b0",
+    "area": "North China",
+    "status": "Underway using Engine"
   }
 }
