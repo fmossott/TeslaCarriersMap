@@ -85,7 +85,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/25 04:16",
     "destTime": "2023/01/25 03:16",
-    "position": "57.68913\u00b0 / 11.86631\u00b0",
+    "position": "57.68912\u00b0 / 11.86631\u00b0",
     "area": "Kattegat",
     "status": "Moored"
   },
@@ -385,7 +385,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 14:15",
     "destTime": "2023/01/25 13:15",
-    "position": "40.94532\u00b0 / 2.747913\u00b0",
+    "position": "41.09163\u00b0 / 2.441467\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -472,10 +472,10 @@
     "deptTime": "2022/12/31 21:50",
     "dest": "ES BCN",
     "destLong": "Barcelona",
-    "destType": "ETA",
+    "destType": "ATA",
     "destLocalTime": "2023/01/25 12:45",
     "destTime": "2023/01/25 11:45",
-    "position": "41.2429\u00b0 / 2.22898\u00b0",
+    "position": "41.32188\u00b0 / 2.168398\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -505,7 +505,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/25 07:03",
     "destTime": "2023/01/25 06:03",
-    "position": "51.30365\u00b0 / 3.229737\u00b0",
+    "position": "51.30361\u00b0 / 3.229707\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -560,14 +560,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/01/24 13:51",
     "deptTime": "2023/01/24 11:51",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2023/01/25 13:00",
-    "destTime": "2023/01/25 11:00",
-    "position": "29.78285\u00b0 / 32.55782\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2023/01/25 14:24",
+    "destTime": "2023/01/25 12:24",
+    "position": "29.85715\u00b0 / 32.56005\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9358888": {
     "rowidx": 273,
