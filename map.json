@@ -25,7 +25,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/25 14:20",
     "destTime": "2023/01/25 06:20",
-    "position": "30.83609\u00b0 / 121.8365\u00b0",
+    "position": "30.8361\u00b0 / 121.8365\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -55,9 +55,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 04:00",
     "destTime": "2023/01/24 20:00",
-    "position": "12.08038\u00b0 / 100.9484\u00b0",
+    "position": "10.35907\u00b0 / 101.82783\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9446001": {
     "rowidx": 8,
@@ -75,17 +75,17 @@
     "length": "232.38",
     "breadth": "32.3",
     "grossTonnage": "70,853",
-    "dept": "US NYC",
-    "deptLong": "New York",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/01/14 21:49",
-    "deptTime": "2023/01/15 02:49",
-    "dest": "SE GOT",
-    "destLong": "Goteborg",
-    "destType": "ATA",
-    "destLocalTime": "2023/01/25 04:16",
-    "destTime": "2023/01/25 03:16",
-    "position": "57.68915\u00b0 / 11.86634\u00b0",
+    "dept": "SE GOT",
+    "deptLong": "Goteborg",
+    "deptType": "ATA",
+    "deptLocalTime": "2023/01/24 22:16",
+    "deptTime": "2023/01/25 03:16",
+    "dest": "DE BRV",
+    "destLong": "Bremerhaven",
+    "destType": "ETA",
+    "destLocalTime": "2023/01/26 22:00",
+    "destTime": "2023/01/26 21:00",
+    "position": "57.68913\u00b0 / 11.86631\u00b0",
     "area": "Kattegat",
     "status": "Moored"
   },
@@ -145,9 +145,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/26 15:15",
     "destTime": "2023/01/26 07:15",
-    "position": "2.23769\u00b0 / 104.89003\u00b0",
-    "area": "South China",
-    "status": "Out of Range"
+    "position": "1.420888\u00b0 / 104.4524\u00b0",
+    "area": "Singapore Area",
+    "status": "Underway using Engine"
   },
   "9427940": {
     "rowidx": 11,
@@ -325,7 +325,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/26 13:00",
     "destTime": "2023/01/26 02:00",
-    "position": "-38.70919\u00b0 / 144.3505\u00b0",
+    "position": "-38.74617\u00b0 / 144.3309\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -385,9 +385,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/25 15:42",
     "destTime": "2023/01/25 14:42",
-    "position": "41.33396\u00b0 / 2.14679\u00b0",
+    "position": "41.33396\u00b0 / 2.146808\u00b0",
     "area": "Balearic Sea",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9327748": {
     "rowidx": 19,
@@ -475,9 +475,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/25 13:36",
     "destTime": "2023/01/25 12:36",
-    "position": "41.33726\u00b0 / 2.149788\u00b0",
+    "position": "41.33727\u00b0 / 2.149815\u00b0",
     "area": "Balearic Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9191876": {
     "rowidx": 22,
@@ -505,7 +505,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/25 07:03",
     "destTime": "2023/01/25 06:03",
-    "position": "51.30365\u00b0 / 3.229703\u00b0",
+    "position": "51.30364\u00b0 / 3.229723\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -565,7 +565,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/25 14:24",
     "destTime": "2023/01/25 12:24",
-    "position": "29.85723\u00b0 / 32.55999\u00b0",
+    "position": "29.85723\u00b0 / 32.56116\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
