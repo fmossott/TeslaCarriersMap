@@ -25,7 +25,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/25 14:20",
     "destTime": "2023/01/25 06:20",
-    "position": "30.83605\u00b0 / 121.8365\u00b0",
+    "position": "30.83606\u00b0 / 121.8365\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -55,7 +55,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/27 04:00",
     "destTime": "2023/01/26 20:00",
-    "position": "4.54317\u00b0 / 104.04192\u00b0",
+    "position": "1.57333\u00b0 / 104.59127\u00b0",
     "area": "Gulf of Thailand",
     "status": "Out of Range"
   },
@@ -85,7 +85,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/26 22:00",
     "destTime": "2023/01/26 21:00",
-    "position": "55.00316\u00b0 / 6.777613\u00b0",
+    "position": "54.61341\u00b0 / 7.059745\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -140,14 +140,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/01/20 21:31",
     "deptTime": "2023/01/20 13:31",
-    "dest": "SG SINGAPORE ANCH",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2023/01/26 08:43",
-    "destTime": "2023/01/26 00:43",
-    "position": "1.273637\u00b0 / 103.8939\u00b0",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ETA",
+    "destLocalTime": "2023/02/07 09:15",
+    "destTime": "2023/02/07 07:15",
+    "position": "1.174063\u00b0 / 103.8028\u00b0",
     "area": "Singapore Area",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9427940": {
     "rowidx": 11,
@@ -325,7 +325,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/26 13:00",
     "destTime": "2023/01/26 02:00",
-    "position": "-38.65036\u00b0 / 144.6857\u00b0",
+    "position": "-38.63416\u00b0 / 144.7174\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -385,7 +385,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/25 15:42",
     "destTime": "2023/01/25 14:42",
-    "position": "41.33395\u00b0 / 2.146798\u00b0",
+    "position": "41.33397\u00b0 / 2.146798\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -475,7 +475,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/25 13:36",
     "destTime": "2023/01/25 12:36",
-    "position": "41.33727\u00b0 / 2.149788\u00b0",
+    "position": "41.33727\u00b0 / 2.149797\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -495,19 +495,19 @@
     "length": "228.7",
     "breadth": "32.29",
     "grossTonnage": "68,060",
-    "dept": "FR LEH",
-    "deptLong": "Le Havre",
+    "dept": "BE ZEE",
+    "deptLong": "Zeebrugge",
     "deptType": "ATD",
-    "deptLocalTime": "2023/01/24 18:23",
-    "deptTime": "2023/01/24 17:23",
+    "deptLocalTime": "2023/01/26 16:34",
+    "deptTime": "2023/01/26 15:34",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ATA",
     "destLocalTime": "2023/01/25 07:03",
     "destTime": "2023/01/25 06:03",
-    "position": "51.33522\u00b0 / 3.215963\u00b0",
+    "position": "51.39229\u00b0 / 2.72797\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9082934": {
     "rowidx": 24,
@@ -565,7 +565,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/28 05:00",
     "destTime": "2023/01/28 03:00",
-    "position": "30.86837\u00b0 / 32.3157\u00b0",
+    "position": "30.94891\u00b0 / 32.31341\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -625,7 +625,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/27 05:00",
     "destTime": "2023/01/26 20:00",
-    "position": "34.17895\u00b0 / 125.001\u00b0",
+    "position": "34.27126\u00b0 / 125.3621\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   }
