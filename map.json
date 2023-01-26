@@ -50,14 +50,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/01/24 21:44",
     "deptTime": "2023/01/24 14:44",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2023/01/27 04:00",
-    "destTime": "2023/01/26 20:00",
-    "position": "1.243465\u00b0 / 103.8666\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2023/01/27 04:43",
+    "destTime": "2023/01/26 20:43",
+    "position": "1.258423\u00b0 / 103.8695\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9446001": {
     "rowidx": 8,
@@ -85,7 +85,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/26 22:00",
     "destTime": "2023/01/26 21:00",
-    "position": "53.94382\u00b0 / 7.645818\u00b0",
+    "position": "53.85266\u00b0 / 7.986943\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -325,7 +325,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/26 13:00",
     "destTime": "2023/01/26 02:00",
-    "position": "-38.55207\u00b0 / 144.7201\u00b0",
+    "position": "-38.57196\u00b0 / 144.694\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -355,7 +355,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/17 23:29",
     "destTime": "2023/01/17 15:29",
-    "position": "14.28570\u00b0 / 53.98575\u00b0",
+    "position": "13.68833\u00b0 / 50.46333\u00b0",
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
@@ -385,7 +385,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 15:42",
     "destTime": "2023/01/25 14:42",
-    "position": "41.33393\u00b0 / 2.146788\u00b0",
+    "position": "41.33395\u00b0 / 2.146775\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -445,9 +445,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/27 04:00",
     "destTime": "2023/01/27 03:00",
-    "position": "33.91447\u00b0 / 23.25582\u00b0",
+    "position": "34.89583\u00b0 / 19.15925\u00b0",
     "area": "East Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9796377": {
     "rowidx": 21,
@@ -475,7 +475,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/25 13:36",
     "destTime": "2023/01/25 12:36",
-    "position": "41.33727\u00b0 / 2.149788\u00b0",
+    "position": "41.33728\u00b0 / 2.149788\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -505,7 +505,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/25 07:03",
     "destTime": "2023/01/25 06:03",
-    "position": "52.36444\u00b0 / 2.68491\u00b0",
+    "position": "52.70536\u00b0 / 2.686588\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -625,7 +625,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/27 05:00",
     "destTime": "2023/01/26 20:00",
-    "position": "34.54459\u00b0 / 126.1721\u00b0",
+    "position": "34.75792\u00b0 / 126.2553\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   }
