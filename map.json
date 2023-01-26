@@ -17,17 +17,17 @@
     "grossTonnage": "51,699",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/01/25 07:20",
-    "deptTime": "2023/01/25 06:20",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/01/27 02:44",
+    "deptTime": "2023/01/26 18:44",
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
     "destLocalTime": "2023/02/02 18:00",
     "destTime": "2023/02/02 10:00",
-    "position": "30.83606\u00b0 / 121.8365\u00b0",
+    "position": "30.70269\u00b0 / 121.86\u00b0",
     "area": "East China Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9706918": {
     "rowidx": 7,
@@ -55,9 +55,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/27 04:00",
     "destTime": "2023/01/26 20:00",
-    "position": "1.57333\u00b0 / 104.59127\u00b0",
+    "position": "1.266545\u00b0 / 104.0581\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9446001": {
     "rowidx": 8,
@@ -85,7 +85,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/26 22:00",
     "destTime": "2023/01/26 21:00",
-    "position": "54.33901\u00b0 / 7.28604\u00b0",
+    "position": "54.14853\u00b0 / 7.458113\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -325,7 +325,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/26 13:00",
     "destTime": "2023/01/26 02:00",
-    "position": "-38.60448\u00b0 / 144.7209\u00b0",
+    "position": "-38.58064\u00b0 / 144.7225\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -475,7 +475,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/25 13:36",
     "destTime": "2023/01/25 12:36",
-    "position": "41.33727\u00b0 / 2.149765\u00b0",
+    "position": "41.33728\u00b0 / 2.149792\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -505,7 +505,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/25 07:03",
     "destTime": "2023/01/25 06:03",
-    "position": "51.72005\u00b0 / 2.663087\u00b0",
+    "position": "52.00738\u00b0 / 2.704748\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -625,7 +625,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/27 05:00",
     "destTime": "2023/01/26 20:00",
-    "position": "34.35439\u00b0 / 125.6656\u00b0",
+    "position": "34.41269\u00b0 / 125.914\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   }
