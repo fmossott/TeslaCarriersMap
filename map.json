@@ -75,17 +75,17 @@
     "length": "232.38",
     "breadth": "32.3",
     "grossTonnage": "70,853",
-    "dept": "SE GOT",
-    "deptLong": "Goteborg",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/01/25 20:58",
-    "deptTime": "2023/01/25 19:58",
-    "dest": "DE BRV",
-    "destLong": "Bremerhaven",
-    "destType": "ATA",
+    "dept": "DE BRV",
+    "deptLong": "Bremerhaven",
+    "deptType": "ATA",
+    "deptLocalTime": "2023/01/27 00:23",
+    "deptTime": "2023/01/26 23:23",
+    "dest": "GB SOU",
+    "destLong": "Southampton",
+    "destType": "ETA",
     "destLocalTime": "2023/01/27 00:23",
     "destTime": "2023/01/26 23:23",
-    "position": "53.57833\u00b0 / 8.55234\u00b0",
+    "position": "53.57835\u00b0 / 8.552348\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -325,9 +325,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/26 13:00",
     "destTime": "2023/01/26 02:00",
-    "position": "-38.81138\u00b0 / 144.3805\u00b0",
+    "position": "-38.81816\u00b0 / 144.3876\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9463205": {
     "rowidx": 17,
@@ -385,7 +385,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 15:42",
     "destTime": "2023/01/25 14:42",
-    "position": "36.73987\u00b0 / -1.743382\u00b0",
+    "position": "36.55289\u00b0 / -1.993898\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -475,8 +475,8 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/28 19:00",
     "destTime": "2023/01/28 18:00",
-    "position": "41.26833\u00b0 / 8.783849\u00b0",
-    "area": "West Mediterranean",
+    "position": "41.27505\u00b0 / 9.625525\u00b0",
+    "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
   "9191876": {
@@ -505,7 +505,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/25 07:03",
     "destTime": "2023/01/25 06:03",
-    "position": "54.9849\u00b0 / -1.4633\u00b0",
+    "position": "54.98488\u00b0 / -1.463285\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -563,9 +563,9 @@
     "dest": "GR PIR",
     "destLong": "Piraeus",
     "destType": "ETA",
-    "destLocalTime": "2023/01/28 06:00",
-    "destTime": "2023/01/28 04:00",
-    "position": "36.20363\u00b0 / 25.00555\u00b0",
+    "destLocalTime": "2023/01/28 10:00",
+    "destTime": "2023/01/28 08:00",
+    "position": "36.32968\u00b0 / 24.76389\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -625,8 +625,8 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/27 07:01",
     "destTime": "2023/01/26 22:01",
-    "position": "34.75792\u00b0 / 126.2553\u00b0",
+    "position": "34.75500\u00b0 / 126.35000\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   }
 }
