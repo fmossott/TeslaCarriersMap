@@ -55,7 +55,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/27 04:43",
     "destTime": "2023/01/26 20:43",
-    "position": "1.258357\u00b0 / 103.8696\u00b0",
+    "position": "1.258382\u00b0 / 103.8695\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -85,7 +85,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/27 00:23",
     "destTime": "2023/01/26 23:23",
-    "position": "53.57836\u00b0 / 8.55233\u00b0",
+    "position": "53.57836\u00b0 / 8.552348\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -325,9 +325,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/26 13:00",
     "destTime": "2023/01/26 02:00",
-    "position": "-38.65723\u00b0 / 144.21\u00b0",
+    "position": "-38.64495\u00b0 / 144.2214\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9463205": {
     "rowidx": 17,
@@ -385,7 +385,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 15:42",
     "destTime": "2023/01/25 14:42",
-    "position": "40.97687\u00b0 / 1.976178\u00b0",
+    "position": "40.73011\u00b0 / 1.805348\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -442,12 +442,12 @@
     "deptTime": "2023/01/05 01:55",
     "dest": "MT MLA",
     "destLong": "Valletta",
-    "destType": "ETA",
-    "destLocalTime": "2023/01/27 04:00",
-    "destTime": "2023/01/27 03:00",
-    "position": "35.9206\u00b0 / 14.60427\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2023/01/27 04:15",
+    "destTime": "2023/01/27 03:15",
+    "position": "35.8866\u00b0 / 14.50888\u00b0",
     "area": "West Mediterranean",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9796377": {
     "rowidx": 21,
