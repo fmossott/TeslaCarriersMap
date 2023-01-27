@@ -50,12 +50,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/01/24 21:44",
     "deptTime": "2023/01/24 14:44",
-    "dest": "SG SINGAPORE ANCH",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2023/01/27 04:43",
-    "destTime": "2023/01/26 20:43",
-    "position": "1.259495\u00b0 / 103.8639\u00b0",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ETA",
+    "destLocalTime": "2023/02/09 18:00",
+    "destTime": "2023/02/09 16:00",
+    "position": "1.15708\u00b0 / 103.7651\u00b0",
     "area": "Singapore Area",
     "status": "Underway using Engine"
   },
@@ -85,7 +85,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/27 00:23",
     "destTime": "2023/01/26 23:23",
-    "position": "53.5783\u00b0 / 8.552377\u00b0",
+    "position": "53.57837\u00b0 / 8.552325\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -325,9 +325,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/26 13:00",
     "destTime": "2023/01/26 02:00",
-    "position": "-38.72767\u00b0 / 144.1976\u00b0",
+    "position": "-38.7186\u00b0 / 144.1975\u00b0",
     "area": "East Australia",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9463205": {
     "rowidx": 17,
@@ -385,7 +385,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 15:42",
     "destTime": "2023/01/25 14:42",
-    "position": "38.47161\u00b0 / 0.1899533\u00b0",
+    "position": "38.28528\u00b0 / 0.04192\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -415,7 +415,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/28 11:00",
     "destTime": "2023/01/28 10:00",
-    "position": "38.54711\u00b0 / 9.045158\u00b0",
+    "position": "38.82722\u00b0 / 8.191312\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -445,7 +445,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/27 04:15",
     "destTime": "2023/01/27 03:15",
-    "position": "35.88595\u00b0 / 14.5099\u00b0",
+    "position": "35.88602\u00b0 / 14.5099\u00b0",
     "area": "West Mediterranean",
     "status": "Moored"
   },
@@ -505,9 +505,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/25 07:03",
     "destTime": "2023/01/25 06:03",
-    "position": "54.98489\u00b0 / -1.4633\u00b0",
+    "position": "54.98488\u00b0 / -1.463277\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9082934": {
     "rowidx": 24,
