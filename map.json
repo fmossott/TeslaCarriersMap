@@ -55,9 +55,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/27 04:43",
     "destTime": "2023/01/26 20:43",
-    "position": "1.25871\u00b0 / 103.8705\u00b0",
+    "position": "1.259495\u00b0 / 103.8639\u00b0",
     "area": "Singapore Area",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9446001": {
     "rowidx": 8,
@@ -85,7 +85,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/27 00:23",
     "destTime": "2023/01/26 23:23",
-    "position": "53.57833\u00b0 / 8.552355\u00b0",
+    "position": "53.5783\u00b0 / 8.552377\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -325,9 +325,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/26 13:00",
     "destTime": "2023/01/26 02:00",
-    "position": "-38.76139\u00b0 / 144.125\u00b0",
+    "position": "-38.72767\u00b0 / 144.1976\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9463205": {
     "rowidx": 17,
@@ -385,7 +385,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 15:42",
     "destTime": "2023/01/25 14:42",
-    "position": "38.94363\u00b0 / 0.5541\u00b0",
+    "position": "38.47161\u00b0 / 0.1899533\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -445,7 +445,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/27 04:15",
     "destTime": "2023/01/27 03:15",
-    "position": "35.88597\u00b0 / 14.50982\u00b0",
+    "position": "35.88595\u00b0 / 14.5099\u00b0",
     "area": "West Mediterranean",
     "status": "Moored"
   },
@@ -473,8 +473,8 @@
     "dest": "IT GIT",
     "destLong": "Gioia Tauro",
     "destType": "ETA",
-    "destLocalTime": "2023/01/28 17:00",
-    "destTime": "2023/01/28 16:00",
+    "destLocalTime": "2023/01/28 19:00",
+    "destTime": "2023/01/28 18:00",
     "position": "40.77922\u00b0 / 3.441658\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
@@ -500,14 +500,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/01/26 16:34",
     "deptTime": "2023/01/26 15:34",
-    "dest": "BE ZEE",
-    "destLong": "Zeebrugge",
+    "dest": "GB TYN",
+    "destLong": "Tyne",
     "destType": "ATA",
     "destLocalTime": "2023/01/25 07:03",
     "destTime": "2023/01/25 06:03",
-    "position": "54.98617\u00b0 / -1.131805\u00b0",
+    "position": "54.98489\u00b0 / -1.4633\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9082934": {
     "rowidx": 24,
@@ -563,9 +563,9 @@
     "dest": "GR PIR",
     "destLong": "Piraeus",
     "destType": "ETA",
-    "destLocalTime": "2023/01/28 05:00",
-    "destTime": "2023/01/28 03:00",
-    "position": "34.62513\u00b0 / 27.72565\u00b0",
+    "destLocalTime": "2023/01/28 06:00",
+    "destTime": "2023/01/28 04:00",
+    "position": "34.99802\u00b0 / 27.15009\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
