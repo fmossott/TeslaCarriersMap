@@ -55,7 +55,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/27 04:43",
     "destTime": "2023/01/26 20:43",
-    "position": "1.258462\u00b0 / 103.8694\u00b0",
+    "position": "1.258357\u00b0 / 103.8696\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -85,9 +85,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/27 00:23",
     "destTime": "2023/01/26 23:23",
-    "position": "53.57732\u00b0 / 8.551905\u00b0",
+    "position": "53.57836\u00b0 / 8.55233\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9574080": {
     "rowidx": 9,
@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/17 15:56",
     "destTime": "2023/03/17 04:56",
-    "position": "-38.70001\u00b0 / 145.1981\u00b0",
+    "position": "-38.74768\u00b0 / 144.3603\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -175,7 +175,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/29 14:00",
     "destTime": "2023/01/29 04:00",
-    "position": "-10.88623\u00b0 / 152.09471\u00b0",
+    "position": "-14.05333\u00b0 / 152.58166\u00b0",
     "area": "East China Sea",
     "status": "Out of Range"
   },
@@ -235,9 +235,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/03 17:00",
     "destTime": "2023/02/03 15:00",
-    "position": "5.87856\u00b0 / 83.76640\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "5.857018\u00b0 / 79.93472\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9360568": {
     "rowidx": 14,
@@ -325,7 +325,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/26 13:00",
     "destTime": "2023/01/26 02:00",
-    "position": "-38.69241\u00b0 / 144.2175\u00b0",
+    "position": "-38.65723\u00b0 / 144.21\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -377,15 +377,15 @@
     "grossTonnage": "67,264",
     "dept": "ES BCN",
     "deptLong": "Barcelona",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/01/25 23:42",
-    "deptTime": "2023/01/25 14:42",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/01/27 02:15",
+    "deptTime": "2023/01/27 01:15",
     "dest": "GB TIL",
     "destLong": "Tilbury",
     "destType": "ETA",
     "destLocalTime": "2023/01/25 15:42",
     "destTime": "2023/01/25 14:42",
-    "position": "41.34473\u00b0 / 2.161663\u00b0",
+    "position": "40.97687\u00b0 / 1.976178\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -445,8 +445,8 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/27 04:00",
     "destTime": "2023/01/27 03:00",
-    "position": "35.85826\u00b0 / 15.09927\u00b0",
-    "area": "East Mediterranean",
+    "position": "35.9206\u00b0 / 14.60427\u00b0",
+    "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
   "9796377": {
