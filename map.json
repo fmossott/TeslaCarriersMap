@@ -53,10 +53,10 @@
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
-    "destLocalTime": "2023/02/09 18:00",
-    "destTime": "2023/02/09 16:00",
-    "position": "1.15708\u00b0 / 103.7651\u00b0",
-    "area": "Singapore Area",
+    "destLocalTime": "2023/02/09 14:00",
+    "destTime": "2023/02/09 12:00",
+    "position": "2.757008\u00b0 / 101.1348\u00b0",
+    "area": "Malacca Strait",
     "status": "Underway using Engine"
   },
   "9446001": {
@@ -85,7 +85,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/27 00:23",
     "destTime": "2023/01/26 23:23",
-    "position": "53.90393\u00b0 / 7.876966\u00b0",
+    "position": "53.98317\u00b0 / 7.549528\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -295,7 +295,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/31 13:00",
     "destTime": "2023/01/31 04:00",
-    "position": "25.13352\u00b0 / 150.22934\u00b0",
+    "position": "26.39143\u00b0 / 146.68526\u00b0",
     "area": "US West Coast",
     "status": "Out of Range"
   },
@@ -325,7 +325,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/26 13:00",
     "destTime": "2023/01/26 02:00",
-    "position": "-38.76095\u00b0 / 144.5259\u00b0",
+    "position": "-38.74849\u00b0 / 144.5553\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -385,7 +385,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/25 15:42",
     "destTime": "2023/01/25 14:42",
-    "position": "36.11172\u00b0 / -4.522157\u00b0",
+    "position": "36.06868\u00b0 / -4.877477\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -415,8 +415,8 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/28 11:00",
     "destTime": "2023/01/28 10:00",
-    "position": "40.95862\u00b0 / 3.018992\u00b0",
-    "area": "West Mediterranean",
+    "position": "41.11551\u00b0 / 2.621617\u00b0",
+    "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
   "9328728": {
@@ -475,7 +475,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/28 19:00",
     "destTime": "2023/01/28 18:00",
-    "position": "40.75153\u00b0 / 10.80093\u00b0",
+    "position": "39.89878\u00b0 / 12.67472\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   },
@@ -505,7 +505,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/25 07:03",
     "destTime": "2023/01/25 06:03",
-    "position": "54.9849\u00b0 / -1.463295\u00b0",
+    "position": "54.98487\u00b0 / -1.463273\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -535,7 +535,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/30 09:01",
     "destTime": "2023/01/30 00:01",
-    "position": "19.07167\u00b0 / 133.83501\u00b0",
+    "position": "21.82666\u00b0 / 132.21834\u00b0",
     "area": "East Australia",
     "status": "Out of Range"
   },
@@ -565,8 +565,8 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/28 10:00",
     "destTime": "2023/01/28 08:00",
-    "position": "37.76311\u00b0 / 23.70079\u00b0",
-    "area": "Aegean Sea",
+    "position": "37.91086\u00b0 / 23.59914\u00b0",
+    "area": "Piraeus Area",
     "status": "Underway using Engine"
   },
   "9358888": {
@@ -625,7 +625,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/27 07:01",
     "destTime": "2023/01/26 22:01",
-    "position": "34.46779\u00b0 / 126.085\u00b0",
+    "position": "34.44414\u00b0 / 125.679\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   }
