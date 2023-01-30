@@ -175,9 +175,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/29 13:00",
     "destTime": "2023/01/29 03:00",
-    "position": "-26.7385\u00b0 / 153.2889\u00b0",
+    "position": "-26.73905\u00b0 / 153.288\u00b0",
     "area": "East Australia",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9308792": {
     "rowidx": 12,
@@ -295,7 +295,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/31 15:30",
     "destTime": "2023/01/31 06:30",
-    "position": "32.71893\u00b0 / 128.3466\u00b0",
+    "position": "32.88866\u00b0 / 128.3074\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -325,9 +325,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/26 13:00",
     "destTime": "2023/01/26 02:00",
-    "position": "-38.62189\u00b0 / 144.4875\u00b0",
+    "position": "-38.62082\u00b0 / 144.494\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9463205": {
     "rowidx": 17,
@@ -355,9 +355,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/17 23:29",
     "destTime": "2023/01/17 15:29",
-    "position": "29.84806\u00b0 / 32.56109\u00b0",
+    "position": "29.84913\u00b0 / 32.5617\u00b0",
     "area": "Red Sea",
-    "status": "Out of Range"
+    "status": "At Anchor"
   },
   "9328728": {
     "rowidx": 20,
@@ -385,7 +385,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/30 15:25",
     "destTime": "2023/01/30 14:25",
-    "position": "45.56688\u00b0 / 13.74408\u00b0",
+    "position": "45.56692\u00b0 / 13.74412\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -413,8 +413,8 @@
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
     "destType": "ATA",
-    "destLocalTime": "2023/01/30 09:01",
-    "destTime": "2023/01/30 00:01",
+    "destLocalTime": "2023/01/31 06:46",
+    "destTime": "2023/01/30 21:46",
     "position": "36.98546\u00b0 / 126.7947\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
@@ -505,8 +505,8 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/29 04:41",
     "destTime": "2023/01/28 19:41",
-    "position": "37.08\u00b0 / 126.2067\u00b0",
+    "position": "37.07324\u00b0 / 126.2052\u00b0",
     "area": "Yellow Sea",
-    "status": "Underway using Engine"
+    "status": "Underway"
   }
 }
