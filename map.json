@@ -85,7 +85,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/31 18:30",
     "destTime": "2023/01/31 17:30",
-    "position": "51.64035\u00b0 / 2.46469\u00b0",
+    "position": "51.65833\u00b0 / 2.655545\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -115,9 +115,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/17 15:56",
     "destTime": "2023/03/17 04:56",
-    "position": "-38.64372\u00b0 / 145.0633\u00b0",
+    "position": "-38.60406\u00b0 / 144.9926\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9228306": {
     "rowidx": 10,
@@ -263,11 +263,11 @@
     "dest": "TW TPE",
     "destLong": "Taipei",
     "destType": "ETA",
-    "destLocalTime": "2023/02/09 05:30",
-    "destTime": "2023/02/08 21:30",
-    "position": "6.54333\u00b0 / 76.68333\u00b0",
-    "area": "Gulf of Aden",
-    "status": "Out of Range"
+    "destLocalTime": "2023/02/09 06:00",
+    "destTime": "2023/02/08 22:00",
+    "position": "5.69377\u00b0 / 80.39706\u00b0",
+    "area": "Laccadive Sea",
+    "status": "Underway using Engine"
   },
   "9651101": {
     "rowidx": 15,
@@ -295,7 +295,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/31 16:06",
     "destTime": "2023/01/31 07:06",
-    "position": "34.88766\u00b0 / 127.6459\u00b0",
+    "position": "34.88771\u00b0 / 127.646\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -385,7 +385,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/30 15:25",
     "destTime": "2023/01/30 14:25",
-    "position": "45.56691\u00b0 / 13.74412\u00b0",
+    "position": "45.56688\u00b0 / 13.74414\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -475,7 +475,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/31 20:28",
     "destTime": "2023/01/31 12:28",
-    "position": "31.3222\u00b0 / 121.6816\u00b0",
+    "position": "31.32222\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
