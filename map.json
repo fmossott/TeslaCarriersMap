@@ -82,12 +82,12 @@
     "deptTime": "2023/01/29 08:36",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2023/01/31 18:30",
-    "destTime": "2023/01/31 17:30",
-    "position": "51.39555\u00b0 / 3.114792\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2023/01/31 19:55",
+    "destTime": "2023/01/31 18:55",
+    "position": "51.33404\u00b0 / 3.217045\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9574080": {
     "rowidx": 9,
@@ -295,7 +295,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/31 16:06",
     "destTime": "2023/01/31 07:06",
-    "position": "34.88769\u00b0 / 127.6459\u00b0",
+    "position": "34.8877\u00b0 / 127.646\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -385,7 +385,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/30 15:25",
     "destTime": "2023/01/30 14:25",
-    "position": "45.56686\u00b0 / 13.74412\u00b0",
+    "position": "45.56688\u00b0 / 13.74413\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -475,7 +475,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/31 20:28",
     "destTime": "2023/01/31 12:28",
-    "position": "31.32222\u00b0 / 121.6816\u00b0",
+    "position": "31.3222\u00b0 / 121.6816\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
