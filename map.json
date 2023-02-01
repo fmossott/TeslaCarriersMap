@@ -85,7 +85,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/31 19:55",
     "destTime": "2023/01/31 18:55",
-    "position": "51.31672\u00b0 / 3.225345\u00b0",
+    "position": "51.31669\u00b0 / 3.225335\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -285,19 +285,19 @@
     "length": "199.98",
     "breadth": "32",
     "grossTonnage": "59,060",
-    "dept": "US SFO",
-    "deptLong": "San Francisco",
+    "dept": "KR KAN",
+    "deptLong": "Gwangyang",
     "deptType": "ATD",
-    "deptLocalTime": "2023/01/12 03:54",
-    "deptTime": "2023/01/12 11:54",
-    "dest": "KR KAN",
-    "destLong": "Gwangyang",
-    "destType": "ATA",
-    "destLocalTime": "2023/01/31 16:06",
-    "destTime": "2023/01/31 07:06",
-    "position": "34.88772\u00b0 / 127.6459\u00b0",
+    "deptLocalTime": "2023/02/01 19:02",
+    "deptTime": "2023/02/01 10:02",
+    "dest": "KR PTK",
+    "destLong": "Pyeongtaek",
+    "destType": "ETA",
+    "destLocalTime": "2023/02/02 23:00",
+    "destTime": "2023/02/02 14:00",
+    "position": "34.87027\u00b0 / 127.7678\u00b0",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9070450": {
     "rowidx": 16,
@@ -385,7 +385,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/30 15:25",
     "destTime": "2023/01/30 14:25",
-    "position": "45.56688\u00b0 / 13.74413\u00b0",
+    "position": "45.56689\u00b0 / 13.74413\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -445,9 +445,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/01 08:14",
     "destTime": "2023/02/01 07:14",
-    "position": "43.58092\u00b0 / 10.30541\u00b0",
+    "position": "43.58092\u00b0 / 10.30543\u00b0",
     "area": "Ligurean Sea",
-    "status": "Stopped"
+    "status": "Moored"
   },
   "9358888": {
     "rowidx": 273,
@@ -505,7 +505,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/03 05:00",
     "destTime": "2023/02/02 20:00",
-    "position": "37.01381\u00b0 / 126.1894\u00b0",
+    "position": "35.94123\u00b0 / 125.7043\u00b0",
     "area": "Yellow Sea",
     "status": "Underway using Engine"
   }
