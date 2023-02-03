@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/09 12:00",
     "destTime": "2023/02/09 16:00",
-    "position": "51.33418\u00b0 / 3.217485\u00b0",
+    "position": "51.36753\u00b0 / 3.185947\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -445,7 +445,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/01 22:28",
     "destTime": "2023/02/01 14:28",
-    "position": "31.3758\u00b0 / 121.626\u00b0",
+    "position": "31.37643\u00b0 / 121.6261\u00b0",
     "area": "East China Sea",
     "status": "At Anchor"
   },
@@ -465,18 +465,18 @@
     "length": "199.97",
     "breadth": "36.5",
     "grossTonnage": "75,283",
-    "dept": "KR PTK",
-    "deptLong": "Pyeongtaek",
+    "dept": "KR MAS",
+    "deptLong": "Masan",
     "deptType": "ATD",
-    "deptLocalTime": "2023/02/01 12:43",
-    "deptTime": "2023/02/01 03:43",
-    "dest": "KR MAS",
-    "destLong": "Masan",
-    "destType": "ATA",
-    "destLocalTime": "2023/02/03 06:40",
-    "destTime": "2023/02/02 21:40",
-    "position": "35.13792\u00b0 / 128.6031\u00b0",
+    "deptLocalTime": "2023/02/03 16:49",
+    "deptTime": "2023/02/03 07:49",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ETA",
+    "destLocalTime": "2023/02/04 18:30",
+    "destTime": "2023/02/04 10:30",
+    "position": "35.03934\u00b0 / 128.7395\u00b0",
     "area": "North China",
-    "status": "Underway using Engine"
+    "status": "Underway"
   }
 }
