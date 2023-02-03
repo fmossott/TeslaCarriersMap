@@ -89,36 +89,6 @@
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
-  "9446001": {
-    "rowidx": 9,
-    "silence": "FALSE",
-    "num": "249",
-    "manDept": "BAL",
-    "madeIn": "USA",
-    "notes": "",
-    "quarter": "23Q1",
-    "numDept": "1",
-    "mapStatus": "2",
-    "mtsid": "410845",
-    "name": "Morning Lena",
-    "mmsi": "441115000",
-    "length": "232.38",
-    "breadth": "32.3",
-    "grossTonnage": "70,853",
-    "dept": "BE ZEE",
-    "deptLong": "Zeebrugge",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/02/03 09:37",
-    "deptTime": "2023/02/03 08:37",
-    "dest": "CA HAL",
-    "destLong": "Halifax",
-    "destType": "ETA",
-    "destLocalTime": "2023/02/09 12:00",
-    "destTime": "2023/02/09 16:00",
-    "position": "51.36937\u00b0 / 2.825258\u00b0",
-    "area": "North Sea",
-    "status": "Underway using Engine"
-  },
   "9574080": {
     "rowidx": 10,
     "silence": "FALSE",
@@ -265,7 +235,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/03 19:56",
     "destTime": "2023/02/03 17:56",
-    "position": "29.85708\u00b0 / 32.56101\u00b0",
+    "position": "29.85722\u00b0 / 32.56063\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   },
@@ -415,7 +385,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/06 23:00",
     "destTime": "2023/02/06 22:00",
-    "position": "36.21343\u00b0 / -4.043553\u00b0",
+    "position": "36.18943\u00b0 / -7.05459\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -445,7 +415,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/01 22:28",
     "destTime": "2023/02/01 14:28",
-    "position": "31.3762\u00b0 / 121.6259\u00b0",
+    "position": "31.37637\u00b0 / 121.626\u00b0",
     "area": "East China Sea",
     "status": "At Anchor"
   },
@@ -475,7 +445,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/04 18:30",
     "destTime": "2023/02/04 10:30",
-    "position": "33.09586\u00b0 / 127.0019\u00b0",
+    "position": "32.80118\u00b0 / 126.4546\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
