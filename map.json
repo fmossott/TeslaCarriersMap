@@ -25,9 +25,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/11 21:00",
     "destTime": "2023/02/11 19:00",
-    "position": "8.53878\u00b0 / 71.37392\u00b0",
-    "area": "Malacca Strait",
-    "status": "Out of Range"
+    "position": "10.21785\u00b0 / 66.22423\u00b0",
+    "area": "West Coast India",
+    "status": "Underway using Engine"
   },
   "9213454": {
     "rowidx": 7,
@@ -205,7 +205,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/06 07:00",
     "destTime": "2023/02/05 21:00",
-    "position": "-26.73623\u00b0 / 153.2867\u00b0",
+    "position": "-26.73625\u00b0 / 153.2865\u00b0",
     "area": "East Australia",
     "status": "At Anchor"
   },
@@ -235,9 +235,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/05 12:02",
     "destTime": "2023/02/05 10:02",
-    "position": "29.70763\u00b0 / 32.56085\u00b0",
+    "position": "29.72682\u00b0 / 32.5981\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9441867": {
     "rowidx": 15,
@@ -385,7 +385,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/17 23:29",
     "destTime": "2023/01/17 15:29",
-    "position": "36.20315\u00b0 / -4.005893\u00b0",
+    "position": "36.12599\u00b0 / -4.67844\u00b0",
     "area": "Gibraltar",
     "status": "Underway using Engine"
   },
@@ -465,17 +465,17 @@
     "length": "199.97",
     "breadth": "36.5",
     "grossTonnage": "75,283",
-    "dept": "KR MAS",
-    "deptLong": "Masan",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/02/03 16:49",
-    "deptTime": "2023/02/03 07:49",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2023/02/04 23:58",
-    "destTime": "2023/02/04 15:58",
-    "position": "31.32223\u00b0 / 121.6817\u00b0",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATA",
+    "deptLocalTime": "2023/02/05 00:58",
+    "deptTime": "2023/02/04 15:58",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2023/02/12 01:00",
+    "destTime": "2023/02/11 17:00",
+    "position": "31.32221\u00b0 / 121.6817\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   }
