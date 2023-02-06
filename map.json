@@ -205,7 +205,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/09 06:00",
     "destTime": "2023/02/08 19:00",
-    "position": "-27.37967\u00b0 / 153.1647\u00b0",
+    "position": "-27.37966\u00b0 / 153.1647\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -235,9 +235,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/05 12:02",
     "destTime": "2023/02/05 10:02",
-    "position": "29.726\u00b0 / 32.6002\u00b0",
+    "position": "29.72635\u00b0 / 32.60042\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9441867": {
     "rowidx": 15,
@@ -315,19 +315,19 @@
     "length": "199.98",
     "breadth": "32",
     "grossTonnage": "59,060",
-    "dept": "KR KAN",
-    "deptLong": "Gwangyang",
+    "dept": "KR PTK",
+    "deptLong": "Pyeongtaek",
     "deptType": "ATD",
-    "deptLocalTime": "2023/02/01 19:02",
-    "deptTime": "2023/02/01 10:02",
+    "deptLocalTime": "2023/02/06 17:22",
+    "deptTime": "2023/02/06 08:22",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2023/02/03 13:39",
     "destTime": "2023/02/03 04:39",
-    "position": "36.97675\u00b0 / 126.82863\u00b0",
+    "position": "37.05634\u00b0 / 126.6657\u00b0",
     "area": "Yellow Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9070450": {
     "rowidx": 18,
@@ -385,7 +385,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/17 23:29",
     "destTime": "2023/01/17 15:29",
-    "position": "37.94884\u00b0 / -9.633367\u00b0",
+    "position": "38.21138\u00b0 / -9.704882\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
