@@ -145,7 +145,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/07 15:48",
     "destTime": "2023/02/07 04:48",
-    "position": "-37.84136\u00b0 / 144.9039\u00b0",
+    "position": "-37.84139\u00b0 / 144.9038\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -235,7 +235,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/08 08:18",
     "destTime": "2023/02/08 06:18",
-    "position": "30.15848\u00b0 / 32.56977\u00b0",
+    "position": "30.20633\u00b0 / 32.56315\u00b0",
     "area": "Red Sea",
     "status": "Underway using Engine"
   },
@@ -265,8 +265,8 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/08 15:00",
     "destTime": "2023/02/08 14:00",
-    "position": "38.96838\u00b0 / 7.704905\u00b0",
-    "area": "West Mediterranean",
+    "position": "40.73209\u00b0 / 3.424358\u00b0",
+    "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
   "9360568": {
@@ -385,8 +385,8 @@
     "destType": "ETA",
     "destLocalTime": "2023/01/17 23:29",
     "destTime": "2023/01/17 15:29",
-    "position": "49.29874\u00b0 / -4.294943\u00b0",
-    "area": "Celtic Sea",
+    "position": "49.6941\u00b0 / -3.266712\u00b0",
+    "area": "English Channel",
     "status": "Underway using Engine"
   },
   "9293521": {
@@ -412,12 +412,12 @@
     "deptTime": "2023/02/08 00:57",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2023/02/08 11:30",
-    "destTime": "2023/02/08 10:30",
-    "position": "51.39266\u00b0 / 3.139098\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2023/02/08 09:09",
+    "destTime": "2023/02/08 08:09",
+    "position": "51.33362\u00b0 / 3.217385\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9358888": {
     "rowidx": 275,
@@ -443,8 +443,8 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2023/02/13 23:00",
-    "destTime": "2023/02/13 15:00",
+    "destLocalTime": "2023/02/14 02:00",
+    "destTime": "2023/02/13 18:00",
     "position": "30.28362\u00b0 / 124.2608\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
