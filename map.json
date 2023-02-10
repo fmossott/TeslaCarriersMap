@@ -1,6 +1,6 @@
 {
   "9702405": {
-    "rowidx": 6,
+    "rowidx": 7,
     "silence": "FALSE",
     "num": "253",
     "manDept": "SHG",
@@ -30,7 +30,7 @@
     "status": "Underway using Engine"
   },
   "9357315": {
-    "rowidx": 7,
+    "rowidx": 8,
     "silence": "FALSE",
     "num": "252",
     "manDept": "SHG",
@@ -60,7 +60,7 @@
     "status": "Underway using Engine"
   },
   "9213454": {
-    "rowidx": 8,
+    "rowidx": 9,
     "silence": "FALSE",
     "num": "251",
     "manDept": "SHG",
@@ -90,7 +90,7 @@
     "status": "Out of Range"
   },
   "9454723": {
-    "rowidx": 9,
+    "rowidx": 10,
     "silence": "FALSE",
     "num": "250",
     "manDept": "SHG",
@@ -120,7 +120,7 @@
     "status": "Underway using Engine"
   },
   "9706918": {
-    "rowidx": 10,
+    "rowidx": 11,
     "silence": "FALSE",
     "num": "249",
     "manDept": "SHG",
@@ -135,22 +135,22 @@
     "length": "199.89",
     "breadth": "40.74",
     "grossTonnage": "76,420",
-    "dept": "EG SUZ",
-    "deptLong": "Suez Canal",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/02/10 15:47",
-    "deptTime": "2023/02/10 08:47",
+    "dept": "TH LCH",
+    "deptLong": "Laem Chabang",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/01/24 21:44",
+    "deptTime": "2023/01/24 14:44",
     "dest": "GR PIR",
     "destLong": "Piraeus",
     "destType": "ETA",
     "destLocalTime": "2023/02/12 10:00",
     "destTime": "2023/02/12 08:00",
-    "position": "31.20944\u00b0 / 32.3402\u00b0",
+    "position": "31.34416\u00b0 / 32.37927\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
   "9228306": {
-    "rowidx": 12,
+    "rowidx": 13,
     "silence": "TRUE",
     "num": "247",
     "manDept": "SHG",
@@ -175,12 +175,12 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/08 23:00",
     "destTime": "2023/02/08 21:00",
-    "position": "33.72685\u00b0 / 24.73348\u00b0",
+    "position": "33.75912\u00b0 / 24.60313\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
   "9427940": {
-    "rowidx": 13,
+    "rowidx": 14,
     "silence": "FALSE",
     "num": "246",
     "manDept": "SHG",
@@ -205,12 +205,12 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/09 08:00",
     "destTime": "2023/02/08 21:00",
-    "position": "-34.42017\u00b0 / 150.9717\u00b0",
+    "position": "-34.42028\u00b0 / 150.972\u00b0",
     "area": "East Australia",
     "status": "At Anchor"
   },
   "9308792": {
-    "rowidx": 14,
+    "rowidx": 15,
     "silence": "FALSE",
     "num": "245",
     "manDept": "SHG",
@@ -240,7 +240,7 @@
     "status": "Underway using Engine"
   },
   "9441867": {
-    "rowidx": 15,
+    "rowidx": 16,
     "silence": "FALSE",
     "num": "244",
     "manDept": "SHG",
@@ -265,12 +265,12 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/12 21:00",
     "destTime": "2023/02/12 20:00",
-    "position": "41.33391\u00b0 / 2.146992\u00b0",
+    "position": "41.33391\u00b0 / 2.147007\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
   "9360568": {
-    "rowidx": 16,
+    "rowidx": 17,
     "silence": "FALSE",
     "num": "243",
     "manDept": "ZEE",
@@ -300,7 +300,7 @@
     "status": "Moored"
   },
   "9651101": {
-    "rowidx": 17,
+    "rowidx": 18,
     "silence": "FALSE",
     "num": "242",
     "manDept": "SFO",
@@ -330,7 +330,7 @@
     "status": "Out of Range"
   },
   "9070450": {
-    "rowidx": 18,
+    "rowidx": 19,
     "silence": "FALSE",
     "num": "241",
     "manDept": "SHG",
@@ -360,7 +360,7 @@
     "status": "Underway using Engine"
   },
   "9463205": {
-    "rowidx": 19,
+    "rowidx": 20,
     "silence": "FALSE",
     "num": "240",
     "manDept": "SHG",
@@ -385,12 +385,12 @@
     "destType": "ATA",
     "destLocalTime": "2023/01/17 23:29",
     "destTime": "2023/01/17 15:29",
-    "position": "50.90001\u00b0 / -1.415365\u00b0",
+    "position": "50.90001\u00b0 / -1.415363\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
   "9358888": {
-    "rowidx": 274,
+    "rowidx": 275,
     "silence": "FALSE",
     "num": "-15",
     "manDept": "SHG",
