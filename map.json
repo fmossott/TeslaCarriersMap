@@ -25,7 +25,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/10 14:48",
     "destTime": "2023/02/10 06:48",
-    "position": "30.83589\u00b0 / 121.8342\u00b0",
+    "position": "30.83588\u00b0 / 121.8341\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -85,9 +85,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/11 21:14",
     "destTime": "2023/02/11 19:14",
-    "position": "29.83397\u00b0 / 32.56409\u00b0",
+    "position": "29.8615\u00b0 / 32.55216\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9213454": {
     "rowidx": 9,
@@ -175,7 +175,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/12 12:00",
     "destTime": "2023/02/12 10:00",
-    "position": "36.88768\u00b0 / 24.65317\u00b0",
+    "position": "37.05138\u00b0 / 24.41258\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -205,7 +205,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/08 23:00",
     "destTime": "2023/02/08 21:00",
-    "position": "36.64511\u00b0 / 13.84056\u00b0",
+    "position": "36.675\u00b0 / 13.61311\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/09 08:00",
     "destTime": "2023/02/08 21:00",
-    "position": "-34.41609\u00b0 / 150.9736\u00b0",
+    "position": "-34.41604\u00b0 / 150.9734\u00b0",
     "area": "East Australia",
     "status": "Underway"
   },
@@ -410,12 +410,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/01/12 12:15",
     "deptTime": "2023/01/12 04:15",
-    "dest": "BE ANR",
+    "dest": "BE ANTWERP ANCH",
     "destLong": "Antwerp",
-    "destType": "ETA",
-    "destLocalTime": "2023/02/12 04:00",
-    "destTime": "2023/02/12 03:00",
-    "position": "51.35514\u00b0 / 2.56304\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2023/02/12 05:22",
+    "destTime": "2023/02/12 04:22",
+    "position": "51.36373\u00b0 / 2.570563\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -445,7 +445,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/10 20:30",
     "destTime": "2023/02/11 04:30",
-    "position": "37.76917\u00b0 / -122.3397\u00b0",
+    "position": "37.7692\u00b0 / -122.3399\u00b0",
     "area": "US West Coast",
     "status": "At Anchor"
   },
