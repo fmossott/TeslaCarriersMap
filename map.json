@@ -25,7 +25,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/10 14:48",
     "destTime": "2023/02/10 06:48",
-    "position": "30.83586\u00b0 / 121.8341\u00b0",
+    "position": "30.83585\u00b0 / 121.8341\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -170,12 +170,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/01/24 21:44",
     "deptTime": "2023/01/24 14:44",
-    "dest": "GR PIR",
-    "destLong": "Piraeus",
+    "dest": "GR VLM",
+    "destLong": "Vouliagmeni",
     "destType": "ETA",
     "destLocalTime": "2023/02/12 12:00",
     "destTime": "2023/02/12 10:00",
-    "position": "37.51521\u00b0 / 23.81698\u00b0",
+    "position": "37.7322\u00b0 / 23.71255\u00b0",
     "area": "Aegean Sea",
     "status": "Underway using Engine"
   },
@@ -205,7 +205,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/08 23:00",
     "destTime": "2023/02/08 21:00",
-    "position": "36.98802\u00b0 / 12.67489\u00b0",
+    "position": "37.08839\u00b0 / 12.36014\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/09 08:00",
     "destTime": "2023/02/08 21:00",
-    "position": "-34.41603\u00b0 / 150.9733\u00b0",
+    "position": "-34.41609\u00b0 / 150.973\u00b0",
     "area": "East Australia",
     "status": "At Anchor"
   },
@@ -415,8 +415,8 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/12 04:00",
     "destTime": "2023/02/12 03:00",
-    "position": "51.40543\u00b0 / 3.33138\u00b0",
-    "area": "North Sea",
+    "position": "51.42651\u00b0 / 3.558683\u00b0",
+    "area": "Antwerp Area",
     "status": "Underway using Engine"
   },
   "9702431": {
@@ -442,12 +442,12 @@
     "deptTime": "2023/02/11 02:23",
     "dest": "US BNC",
     "destLong": "Benicia",
-    "destType": "ETA",
-    "destLocalTime": "2023/02/10 20:30",
-    "destTime": "2023/02/11 04:30",
-    "position": "38.06238\u00b0 / -122.2538\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2023/02/12 00:36",
+    "destTime": "2023/02/12 08:36",
+    "position": "38.0406\u00b0 / -122.1361\u00b0",
     "area": "US West Coast",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9491874": {
     "rowidx": 276,
