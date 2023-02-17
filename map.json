@@ -113,9 +113,9 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2023/02/18 06:00",
-    "destTime": "2023/02/17 22:00",
-    "position": "7.73785\u00b0 / 108.78611\u00b0",
+    "destLocalTime": "2023/02/18 05:00",
+    "destTime": "2023/02/17 21:00",
+    "position": "5.04634\u00b0 / 106.65118\u00b0",
     "area": "South China",
     "status": "Out of Range"
   },
@@ -175,9 +175,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/17 21:15",
     "destTime": "2023/02/17 10:15",
-    "position": "-34.38698\u00b0 / 151.0324\u00b0",
+    "position": "-34.38875\u00b0 / 151.0327\u00b0",
     "area": "East Australia",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9357315": {
     "rowidx": 12,
@@ -202,10 +202,10 @@
     "deptTime": "2023/01/25 06:11",
     "dest": "ES BCN",
     "destLong": "Barcelona",
-    "destType": "ETA",
-    "destLocalTime": "2023/02/17 05:00",
-    "destTime": "2023/02/17 04:00",
-    "position": "41.26431\u00b0 / 2.249693\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2023/02/17 05:10",
+    "destTime": "2023/02/17 04:10",
+    "position": "41.33567\u00b0 / 2.1495\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -325,7 +325,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/08 23:00",
     "destTime": "2023/02/08 21:00",
-    "position": "49.32763\u00b0 / -4.13513\u00b0",
+    "position": "49.47775\u00b0 / -3.792965\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
