@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/18 05:45",
     "destTime": "2023/02/17 21:45",
-    "position": "5.04634\u00b0 / 106.65118\u00b0",
+    "position": "2.06289\u00b0 / 104.88679\u00b0",
     "area": "South China",
     "status": "Out of Range"
   },
@@ -175,7 +175,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/22 20:00",
     "destTime": "2023/02/22 09:00",
-    "position": "-37.81882\u00b0 / 144.9174\u00b0",
+    "position": "-37.81883\u00b0 / 144.9174\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -205,9 +205,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/17 10:54",
     "destTime": "2023/02/17 08:54",
-    "position": "29.902\u00b0 / 32.53471\u00b0",
+    "position": "29.90183\u00b0 / 32.53526\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9491874": {
     "rowidx": 13,
@@ -235,9 +235,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/18 02:40",
     "destTime": "2023/02/17 15:40",
-    "position": "-34.45852\u00b0 / 150.8933\u00b0",
+    "position": "-34.45592\u00b0 / 150.8916\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9357315": {
     "rowidx": 14,
@@ -265,7 +265,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/17 05:10",
     "destTime": "2023/02/17 04:10",
-    "position": "41.3342\u00b0 / 2.146268\u00b0",
+    "position": "41.33418\u00b0 / 2.146298\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -292,10 +292,10 @@
     "deptTime": "2023/01/20 13:31",
     "dest": "GB SOU",
     "destLong": "Southampton",
-    "destType": "ETA",
+    "destType": "ATA",
     "destLocalTime": "2023/02/08 23:00",
     "destTime": "2023/02/08 21:00",
-    "position": "50.77297\u00b0 / -1.275797\u00b0",
+    "position": "50.88643\u00b0 / -1.402213\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
