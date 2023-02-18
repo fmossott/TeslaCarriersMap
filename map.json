@@ -25,7 +25,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/17 23:39",
     "destTime": "2023/02/17 15:39",
-    "position": "30.83608\u00b0 / 121.8364\u00b0",
+    "position": "30.8361\u00b0 / 121.8364\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -145,7 +145,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/18 06:27",
     "destTime": "2023/02/17 22:27",
-    "position": "1.292752\u00b0 / 104.0056\u00b0",
+    "position": "1.293127\u00b0 / 104.0061\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -205,7 +205,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/22 20:00",
     "destTime": "2023/02/22 09:00",
-    "position": "-37.81882\u00b0 / 144.9174\u00b0",
+    "position": "-37.81877\u00b0 / 144.9174\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -230,14 +230,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/01/27 02:44",
     "deptTime": "2023/01/26 18:44",
-    "dest": "EG SUEZ SOUTH ANCH",
+    "dest": "EG SUZ",
     "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2023/02/17 10:54",
-    "destTime": "2023/02/17 08:54",
-    "position": "29.90323\u00b0 / 32.53609\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2023/02/17 12:00",
+    "destTime": "2023/02/17 10:00",
+    "position": "29.92882\u00b0 / 32.55905\u00b0",
     "area": "Red Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9491874": {
     "rowidx": 14,
@@ -325,7 +325,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/08 23:00",
     "destTime": "2023/02/08 21:00",
-    "position": "50.90413\u00b0 / -1.428098\u00b0",
+    "position": "50.90409\u00b0 / -1.42808\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -415,9 +415,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/18 01:57",
     "destTime": "2023/02/18 00:57",
-    "position": "51.33412\u00b0 / 3.217267\u00b0",
+    "position": "51.30398\u00b0 / 3.229533\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9358888": {
     "rowidx": 280,
