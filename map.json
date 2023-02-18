@@ -25,7 +25,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/17 23:39",
     "destTime": "2023/02/17 15:39",
-    "position": "30.8361\u00b0 / 121.8364\u00b0",
+    "position": "30.83612\u00b0 / 121.8365\u00b0",
     "area": "East China Sea",
     "status": "Moored"
   },
@@ -135,19 +135,19 @@
     "length": "199.97",
     "breadth": "35",
     "grossTonnage": "64,546",
-    "dept": "SG SINGAPORE ANCH",
+    "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/02/18 06:27",
-    "deptTime": "2023/02/17 22:27",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/02/13 02:46",
+    "deptTime": "2023/02/12 18:46",
     "dest": "EG SUZ",
     "destLong": "Suez Canal",
     "destType": "ETA",
     "destLocalTime": "2023/03/02 18:00",
     "destTime": "2023/03/02 16:00",
-    "position": "1.29352\u00b0 / 104.0056\u00b0",
+    "position": "1.21393\u00b0 / 103.8867\u00b0",
     "area": "Singapore Area",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9702405": {
     "rowidx": 11,
@@ -205,7 +205,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/22 20:00",
     "destTime": "2023/02/22 09:00",
-    "position": "-37.81882\u00b0 / 144.9174\u00b0",
+    "position": "-37.8188\u00b0 / 144.9174\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -265,7 +265,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/18 02:40",
     "destTime": "2023/02/17 15:40",
-    "position": "-34.45585\u00b0 / 150.8916\u00b0",
+    "position": "-34.45584\u00b0 / 150.8916\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -325,7 +325,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/08 23:00",
     "destTime": "2023/02/08 21:00",
-    "position": "50.9041\u00b0 / -1.428113\u00b0",
+    "position": "50.9041\u00b0 / -1.428145\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -355,7 +355,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/19 08:00",
     "destTime": "2023/02/18 21:00",
-    "position": "-39.17806\u00b0 / 146.1998\u00b0",
+    "position": "-39.06285\u00b0 / 145.9293\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -415,7 +415,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/02/18 01:57",
     "destTime": "2023/02/18 00:57",
-    "position": "51.30392\u00b0 / 3.229517\u00b0",
+    "position": "51.30395\u00b0 / 3.229533\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
