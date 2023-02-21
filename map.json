@@ -53,8 +53,8 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2023/02/22 07:30",
-    "destTime": "2023/02/21 23:30",
+    "destLocalTime": "2023/02/22 08:30",
+    "destTime": "2023/02/22 00:30",
     "position": "3.72500\u00b0 / 105.47667\u00b0",
     "area": "South China",
     "status": "Out of Range"
@@ -80,14 +80,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/02/16 06:53",
     "deptTime": "2023/02/15 22:53",
-    "dest": "SG SINGAPORE ANCH",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2023/02/21 17:39",
-    "destTime": "2023/02/21 09:39",
-    "position": "1.260852\u00b0 / 103.8935\u00b0",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ETA",
+    "destLocalTime": "2023/06/04 00:00",
+    "destTime": "2023/06/03 22:00",
+    "position": "1.214312\u00b0 / 103.8829\u00b0",
     "area": "Singapore Area",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9360568": {
     "rowidx": 9,
@@ -205,7 +205,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/22 08:00",
     "destTime": "2023/02/21 21:00",
-    "position": "-34.39539\u00b0 / 151.2261\u00b0",
+    "position": "-34.36743\u00b0 / 151.2265\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -265,7 +265,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/22 12:00",
     "destTime": "2023/02/22 01:00",
-    "position": "-38.78571\u00b0 / 145.2651\u00b0",
+    "position": "-38.66223\u00b0 / 144.9776\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
