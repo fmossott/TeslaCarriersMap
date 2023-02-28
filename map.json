@@ -1,6 +1,36 @@
 {
-  "9070462": {
+  "9082934": {
     "rowidx": 6,
+    "silence": "FALSE",
+    "num": "264",
+    "manDept": "SHG",
+    "madeIn": "CHN",
+    "notes": "",
+    "quarter": "23Q1",
+    "numDept": "27",
+    "mapStatus": "3",
+    "mtsid": "728140",
+    "name": "Don Juan",
+    "mmsi": "564362000",
+    "length": "199.11",
+    "breadth": "32.29",
+    "grossTonnage": "55,598",
+    "dept": "NZ AKL",
+    "deptLong": "Auckland",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/02/28 22:03",
+    "deptTime": "2023/02/28 09:03",
+    "dest": "CN STG",
+    "destLong": "Shantou",
+    "destType": "ETA",
+    "destLocalTime": "2023/03/14 06:00",
+    "destTime": "2023/03/13 22:00",
+    "position": "-34.90704\u00b0 / 174.4058\u00b0",
+    "area": "South Pacific",
+    "status": "Underway using Engine"
+  },
+  "9070462": {
+    "rowidx": 7,
     "silence": "FALSE",
     "num": "263",
     "manDept": "SFO",
@@ -30,7 +60,7 @@
     "status": "Out of Range"
   },
   "9339806": {
-    "rowidx": 7,
+    "rowidx": 8,
     "silence": "FALSE",
     "num": "262",
     "manDept": "SHG",
@@ -60,7 +90,7 @@
     "status": "Out of Range"
   },
   "9382396": {
-    "rowidx": 8,
+    "rowidx": 9,
     "silence": "FALSE",
     "num": "261",
     "manDept": "BAL",
@@ -68,7 +98,7 @@
     "notes": "",
     "quarter": "23Q1",
     "numDept": "2",
-    "mapStatus": "2",
+    "mapStatus": "3",
     "mtsid": "314565",
     "name": "Hoegh Oslo",
     "mmsi": "259739000",
@@ -90,7 +120,7 @@
     "status": "Moored"
   },
   "9325221": {
-    "rowidx": 9,
+    "rowidx": 10,
     "silence": "FALSE",
     "num": "260",
     "manDept": "SHG",
@@ -120,7 +150,7 @@
     "status": "Out of Range"
   },
   "9782704": {
-    "rowidx": 10,
+    "rowidx": 11,
     "silence": "FALSE",
     "num": "259",
     "manDept": "SHG",
@@ -150,7 +180,7 @@
     "status": "Underway using Engine"
   },
   "9471197": {
-    "rowidx": 11,
+    "rowidx": 12,
     "silence": "FALSE",
     "num": "258",
     "manDept": "SHG",
@@ -180,7 +210,7 @@
     "status": "Out of Range"
   },
   "9360568": {
-    "rowidx": 12,
+    "rowidx": 13,
     "silence": "FALSE",
     "num": "257",
     "manDept": "SHG",
@@ -210,7 +240,7 @@
     "status": "Underway using Engine"
   },
   "9702417": {
-    "rowidx": 13,
+    "rowidx": 14,
     "silence": "FALSE",
     "num": "256",
     "manDept": "SHG",
@@ -240,7 +270,7 @@
     "status": "Underway using Engine"
   },
   "9702405": {
-    "rowidx": 14,
+    "rowidx": 15,
     "silence": "FALSE",
     "num": "255",
     "manDept": "SHG",
@@ -270,7 +300,7 @@
     "status": "Underway using Engine"
   },
   "9213454": {
-    "rowidx": 15,
+    "rowidx": 16,
     "silence": "FALSE",
     "num": "254",
     "manDept": "SHG",
@@ -300,7 +330,7 @@
     "status": "Moored"
   },
   "9303558": {
-    "rowidx": 16,
+    "rowidx": 17,
     "silence": "FALSE",
     "num": "253",
     "manDept": "SHG",
@@ -330,7 +360,7 @@
     "status": "Underway using Engine"
   },
   "9454723": {
-    "rowidx": 17,
+    "rowidx": 18,
     "silence": "FALSE",
     "num": "252",
     "manDept": "SHG",
@@ -360,7 +390,7 @@
     "status": "Moored"
   },
   "9491874": {
-    "rowidx": 18,
+    "rowidx": 19,
     "silence": "FALSE",
     "num": "251",
     "manDept": "SHG",
@@ -390,7 +420,7 @@
     "status": "At Anchor"
   },
   "9427940": {
-    "rowidx": 21,
+    "rowidx": 22,
     "silence": "FALSE",
     "num": "248",
     "manDept": "SHG",
@@ -420,7 +450,7 @@
     "status": "Underway using Engine"
   },
   "9358888": {
-    "rowidx": 284,
+    "rowidx": 285,
     "silence": "FALSE",
     "num": "-15",
     "manDept": "SHG",
