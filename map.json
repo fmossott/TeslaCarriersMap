@@ -25,7 +25,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/12 10:00",
     "destTime": "2023/03/12 02:00",
-    "position": "39.19232\u00b0 / 136.5603\u00b0",
+    "position": "38.38352\u00b0 / 135.1751\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -55,9 +55,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/09 12:00",
     "destTime": "2023/03/09 10:00",
-    "position": "23.74355\u00b0 / 36.81543\u00b0",
+    "position": "27.64841\u00b0 / 33.95355\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9382396": {
     "rowidx": 8,
@@ -85,7 +85,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/08 01:41",
     "destTime": "2023/03/08 00:41",
-    "position": "51.26445\u00b0 / 4.235667\u00b0",
+    "position": "51.26446\u00b0 / 4.235697\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   },
@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/10 13:30",
     "destTime": "2023/03/10 12:30",
-    "position": "35.24091\u00b0 / 22.69742\u00b0",
+    "position": "36.58568\u00b0 / 20.99806\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -145,7 +145,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/05 21:12",
     "destTime": "2023/03/05 19:12",
-    "position": "36.64499\u00b0 / 14.19938\u00b0",
+    "position": "37.22026\u00b0 / 12.96101\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -205,9 +205,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/09 20:00",
     "destTime": "2023/03/09 18:00",
-    "position": "23.86203\u00b0 / 36.61203\u00b0",
+    "position": "27.16500\u00b0 / 34.39166\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9702417": {
     "rowidx": 13,
@@ -232,12 +232,12 @@
     "deptTime": "2023/03/09 00:11",
     "dest": "ES TAR",
     "destLong": "Tarragona",
-    "destType": "ETA",
-    "destLocalTime": "2023/03/08 04:00",
-    "destTime": "2023/03/08 03:00",
-    "position": "41.05967\u00b0 / 1.248127\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2023/03/09 04:19",
+    "destTime": "2023/03/09 03:19",
+    "position": "41.09418\u00b0 / 1.20663\u00b0",
     "area": "Balearic Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9702405": {
     "rowidx": 14,
@@ -265,7 +265,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/07 21:45",
     "destTime": "2023/03/07 20:45",
-    "position": "51.30381\u00b0 / 3.229915\u00b0",
+    "position": "51.3038\u00b0 / 3.22994\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -295,9 +295,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/15 12:00",
     "destTime": "2023/03/15 01:00",
-    "position": "-38.50478\u00b0 / 144.4594\u00b0",
+    "position": "-38.51205\u00b0 / 144.4755\u00b0",
     "area": "East Australia",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9427940": {
     "rowidx": 21,
@@ -325,9 +325,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/02/19 08:00",
     "destTime": "2023/02/18 21:00",
-    "position": "-38.95333\u00b0 / 145.46167\u00b0",
+    "position": "-39.03849\u00b0 / 145.0077\u00b0",
     "area": "East Australia",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9358888": {
     "rowidx": 284,
@@ -355,8 +355,8 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/10 11:00",
     "destTime": "2023/03/10 10:00",
-    "position": "48.7249\u00b0 / -5.665033\u00b0",
-    "area": "Celtic Sea",
+    "position": "49.48258\u00b0 / -3.738467\u00b0",
+    "area": "English Channel",
     "status": "Underway using Engine"
   }
 }
