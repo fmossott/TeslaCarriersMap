@@ -55,38 +55,8 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/10 23:00",
     "destTime": "2023/03/10 12:00",
-    "position": "-34.25831\u00b0 / 151.1889\u00b0",
+    "position": "-34.22832\u00b0 / 151.1752\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
-  },
-  "9070462": {
-    "rowidx": 8,
-    "silence": "FALSE",
-    "num": "263",
-    "manDept": "SFO",
-    "madeIn": "USA",
-    "notes": "",
-    "quarter": "23Q1",
-    "numDept": "3",
-    "mapStatus": "2",
-    "mtsid": "756013",
-    "name": "K.Asian Beauty",
-    "mmsi": "441357000",
-    "length": "184.07",
-    "breadth": "30.6",
-    "grossTonnage": "44,818",
-    "dept": "CN TXG",
-    "deptLong": "Tianjin",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/03/13 00:07",
-    "deptTime": "2023/03/12 16:07",
-    "dest": "KR MOK",
-    "destLong": "Mokpo",
-    "destType": "ETA",
-    "destLocalTime": "2023/03/14 14:00",
-    "destTime": "2023/03/14 05:00",
-    "position": "38.80852\u00b0 / 118.6488\u00b0",
-    "area": "Bohai Sea",
     "status": "Underway using Engine"
   },
   "9339806": {
@@ -145,7 +115,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/10 23:29",
     "destTime": "2023/03/10 22:29",
-    "position": "45.56688\u00b0 / 13.74394\u00b0",
+    "position": "45.56687\u00b0 / 13.74395\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -175,7 +145,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/05 21:12",
     "destTime": "2023/03/05 19:12",
-    "position": "38.40265\u00b0 / -9.758503\u00b0",
+    "position": "38.53901\u00b0 / -9.792477\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -265,9 +235,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/13 12:00",
     "destTime": "2023/03/13 11:00",
-    "position": "51.30383\u00b0 / 3.229923\u00b0",
+    "position": "51.33433\u00b0 / 3.216753\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9491874": {
     "rowidx": 20,
@@ -325,7 +295,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/11 11:01",
     "destTime": "2023/03/11 00:01",
-    "position": "-37.84649\u00b0 / 144.9059\u00b0",
+    "position": "-37.84648\u00b0 / 144.9059\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -355,7 +325,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/11 01:46",
     "destTime": "2023/03/11 00:46",
-    "position": "51.89447\u00b0 / 4.247567\u00b0",
+    "position": "51.89448\u00b0 / 4.247567\u00b0",
     "area": "Rotterdam Area",
     "status": "Moored"
   }
