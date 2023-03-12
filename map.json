@@ -55,7 +55,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/10 23:00",
     "destTime": "2023/03/10 12:00",
-    "position": "-34.4882\u00b0 / 151.1547\u00b0",
+    "position": "-34.46321\u00b0 / 151.2959\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -85,7 +85,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/12 10:39",
     "destTime": "2023/03/12 02:39",
-    "position": "39.02108\u00b0 / 117.7684\u00b0",
+    "position": "39.02103\u00b0 / 117.7684\u00b0",
     "area": "Bohai Sea",
     "status": "Moored"
   },
@@ -145,7 +145,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/10 23:29",
     "destTime": "2023/03/10 22:29",
-    "position": "45.5669\u00b0 / 13.74392\u00b0",
+    "position": "45.56687\u00b0 / 13.74393\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -175,7 +175,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/05 21:12",
     "destTime": "2023/03/05 19:12",
-    "position": "36.66172\u00b0 / -8.75298\u00b0",
+    "position": "36.71\u00b0 / -9.008003\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -265,7 +265,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/13 05:00",
     "destTime": "2023/03/13 04:00",
-    "position": "51.30382\u00b0 / 3.229888\u00b0",
+    "position": "51.30382\u00b0 / 3.229912\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -315,19 +315,19 @@
     "length": "182.91",
     "breadth": "31.78",
     "grossTonnage": "47,057",
-    "dept": "AU MELBOURNE ANCH",
+    "dept": "AU PKL",
     "deptLong": "Port Kembla",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/03/11 13:44",
-    "deptTime": "2023/03/11 02:44",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/02/17 23:35",
+    "deptTime": "2023/02/17 12:35",
     "dest": "AU PKL",
     "destLong": "Port Kembla",
     "destType": "ETA",
     "destLocalTime": "2023/03/11 11:01",
     "destTime": "2023/03/11 00:01",
-    "position": "-37.98135\u00b0 / 144.8182\u00b0",
+    "position": "-37.91831\u00b0 / 144.9266\u00b0",
     "area": "East Australia",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9358888": {
     "rowidx": 286,
@@ -355,7 +355,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/11 01:46",
     "destTime": "2023/03/11 00:46",
-    "position": "51.89447\u00b0 / 4.24755\u00b0",
+    "position": "51.89447\u00b0 / 4.247567\u00b0",
     "area": "Rotterdam Area",
     "status": "Moored"
   }
