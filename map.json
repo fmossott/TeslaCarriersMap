@@ -85,7 +85,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/10 23:00",
     "destTime": "2023/03/10 12:00",
-    "position": "-34.41729\u00b0 / 150.9749\u00b0",
+    "position": "-34.4171\u00b0 / 150.9749\u00b0",
     "area": "East Australia",
     "status": "At Anchor"
   },
@@ -145,7 +145,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/10 23:29",
     "destTime": "2023/03/10 22:29",
-    "position": "45.56689\u00b0 / 13.74394\u00b0",
+    "position": "45.56689\u00b0 / 13.74392\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -197,17 +197,17 @@
     "grossTonnage": "19,684",
     "dept": "TH LCH",
     "deptLong": "Laem Chabang",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/03/13 07:22",
-    "deptTime": "2023/03/12 23:22",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/03/13 20:55",
+    "deptTime": "2023/03/13 13:55",
     "dest": "CN NSA",
     "destLong": "Nansha",
     "destType": "ETA",
     "destLocalTime": "2023/03/19 07:00",
     "destTime": "2023/03/18 23:00",
-    "position": "13.05353\u00b0 / 100.9059\u00b0",
+    "position": "13.0533\u00b0 / 100.8041\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9360568": {
     "rowidx": 16,
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/09 19:14",
     "destTime": "2023/03/09 17:14",
-    "position": "37.05607\u00b0 / 12.21766\u00b0",
+    "position": "37.19544\u00b0 / 11.84784\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -325,7 +325,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/11 01:46",
     "destTime": "2023/03/11 00:46",
-    "position": "51.89448\u00b0 / 4.247567\u00b0",
+    "position": "51.89448\u00b0 / 4.24755\u00b0",
     "area": "Rotterdam Area",
     "status": "Moored"
   }
