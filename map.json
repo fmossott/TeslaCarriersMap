@@ -25,9 +25,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/14 03:20",
     "destTime": "2023/03/13 18:20",
-    "position": "33.96858\u00b0 / 136.8698\u00b0",
+    "position": "34.29168\u00b0 / 137.056\u00b0",
     "area": "Japan Coast",
-    "status": "Not Under Command"
+    "status": "Underway using Engine"
   },
   "9185463": {
     "rowidx": 8,
@@ -85,7 +85,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/10 23:00",
     "destTime": "2023/03/10 12:00",
-    "position": "-34.41687\u00b0 / 150.9751\u00b0",
+    "position": "-34.41699\u00b0 / 150.9749\u00b0",
     "area": "East Australia",
     "status": "At Anchor"
   },
@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/14 13:00",
     "destTime": "2023/03/14 12:00",
-    "position": "38.64417\u00b0 / 8.4505\u00b0",
+    "position": "38.9565\u00b0 / 7.728\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -175,7 +175,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/05 21:12",
     "destTime": "2023/03/05 19:12",
-    "position": "41.66717\u00b0 / -9.808971\u00b0",
+    "position": "41.84538\u00b0 / -9.802419\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Underway using Engine"
   },
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/09 19:14",
     "destTime": "2023/03/09 17:14",
-    "position": "37.40371\u00b0 / 11.28215\u00b0",
+    "position": "37.49091\u00b0 / 10.98851\u00b0",
     "area": "West Mediterranean",
     "status": "Underway using Engine"
   },
@@ -295,7 +295,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/11 11:01",
     "destTime": "2023/03/11 00:01",
-    "position": "-37.84648\u00b0 / 144.9059\u00b0",
+    "position": "-37.84649\u00b0 / 144.9059\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -315,17 +315,17 @@
     "length": "176",
     "breadth": "31.15",
     "grossTonnage": "40,628",
-    "dept": "NL RTM",
-    "deptLong": "Rotterdam",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/03/13 17:04",
-    "deptTime": "2023/03/13 16:04",
+    "dept": "NL ROZ",
+    "deptLong": "Rozenburg",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/03/13 17:03",
+    "deptTime": "2023/03/13 16:03",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
     "destLocalTime": "2023/03/14 03:00",
     "destTime": "2023/03/14 02:00",
-    "position": "51.93082\u00b0 / 4.1967\u00b0",
+    "position": "52.0084\u00b0 / 4.013067\u00b0",
     "area": "Rotterdam Area",
     "status": "Underway using Engine"
   }
