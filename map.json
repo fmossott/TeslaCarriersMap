@@ -22,12 +22,12 @@
     "deptTime": "2023/03/14 09:18",
     "dest": "JP YOK",
     "destLong": "Yokohama",
-    "destType": "ETA",
-    "destLocalTime": "2023/03/15 07:00",
-    "destTime": "2023/03/14 22:00",
-    "position": "35.30155\u00b0 / 139.7415\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2023/03/15 07:25",
+    "destTime": "2023/03/14 22:25",
+    "position": "35.45213\u00b0 / 139.6879\u00b0",
     "area": "Japan Coast",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9185463": {
     "rowidx": 8,
@@ -85,7 +85,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/10 23:00",
     "destTime": "2023/03/10 12:00",
-    "position": "-34.41836\u00b0 / 150.9745\u00b0",
+    "position": "-34.41837\u00b0 / 150.9746\u00b0",
     "area": "East Australia",
     "status": "At Anchor"
   },
@@ -265,7 +265,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/14 04:40",
     "destTime": "2023/03/14 03:40",
-    "position": "51.31357\u00b0 / 3.22755\u00b0",
+    "position": "51.31358\u00b0 / 3.22755\u00b0",
     "area": "North Sea",
     "status": "Moored"
   }
