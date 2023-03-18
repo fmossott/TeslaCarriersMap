@@ -1,6 +1,36 @@
 {
+  "9318474": {
+    "rowidx": 6,
+    "silence": "FALSE",
+    "num": "268",
+    "manDept": "SHG",
+    "madeIn": "CHN",
+    "notes": "",
+    "quarter": "23Q1",
+    "numDept": "30",
+    "mapStatus": "0",
+    "mtsid": "312575",
+    "name": "Hoegh Bangkok",
+    "mmsi": "258720000",
+    "length": "199.9",
+    "breadth": "32.29",
+    "grossTonnage": "55,775",
+    "dept": "EG SUZ",
+    "deptLong": "Suez Canal",
+    "deptType": "ATA",
+    "deptLocalTime": "2023/03/18 11:31",
+    "deptTime": "2023/03/18 03:31",
+    "dest": "FR LEH",
+    "destLong": "Le Havre",
+    "destType": "ETA",
+    "destLocalTime": "2023/03/27 01:00",
+    "destTime": "2023/03/26 23:00",
+    "position": "30.18087\u00b0 / 32.56894\u00b0",
+    "area": "Red Sea",
+    "status": "Underway using Engine"
+  },
   "9185463": {
-    "rowidx": 8,
+    "rowidx": 9,
     "silence": "FALSE",
     "num": "265",
     "manDept": "BAL",
@@ -30,7 +60,7 @@
     "status": "Out of Range"
   },
   "9782687": {
-    "rowidx": 9,
+    "rowidx": 10,
     "silence": "FALSE",
     "num": "264",
     "manDept": "SHG",
@@ -55,12 +85,12 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/19 00:23",
     "destTime": "2023/03/18 13:23",
-    "position": "-34.45503\u00b0 / 150.8888\u00b0",
+    "position": "-34.45505\u00b0 / 150.8888\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
   "9339806": {
-    "rowidx": 11,
+    "rowidx": 12,
     "silence": "FALSE",
     "num": "262",
     "manDept": "SHG",
@@ -90,7 +120,7 @@
     "status": "Underway using Engine"
   },
   "9782704": {
-    "rowidx": 14,
+    "rowidx": 15,
     "silence": "FALSE",
     "num": "259",
     "manDept": "SHG",
@@ -120,7 +150,7 @@
     "status": "Underway using Engine"
   },
   "9360568": {
-    "rowidx": 16,
+    "rowidx": 17,
     "silence": "FALSE",
     "num": "257",
     "manDept": "SHG",
@@ -145,12 +175,12 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/09 19:14",
     "destTime": "2023/03/09 17:14",
-    "position": "48.76244\u00b0 / -5.630792\u00b0",
+    "position": "48.87323\u00b0 / -5.306778\u00b0",
     "area": "Celtic Sea",
     "status": "Underway using Engine"
   },
   "9491874": {
-    "rowidx": 22,
+    "rowidx": 23,
     "silence": "FALSE",
     "num": "251",
     "manDept": "SHG",
@@ -175,12 +205,12 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/16 03:00",
     "destTime": "2023/03/15 16:00",
-    "position": "-37.84644\u00b0 / 144.9059\u00b0",
+    "position": "-37.84645\u00b0 / 144.9059\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
   "9358888": {
-    "rowidx": 288,
+    "rowidx": 289,
     "silence": "FALSE",
     "num": "-15",
     "manDept": "SHG",
@@ -205,7 +235,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/18 13:55",
     "destTime": "2023/03/18 12:55",
-    "position": "57.68943\u00b0 / 11.86683\u00b0",
+    "position": "57.68941\u00b0 / 11.86682\u00b0",
     "area": "Kattegat",
     "status": "Stopped"
   }
