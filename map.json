@@ -25,7 +25,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/15 12:00",
     "destTime": "2023/03/15 01:00",
-    "position": "-34.26461\u00b0 / 151.0435\u00b0",
+    "position": "-34.26437\u00b0 / 151.0433\u00b0",
     "area": "East Australia",
     "status": "At Anchor"
   },
@@ -85,9 +85,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/22 23:00",
     "destTime": "2023/03/22 22:00",
-    "position": "51.89464\u00b0 / 4.247402\u00b0",
+    "position": "51.89553\u00b0 / 4.238262\u00b0",
     "area": "Rotterdam Area",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9782687": {
     "rowidx": 12,
@@ -115,7 +115,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/19 00:23",
     "destTime": "2023/03/18 13:23",
-    "position": "-34.45507\u00b0 / 150.8888\u00b0",
+    "position": "-34.455\u00b0 / 150.8888\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -175,7 +175,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/22 07:13",
     "destTime": "2023/03/22 06:13",
-    "position": "42.23287\u00b0 / -8.749838\u00b0",
+    "position": "42.23287\u00b0 / -8.749846\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "Moored"
   },
@@ -197,15 +197,15 @@
     "grossTonnage": "41,662",
     "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/02/16 17:04",
-    "deptTime": "2023/02/16 08:04",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/03/22 19:31",
+    "deptTime": "2023/03/22 18:31",
     "dest": "DE BRV",
     "destLong": "Bremerhaven",
     "destType": "ETA",
     "destLocalTime": "2023/03/23 14:00",
     "destTime": "2023/03/23 13:00",
-    "position": "51.34956\u00b0 / 3.207258\u00b0",
+    "position": "51.3727\u00b0 / 2.844005\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
