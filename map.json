@@ -85,7 +85,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/25 10:00",
     "destTime": "2023/03/25 09:00",
-    "position": "50.94398\u00b0 / 1.338187\u00b0",
+    "position": "50.86058\u00b0 / 1.184775\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -115,9 +115,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/24 12:00",
     "destTime": "2023/03/24 01:00",
-    "position": "-38.935\u00b0 / 144.5013\u00b0",
+    "position": "-38.98112\u00b0 / 144.3891\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9339806": {
     "rowidx": 14,
@@ -135,17 +135,17 @@
     "length": "199.9",
     "breadth": "32.26",
     "grossTonnage": "59,217",
-    "dept": "SI KOP",
-    "deptLong": "Koper",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/03/21 22:55",
-    "deptTime": "2023/03/21 21:55",
+    "dept": "EG SUZ",
+    "deptLong": "Suez Canal",
+    "deptType": "ATA",
+    "deptLocalTime": "2023/03/25 04:53",
+    "deptTime": "2023/03/25 03:53",
     "dest": "EG PSD",
     "destLong": "Port Said",
     "destType": "ETA",
     "destLocalTime": "2023/03/25 06:00",
     "destTime": "2023/03/25 04:00",
-    "position": "31.3139\u00b0 / 32.3707\u00b0",
+    "position": "31.25925\u00b0 / 32.35415\u00b0",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
   },
@@ -205,7 +205,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/23 14:20",
     "destTime": "2023/03/23 13:20",
-    "position": "53.91331\u00b0 / 7.851762\u00b0",
+    "position": "53.91345\u00b0 / 7.851715\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
