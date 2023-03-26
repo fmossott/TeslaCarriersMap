@@ -25,7 +25,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/25 07:19",
     "destTime": "2023/03/24 20:19",
-    "position": "-34.45584\u00b0 / 150.8915\u00b0",
+    "position": "-34.45583\u00b0 / 150.8915\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -85,7 +85,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/26 01:32",
     "destTime": "2023/03/26 00:32",
-    "position": "49.47191\u00b0 / 0.2098633\u00b0",
+    "position": "49.47191\u00b0 / 0.2098533\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/24 12:00",
     "destTime": "2023/03/24 01:00",
-    "position": "-38.95241\u00b0 / 144.4862\u00b0",
+    "position": "-38.88587\u00b0 / 144.5488\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -167,17 +167,17 @@
     "grossTonnage": "65,148",
     "dept": "ES VLC",
     "deptLong": "Valencia",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/03/25 20:23",
-    "deptTime": "2023/03/25 19:23",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/03/26 15:27",
+    "deptTime": "2023/03/26 13:27",
     "dest": "TR IZT",
     "destLong": "Izmit",
     "destType": "ETA",
     "destLocalTime": "2023/03/30 22:00",
     "destTime": "2023/03/30 19:00",
-    "position": "39.44147\u00b0 / -0.30518\u00b0",
+    "position": "39.41921\u00b0 / -0.2502783\u00b0",
     "area": "Balearic Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9360568": {
     "rowidx": 19,
@@ -205,7 +205,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/23 14:20",
     "destTime": "2023/03/23 13:20",
-    "position": "53.91114\u00b0 / 7.853083\u00b0",
+    "position": "53.91103\u00b0 / 7.852298\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   },
