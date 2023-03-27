@@ -25,7 +25,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/25 07:19",
     "destTime": "2023/03/24 20:19",
-    "position": "-34.4558\u00b0 / 150.8915\u00b0",
+    "position": "-34.45583\u00b0 / 150.8915\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -55,7 +55,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/27 03:04",
     "destTime": "2023/03/27 01:04",
-    "position": "49.47523\u00b0 / 0.1703383\u00b0",
+    "position": "49.47367\u00b0 / 0.1836767\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -83,9 +83,9 @@
     "dest": "GB SOU",
     "destLong": "Southampton",
     "destType": "ETA",
-    "destLocalTime": "2023/03/27 10:00",
-    "destTime": "2023/03/27 09:00",
-    "position": "49.76296\u00b0 / -0.4696117\u00b0",
+    "destLocalTime": "2023/03/27 06:00",
+    "destTime": "2023/03/27 05:00",
+    "position": "50.02569\u00b0 / -0.586055\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -115,9 +115,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/03/24 12:00",
     "destTime": "2023/03/24 01:00",
-    "position": "-38.8236\u00b0 / 144.5919\u00b0",
+    "position": "-38.81753\u00b0 / 144.6059\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9339806": {
     "rowidx": 14,
@@ -145,9 +145,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/27 04:21",
     "destTime": "2023/03/27 01:21",
-    "position": "21.46493\u00b0 / 39.1602\u00b0",
+    "position": "21.46707\u00b0 / 39.16167\u00b0",
     "area": "Red Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9782704": {
     "rowidx": 17,
@@ -205,9 +205,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/03/23 14:20",
     "destTime": "2023/03/23 13:20",
-    "position": "53.91144\u00b0 / 7.853473\u00b0",
+    "position": "53.91076\u00b0 / 7.851952\u00b0",
     "area": "North Sea",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9491874": {
     "rowidx": 25,
