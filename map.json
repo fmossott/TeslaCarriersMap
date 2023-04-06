@@ -1,6 +1,36 @@
 {
-  "9638460": {
+  "9463205": {
     "rowidx": 6,
+    "silence": "FALSE",
+    "num": "275",
+    "manDept": "ZEE",
+    "madeIn": "GER",
+    "notes": "",
+    "quarter": "23Q1",
+    "numDept": "1",
+    "mapStatus": "1",
+    "mtsid": "464327",
+    "name": "Gold Kochav",
+    "mmsi": "373124000",
+    "length": "199.07",
+    "breadth": "32.27",
+    "grossTonnage": "59,835",
+    "dept": "BE ANR",
+    "deptLong": "Antwerp",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/03/30 21:12",
+    "deptTime": "2023/03/30 19:12",
+    "dest": "BE ZEE",
+    "destLong": "Zeebrugge",
+    "destType": "ATA",
+    "destLocalTime": "2023/03/31 05:14",
+    "destTime": "2023/03/31 03:14",
+    "position": "51.30881\u00b0 / 3.225467\u00b0",
+    "area": "North Sea",
+    "status": "Moored"
+  },
+  "9638460": {
+    "rowidx": 7,
     "silence": "FALSE",
     "num": "274",
     "manDept": "SHG",
@@ -8,7 +38,7 @@
     "notes": "",
     "quarter": "23Q1",
     "numDept": "34",
-    "mapStatus": "0",
+    "mapStatus": "2",
     "mtsid": "408005",
     "name": "Morning Calypso",
     "mmsi": "351628000",
@@ -30,7 +60,7 @@
     "status": "At Anchor"
   },
   "9082934": {
-    "rowidx": 7,
+    "rowidx": 8,
     "silence": "FALSE",
     "num": "273",
     "manDept": "SHG",
@@ -60,7 +90,7 @@
     "status": "At Anchor"
   },
   "9358888": {
-    "rowidx": 295,
+    "rowidx": 296,
     "silence": "FALSE",
     "num": "-15",
     "manDept": "SHG",
@@ -85,7 +115,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/04/06 06:45",
     "destTime": "2023/04/06 10:45",
-    "position": "40.38573\u00b0 / -73.67175\u00b0",
+    "position": "40.38777\u00b0 / -73.67401\u00b0",
     "area": "US East Coast",
     "status": "Stopped"
   }
