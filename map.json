@@ -8,7 +8,7 @@
     "notes": "",
     "quarter": "23Q1",
     "numDept": "1",
-    "mapStatus": "1",
+    "mapStatus": "2",
     "mtsid": "464327",
     "name": "Gold Kochav",
     "mmsi": "373124000",
@@ -85,9 +85,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/04/06 19:00",
     "destTime": "2023/04/06 09:00",
-    "position": "-34.26834\u00b0 / 151.0491\u00b0",
+    "position": "-34.26917\u00b0 / 151.0509\u00b0",
     "area": "East Australia",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9358888": {
     "rowidx": 296,
@@ -107,15 +107,15 @@
     "grossTonnage": "40,628",
     "dept": "US NYC",
     "deptLong": "New York",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/04/06 19:41",
-    "deptTime": "2023/04/06 18:41",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/04/07 16:44",
+    "deptTime": "2023/04/07 20:44",
     "dest": "US BAL",
     "destLong": "Baltimore",
     "destType": "ETA",
     "destLocalTime": "2023/04/08 21:00",
     "destTime": "2023/04/09 01:00",
-    "position": "40.5945\u00b0 / -74.03886\u00b0",
+    "position": "40.48378\u00b0 / -73.9058\u00b0",
     "area": "US East Coast",
     "status": "Underway using Engine"
   }
