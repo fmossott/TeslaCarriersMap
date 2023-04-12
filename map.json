@@ -17,17 +17,17 @@
     "grossTonnage": "68,392",
     "dept": "US BAL",
     "deptLong": "Baltimore",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/04/10 02:05",
-    "deptTime": "2023/04/10 06:05",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/04/11 19:37",
+    "deptTime": "2023/04/11 23:37",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
     "destLocalTime": "2023/04/21 04:00",
     "destTime": "2023/04/21 02:00",
-    "position": "39.24217\u00b0 / -76.56229\u00b0",
+    "position": "39.1599\u00b0 / -76.37344\u00b0",
     "area": "US East Coast",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9471197": {
     "rowidx": 7,
@@ -55,7 +55,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/04/18 06:00",
     "destTime": "2023/04/17 23:00",
-    "position": "27.68953\u00b0 / 121.733\u00b0",
+    "position": "24.99122\u00b0 / 119.7554\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   },
@@ -85,7 +85,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/04/11 06:38",
     "destTime": "2023/04/10 21:38",
-    "position": "35.04931\u00b0 / 136.8796\u00b0",
+    "position": "35.04924\u00b0 / 136.8797\u00b0",
     "area": "Japan Coast",
     "status": "Moored"
   },
