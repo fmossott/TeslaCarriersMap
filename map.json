@@ -25,7 +25,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/04/16 13:34",
     "destTime": "2023/04/16 04:34",
-    "position": "36.97684\u00b0 / 126.8285\u00b0",
+    "position": "36.97682\u00b0 / 126.8285\u00b0",
     "area": "Yellow Sea",
     "status": "Moored"
   },
@@ -55,7 +55,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/04/16 12:00",
     "destTime": "2023/04/16 02:00",
-    "position": "-34.85491\u00b0 / 151.2251\u00b0",
+    "position": "-34.88082\u00b0 / 151.2126\u00b0",
     "area": "Tasman Sea",
     "status": "Underway using Engine"
   },
@@ -112,12 +112,12 @@
     "deptTime": "2023/04/10 04:23",
     "dest": "TH LCH",
     "destLong": "Laem Chabang",
-    "destType": "ETA",
-    "destLocalTime": "2023/04/18 14:00",
-    "destTime": "2023/04/18 07:00",
-    "position": "13.0718\u00b0 / 100.8475\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2023/04/18 07:19",
+    "destTime": "2023/04/18 00:19",
+    "position": "13.05355\u00b0 / 100.9058\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9340570": {
     "rowidx": 11,
@@ -235,7 +235,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/04/17 06:53",
     "destTime": "2023/04/17 11:53",
-    "position": "9.47135\u00b0 / -79.95147\u00b0",
+    "position": "9.471267\u00b0 / -79.9519\u00b0",
     "area": "Panama Canal",
     "status": "At Anchor"
   }
