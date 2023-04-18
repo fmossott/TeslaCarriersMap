@@ -25,9 +25,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/04/16 13:34",
     "destTime": "2023/04/16 04:34",
-    "position": "36.98346\u00b0 / 126.8238\u00b0",
+    "position": "36.98345\u00b0 / 126.8238\u00b0",
     "area": "Yellow Sea",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9675585": {
     "rowidx": 7,
@@ -55,7 +55,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/04/16 12:00",
     "destTime": "2023/04/16 02:00",
-    "position": "-34.32245\u00b0 / 151.3905\u00b0",
+    "position": "-34.32104\u00b0 / 151.3415\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -113,11 +113,11 @@
     "dest": "CN SHG",
     "destLong": "Shanghai",
     "destType": "ETA",
-    "destLocalTime": "2023/04/18 15:00",
-    "destTime": "2023/04/18 07:00",
-    "position": "13.05355\u00b0 / 100.9058\u00b0",
+    "destLocalTime": "2023/04/26 14:00",
+    "destTime": "2023/04/26 06:00",
+    "position": "13.05225\u00b0 / 100.8979\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9340570": {
     "rowidx": 11,
@@ -235,7 +235,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/04/17 06:53",
     "destTime": "2023/04/17 11:53",
-    "position": "9.4714\u00b0 / -79.95201\u00b0",
+    "position": "9.47145\u00b0 / -79.95208\u00b0",
     "area": "Panama Canal",
     "status": "At Anchor"
   }
