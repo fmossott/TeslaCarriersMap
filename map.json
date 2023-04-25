@@ -75,19 +75,19 @@
     "length": "199.9",
     "breadth": "36",
     "grossTonnage": "66,704",
-    "dept": "CN SHG",
+    "dept": "SG SINGAPORE ANCH",
     "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/04/19 23:36",
-    "deptTime": "2023/04/19 15:36",
-    "dest": "SG SINGAPORE ANCH",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2023/04/25 10:46",
-    "destTime": "2023/04/25 02:46",
-    "position": "1.252767\u00b0 / 103.8958\u00b0",
+    "deptType": "ATA",
+    "deptLocalTime": "2023/04/25 10:46",
+    "deptTime": "2023/04/25 02:46",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ETA",
+    "destLocalTime": "2023/05/08 10:00",
+    "destTime": "2023/05/08 08:00",
+    "position": "1.252542\u00b0 / 103.8964\u00b0",
     "area": "Singapore Area",
-    "status": "At Anchor"
+    "status": "Stopped"
   },
   "9675585": {
     "rowidx": 10,
@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/04/16 12:00",
     "destTime": "2023/04/16 02:00",
-    "position": "-34.74806\u00b0 / 151.3377\u00b0",
+    "position": "-34.77638\u00b0 / 151.3118\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -145,7 +145,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/04/26 02:02",
     "destTime": "2023/04/25 18:02",
-    "position": "29.92222\u00b0 / 122.2205\u00b0",
+    "position": "29.92237\u00b0 / 122.2206\u00b0",
     "area": "East China Sea",
     "status": "At Anchor"
   },
@@ -295,9 +295,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/04/24 02:00",
     "destTime": "2023/04/23 16:00",
-    "position": "-26.7815\u00b0 / 153.2783\u00b0",
+    "position": "-26.7826\u00b0 / 153.2774\u00b0",
     "area": "East Australia",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9070450": {
     "rowidx": 308,
