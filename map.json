@@ -80,14 +80,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/04/19 23:36",
     "deptTime": "2023/04/19 15:36",
-    "dest": "SG SIN",
+    "dest": "SG SINGAPORE ANCH",
     "destLong": "Singapore",
-    "destType": "ETA",
-    "destLocalTime": "2023/04/25 10:00",
-    "destTime": "2023/04/25 02:00",
-    "position": "1.233563\u00b0 / 103.9178\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2023/04/25 10:46",
+    "destTime": "2023/04/25 02:46",
+    "position": "1.252905\u00b0 / 103.8952\u00b0",
     "area": "Singapore Area",
-    "status": "Underway using Engine"
+    "status": "At Anchor"
   },
   "9675585": {
     "rowidx": 10,
@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/04/16 12:00",
     "destTime": "2023/04/16 02:00",
-    "position": "-34.785\u00b0 / 151.3024\u00b0",
+    "position": "-34.59834\u00b0 / 151.4197\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -235,7 +235,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/04/24 05:20",
     "destTime": "2023/04/24 03:20",
-    "position": "41.33414\u00b0 / 2.146482\u00b0",
+    "position": "41.33419\u00b0 / 2.146402\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
