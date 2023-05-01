@@ -20,14 +20,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/04/20 16:40",
     "deptTime": "2023/04/20 20:40",
-    "dest": "NL ROTTERDAM ANCH",
+    "dest": "NL RTM",
     "destLong": "Rotterdam",
-    "destType": "ATA",
-    "destLocalTime": "2023/04/30 22:28",
-    "destTime": "2023/04/30 20:28",
-    "position": "51.95149\u00b0 / 3.768662\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2023/04/30 22:00",
+    "destTime": "2023/04/30 20:00",
+    "position": "52.00919\u00b0 / 3.867022\u00b0",
     "area": "North Sea",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9590591": {
     "rowidx": 7,
@@ -85,7 +85,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/05/11 06:00",
     "destTime": "2023/05/11 04:00",
-    "position": "5.96667\u00b0 / 87.54500\u00b0",
+    "position": "5.88167\u00b0 / 83.98500\u00b0",
     "area": "Malacca Strait",
     "status": "Out of Range"
   },
@@ -145,7 +145,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/05/01 21:51",
     "destTime": "2023/05/01 11:51",
-    "position": "-34.45578\u00b0 / 150.8914\u00b0",
+    "position": "-34.45574\u00b0 / 150.8914\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -295,7 +295,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/04/26 02:00",
     "destTime": "2023/04/25 16:00",
-    "position": "-26.67517\u00b0 / 153.2953\u00b0",
+    "position": "-26.67542\u00b0 / 153.2954\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -325,9 +325,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/04/24 02:00",
     "destTime": "2023/04/23 16:00",
-    "position": "-26.78262\u00b0 / 153.2822\u00b0",
+    "position": "-26.78375\u00b0 / 153.282\u00b0",
     "area": "East Australia",
-    "status": "At Anchor"
+    "status": "Underway"
   },
   "9070450": {
     "rowidx": 310,
@@ -355,7 +355,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/05/09 06:00",
     "destTime": "2023/05/08 20:00",
-    "position": "4.80535\u00b0 / 140.75369\u00b0",
+    "position": "-0.51689\u00b0 / 144.22685\u00b0",
     "area": "East China Sea",
     "status": "Out of Range"
   }
