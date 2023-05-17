@@ -105,19 +105,19 @@
     "length": "180",
     "breadth": "30",
     "grossTonnage": "43,810",
-    "dept": "JP NGO",
-    "deptLong": "Nagoya",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/05/16 17:47",
-    "deptTime": "2023/05/16 08:47",
-    "dest": "JP SAK",
-    "destLong": "Sakai",
-    "destType": "ATA",
-    "destLocalTime": "2023/05/17 08:09",
-    "destTime": "2023/05/16 23:09",
-    "position": "34.52985\u00b0 / 135.3993\u00b0",
+    "dept": "JP SAK",
+    "deptLong": "Sakai",
+    "deptType": "ATA",
+    "deptLocalTime": "2023/05/17 08:09",
+    "deptTime": "2023/05/16 23:09",
+    "dest": "PH BTG",
+    "destLong": "Batangas",
+    "destType": "ETA",
+    "destLocalTime": "2023/05/21 14:00",
+    "destTime": "2023/05/21 06:00",
+    "position": "34.54221\u00b0 / 135.3916\u00b0",
     "area": "Japan Coast",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9338723": {
     "rowidx": 13,
@@ -145,7 +145,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/05/15 03:14",
     "destTime": "2023/05/15 10:14",
-    "position": "47.30657\u00b0 / -122.4985\u00b0",
+    "position": "47.30646\u00b0 / -122.4988\u00b0",
     "area": "US West Coast",
     "status": "At Anchor"
   },
@@ -205,7 +205,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/05/15 14:20",
     "destTime": "2023/05/15 12:20",
-    "position": "45.56696\u00b0 / 13.74419\u00b0",
+    "position": "45.56697\u00b0 / 13.74421\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/05/17 10:30",
     "destTime": "2023/05/17 09:30",
-    "position": "50.29707\u00b0 / -1.339765\u00b0",
+    "position": "50.42844\u00b0 / -1.076793\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -265,7 +265,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/05/15 08:02",
     "destTime": "2023/05/15 00:02",
-    "position": "24.13878\u00b0 / 118.6247\u00b0",
+    "position": "24.02462\u00b0 / 118.4733\u00b0",
     "area": "East China Sea",
     "status": "Underway using Engine"
   }
