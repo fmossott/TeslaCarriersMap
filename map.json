@@ -145,7 +145,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/05/18 09:00",
     "destTime": "2023/05/18 16:00",
-    "position": "49.12826\u00b0 / -123.0697\u00b0",
+    "position": "49.12828\u00b0 / -123.0698\u00b0",
     "area": "West Coast Canada",
     "status": "Moored"
   },
@@ -175,7 +175,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/05/19 19:24",
     "destTime": "2023/05/19 17:24",
-    "position": "45.78815\u00b0 / 13.55185\u00b0",
+    "position": "45.78813\u00b0 / 13.55188\u00b0",
     "area": "Adriatic Sea",
     "status": "Moored"
   },
@@ -205,7 +205,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/05/17 12:25",
     "destTime": "2023/05/17 11:25",
-    "position": "50.88784\u00b0 / -1.398638\u00b0",
+    "position": "50.88784\u00b0 / -1.398635\u00b0",
     "area": "English Channel",
     "status": "Moored"
   },
@@ -238,5 +238,35 @@
     "position": "22.65333\u00b0 / 115.09167\u00b0",
     "area": "East China Sea",
     "status": "Out of Range"
+  },
+  "9798416": {
+    "rowidx": 315,
+    "silence": "FALSE",
+    "num": "-15",
+    "manDept": "",
+    "madeIn": "",
+    "notes": "",
+    "quarter": "23Q2",
+    "numDept": "0",
+    "mapStatus": "4",
+    "mtsid": "5287018",
+    "name": "Glovis Sunlight",
+    "mmsi": "538007440",
+    "length": "229.97",
+    "breadth": "32",
+    "grossTonnage": "72,269",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/05/19 23:19",
+    "deptTime": "2023/05/19 15:19",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2023/05/25 09:00",
+    "destTime": "2023/05/25 01:00",
+    "position": "30.06859\u00b0 / 123.2343\u00b0",
+    "area": "East China Sea",
+    "status": "Underway using Engine"
   }
 }
