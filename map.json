@@ -1,6 +1,6 @@
 {
   "9277814": {
-    "rowidx": 6,
+    "rowidx": 10,
     "silence": "FALSE",
     "num": "296",
     "manDept": "SFO",
@@ -30,7 +30,7 @@
     "status": "Out of Range"
   },
   "9798416": {
-    "rowidx": 7,
+    "rowidx": 11,
     "silence": "FALSE",
     "num": "295",
     "manDept": "SHG",
@@ -55,12 +55,12 @@
     "destType": "ATA",
     "destLocalTime": "2023/05/25 07:41",
     "destTime": "2023/05/24 23:41",
-    "position": "1.286012\u00b0 / 103.9967\u00b0",
+    "position": "1.285982\u00b0 / 103.9967\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
   "9441611": {
-    "rowidx": 8,
+    "rowidx": 12,
     "silence": "FALSE",
     "num": "294",
     "manDept": "SFO",
@@ -68,7 +68,7 @@
     "notes": "",
     "quarter": "23Q2",
     "numDept": "2",
-    "mapStatus": "2",
+    "mapStatus": "3",
     "mtsid": "374068",
     "name": "RCC Compass",
     "mmsi": "311072400",
@@ -90,7 +90,7 @@
     "status": "Moored"
   },
   "9796377": {
-    "rowidx": 9,
+    "rowidx": 13,
     "silence": "FALSE",
     "num": "293",
     "manDept": "SHG",
@@ -120,7 +120,7 @@
     "status": "Out of Range"
   },
   "9233246": {
-    "rowidx": 10,
+    "rowidx": 14,
     "silence": "FALSE",
     "num": "292",
     "manDept": "SHG",
@@ -150,7 +150,7 @@
     "status": "Out of Range"
   },
   "9515008": {
-    "rowidx": 12,
+    "rowidx": 16,
     "silence": "FALSE",
     "num": "290",
     "manDept": "SHG",
@@ -179,38 +179,8 @@
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
-  "9312482": {
-    "rowidx": 14,
-    "silence": "FALSE",
-    "num": "288",
-    "manDept": "SHG",
-    "madeIn": "CHN",
-    "notes": "",
-    "quarter": "23Q2",
-    "numDept": "12",
-    "mapStatus": "3",
-    "mtsid": "312657",
-    "name": "Hoegh Shanghai",
-    "mmsi": "258758000",
-    "length": "228.74",
-    "breadth": "32.29",
-    "grossTonnage": "68,871",
-    "dept": "FR LEH",
-    "deptLong": "Le Havre",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/05/24 16:16",
-    "deptTime": "2023/05/24 14:16",
-    "dest": "BE ZEE",
-    "destLong": "Zeebrugge",
-    "destType": "ATA",
-    "destLocalTime": "2023/05/25 07:14",
-    "destTime": "2023/05/25 05:14",
-    "position": "51.32038\u00b0 / 3.211553\u00b0",
-    "area": "North Sea",
-    "status": "Stopped"
-  },
   "9471197": {
-    "rowidx": 24,
+    "rowidx": 28,
     "silence": "FALSE",
     "num": "278",
     "manDept": "SHG",
