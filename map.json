@@ -20,14 +20,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/05/31 21:07",
     "deptTime": "2023/05/31 20:07",
-    "dest": "BE ANR",
+    "dest": "BE ANTWERP ANCH",
     "destLong": "Antwerp",
-    "destType": "ETA",
-    "destLocalTime": "2023/06/01 18:00",
-    "destTime": "2023/06/01 16:00",
-    "position": "51.46366\u00b0 / 2.706855\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2023/06/01 18:24",
+    "destTime": "2023/06/01 16:24",
+    "position": "51.44914\u00b0 / 2.619307\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Underway"
   },
   "9782675": {
     "rowidx": 7,
@@ -85,7 +85,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/05/23 11:00",
     "destTime": "2023/05/23 01:00",
-    "position": "-34.41571\u00b0 / 151.5685\u00b0",
+    "position": "-34.46861\u00b0 / 151.4581\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -115,7 +115,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/06/01 13:36",
     "destTime": "2023/06/01 04:36",
-    "position": "35.52486\u00b0 / 129.3891\u00b0",
+    "position": "35.52487\u00b0 / 129.3891\u00b0",
     "area": "North China",
     "status": "Moored"
   },
