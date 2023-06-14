@@ -25,7 +25,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/06/14 05:01",
     "destTime": "2023/06/14 12:01",
-    "position": "47.26098\u00b0 / -122.3825\u00b0",
+    "position": "47.26102\u00b0 / -122.3826\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -85,8 +85,8 @@
     "destType": "ETA",
     "destLocalTime": "2023/06/04 22:00",
     "destTime": "2023/06/04 12:00",
-    "position": "-33.43743\u00b0 / 151.8691\u00b0",
-    "area": "Coral Sea",
+    "position": "-33.40505\u00b0 / 151.8639\u00b0",
+    "area": "East Australia",
     "status": "Underway using Engine"
   },
   "9780627": {
@@ -105,19 +105,19 @@
     "length": "199.9",
     "breadth": "35.44",
     "grossTonnage": "66,802",
-    "dept": "BE ZEE",
-    "deptLong": "Zeebrugge",
+    "dept": "GB SOU",
+    "deptLong": "Southampton",
     "deptType": "ATD",
-    "deptLocalTime": "2023/06/13 13:27",
-    "deptTime": "2023/06/13 11:27",
-    "dest": "GB SOU",
-    "destLong": "Southampton",
-    "destType": "ATA",
-    "destLocalTime": "2023/06/14 02:59",
-    "destTime": "2023/06/14 01:59",
-    "position": "50.88531\u00b0 / -1.392707\u00b0",
+    "deptLocalTime": "2023/06/14 20:35",
+    "deptTime": "2023/06/14 19:35",
+    "dest": "ES SDR",
+    "destLong": "Santander",
+    "destType": "ETA",
+    "destLocalTime": "2023/06/16 06:00",
+    "destTime": "2023/06/16 04:00",
+    "position": "50.84468\u00b0 / -1.331447\u00b0",
     "area": "English Channel",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9782675": {
     "rowidx": 11,
@@ -175,7 +175,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/06/12 23:06",
     "destTime": "2023/06/12 21:06",
-    "position": "51.30381\u00b0 / 3.229502\u00b0",
+    "position": "51.30382\u00b0 / 3.229537\u00b0",
     "area": "North Sea",
     "status": "Moored"
   }
