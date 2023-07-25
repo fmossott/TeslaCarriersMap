@@ -77,17 +77,17 @@
     "grossTonnage": "56,164",
     "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/07/23 08:37",
-    "deptTime": "2023/07/23 00:37",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/07/25 23:51",
+    "deptTime": "2023/07/25 21:51",
     "dest": "GB TYN",
     "destLong": "Tyne",
     "destType": "ETA",
     "destLocalTime": "2023/07/26 23:00",
     "destTime": "2023/07/26 22:00",
-    "position": "51.33607\u00b0 / 3.21533\u00b0",
+    "position": "51.37432\u00b0 / 2.866563\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9367580": {
     "rowidx": 9,
@@ -115,7 +115,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/07/25 06:35",
     "destTime": "2023/07/25 13:35",
-    "position": "47.26091\u00b0 / -122.3824\u00b0",
+    "position": "47.26093\u00b0 / -122.3824\u00b0",
     "area": "US West Coast",
     "status": "Moored"
   },
@@ -145,7 +145,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/07/25 11:38",
     "destTime": "2023/07/25 09:38",
-    "position": "29.85569\u00b0 / 32.56122\u00b0",
+    "position": "29.85563\u00b0 / 32.56153\u00b0",
     "area": "Red Sea",
     "status": "At Anchor"
   }
