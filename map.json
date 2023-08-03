@@ -27,7 +27,7 @@
     "destTime": "2023/08/03 06:00",
     "position": "25.26899\u00b0 / 35.74715\u00b0",
     "area": "Red Sea",
-    "status": "15.1 kn / 313 \u00b0"
+    "status": "15.2 kn / 338 \u00b0"
   },
   "9651101": {
     "rowidx": 7,
@@ -87,7 +87,7 @@
     "destTime": "2023/08/02 00:36",
     "position": "53.57814\u00b0 / 8.55205\u00b0",
     "area": "North Sea",
-    "status": "0 kn / 2 \u00b0"
+    "status": "0 kn / 22 \u00b0"
   },
   "9367580": {
     "rowidx": 9,
@@ -135,18 +135,18 @@
     "length": "199.9",
     "breadth": "36",
     "grossTonnage": "66,704",
-    "dept": "ES BCN",
-    "deptLong": "Barcelona",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/08/01 17:18",
-    "deptTime": "2023/08/01 15:18",
-    "dest": "IT SVN",
-    "destLong": "Savona",
-    "destType": "ATA",
-    "destLocalTime": "2023/08/02 15:42",
-    "destTime": "2023/08/02 13:42",
+    "dept": "IT SVN",
+    "deptLong": "Savona",
+    "deptType": "ATA",
+    "deptLocalTime": "2023/08/02 15:42",
+    "deptTime": "2023/08/02 13:42",
+    "dest": "IT LIV",
+    "destLong": "Livorno",
+    "destType": "ETA",
+    "destLocalTime": "2023/08/03 14:00",
+    "destTime": "2023/08/03 12:00",
     "position": "43.63704\u00b0 / 8.03787\u00b0",
     "area": "Ligurean Sea",
-    "status": "0 kn / 339 \u00b0"
+    "status": "5.4 kn / 53 \u00b0"
   }
 }
