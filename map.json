@@ -15,19 +15,19 @@
     "length": "199.97",
     "breadth": "35",
     "grossTonnage": "64,546",
-    "dept": "CN SHG",
+    "dept": "EG SUEZ SOUTH ANCH",
     "deptLong": "Shanghai",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/07/14 07:33",
-    "deptTime": "2023/07/13 23:33",
-    "dest": "EG SUEZ SOUTH ANCH",
-    "destLong": "Suez Canal",
-    "destType": "ATA",
-    "destLocalTime": "2023/08/03 08:38",
-    "destTime": "2023/08/03 06:38",
+    "deptType": "ATA",
+    "deptLocalTime": "2023/08/03 14:38",
+    "deptTime": "2023/08/03 06:38",
+    "dest": "GB SOU",
+    "destLong": "Southampton",
+    "destType": "ETA",
+    "destLocalTime": "2023/08/12 10:00",
+    "destTime": "2023/08/12 09:00",
     "position": "25.26899\u00b0 / 35.74715\u00b0",
     "area": "Red Sea",
-    "status": "0 kn / 132 \u00b0"
+    "status": "0 kn / 3 \u00b0"
   },
   "9651101": {
     "rowidx": 7,
@@ -87,7 +87,7 @@
     "destTime": "2023/08/02 00:36",
     "position": "53.57814\u00b0 / 8.55205\u00b0",
     "area": "North Sea",
-    "status": "0 kn / 8 \u00b0"
+    "status": "0 kn / 44 \u00b0"
   },
   "9367580": {
     "rowidx": 9,
@@ -143,10 +143,10 @@
     "dest": "IT LIV",
     "destLong": "Livorno",
     "destType": "ATA",
-    "destLocalTime": "2023/08/03 14:00",
-    "destTime": "2023/08/03 12:00",
+    "destLocalTime": "2023/08/03 14:52",
+    "destTime": "2023/08/03 12:52",
     "position": "43.63704\u00b0 / 8.03787\u00b0",
     "area": "Ligurean Sea",
-    "status": "7.2 kn / 31 \u00b0"
+    "status": "0 kn / 314 \u00b0"
   }
 }
