@@ -77,9 +77,9 @@
     "grossTonnage": "56,164",
     "dept": "DE BRV",
     "deptLong": "Bremerhaven",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/08/02 02:36",
-    "deptTime": "2023/08/02 00:36",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/08/04 06:02",
+    "deptTime": "2023/08/04 04:02",
     "dest": "GB SOU",
     "destLong": "Southampton",
     "destType": "ETA",
@@ -87,7 +87,7 @@
     "destTime": "2023/08/05 09:00",
     "position": "53.57814\u00b0 / 8.55205\u00b0",
     "area": "North Sea",
-    "status": "9.6 kn / 328 \u00b0"
+    "status": "17.1 kn / 298 \u00b0"
   },
   "9367580": {
     "rowidx": 9,
@@ -135,18 +135,18 @@
     "length": "199.9",
     "breadth": "36",
     "grossTonnage": "66,704",
-    "dept": "IT SVN",
-    "deptLong": "Savona",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/08/03 05:53",
-    "deptTime": "2023/08/03 03:53",
-    "dest": "IT LIV",
-    "destLong": "Livorno",
-    "destType": "ATA",
-    "destLocalTime": "2023/08/03 14:52",
-    "destTime": "2023/08/03 12:52",
+    "dept": "IT LIV",
+    "deptLong": "Livorno",
+    "deptType": "ATA",
+    "deptLocalTime": "2023/08/03 14:52",
+    "deptTime": "2023/08/03 12:52",
+    "dest": "IT GIT",
+    "destLong": "Gioia Tauro",
+    "destType": "ETA",
+    "destLocalTime": "2023/08/05 09:00",
+    "destTime": "2023/08/05 07:00",
     "position": "43.63704\u00b0 / 8.03787\u00b0",
     "area": "Ligurean Sea",
-    "status": "0 kn / 260 \u00b0"
+    "status": "0 kn / 330 \u00b0"
   }
 }
