@@ -27,7 +27,7 @@
     "destTime": "2023/08/12 09:00",
     "position": "25.26899\u00b0 / 35.74715\u00b0",
     "area": "Red Sea",
-    "status": "0.6 kn / 32 \u00b0"
+    "status": "0.1 kn / 8 \u00b0"
   },
   "9651101": {
     "rowidx": 7,
@@ -75,19 +75,19 @@
     "length": "199.98",
     "breadth": "32.26",
     "grossTonnage": "56,164",
-    "dept": "BE ANR",
-    "deptLong": "Antwerp",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/08/01 03:53",
-    "deptTime": "2023/08/01 01:53",
-    "dest": "DE BRV",
-    "destLong": "Bremerhaven",
-    "destType": "ATA",
-    "destLocalTime": "2023/08/02 02:36",
-    "destTime": "2023/08/02 00:36",
+    "dept": "DE BRV",
+    "deptLong": "Bremerhaven",
+    "deptType": "ATA",
+    "deptLocalTime": "2023/08/02 02:36",
+    "deptTime": "2023/08/02 00:36",
+    "dest": "GB SOU",
+    "destLong": "Southampton",
+    "destType": "ETA",
+    "destLocalTime": "2023/08/05 10:00",
+    "destTime": "2023/08/05 09:00",
     "position": "53.57814\u00b0 / 8.55205\u00b0",
     "area": "North Sea",
-    "status": "0 kn / 350 \u00b0"
+    "status": "1.8 kn / 184 \u00b0"
   },
   "9367580": {
     "rowidx": 9,
@@ -147,6 +147,6 @@
     "destTime": "2023/08/03 12:52",
     "position": "43.63704\u00b0 / 8.03787\u00b0",
     "area": "Ligurean Sea",
-    "status": "0 kn / 348 \u00b0"
+    "status": "0 kn / 345 \u00b0"
   }
 }
