@@ -57,7 +57,7 @@
     "destTime": "2023/08/07 03:34",
     "position": "30.19889\u00b0 / 32.56674\u00b0",
     "area": "Adriatic Sea",
-    "status": "0 kn / 36 \u00b0"
+    "status": "0 kn / 359 \u00b0"
   },
   "9075709": {
     "rowidx": 8,
@@ -75,19 +75,19 @@
     "length": "199.98",
     "breadth": "32.26",
     "grossTonnage": "56,164",
-    "dept": "GB SOU",
-    "deptLong": "Southampton",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/08/06 09:57",
-    "deptTime": "2023/08/06 08:57",
-    "dest": "FR LEH",
-    "destLong": "Le Havre",
-    "destType": "ATA",
-    "destLocalTime": "2023/08/06 22:33",
-    "destTime": "2023/08/06 20:33",
+    "dept": "FR LEH",
+    "deptLong": "Le Havre",
+    "deptType": "ATA",
+    "deptLocalTime": "2023/08/06 21:33",
+    "deptTime": "2023/08/06 20:33",
+    "dest": "ES SDR",
+    "destLong": "Santander",
+    "destType": "ETA",
+    "destLocalTime": "2023/08/09 04:00",
+    "destTime": "2023/08/09 02:00",
     "position": "53.57814\u00b0 / 8.55205\u00b0",
     "area": "English Channel",
-    "status": "0 kn / 20 \u00b0"
+    "status": "0 kn / 340 \u00b0"
   },
   "9367580": {
     "rowidx": 9,
@@ -147,6 +147,6 @@
     "destTime": "2023/08/06 18:42",
     "position": "43.63704\u00b0 / 8.03787\u00b0",
     "area": "Tyrrhenian Sea",
-    "status": "0 kn / 13 \u00b0"
+    "status": "0 kn / 328 \u00b0"
   }
 }
