@@ -1,12 +1,42 @@
 {
-  "9325790": {
+  "9171280": {
     "rowidx": 6,
+    "silence": "FALSE",
+    "num": "326",
+    "manDept": "",
+    "madeIn": "",
+    "notes": "",
+    "quarter": "23Q3",
+    "numDept": "0",
+    "mapStatus": "0",
+    "mtsid": "312911",
+    "name": "Hoegh Trader",
+    "mmsi": "258882000",
+    "length": "228.77",
+    "breadth": "32.29",
+    "grossTonnage": "68,060",
+    "dept": "US BAL",
+    "deptLong": "Baltimore",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/08/12 04:55",
+    "deptTime": "2023/08/12 08:55",
+    "dest": "BE ZEE",
+    "destLong": "Zeebrugge",
+    "destType": "ETA",
+    "destLocalTime": "2023/08/22 02:00",
+    "destTime": "2023/08/22 00:00",
+    "position": "",
+    "area": "Celtic Sea",
+    "status": "14.9 kn / 93 \u00b0"
+  },
+  "9325790": {
+    "rowidx": 7,
     "silence": "FALSE",
     "num": "325",
     "manDept": "",
     "madeIn": "",
     "notes": "",
-    "quarter": "23Q2",
+    "quarter": "23Q3",
     "numDept": "0",
     "mapStatus": "0",
     "mtsid": "463620",
@@ -30,7 +60,7 @@
     "status": "15.6 kn / 58 \u00b0"
   },
   "9515008": {
-    "rowidx": 7,
+    "rowidx": 8,
     "silence": "FALSE",
     "num": "324",
     "manDept": "",
@@ -60,7 +90,7 @@
     "status": "14.2 kn / 270 \u00b0"
   },
   "9403281": {
-    "rowidx": 8,
+    "rowidx": 9,
     "silence": "FALSE",
     "num": "323",
     "manDept": "SHG",
@@ -90,7 +120,7 @@
     "status": "16.2 kn / 273 \u00b0"
   },
   "9082934": {
-    "rowidx": 9,
+    "rowidx": 10,
     "silence": "FALSE",
     "num": "322",
     "manDept": "SHG",
@@ -120,7 +150,7 @@
     "status": "17.7 kn / 349 \u00b0"
   },
   "9070450": {
-    "rowidx": 10,
+    "rowidx": 11,
     "silence": "FALSE",
     "num": "321",
     "manDept": "SHG",
@@ -150,7 +180,7 @@
     "status": "17.0 kn / 146 \u00b0"
   },
   "9539183": {
-    "rowidx": 11,
+    "rowidx": 12,
     "silence": "FALSE",
     "num": "320",
     "manDept": "SHG",
@@ -180,7 +210,7 @@
     "status": "1.4 kn / 261 \u00b0"
   },
   "9675585": {
-    "rowidx": 12,
+    "rowidx": 13,
     "silence": "FALSE",
     "num": "319",
     "manDept": "SHG",
@@ -207,10 +237,10 @@
     "destTime": "2023/08/19 04:55",
     "position": "",
     "area": "East Australia",
-    "status": "0 kn / -"
+    "status": "0 kn / 298 \u00b0"
   },
   "9338840": {
-    "rowidx": 13,
+    "rowidx": 14,
     "silence": "FALSE",
     "num": "318",
     "manDept": "SHG",
@@ -237,10 +267,10 @@
     "destTime": "2023/08/20 18:45",
     "position": "",
     "area": "Japan Coast",
-    "status": "14.8 kn / 61 \u00b0"
+    "status": "13.6 kn / 64 \u00b0"
   },
   "9285483": {
-    "rowidx": 14,
+    "rowidx": 15,
     "silence": "FALSE",
     "num": "317",
     "manDept": "SHG",
@@ -267,10 +297,10 @@
     "destTime": "2023/08/20 15:00",
     "position": "",
     "area": "Ligurean Sea",
-    "status": "16.3 kn / 358 \u00b0"
+    "status": "14.5 kn / 19 \u00b0"
   },
   "9338709": {
-    "rowidx": 15,
+    "rowidx": 16,
     "silence": "FALSE",
     "num": "316",
     "manDept": "SHG",
@@ -300,7 +330,7 @@
     "status": "13.6 kn / 23 \u00b0"
   },
   "9441594": {
-    "rowidx": 16,
+    "rowidx": 17,
     "silence": "FALSE",
     "num": "315",
     "manDept": "SHG",
@@ -327,6 +357,6 @@
     "destTime": "2023/08/20 17:00",
     "position": "",
     "area": "Coral Sea",
-    "status": "18.6 kn / 215 \u00b0"
+    "status": "19.1 kn / 214 \u00b0"
   }
 }
