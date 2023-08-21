@@ -57,7 +57,7 @@
     "destTime": "",
     "position": "",
     "area": "Japan Coast",
-    "status": "14.5 kn / 59 \u00b0"
+    "status": "14.6 kn / 58 \u00b0"
   },
   "9515008": {
     "rowidx": 8,
@@ -177,7 +177,7 @@
     "destTime": "2023/08/21 13:30",
     "position": "",
     "area": "East Australia",
-    "status": "17.1 kn / 201 \u00b0"
+    "status": "5.5 kn / 268 \u00b0"
   },
   "9539183": {
     "rowidx": 12,
@@ -237,7 +237,7 @@
     "destTime": "2023/08/19 04:55",
     "position": "",
     "area": "East Australia",
-    "status": "0 kn / 234 \u00b0"
+    "status": "0 kn / 316 \u00b0"
   },
   "9338840": {
     "rowidx": 14,
@@ -260,14 +260,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/08/21 20:19",
     "deptTime": "2023/08/21 11:19",
-    "dest": "JP YOK",
+    "dest": "JP YOKOHAMA ANCH",
     "destLong": "Yokohama",
-    "destType": "ETA",
-    "destLocalTime": "2023/08/22 06:00",
-    "destTime": "2023/08/21 21:00",
+    "destType": "ATA",
+    "destLocalTime": "2023/08/21 21:06",
+    "destTime": "2023/08/21 12:06",
     "position": "",
     "area": "Japan Coast",
-    "status": "8.1 kn / 300 \u00b0"
+    "status": "0.3 kn / 325 \u00b0"
   },
   "9285483": {
     "rowidx": 15,
@@ -297,7 +297,7 @@
     "destTime": "2023/08/20 15:00",
     "position": "",
     "area": "Ligurean Sea",
-    "status": "0.3 kn / 141 \u00b0"
+    "status": "0.6 kn / 105 \u00b0"
   },
   "9338709": {
     "rowidx": 16,
@@ -357,6 +357,6 @@
     "destTime": "2023/08/20 17:00",
     "position": "",
     "area": "East Australia",
-    "status": "0.8 kn / 80 \u00b0"
+    "status": "1.0 kn / 130 \u00b0"
   }
 }
