@@ -27,7 +27,7 @@
     "destTime": "2023/08/21 23:00",
     "position": "",
     "area": "English Channel",
-    "status": "13.3 kn / 18 \u00b0"
+    "status": "11.9 kn / 50 \u00b0"
   },
   "9325790": {
     "rowidx": 7,
@@ -207,7 +207,7 @@
     "destTime": "2023/08/22 18:00",
     "position": "",
     "area": "East Australia",
-    "status": "1.5 kn / 168 \u00b0"
+    "status": "1.2 kn / 127 \u00b0"
   },
   "9675585": {
     "rowidx": 13,
@@ -225,19 +225,19 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "59,525",
-    "dept": "AU PKL",
-    "deptLong": "Port Kembla",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/08/04 01:30",
-    "deptTime": "2023/08/03 15:30",
-    "dest": "AU MEL",
-    "destLong": "Melbourne",
-    "destType": "ATA",
-    "destLocalTime": "2023/08/19 14:55",
-    "destTime": "2023/08/19 04:55",
+    "dept": "AU MEL",
+    "deptLong": "Melbourne",
+    "deptType": "ATA",
+    "deptLocalTime": "2023/08/19 14:55",
+    "deptTime": "2023/08/19 04:55",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ETA",
+    "destLocalTime": "2023/09/03 06:00",
+    "destTime": "2023/09/02 22:00",
     "position": "",
     "area": "East Australia",
-    "status": "0.1 kn / 147 \u00b0"
+    "status": "0 kn / 157 \u00b0"
   },
   "9338840": {
     "rowidx": 14,
@@ -297,7 +297,7 @@
     "destTime": "2023/08/20 15:00",
     "position": "",
     "area": "Ligurean Sea",
-    "status": "4.5 kn / 345 \u00b0"
+    "status": "0.6 kn / 266 \u00b0"
   },
   "9338709": {
     "rowidx": 16,
@@ -357,6 +357,6 @@
     "destTime": "2023/08/20 17:00",
     "position": "",
     "area": "East Australia",
-    "status": "0.8 kn / 120 \u00b0"
+    "status": "0.9 kn / 129 \u00b0"
   }
 }
