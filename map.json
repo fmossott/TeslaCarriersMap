@@ -15,14 +15,14 @@
     "length": "199.99",
     "breadth": "32.29",
     "grossTonnage": "58,767",
-    "dept": "SG SIN",
-    "deptLong": "Singapore",
+    "dept": "LK HBA",
+    "deptLong": "Hambantota",
     "deptType": "ATD",
     "deptLocalTime": "2023/08/20 04:11",
     "deptTime": "2023/08/19 20:11",
     "dest": "LK HBA",
     "destLong": "Hambantota",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "",
     "destTime": "",
     "position": "",
@@ -52,12 +52,12 @@
     "deptTime": "2023/08/22 00:55",
     "dest": "KR MOK",
     "destLong": "Mokpo",
-    "destType": "ETA",
-    "destLocalTime": "2023/08/24 06:30",
-    "destTime": "2023/08/23 21:30",
+    "destType": "ATA",
+    "destLocalTime": "2023/08/24 06:21",
+    "destTime": "2023/08/23 21:21",
     "position": "",
     "area": "Yellow Sea",
-    "status": "10.6 kn / 15 \u00b0"
+    "status": "0.3 kn / 68 \u00b0"
   },
   "9798404": {
     "rowidx": 8,
@@ -177,7 +177,7 @@
     "destTime": "2023/08/21 13:30",
     "position": "",
     "area": "East Australia",
-    "status": "0.7 kn / 103 \u00b0"
+    "status": "0.6 kn / 42 \u00b0"
   },
   "9285483": {
     "rowidx": 12,
@@ -207,7 +207,7 @@
     "destTime": "2023/08/20 15:00",
     "position": "",
     "area": "Ligurean Sea",
-    "status": "0.2 kn / 321 \u00b0"
+    "status": "0.2 kn / 332 \u00b0"
   },
   "9338709": {
     "rowidx": 13,
@@ -237,7 +237,7 @@
     "destTime": "2023/08/23 02:33",
     "position": "",
     "area": "North Sea",
-    "status": "0 kn / 330 \u00b0"
+    "status": "0 kn / 97 \u00b0"
   },
   "9777814": {
     "rowidx": 16,
@@ -297,6 +297,6 @@
     "destTime": "2023/08/20 17:00",
     "position": "",
     "area": "East Australia",
-    "status": "1.0 kn / 273 \u00b0"
+    "status": "0.8 kn / 279 \u00b0"
   }
 }
