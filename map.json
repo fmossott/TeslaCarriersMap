@@ -87,7 +87,7 @@
     "destTime": "2023/08/21 13:30",
     "position": "",
     "area": "East Australia",
-    "status": "0.3 kn / 325 \u00b0"
+    "status": "0.1 kn / 315 \u00b0"
   },
   "9285483": {
     "rowidx": 9,
@@ -117,42 +117,12 @@
     "destTime": "2023/08/20 15:00",
     "position": "",
     "area": "Ligurean Sea",
-    "status": "0 kn / 92 \u00b0"
+    "status": "0.2 kn / 171 \u00b0"
   },
-  "9171280": {
+  "9338709": {
     "rowidx": 10,
     "silence": "FALSE",
     "num": "326",
-    "manDept": "BAL",
-    "madeIn": "USA",
-    "notes": "",
-    "quarter": "23Q3",
-    "numDept": "1",
-    "mapStatus": "3",
-    "mtsid": "312911",
-    "name": "Hoegh Trader",
-    "mmsi": "258882000",
-    "length": "228.77",
-    "breadth": "32.29",
-    "grossTonnage": "68,060",
-    "dept": "US BAL",
-    "deptLong": "Baltimore",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/08/12 04:55",
-    "deptTime": "2023/08/12 08:55",
-    "dest": "BE ZEE",
-    "destLong": "Zeebrugge",
-    "destType": "ATA",
-    "destLocalTime": "2023/08/22 03:12",
-    "destTime": "2023/08/22 01:12",
-    "position": "",
-    "area": "North Sea",
-    "status": "0 kn / 33 \u00b0"
-  },
-  "9338709": {
-    "rowidx": 11,
-    "silence": "FALSE",
-    "num": "325",
     "manDept": "SHG",
     "madeIn": "CHN",
     "notes": "",
@@ -177,37 +147,7 @@
     "destTime": "2023/08/23 02:33",
     "position": "",
     "area": "North Sea",
-    "status": "0 kn / 16 \u00b0"
-  },
-  "9539224": {
-    "rowidx": 12,
-    "silence": "FALSE",
-    "num": "324",
-    "manDept": "SHG",
-    "madeIn": "CHN",
-    "notes": "",
-    "quarter": "23Q3",
-    "numDept": "13",
-    "mapStatus": "3",
-    "mtsid": "713796",
-    "name": "Crystal Ace",
-    "mmsi": "538004619",
-    "length": "199.99",
-    "breadth": "32.26",
-    "grossTonnage": "60,131",
-    "dept": "AU FRE",
-    "deptLong": "Fremantle",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/08/20 12:34",
-    "deptTime": "2023/08/20 04:34",
-    "dest": "AU ADL",
-    "destLong": "Adelaide",
-    "destType": "ETA",
-    "destLocalTime": "",
-    "destTime": "",
-    "position": "",
-    "area": "West Australia",
-    "status": "16.5 kn / 93 \u00b0"
+    "status": "0 kn / 158 \u00b0"
   },
   "9777814": {
     "rowidx": 13,
@@ -267,6 +207,6 @@
     "destTime": "2023/08/20 17:00",
     "position": "",
     "area": "East Australia",
-    "status": "1.4 kn / 54 \u00b0"
+    "status": "1.3 kn / 28 \u00b0"
   }
 }
