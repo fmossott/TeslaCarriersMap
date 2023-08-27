@@ -1,13 +1,43 @@
 {
-  "9441582": {
+  "9674165": {
     "rowidx": 6,
+    "silence": "FALSE",
+    "num": "334",
+    "manDept": "SFO",
+    "madeIn": "NA",
+    "notes": "",
+    "quarter": "23Q3",
+    "numDept": "1",
+    "mapStatus": "0",
+    "mtsid": "714330",
+    "name": "Glovis Spirit",
+    "mmsi": "441151000",
+    "length": "199.97",
+    "breadth": "35",
+    "grossTonnage": "64,650",
+    "dept": "US SFO",
+    "deptLong": "San Francisco",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/08/12 04:25",
+    "deptTime": "2023/08/12 11:25",
+    "dest": "TW TPE",
+    "destLong": "Taipei",
+    "destType": "ATA",
+    "destLocalTime": "2023/08/27 11:10",
+    "destTime": "2023/08/27 03:10",
+    "position": "",
+    "area": "East China Sea",
+    "status": "0.1 kn / 246 \u00b0"
+  },
+  "9441582": {
+    "rowidx": 7,
     "silence": "FALSE",
     "num": "333",
     "manDept": "SHG",
     "madeIn": "CHN",
     "notes": "",
-    "quarter": "23Q2",
-    "numDept": "29",
+    "quarter": "23Q3",
+    "numDept": "21",
     "mapStatus": "3",
     "mtsid": "373705",
     "name": "Glovis Clipper",
@@ -30,7 +60,7 @@
     "status": "18.1 kn / 295 \u00b0"
   },
   "9706994": {
-    "rowidx": 7,
+    "rowidx": 8,
     "silence": "FALSE",
     "num": "332",
     "manDept": "SHG",
@@ -57,10 +87,10 @@
     "destTime": "2023/08/27 20:00",
     "position": "",
     "area": "East China Sea",
-    "status": "0.7 kn / 215 \u00b0"
+    "status": "0.8 kn / 223 \u00b0"
   },
   "9798404": {
-    "rowidx": 8,
+    "rowidx": 9,
     "silence": "FALSE",
     "num": "331",
     "manDept": "SHG",
@@ -90,7 +120,7 @@
     "status": "18.0 kn / 62 \u00b0"
   },
   "9325790": {
-    "rowidx": 10,
+    "rowidx": 11,
     "silence": "FALSE",
     "num": "329",
     "manDept": "SHG",
@@ -120,7 +150,7 @@
     "status": "14.4 kn / 60 \u00b0"
   },
   "9070450": {
-    "rowidx": 11,
+    "rowidx": 12,
     "silence": "FALSE",
     "num": "328",
     "manDept": "SHG",
@@ -150,7 +180,7 @@
     "status": "9.0 kn / 229 \u00b0"
   },
   "9285483": {
-    "rowidx": 12,
+    "rowidx": 13,
     "silence": "FALSE",
     "num": "327",
     "manDept": "SHG",
@@ -180,7 +210,7 @@
     "status": "0.8 kn / 280 \u00b0"
   },
   "9777814": {
-    "rowidx": 16,
+    "rowidx": 17,
     "silence": "FALSE",
     "num": "323",
     "manDept": "SHG",
@@ -210,7 +240,7 @@
     "status": "0 kn / 71 \u00b0"
   },
   "9441594": {
-    "rowidx": 17,
+    "rowidx": 18,
     "silence": "FALSE",
     "num": "322",
     "manDept": "SHG",
