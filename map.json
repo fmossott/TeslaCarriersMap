@@ -57,7 +57,7 @@
     "destTime": "2023/08/29 21:00",
     "position": "",
     "area": "East Australia",
-    "status": "1.3 kn / 290 \u00b0"
+    "status": "1.5 kn / 287 \u00b0"
   },
   "9285483": {
     "rowidx": 13,
@@ -75,19 +75,19 @@
     "length": "228.7",
     "breadth": "32.29",
     "grossTonnage": "68,871",
-    "dept": "CN TAG",
-    "deptLong": "Taicang",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/07/25 11:15",
-    "deptTime": "2023/07/25 03:15",
-    "dest": "IT LIV",
-    "destLong": "Livorno",
-    "destType": "ATA",
-    "destLocalTime": "2023/08/30 01:27",
-    "destTime": "2023/08/29 23:27",
+    "dept": "IT LIV",
+    "deptLong": "Livorno",
+    "deptType": "ATA",
+    "deptLocalTime": "2023/08/30 07:27",
+    "deptTime": "2023/08/29 23:27",
+    "dest": "BE ZEE",
+    "destLong": "Zeebrugge",
+    "destType": "ETA",
+    "destLocalTime": "2023/09/05 17:00",
+    "destTime": "2023/09/05 15:00",
     "position": "",
     "area": "Ligurean Sea",
-    "status": "0 kn / 36 \u00b0"
+    "status": "0.1 kn / 352 \u00b0"
   },
   "9777814": {
     "rowidx": 17,
@@ -147,6 +147,6 @@
     "destTime": "2023/08/30 22:00",
     "position": "",
     "area": "East Australia",
-    "status": "2.5 kn / 65 \u00b0"
+    "status": "2.2 kn / 62 \u00b0"
   }
 }
