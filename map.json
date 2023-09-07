@@ -110,14 +110,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/09/04 16:29",
     "deptTime": "2023/09/04 06:29",
-    "dest": "NZ AKL",
+    "dest": "NZ AUCKLAND ANCH",
     "destLong": "Auckland",
-    "destType": "ETA",
-    "destLocalTime": "2023/09/08 07:00",
-    "destTime": "2023/09/07 19:00",
+    "destType": "ATA",
+    "destLocalTime": "2023/09/08 07:04",
+    "destTime": "2023/09/07 19:04",
     "position": "",
     "area": "South Pacific",
-    "status": "5.8 kn / 223 \u00b0"
+    "status": "0.1 kn / 23 \u00b0"
   },
   "9285483": {
     "rowidx": 15,
@@ -207,6 +207,6 @@
     "destTime": "2023/08/30 22:00",
     "position": "",
     "area": "East Australia",
-    "status": "7.3 kn / 308 \u00b0"
+    "status": "7.7 kn / 310 \u00b0"
   }
 }
