@@ -87,7 +87,7 @@
     "destTime": "2023/08/31 17:00",
     "position": "",
     "area": "West Coast Canada",
-    "status": "15.9 kn / 269 \u00b0"
+    "status": "15.8 kn / 269 \u00b0"
   },
   "9070450": {
     "rowidx": 14,
@@ -117,7 +117,7 @@
     "destTime": "2023/09/07 19:04",
     "position": "",
     "area": "South Pacific",
-    "status": "0.5 kn / 142 \u00b0"
+    "status": "0.3 kn / 217 \u00b0"
   },
   "9285483": {
     "rowidx": 15,
@@ -135,19 +135,19 @@
     "length": "228.7",
     "breadth": "32.29",
     "grossTonnage": "68,871",
-    "dept": "NL IJM",
-    "deptLong": "Ijmuiden",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/09/08 06:01",
-    "deptTime": "2023/09/08 04:01",
-    "dest": "NL AMS",
-    "destLong": "Amsterdam",
-    "destType": "ATA",
-    "destLocalTime": "2023/09/08 06:33",
-    "destTime": "2023/09/08 04:33",
+    "dept": "NL AMS",
+    "deptLong": "Amsterdam",
+    "deptType": "ATA",
+    "deptLocalTime": "2023/09/08 06:33",
+    "deptTime": "2023/09/08 04:33",
+    "dest": "DE BRV",
+    "destLong": "Bremerhaven",
+    "destType": "ETA",
+    "destLocalTime": "2023/09/10 19:00",
+    "destTime": "2023/09/10 17:00",
     "position": "",
     "area": "North Sea",
-    "status": "0.3 kn / 237 \u00b0"
+    "status": "0.4 kn / 237 \u00b0"
   },
   "9777814": {
     "rowidx": 19,
@@ -207,6 +207,6 @@
     "destTime": "2023/08/30 22:00",
     "position": "",
     "area": "East Australia",
-    "status": "6.9 kn / 223 \u00b0"
+    "status": "6.2 kn / 230 \u00b0"
   }
 }
