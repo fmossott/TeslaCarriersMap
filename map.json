@@ -117,7 +117,7 @@
     "destTime": "2023/09/07 19:04",
     "position": "",
     "area": "South Pacific",
-    "status": "0 kn / 13 \u00b0"
+    "status": "0.2 kn / 126 \u00b0"
   },
   "9285483": {
     "rowidx": 15,
@@ -137,9 +137,9 @@
     "grossTonnage": "68,871",
     "dept": "NL IJM",
     "deptLong": "Ijmuiden",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/09/09 04:00",
-    "deptTime": "2023/09/09 02:00",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/09/09 05:15",
+    "deptTime": "2023/09/09 03:15",
     "dest": "DE BRV",
     "destLong": "Bremerhaven",
     "destType": "ETA",
@@ -147,7 +147,7 @@
     "destTime": "2023/09/10 05:00",
     "position": "",
     "area": "North Sea",
-    "status": "7.9 kn / 257 \u00b0"
+    "status": "7.1 kn / 280 \u00b0"
   },
   "9777814": {
     "rowidx": 19,
@@ -207,6 +207,6 @@
     "destTime": "2023/08/30 22:00",
     "position": "",
     "area": "East Australia",
-    "status": "1.5 kn / 6 \u00b0"
+    "status": "1.7 kn / 56 \u00b0"
   }
 }
