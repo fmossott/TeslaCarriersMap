@@ -47,17 +47,17 @@
     "grossTonnage": "36,711",
     "dept": "MA PTM",
     "deptLong": "Tanger Med",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/09/14 17:09",
-    "deptTime": "2023/09/14 15:09",
-    "dest": "FR MTX",
-    "destLong": "Montoir",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/09/15 09:30",
+    "deptTime": "2023/09/15 07:30",
+    "dest": "ES SDR",
+    "destLong": "Santander",
     "destType": "ETA",
-    "destLocalTime": "2023/09/18 03:00",
-    "destTime": "2023/09/18 01:00",
+    "destLocalTime": "2023/09/17 17:00",
+    "destTime": "2023/09/17 15:00",
     "position": "",
     "area": "Gibraltar",
-    "status": "3.3 kn / 44 \u00b0"
+    "status": "14.6 kn / 268 \u00b0"
   },
   "9325790": {
     "rowidx": 13,
@@ -165,11 +165,11 @@
     "length": "199.95",
     "breadth": "32.24",
     "grossTonnage": "63,116",
-    "dept": "JP KND",
-    "deptLong": "Kanda",
+    "dept": "JP YOK",
+    "deptLong": "Yokohama",
     "deptType": "ATD",
-    "deptLocalTime": "2023/09/13 12:17",
-    "deptTime": "2023/09/13 03:17",
+    "deptLocalTime": "2023/09/15 16:17",
+    "deptTime": "2023/09/15 07:17",
     "dest": "JP YOK",
     "destLong": "Yokohama",
     "destType": "ATA",
@@ -177,7 +177,7 @@
     "destTime": "2023/09/14 21:37",
     "position": "",
     "area": "Japan Coast",
-    "status": "10.4 kn / 141 \u00b0"
+    "status": "12.1 kn / 180 \u00b0"
   },
   "9441594": {
     "rowidx": 20,
@@ -207,6 +207,6 @@
     "destTime": "2023/08/30 22:00",
     "position": "",
     "area": "East Australia",
-    "status": "1.0 kn / 41 \u00b0"
+    "status": "7.0 kn / 261 \u00b0"
   }
 }
