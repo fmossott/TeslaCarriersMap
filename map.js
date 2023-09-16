@@ -1,5 +1,5 @@
 const MARKERCOLORS = ['red', 'orange', 'green', 'blue', 'lightgray']
-class Map {
+class TeslaMap {
 
   constructor(mapElementId) {
     this.buildMap(mapElementId);
@@ -119,6 +119,6 @@ function loadShips(m) {
 }
 
 $(function () {
-  var m = new Map("map");
+  var m = new TeslaMap("map");
   loadShips(m)
 });
