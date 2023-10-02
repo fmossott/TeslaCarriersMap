@@ -2,7 +2,7 @@
   "9441623": {
     "rowidx": 6,
     "silence": "FALSE",
-    "num": "349",
+    "num": "348",
     "manDept": "SHG",
     "madeIn": "CHN",
     "notes": "",
@@ -32,12 +32,12 @@
   "9762546": {
     "rowidx": 7,
     "silence": "FALSE",
-    "num": "348",
+    "num": "347",
     "manDept": "SHG",
     "madeIn": "CHN",
     "notes": "",
     "quarter": "23Q3",
-    "numDept": "33",
+    "numDept": "32",
     "mapStatus": "2",
     "mtsid": "7114688",
     "name": "Neptune Barcelona",
@@ -59,38 +59,8 @@
     "area": "South China",
     "status": "Underway using Engine"
   },
-  "9453298": {
-    "rowidx": 8,
-    "silence": "FALSE",
-    "num": "347",
-    "manDept": "SHG",
-    "madeIn": "CHN",
-    "notes": "",
-    "quarter": "23Q3",
-    "numDept": "32",
-    "mapStatus": "2",
-    "mtsid": "461300",
-    "name": "Gold Hoshi",
-    "mmsi": "371715000",
-    "length": "199.08",
-    "breadth": "32.28",
-    "grossTonnage": "59,835",
-    "dept": "IL HFA",
-    "deptLong": "Haifa",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/10/02 03:42",
-    "deptTime": "2023/10/02 00:42",
-    "dest": "TR DRC",
-    "destLong": "Derince",
-    "destType": "ETA",
-    "destLocalTime": "2023/10/04 16:00",
-    "destTime": "2023/10/04 13:00",
-    "position": "EMED - East Mediterranean",
-    "area": "East Mediterranean",
-    "status": "Underway using Engine"
-  },
   "9426386": {
-    "rowidx": 9,
+    "rowidx": 8,
     "silence": "FALSE",
     "num": "346",
     "manDept": "SHG",
@@ -120,7 +90,7 @@
     "status": "Underway using Engine"
   },
   "9070450": {
-    "rowidx": 10,
+    "rowidx": 9,
     "silence": "FALSE",
     "num": "345",
     "manDept": "SHG",
@@ -150,7 +120,7 @@
     "status": "Out of Range"
   },
   "9158616": {
-    "rowidx": 11,
+    "rowidx": 10,
     "silence": "FALSE",
     "num": "344",
     "manDept": "SHG",
@@ -180,7 +150,7 @@
     "status": "Underway using Engine"
   },
   "9247936": {
-    "rowidx": 12,
+    "rowidx": 11,
     "silence": "FALSE",
     "num": "343",
     "manDept": "SHG",
@@ -210,7 +180,7 @@
     "status": "Underway using Engine"
   },
   "9325790": {
-    "rowidx": 13,
+    "rowidx": 12,
     "silence": "FALSE",
     "num": "342",
     "manDept": "SHG",
@@ -235,12 +205,12 @@
     "destType": "ETA",
     "destLocalTime": "2023/10/06 18:00",
     "destTime": "2023/10/07 01:00",
-    "position": "53.41600\u00b0 / 179.07286\u00b0",
+    "position": "JAPAN - Japan Coast",
     "area": "Japan Coast",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9210440": {
-    "rowidx": 15,
+    "rowidx": 14,
     "silence": "FALSE",
     "num": "340",
     "manDept": "SHG",
@@ -270,7 +240,7 @@
     "status": "Out of Range"
   },
   "9707027": {
-    "rowidx": 16,
+    "rowidx": 15,
     "silence": "FALSE",
     "num": "339",
     "manDept": "SHG",
