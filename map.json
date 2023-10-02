@@ -20,14 +20,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/09/29 00:22",
     "deptTime": "2023/09/28 15:22",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ATA",
-    "destLocalTime": "2023/10/01 00:49",
-    "destTime": "2023/09/30 16:49",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2023/10/09 07:00",
+    "destTime": "2023/10/08 23:00",
     "position": "CCHINA - East China Sea",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9762546": {
     "rowidx": 7,
@@ -295,8 +295,8 @@
     "destType": "ETA",
     "destLocalTime": "2023/10/03 11:00",
     "destTime": "2023/10/03 09:00",
-    "position": "UKC - UK Coast & Atlantic",
-    "area": "UK Coast & Atlantic",
+    "position": "UKC - Biscay Bay",
+    "area": "Biscay Bay",
     "status": "Underway using Engine"
   }
 }
