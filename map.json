@@ -8,7 +8,7 @@
     "notes": "",
     "quarter": "23Q4",
     "numDept": "1",
-    "mapStatus": "0",
+    "mapStatus": "2",
     "mtsid": "372053",
     "name": "RCC Antwerp",
     "mmsi": "311000101",
@@ -235,9 +235,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/10/06 19:00",
     "destTime": "2023/10/06 17:00",
-    "position": "13.91315\u00b0 / 42.48685\u00b0",
-    "area": "East Africa",
-    "status": "Out of Range"
+    "position": "RSEA - Red Sea",
+    "area": "Red Sea",
+    "status": "Underway using Engine"
   },
   "9707027": {
     "rowidx": 15,
