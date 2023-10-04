@@ -17,9 +17,9 @@
     "grossTonnage": "58,767",
     "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/10/04 04:35",
-    "deptTime": "2023/10/03 18:35",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/10/05 01:41",
+    "deptTime": "2023/10/04 17:41",
     "dest": "KR PTK",
     "destLong": "Pyeongtaek",
     "destType": "ETA",
@@ -27,7 +27,7 @@
     "destTime": "2023/10/05 21:00",
     "position": "CCHINA - East China Sea",
     "area": "East China Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9441623": {
     "rowidx": 7,
@@ -205,9 +205,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/10/07 22:00",
     "destTime": "2023/10/07 15:00",
-    "position": "SCHINA - South China",
+    "position": "12.52941\u00b0 / 113.16361\u00b0",
     "area": "South China",
-    "status": "Not Under Command"
+    "status": "Out of Range"
   },
   "9325790": {
     "rowidx": 13,
