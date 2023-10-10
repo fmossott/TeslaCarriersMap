@@ -80,14 +80,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/10/02 12:49",
     "deptTime": "2023/10/02 04:49",
-    "dest": "SG SINGAPORE ANCH",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2023/10/10 12:31",
-    "destTime": "2023/10/10 04:31",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ETA",
+    "destLocalTime": "2023/10/22 11:00",
+    "destTime": "2023/10/22 09:00",
     "position": "INDO - Singapore Area",
     "area": "Singapore Area",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9762546": {
     "rowidx": 10,
@@ -177,7 +177,7 @@
     "destTime": "2023/10/10 13:00",
     "position": "EAUS - East Australia",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9158616": {
     "rowidx": 13,
