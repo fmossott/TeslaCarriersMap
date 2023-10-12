@@ -45,19 +45,19 @@
     "length": "180",
     "breadth": "30",
     "grossTonnage": "43,810",
-    "dept": "JP NGO",
-    "deptLong": "Nagoya",
+    "dept": "JP YOK",
+    "deptLong": "Yokohama",
     "deptType": "ATD",
-    "deptLocalTime": "2023/10/11 14:15",
-    "deptTime": "2023/10/11 05:15",
-    "dest": "JP YOK",
-    "destLong": "Yokohama",
-    "destType": "ATA",
-    "destLocalTime": "2023/10/12 06:54",
-    "destTime": "2023/10/11 21:54",
+    "deptLocalTime": "2023/10/12 16:09",
+    "deptTime": "2023/10/12 07:09",
+    "dest": "JP NGO",
+    "destLong": "Nagoya",
+    "destType": "ETA",
+    "destLocalTime": "2023/10/13 04:00",
+    "destTime": "2023/10/12 19:00",
     "position": "JAPAN - Japan Coast",
     "area": "Japan Coast",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9441623": {
     "rowidx": 9,
@@ -267,7 +267,7 @@
     "destTime": "2024/01/11 18:00",
     "position": "WCCAN - West Coast Canada",
     "area": "West Coast Canada",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9210440": {
     "rowidx": 17,
