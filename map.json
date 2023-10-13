@@ -50,11 +50,11 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/09/29 00:06",
     "deptTime": "2023/09/29 07:06",
-    "dest": "CN SHG",
-    "destLong": "Shanghai",
-    "destType": "ETA",
-    "destLocalTime": "2023/10/14 14:00",
-    "destTime": "2023/10/14 06:00",
+    "dest": "CN CJK",
+    "destLong": "Cjk",
+    "destType": "ATA",
+    "destLocalTime": "2023/10/14 06:56",
+    "destTime": "2023/10/13 22:56",
     "position": "JAPAN - Japan Coast",
     "area": "Japan Coast",
     "status": "Underway using Engine"
@@ -142,12 +142,12 @@
     "deptTime": "2023/10/13 06:21",
     "dest": "JP SAK",
     "destLong": "Sakai",
-    "destType": "ETA",
-    "destLocalTime": "2023/10/13 06:28",
-    "destTime": "2023/10/12 21:28",
+    "destType": "ATA",
+    "destLocalTime": "2023/10/14 07:09",
+    "destTime": "2023/10/13 22:09",
     "position": "JAPAN - Japan Coast",
     "area": "Japan Coast",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9441623": {
     "rowidx": 12,
@@ -257,9 +257,9 @@
     "grossTonnage": "55,598",
     "dept": "AU BNE",
     "deptLong": "Brisbane",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/10/13 09:40",
-    "deptTime": "2023/10/12 23:40",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/10/14 08:25",
+    "deptTime": "2023/10/13 22:25",
     "dest": "AU PKL",
     "destLong": "Port Kembla",
     "destType": "ETA",
@@ -267,7 +267,7 @@
     "destTime": "2023/10/15 11:00",
     "position": "EAUS - East Australia",
     "area": "East Australia",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9158616": {
     "rowidx": 16,
@@ -320,14 +320,14 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/10/10 16:18",
     "deptTime": "2023/10/10 09:18",
-    "dest": "SG SINGAPORE ANCH",
-    "destLong": "Singapore",
-    "destType": "ATA",
-    "destLocalTime": "2023/10/13 12:40",
-    "destTime": "2023/10/13 04:40",
+    "dest": "EG PSD",
+    "destLong": "Port Said",
+    "destType": "ETA",
+    "destLocalTime": "2023/10/27 14:30",
+    "destTime": "2023/10/27 12:30",
     "position": "INDO - Singapore Area",
     "area": "Singapore Area",
-    "status": "Underway"
+    "status": "Underway using Engine"
   },
   "9325790": {
     "rowidx": 18,
