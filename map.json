@@ -112,12 +112,12 @@
     "deptTime": "2023/10/30 12:33",
     "dest": "GB SHS",
     "destLong": "Sheerness",
-    "destType": "ETA",
+    "destType": "ATA",
     "destLocalTime": "2023/10/27 23:30",
     "destTime": "2023/10/27 21:30",
     "position": "UKC - North Sea",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9070450": {
     "rowidx": 20,
@@ -173,8 +173,8 @@
     "dest": "IT GIT",
     "destLong": "Gioia Tauro",
     "destType": "ETA",
-    "destLocalTime": "2023/10/31 20:34",
-    "destTime": "2023/10/31 18:34",
+    "destLocalTime": "2023/11/03 21:00",
+    "destTime": "2023/11/03 20:00",
     "position": "EMED - East Mediterranean",
     "area": "East Mediterranean",
     "status": "Underway using Engine"
