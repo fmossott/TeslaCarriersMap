@@ -1,6 +1,36 @@
 {
-  "9590591": {
+  "9338620": {
     "rowidx": 6,
+    "silence": "FALSE",
+    "num": "361",
+    "manDept": "SIN",
+    "madeIn": "CHN",
+    "notes": "",
+    "quarter": "23Q4",
+    "numDept": "1",
+    "mapStatus": "0",
+    "mtsid": "370155",
+    "name": "Swallow Ace",
+    "mmsi": "431839000",
+    "length": "199.95",
+    "breadth": "32.2",
+    "grossTonnage": "58,685",
+    "dept": "AU FRE",
+    "deptLong": "Fremantle",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/10/30 18:25",
+    "deptTime": "2023/10/30 10:25",
+    "dest": "AU ADL",
+    "destLong": "Adelaide",
+    "destType": "ETA",
+    "destLocalTime": "",
+    "destTime": "",
+    "position": "EAUS - Great Australian Bight",
+    "area": "Great Australian Bight",
+    "status": "Underway using Engine"
+  },
+  "9590591": {
+    "rowidx": 7,
     "silence": "FALSE",
     "num": "360",
     "manDept": "SHG",
@@ -8,7 +38,7 @@
     "notes": "",
     "quarter": "23Q4",
     "numDept": "11",
-    "mapStatus": "0",
+    "mapStatus": "2",
     "mtsid": "464658",
     "name": "Glovis Challenge",
     "mmsi": "441190000",
@@ -30,7 +60,7 @@
     "status": "Underway using Engine"
   },
   "9736808": {
-    "rowidx": 8,
+    "rowidx": 9,
     "silence": "FALSE",
     "num": "358",
     "manDept": "SHG",
@@ -60,7 +90,7 @@
     "status": "Underway using Engine"
   },
   "9651113": {
-    "rowidx": 9,
+    "rowidx": 10,
     "silence": "FALSE",
     "num": "357",
     "manDept": "SHG",
@@ -90,7 +120,7 @@
     "status": "Underway using Engine"
   },
   "9762546": {
-    "rowidx": 18,
+    "rowidx": 19,
     "silence": "FALSE",
     "num": "348",
     "manDept": "SHG",
@@ -120,7 +150,7 @@
     "status": "Moored"
   },
   "9070450": {
-    "rowidx": 20,
+    "rowidx": 21,
     "silence": "FALSE",
     "num": "346",
     "manDept": "SHG",
@@ -150,7 +180,7 @@
     "status": "Moored"
   },
   "9247936": {
-    "rowidx": 22,
+    "rowidx": 23,
     "silence": "FALSE",
     "num": "344",
     "manDept": "SHG",
