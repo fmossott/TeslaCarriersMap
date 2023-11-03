@@ -1,6 +1,36 @@
 {
-  "9338620": {
+  "9441594": {
     "rowidx": 6,
+    "silence": "FALSE",
+    "num": "362",
+    "manDept": "SHG",
+    "madeIn": "CHN",
+    "notes": "",
+    "quarter": "23Q2",
+    "numDept": "31",
+    "mapStatus": "0",
+    "mtsid": "3557933",
+    "name": "Glovis Caravel",
+    "mmsi": "311054300",
+    "length": "199.99",
+    "breadth": "32.29",
+    "grossTonnage": "58,767",
+    "dept": "AU BNE",
+    "deptLong": "Brisbane",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/10/31 14:17",
+    "deptTime": "2023/10/31 04:17",
+    "dest": "AU BNE",
+    "destLong": "Brisbane",
+    "destType": "ETA",
+    "destLocalTime": "",
+    "destTime": "",
+    "position": "EAUS - East Australia",
+    "area": "East Australia",
+    "status": "Underway using Engine"
+  },
+  "9338620": {
+    "rowidx": 7,
     "silence": "FALSE",
     "num": "361",
     "manDept": "SIN",
@@ -8,7 +38,7 @@
     "notes": "",
     "quarter": "23Q4",
     "numDept": "1",
-    "mapStatus": "0",
+    "mapStatus": "3",
     "mtsid": "370155",
     "name": "Swallow Ace",
     "mmsi": "431839000",
@@ -30,8 +60,8 @@
     "status": "Underway using Engine"
   },
   "9590591": {
-    "rowidx": 7,
-    "silence": "FALSE",
+    "rowidx": 8,
+    "silence": "TRUE",
     "num": "360",
     "manDept": "SHG",
     "madeIn": "CHN",
@@ -60,7 +90,7 @@
     "status": "Underway using Engine"
   },
   "9736808": {
-    "rowidx": 9,
+    "rowidx": 10,
     "silence": "FALSE",
     "num": "358",
     "manDept": "SHG",
@@ -90,7 +120,7 @@
     "status": "Underway using Engine"
   },
   "9651113": {
-    "rowidx": 10,
+    "rowidx": 11,
     "silence": "FALSE",
     "num": "357",
     "manDept": "SHG",
@@ -120,7 +150,7 @@
     "status": "Underway using Engine"
   },
   "9762546": {
-    "rowidx": 19,
+    "rowidx": 20,
     "silence": "FALSE",
     "num": "348",
     "manDept": "SHG",
@@ -150,7 +180,7 @@
     "status": "Underway using Engine"
   },
   "9070450": {
-    "rowidx": 21,
+    "rowidx": 22,
     "silence": "FALSE",
     "num": "346",
     "manDept": "SHG",
@@ -180,7 +210,7 @@
     "status": "Moored"
   },
   "9247936": {
-    "rowidx": 23,
+    "rowidx": 24,
     "silence": "FALSE",
     "num": "344",
     "manDept": "SHG",
