@@ -55,9 +55,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/11/07 02:00",
     "destTime": "2023/11/06 16:00",
-    "position": "Error loading position",
+    "position": "-39.24383\u00b0 / 145.77783\u00b0",
     "area": "East Australia",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9590591": {
     "rowidx": 8,
@@ -175,9 +175,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/10/27 23:30",
     "destTime": "2023/10/27 21:30",
-    "position": "Error loading position",
+    "position": "54.72978\u00b0 / -0.90233\u00b0",
     "area": "North Sea",
-    "status": "Out of Range"
+    "status": "At Anchor"
   },
   "9247936": {
     "rowidx": 24,
@@ -205,7 +205,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/11/03 22:12",
     "destTime": "2023/11/03 21:12",
-    "position": "Error loading position",
+    "position": "38.47364\u00b0 / 15.91564\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Out of Range"
   }
