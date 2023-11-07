@@ -1,6 +1,36 @@
 {
+  "9463205": {
+    "rowidx": 7,
+    "silence": "FALSE",
+    "num": "366",
+    "manDept": "SHG",
+    "madeIn": "CHN",
+    "notes": "",
+    "quarter": "23Q2",
+    "numDept": "31",
+    "mapStatus": "0",
+    "mtsid": "464327",
+    "name": "Gold Kochav",
+    "mmsi": "373124000",
+    "length": "199.07",
+    "breadth": "32.27",
+    "grossTonnage": "59,835",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/10/16 23:05",
+    "deptTime": "2023/10/16 15:05",
+    "dest": "IL ASH",
+    "destLong": "Ashdod",
+    "destType": "ATA",
+    "destLocalTime": "2023/11/06 09:54",
+    "destTime": "2023/11/06 07:54",
+    "position": "31.82432\u00b0 / 34.64037\u00b0",
+    "area": "East Mediterranean",
+    "status": "Moored"
+  },
   "9329461": {
-    "rowidx": 6,
+    "rowidx": 8,
     "silence": "FALSE",
     "num": "365",
     "manDept": "SHG",
@@ -30,7 +60,7 @@
     "status": "Underway using Engine"
   },
   "9441582": {
-    "rowidx": 7,
+    "rowidx": 9,
     "silence": "FALSE",
     "num": "364",
     "manDept": "SFO",
@@ -60,7 +90,7 @@
     "status": "Out of Range"
   },
   "9684988": {
-    "rowidx": 8,
+    "rowidx": 10,
     "silence": "FALSE",
     "num": "363",
     "manDept": "SHG",
@@ -90,7 +120,7 @@
     "status": "Out of Range"
   },
   "9441594": {
-    "rowidx": 9,
+    "rowidx": 11,
     "silence": "FALSE",
     "num": "362",
     "manDept": "SHG",
@@ -120,7 +150,7 @@
     "status": "Out of Range"
   },
   "9590591": {
-    "rowidx": 11,
+    "rowidx": 13,
     "silence": "TRUE",
     "num": "360",
     "manDept": "SHG",
@@ -150,7 +180,7 @@
     "status": "Out of Range"
   },
   "9736808": {
-    "rowidx": 13,
+    "rowidx": 15,
     "silence": "FALSE",
     "num": "358",
     "manDept": "SHG",
@@ -180,7 +210,7 @@
     "status": "Moored"
   },
   "9651113": {
-    "rowidx": 14,
+    "rowidx": 16,
     "silence": "FALSE",
     "num": "357",
     "manDept": "SHG",
@@ -210,7 +240,7 @@
     "status": "Underway using Engine"
   },
   "9247936": {
-    "rowidx": 27,
+    "rowidx": 29,
     "silence": "FALSE",
     "num": "344",
     "manDept": "SHG",
@@ -235,7 +265,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/11/03 22:12",
     "destTime": "2023/11/03 21:12",
-    "position": "38.37727\u00b0 / 14.16377\u00b0",
+    "position": "38.40156\u00b0 / 13.83496\u00b0",
     "area": "Tyrrhenian Sea",
     "status": "Underway using Engine"
   }
