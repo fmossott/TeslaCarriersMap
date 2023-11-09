@@ -1,6 +1,36 @@
 {
+  "9702431": {
+    "rowidx": 7,
+    "silence": "FALSE",
+    "num": "367",
+    "manDept": "SHG",
+    "madeIn": "CHN",
+    "notes": "",
+    "quarter": "23Q2",
+    "numDept": "31",
+    "mapStatus": "0",
+    "mtsid": "1508269",
+    "name": "Glovis Splendor",
+    "mmsi": "440254000",
+    "length": "199.97",
+    "breadth": "35",
+    "grossTonnage": "64,751",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/11/08 06:16",
+    "deptTime": "2023/11/07 22:16",
+    "dest": "SG SIN",
+    "destLong": "Singapore",
+    "destType": "ETA",
+    "destLocalTime": "2023/11/13 17:00",
+    "destTime": "2023/11/13 09:00",
+    "position": "22.67864\u00b0 / 121.65279\u00b0",
+    "area": "South China",
+    "status": "Out of Range"
+  },
   "9329461": {
-    "rowidx": 8,
+    "rowidx": 9,
     "silence": "FALSE",
     "num": "365",
     "manDept": "SHG",
@@ -30,7 +60,7 @@
     "status": "Moored"
   },
   "9441582": {
-    "rowidx": 9,
+    "rowidx": 10,
     "silence": "FALSE",
     "num": "364",
     "manDept": "SFO",
@@ -60,7 +90,7 @@
     "status": "Out of Range"
   },
   "9684988": {
-    "rowidx": 10,
+    "rowidx": 11,
     "silence": "FALSE",
     "num": "363",
     "manDept": "SHG",
@@ -90,7 +120,7 @@
     "status": "Out of Range"
   },
   "9441594": {
-    "rowidx": 11,
+    "rowidx": 12,
     "silence": "FALSE",
     "num": "362",
     "manDept": "SHG",
@@ -120,7 +150,7 @@
     "status": "Underway using Engine"
   },
   "9590591": {
-    "rowidx": 13,
+    "rowidx": 14,
     "silence": "TRUE",
     "num": "360",
     "manDept": "SHG",
@@ -149,38 +179,8 @@
     "area": "Laccadive Sea",
     "status": "Out of Range"
   },
-  "9736808": {
-    "rowidx": 15,
-    "silence": "FALSE",
-    "num": "358",
-    "manDept": "SHG",
-    "madeIn": "CHN",
-    "notes": "",
-    "quarter": "23Q4",
-    "numDept": "9",
-    "mapStatus": "3",
-    "mtsid": "3873141",
-    "name": "Glovis Star",
-    "mmsi": "311000459",
-    "length": "199.97",
-    "breadth": "35.43",
-    "grossTonnage": "71,177",
-    "dept": "SI KOP",
-    "deptLong": "Koper",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/11/08 10:40",
-    "deptTime": "2023/11/08 09:40",
-    "dest": "IT RAVENNA ANCH",
-    "destLong": "Ravenna",
-    "destType": "ATA",
-    "destLocalTime": "2023/11/08 18:32",
-    "destTime": "2023/11/08 17:32",
-    "position": "44.50311\u00b0 / 12.45656\u00b0",
-    "area": "Adriatic Sea",
-    "status": "At Anchor"
-  },
   "9651113": {
-    "rowidx": 16,
+    "rowidx": 17,
     "silence": "FALSE",
     "num": "357",
     "manDept": "SHG",
@@ -210,7 +210,7 @@
     "status": "Out of Range"
   },
   "9247936": {
-    "rowidx": 29,
+    "rowidx": 30,
     "silence": "FALSE",
     "num": "344",
     "manDept": "SHG",
