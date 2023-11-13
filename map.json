@@ -175,9 +175,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/11/13 13:00",
     "destTime": "2023/11/13 04:00",
-    "position": "38.36801\u00b0 / -129.64902\u00b0",
+    "position": "34.82010\u00b0 / 129.24298\u00b0",
     "area": "North China",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9684988": {
     "rowidx": 12,
@@ -195,12 +195,12 @@
     "length": "199.94",
     "breadth": "40.77",
     "grossTonnage": "76,420",
-    "dept": "CN TAG",
+    "dept": "PAST TRACK",
     "deptLong": "Taicang",
     "deptType": "ATD",
     "deptLocalTime": "2023/10/25 18:11",
     "deptTime": "2023/10/25 10:11",
-    "dest": "EG SUZ",
+    "dest": "ROUTE FORECAST",
     "destLong": "Suez Canal",
     "destType": "ETA",
     "destLocalTime": "2023/11/13 15:00",
@@ -235,9 +235,9 @@
     "destType": "ETA",
     "destLocalTime": "",
     "destTime": "",
-    "position": "-26.71634\u00b0 / 153.53254\u00b0",
+    "position": "-26.71230\u00b0 / 153.73612\u00b0",
     "area": "East Australia",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9590591": {
     "rowidx": 15,
@@ -295,7 +295,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/11/12 07:00",
     "destTime": "2023/11/12 06:00",
-    "position": "38.69042\u00b0 / -9.11009\u00b0",
+    "position": "38.69008\u00b0 / -9.10992\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "At Anchor"
   }
