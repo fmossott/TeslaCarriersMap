@@ -285,11 +285,11 @@
     "length": "199.94",
     "breadth": "40.77",
     "grossTonnage": "76,420",
-    "dept": "EG SUZ",
-    "deptLong": "Suez Canal",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/11/14 17:16",
-    "deptTime": "2023/11/14 09:16",
+    "dept": "CN TAG",
+    "deptLong": "Taicang",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/10/25 18:11",
+    "deptTime": "2023/10/25 10:11",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ETA",
@@ -327,7 +327,7 @@
     "destTime": "",
     "position": "-26.80822\u00b0 / 154.07557\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9590591": {
     "rowidx": 18,
@@ -385,7 +385,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/11/12 07:00",
     "destTime": "2023/11/12 06:00",
-    "position": "38.69200\u00b0 / -9.10923\u00b0",
+    "position": "38.69185\u00b0 / -9.10996\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "At Anchor"
   }
