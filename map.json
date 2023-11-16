@@ -115,9 +115,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/11/16 05:25",
     "destTime": "2023/11/15 22:25",
-    "position": "13.05249\u00b0 / 100.89926\u00b0",
+    "position": "13.05525\u00b0 / 100.90539\u00b0",
     "area": "Gulf of Thailand",
-    "status": "Out of Range"
+    "status": "Moored"
   },
   "9731640": {
     "rowidx": 10,
@@ -135,16 +135,16 @@
     "length": "199.9",
     "breadth": "36",
     "grossTonnage": "73,358",
-    "dept": "EG SUEZ SOUTH ANCH",
+    "dept": "CN SHG",
     "deptLong": "Shanghai",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/11/16 00:08",
-    "deptTime": "2023/11/15 16:08",
-    "dest": "BE ZEE",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/10/28 09:58",
+    "deptTime": "2023/10/28 01:58",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
-    "destLocalTime": "2023/11/25 06:00",
-    "destTime": "2023/11/25 05:00",
+    "destType": "ATA",
+    "destLocalTime": "2023/11/15 18:08",
+    "destTime": "2023/11/15 16:08",
     "position": "22.59649\u00b0 / 37.36787\u00b0",
     "area": "Red Sea",
     "status": "Out of Range"
@@ -202,10 +202,10 @@
     "deptTime": "2023/11/12 05:27",
     "dest": "ES BCN",
     "destLong": "Barcelona",
-    "destType": "ETA",
+    "destType": "ATA",
     "destLocalTime": "2023/11/16 02:45",
     "destTime": "2023/11/16 01:45",
-    "position": "41.21111\u00b0 / 2.32612\u00b0",
+    "position": "41.31751\u00b0 / 2.17002\u00b0",
     "area": "Balearic Sea",
     "status": "Underway using Engine"
   },
@@ -325,7 +325,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/11/15 21:00",
     "destTime": "2023/11/15 11:00",
-    "position": "-27.44771\u00b0 / 153.09600\u00b0",
+    "position": "-27.44770\u00b0 / 153.09600\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -385,7 +385,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/11/12 07:00",
     "destTime": "2023/11/12 06:00",
-    "position": "38.69185\u00b0 / -9.10816\u00b0",
+    "position": "38.69167\u00b0 / -9.10796\u00b0",
     "area": "UK Coast & Atlantic",
     "status": "At Anchor"
   }
