@@ -233,8 +233,8 @@
     "dest": "CN SHG",
     "destLong": "Shanghai",
     "destType": "ETA",
-    "destLocalTime": "2023/12/08 09:45",
-    "destTime": "2023/12/08 01:45",
+    "destLocalTime": "2023/12/08 18:30",
+    "destTime": "2023/12/08 10:30",
     "position": "41.04315\u00b0 / 2.72351\u00b0",
     "area": "East Mediterranean",
     "status": "Out of Range"
@@ -295,9 +295,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/11/19 21:00",
     "destTime": "2023/11/19 13:00",
-    "position": "25.29422\u00b0 / 121.08984\u00b0",
+    "position": "25.32990\u00b0 / 121.10381\u00b0",
     "area": "East China Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9684988": {
     "rowidx": 16,
@@ -385,7 +385,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/11/19 13:02",
     "destTime": "2023/11/19 12:02",
-    "position": "41.33402\u00b0 / 2.14660\u00b0",
+    "position": "41.33406\u00b0 / 2.14657\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -415,7 +415,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/11/12 07:00",
     "destTime": "2023/11/12 06:00",
-    "position": "50.59434\u00b0 / -0.98498\u00b0",
+    "position": "50.75636\u00b0 / -1.12195\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   }
