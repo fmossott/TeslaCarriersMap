@@ -135,19 +135,19 @@
     "length": "199.98",
     "breadth": "32.29",
     "grossTonnage": "59,615",
-    "dept": "SG SINGAPORE ANCH",
+    "dept": "TH LCH",
     "deptLong": "Laem Chabang",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/11/18 16:28",
-    "deptTime": "2023/11/18 09:28",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/11/16 15:03",
+    "deptTime": "2023/11/16 08:03",
     "dest": "BR VIX",
     "destLong": "Vitoria",
     "destType": "ETA",
     "destLocalTime": "2023/12/12 05:00",
     "destTime": "2023/12/12 08:00",
-    "position": "1.29274\u00b0 / 103.99808\u00b0",
+    "position": "1.26920\u00b0 / 104.00016\u00b0",
     "area": "Singapore Area",
-    "status": "At Anchor"
+    "status": "Underway using Engine"
   },
   "9731640": {
     "rowidx": 11,
@@ -295,9 +295,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/11/19 21:00",
     "destTime": "2023/11/19 13:00",
-    "position": "25.27465\u00b0 / 121.15676\u00b0",
+    "position": "25.34737\u00b0 / 121.10496\u00b0",
     "area": "East China Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9684988": {
     "rowidx": 16,
@@ -385,7 +385,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/11/19 13:02",
     "destTime": "2023/11/19 12:02",
-    "position": "41.33403\u00b0 / 2.14661\u00b0",
+    "position": "41.33404\u00b0 / 2.14656\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
@@ -415,7 +415,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/11/12 07:00",
     "destTime": "2023/11/12 06:00",
-    "position": "50.45897\u00b0 / -1.57882\u00b0",
+    "position": "50.47512\u00b0 / -1.32104\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   }
