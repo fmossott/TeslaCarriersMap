@@ -25,7 +25,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/11/25 18:07",
     "destTime": "2023/11/25 09:07",
-    "position": "35.45301\u00b0 / 139.68788\u00b0",
+    "position": "35.45300\u00b0 / 139.68794\u00b0",
     "area": "Japan Coast",
     "status": "Moored"
   },
@@ -147,7 +147,7 @@
     "destTime": "2023/11/25 09:00",
     "position": "-38.63579\u00b0 / 144.35971\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9355238": {
     "rowidx": 11,
@@ -235,7 +235,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/11/25 22:00",
     "destTime": "2023/11/25 21:00",
-    "position": "50.89293\u00b0 / 1.49168\u00b0",
+    "position": "51.00609\u00b0 / 1.62981\u00b0",
     "area": "English Channel",
     "status": "Underway using Engine"
   },
@@ -260,11 +260,11 @@
     "deptType": "ATD",
     "deptLocalTime": "2023/11/08 06:16",
     "deptTime": "2023/11/07 22:16",
-    "dest": "EG SUZ",
+    "dest": "EG SUEZ SOUTH ANCH",
     "destLong": "Suez Canal",
-    "destType": "ETA",
-    "destLocalTime": "2023/11/25 17:00",
-    "destTime": "2023/11/25 15:00",
+    "destType": "ATA",
+    "destLocalTime": "2023/11/25 16:53",
+    "destTime": "2023/11/25 14:53",
     "position": "22.75584\u00b0 / 37.30913\u00b0",
     "area": "Red Sea",
     "status": "Out of Range"
@@ -295,7 +295,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/11/24 01:39",
     "destTime": "2023/11/24 00:39",
-    "position": "51.30611\u00b0 / 3.22767\u00b0",
+    "position": "51.30611\u00b0 / 3.22770\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
