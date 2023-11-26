@@ -25,7 +25,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/11/25 18:07",
     "destTime": "2023/11/25 09:07",
-    "position": "35.45301\u00b0 / 139.68791\u00b0",
+    "position": "35.45302\u00b0 / 139.68789\u00b0",
     "area": "Japan Coast",
     "status": "Moored"
   },
@@ -175,7 +175,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/11/26 00:00",
     "destTime": "2023/11/25 15:00",
-    "position": "48.49432\u00b0 / -125.82277\u00b0",
+    "position": "48.48417\u00b0 / -125.46470\u00b0",
     "area": "West Coast Canada",
     "status": "Underway using Engine"
   },
@@ -235,9 +235,9 @@
     "destType": "ATA",
     "destLocalTime": "2023/11/26 00:16",
     "destTime": "2023/11/25 23:16",
-    "position": "51.31280\u00b0 / 3.21644\u00b0",
+    "position": "51.31260\u00b0 / 3.21623\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9702431": {
     "rowidx": 15,
@@ -255,14 +255,14 @@
     "length": "199.97",
     "breadth": "35",
     "grossTonnage": "64,751",
-    "dept": "EG SUZ",
-    "deptLong": "Suez Canal",
-    "deptType": "ATA",
-    "deptLocalTime": "2023/11/26 15:55",
-    "deptTime": "2023/11/26 07:55",
-    "dest": "GB SOU",
-    "destLong": "Southampton",
-    "destType": "ETA",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATD",
+    "deptLocalTime": "2023/11/08 06:16",
+    "deptTime": "2023/11/07 22:16",
+    "dest": "EG SUZ",
+    "destLong": "Suez Canal",
+    "destType": "ATA",
     "destLocalTime": "2023/11/26 09:55",
     "destTime": "2023/11/26 07:55",
     "position": "30.28762\u00b0 / 32.43650\u00b0",
@@ -295,7 +295,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/11/26 17:30",
     "destTime": "2023/11/26 16:30",
-    "position": "51.32048\u00b0 / 3.21139\u00b0",
+    "position": "51.32048\u00b0 / 3.21140\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -325,9 +325,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/11/15 21:00",
     "destTime": "2023/11/15 11:00",
-    "position": "-27.01960\u00b0 / 153.94274\u00b0",
+    "position": "-27.00025\u00b0 / 153.92847\u00b0",
     "area": "East Australia",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9590591": {
     "rowidx": 22,
@@ -355,7 +355,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/11/27 01:30",
     "destTime": "2023/11/27 00:30",
-    "position": "53.67405\u00b0 / 5.97192\u00b0",
+    "position": "53.78209\u00b0 / 6.57956\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   }
