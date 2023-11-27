@@ -17,17 +17,17 @@
     "grossTonnage": "43,810",
     "dept": "JP YOK",
     "deptLong": "Yokohama",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/11/25 17:34",
-    "deptTime": "2023/11/25 08:34",
-    "dest": "JP YOK",
-    "destLong": "Yokohama",
-    "destType": "ATA",
-    "destLocalTime": "2023/11/25 18:07",
-    "destTime": "2023/11/25 09:07",
-    "position": "35.45304\u00b0 / 139.68791\u00b0",
+    "deptType": "ATA",
+    "deptLocalTime": "2023/11/25 18:07",
+    "deptTime": "2023/11/25 09:07",
+    "dest": "JP NGO",
+    "destLong": "Nagoya",
+    "destType": "ETA",
+    "destLocalTime": "2023/11/28 05:00",
+    "destTime": "2023/11/27 20:00",
+    "position": "35.45289\u00b0 / 139.68780\u00b0",
     "area": "Japan Coast",
-    "status": "Moored"
+    "status": "Stopped"
   },
   "9285627": {
     "rowidx": 7,
@@ -175,7 +175,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/11/26 00:00",
     "destTime": "2023/11/25 15:00",
-    "position": "48.36770\u00b0 / -123.29597\u00b0",
+    "position": "48.57835\u00b0 / -123.20952\u00b0",
     "area": "West Coast Canada",
     "status": "Underway using Engine"
   },
@@ -235,7 +235,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/11/26 00:16",
     "destTime": "2023/11/25 23:16",
-    "position": "51.31259\u00b0 / 3.21623\u00b0",
+    "position": "51.31259\u00b0 / 3.21622\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -327,7 +327,7 @@
     "destTime": "2023/11/15 11:00",
     "position": "-26.74934\u00b0 / 153.99979\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9590591": {
     "rowidx": 22,
@@ -355,7 +355,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/11/27 01:47",
     "destTime": "2023/11/27 00:47",
-    "position": "54.05202\u00b0 / 8.12619\u00b0",
+    "position": "54.05156\u00b0 / 8.12654\u00b0",
     "area": "North Sea",
     "status": "At Anchor"
   }
