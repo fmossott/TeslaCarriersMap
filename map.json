@@ -135,19 +135,19 @@
     "length": "199.11",
     "breadth": "32.29",
     "grossTonnage": "55,598",
-    "dept": "AU PKL",
-    "deptLong": "Port Kembla",
+    "dept": "AU MEL",
+    "deptLong": "Melbourne",
     "deptType": "ATD",
-    "deptLocalTime": "2023/11/24 07:33",
-    "deptTime": "2023/11/23 20:33",
-    "dest": "AU MEL",
-    "destLong": "Melbourne",
-    "destType": "ATA",
+    "deptLocalTime": "2023/12/02 03:20",
+    "deptTime": "2023/12/01 16:20",
+    "dest": "CN SHG",
+    "destLong": "Shanghai",
+    "destType": "ETA",
     "destLocalTime": "2023/11/30 11:50",
     "destTime": "2023/11/30 00:50",
-    "position": "-37.84405\u00b0 / 144.90481\u00b0",
+    "position": "-38.00190\u00b0 / 144.91914\u00b0",
     "area": "East Australia",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9355238": {
     "rowidx": 11,
@@ -175,9 +175,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/11/26 00:00",
     "destTime": "2023/11/25 15:00",
-    "position": "47.33840\u00b0 / -122.47532\u00b0",
+    "position": "47.33853\u00b0 / -122.47640\u00b0",
     "area": "US West Coast",
-    "status": "Underway"
+    "status": "At Anchor"
   },
   "9531741": {
     "rowidx": 12,
@@ -235,7 +235,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/11/26 00:16",
     "destTime": "2023/11/25 23:16",
-    "position": "51.31735\u00b0 / 3.21281\u00b0",
+    "position": "51.31735\u00b0 / 3.21282\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -295,7 +295,7 @@
     "destType": "ATA",
     "destLocalTime": "2023/12/01 04:15",
     "destTime": "2023/11/30 18:15",
-    "position": "-27.38143\u00b0 / 153.16286\u00b0",
+    "position": "-27.38142\u00b0 / 153.16285\u00b0",
     "area": "East Australia",
     "status": "Moored"
   }
