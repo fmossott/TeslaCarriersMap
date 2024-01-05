@@ -47,17 +47,17 @@
     "grossTonnage": "60,169",
     "dept": "JP THS",
     "deptLong": "Toyohashi",
-    "deptType": "ATA",
-    "deptLocalTime": "2024/01/05 06:18",
-    "deptTime": "2024/01/04 21:18",
+    "deptType": "ATD",
+    "deptLocalTime": "2024/01/05 11:30",
+    "deptTime": "2024/01/05 02:30",
     "dest": "JP HTC",
     "destLong": "Hitachi",
     "destType": "ETA",
     "destLocalTime": "2024/01/06 06:15",
     "destTime": "2024/01/05 21:15",
-    "position": "34.70101\u00b0 / 137.12518\u00b0",
+    "position": "34.72573\u00b0 / 137.22382\u00b0",
     "area": "Japan Coast",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9777802": {
     "rowidx": 8,
@@ -175,7 +175,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/04 19:03",
     "destTime": "2024/01/04 18:03",
-    "position": "51.27217\u00b0 / 4.22027\u00b0",
+    "position": "51.27215\u00b0 / 4.22025\u00b0",
     "area": "Antwerp Area",
     "status": "Moored"
   }
