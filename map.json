@@ -18,16 +18,16 @@
     "dept": "BE ZEE",
     "deptLong": "Zeebrugge",
     "deptType": "ATD",
-    "deptLocalTime": "2024/01/10 07:01",
-    "deptTime": "2024/01/10 06:01",
+    "deptLocalTime": "2024/01/10 08:16",
+    "deptTime": "2024/01/10 07:16",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ETA",
+    "destType": "ATA",
     "destLocalTime": "2024/01/10 03:07",
     "destTime": "2024/01/10 02:07",
-    "position": "51.32483\u00b0 / 3.21245\u00b0",
+    "position": "51.32484\u00b0 / 3.21245\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9293519": {
     "rowidx": 7,
@@ -115,7 +115,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/09 19:34",
     "destTime": "2024/01/09 08:34",
-    "position": "-37.84402\u00b0 / 144.90504\u00b0",
+    "position": "-37.84403\u00b0 / 144.90501\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -205,7 +205,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/10 01:15",
     "destTime": "2024/01/10 00:15",
-    "position": "53.57733\u00b0 / 8.55051\u00b0",
+    "position": "53.57733\u00b0 / 8.55055\u00b0",
     "area": "North Sea",
     "status": "Moored"
   }
