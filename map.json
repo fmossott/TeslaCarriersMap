@@ -115,9 +115,9 @@
     "destType": "ETA",
     "destLocalTime": "2024/01/11 01:00",
     "destTime": "2024/01/10 17:00",
-    "position": "-31.70689\u00b0 / 115.45615\u00b0",
+    "position": "-31.69895\u00b0 / 115.46663\u00b0",
     "area": "West Australia",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9706918": {
     "rowidx": 10,
@@ -135,17 +135,17 @@
     "length": "199.89",
     "breadth": "40.74",
     "grossTonnage": "76,420",
-    "dept": "BE BBG",
-    "deptLong": "Blankenberge",
+    "dept": "BE ZEE",
+    "deptLong": "Zeebrugge",
     "deptType": "ATD",
-    "deptLocalTime": "2024/01/10 18:50",
-    "deptTime": "2024/01/10 17:50",
+    "deptLocalTime": "2024/01/10 20:43",
+    "deptTime": "2024/01/10 19:43",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
     "destType": "ATA",
-    "destLocalTime": "2024/01/10 18:53",
-    "destTime": "2024/01/10 17:53",
-    "position": "51.30374\u00b0 / 3.22982\u00b0",
+    "destLocalTime": "2024/01/10 20:58",
+    "destTime": "2024/01/10 19:58",
+    "position": "51.30374\u00b0 / 3.22984\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -205,7 +205,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/09 19:34",
     "destTime": "2024/01/09 08:34",
-    "position": "-37.84405\u00b0 / 144.90503\u00b0",
+    "position": "-37.84404\u00b0 / 144.90499\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -287,16 +287,16 @@
     "grossTonnage": "57,692",
     "dept": "DE BRV",
     "deptLong": "Bremerhaven",
-    "deptType": "ATA",
-    "deptLocalTime": "2024/01/10 01:15",
-    "deptTime": "2024/01/10 00:15",
+    "deptType": "ATD",
+    "deptLocalTime": "2024/01/10 21:04",
+    "deptTime": "2024/01/10 20:04",
     "dest": "GB TEE",
     "destLong": "Tees",
     "destType": "ETA",
     "destLocalTime": "2024/01/10 01:15",
     "destTime": "2024/01/10 00:15",
-    "position": "53.56989\u00b0 / 8.54963\u00b0",
+    "position": "53.62078\u00b0 / 8.47548\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   }
 }
