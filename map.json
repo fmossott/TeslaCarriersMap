@@ -112,12 +112,12 @@
     "deptTime": "2024/01/02 22:26",
     "dest": "AU FRE",
     "destLong": "Fremantle",
-    "destType": "ETA",
-    "destLocalTime": "2024/01/11 01:00",
-    "destTime": "2024/01/10 17:00",
-    "position": "-32.03093\u00b0 / 115.68663\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2024/01/11 18:29",
+    "destTime": "2024/01/11 10:29",
+    "position": "-32.04466\u00b0 / 115.74864\u00b0",
     "area": "West Australia",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9706918": {
     "rowidx": 10,
@@ -145,7 +145,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/10 22:21",
     "destTime": "2024/01/10 21:21",
-    "position": "51.30374\u00b0 / 3.22982\u00b0",
+    "position": "51.30374\u00b0 / 3.22983\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -265,9 +265,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/12/19 01:37",
     "destTime": "2023/12/18 17:37",
-    "position": "-33.09110\u00b0 / 16.72546\u00b0",
+    "position": "15.22832\u00b0 / -18.01613\u00b0",
     "area": "West Africa",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9285627": {
     "rowidx": 17,
@@ -295,7 +295,7 @@
     "destType": "ETA",
     "destLocalTime": "2024/01/10 01:15",
     "destTime": "2024/01/10 00:15",
-    "position": "54.04695\u00b0 / 4.57395\u00b0",
+    "position": "54.01111\u00b0 / 4.03571\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   }
