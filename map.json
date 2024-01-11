@@ -115,7 +115,7 @@
     "destType": "ETA",
     "destLocalTime": "2024/01/11 01:00",
     "destTime": "2024/01/10 17:00",
-    "position": "-31.84840\u00b0 / 115.58698\u00b0",
+    "position": "-31.92050\u00b0 / 115.60871\u00b0",
     "area": "West Australia",
     "status": "Underway using Engine"
   },
@@ -145,7 +145,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/10 22:21",
     "destTime": "2024/01/10 21:21",
-    "position": "51.30374\u00b0 / 3.22981\u00b0",
+    "position": "51.30374\u00b0 / 3.22982\u00b0",
     "area": "North Sea",
     "status": "Moored"
   },
@@ -195,19 +195,19 @@
     "length": "199.95",
     "breadth": "32.24",
     "grossTonnage": "63,115",
-    "dept": "CN XMG",
-    "deptLong": "Xiamen",
-    "deptType": "ATD",
-    "deptLocalTime": "2023/12/28 03:52",
-    "deptTime": "2023/12/27 19:52",
-    "dest": "AU MEL",
-    "destLong": "Melbourne",
-    "destType": "ATA",
-    "destLocalTime": "2024/01/09 19:34",
-    "destTime": "2024/01/09 08:34",
-    "position": "-37.84406\u00b0 / 144.90499\u00b0",
+    "dept": "AU MEL",
+    "deptLong": "Melbourne",
+    "deptType": "ATA",
+    "deptLocalTime": "2024/01/09 16:34",
+    "deptTime": "2024/01/09 08:34",
+    "dest": "AU PKL",
+    "destLong": "Port Kembla",
+    "destType": "ETA",
+    "destLocalTime": "2024/01/13 10:00",
+    "destTime": "2024/01/12 23:00",
+    "position": "-37.87535\u00b0 / 144.92777\u00b0",
     "area": "East Australia",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9082934": {
     "rowidx": 13,
@@ -295,7 +295,7 @@
     "destType": "ETA",
     "destLocalTime": "2024/01/10 01:15",
     "destTime": "2024/01/10 00:15",
-    "position": "54.07853\u00b0 / 4.95463\u00b0",
+    "position": "54.05930\u00b0 / 4.71828\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   }
