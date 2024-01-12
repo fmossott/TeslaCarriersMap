@@ -25,7 +25,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/12 06:47",
     "destTime": "2024/01/11 21:47",
-    "position": "35.45390\u00b0 / 139.68622\u00b0",
+    "position": "35.45386\u00b0 / 139.68617\u00b0",
     "area": "Japan Coast",
     "status": "Moored"
   },
@@ -115,7 +115,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/11 18:29",
     "destTime": "2024/01/11 10:29",
-    "position": "-32.04419\u00b0 / 115.75027\u00b0",
+    "position": "-32.04422\u00b0 / 115.75025\u00b0",
     "area": "West Australia",
     "status": "Moored"
   },
@@ -145,9 +145,9 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/10 22:21",
     "destTime": "2024/01/10 21:21",
-    "position": "51.31270\u00b0 / 3.22465\u00b0",
+    "position": "51.33394\u00b0 / 3.21695\u00b0",
     "area": "North Sea",
-    "status": "Underway"
+    "status": "Stopped"
   },
   "9293894": {
     "rowidx": 11,
@@ -295,8 +295,8 @@
     "destType": "ETA",
     "destLocalTime": "2024/01/10 01:15",
     "destTime": "2024/01/10 00:15",
-    "position": "54.32109\u00b0 / 0.53322\u00b0",
+    "position": "54.59297\u00b0 / -0.51078\u00b0",
     "area": "North Sea",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   }
 }
