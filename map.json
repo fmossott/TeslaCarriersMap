@@ -25,7 +25,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/12 06:47",
     "destTime": "2024/01/11 21:47",
-    "position": "35.45384\u00b0 / 139.68616\u00b0",
+    "position": "35.45382\u00b0 / 139.68616\u00b0",
     "area": "Japan Coast",
     "status": "Moored"
   },
@@ -117,7 +117,7 @@
     "destTime": "2024/01/11 10:29",
     "position": "-32.04422\u00b0 / 115.75027\u00b0",
     "area": "West Australia",
-    "status": "Moored"
+    "status": "Out of Range"
   },
   "9706918": {
     "rowidx": 10,
@@ -265,7 +265,7 @@
     "destType": "ETA",
     "destLocalTime": "2023/12/19 01:37",
     "destTime": "2023/12/18 17:37",
-    "position": "22.56973\u00b0 / -17.34263\u00b0",
+    "position": "22.84716\u00b0 / -17.29643\u00b0",
     "area": "West Africa",
     "status": "Underway using Engine"
   },
@@ -290,12 +290,12 @@
     "deptType": "ATD",
     "deptLocalTime": "2024/01/10 21:04",
     "deptTime": "2024/01/10 20:04",
-    "dest": "GB TEES ANCH",
+    "dest": "GB TEE",
     "destLong": "Tees",
-    "destType": "ATA",
+    "destType": "ETA",
     "destLocalTime": "2024/01/10 01:15",
     "destTime": "2024/01/10 00:15",
-    "position": "54.65130\u00b0 / -0.88221\u00b0",
+    "position": "54.62318\u00b0 / -0.87916\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   }
