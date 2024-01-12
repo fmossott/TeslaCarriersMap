@@ -25,7 +25,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/12 06:47",
     "destTime": "2024/01/11 21:47",
-    "position": "35.45378\u00b0 / 139.68619\u00b0",
+    "position": "35.45380\u00b0 / 139.68616\u00b0",
     "area": "Japan Coast",
     "status": "Moored"
   },
@@ -53,11 +53,11 @@
     "dest": "SG SIN",
     "destLong": "Singapore",
     "destType": "ETA",
-    "destLocalTime": "2024/01/13 06:00",
-    "destTime": "2024/01/12 22:00",
-    "position": "22.07306\u00b0 / -118.47866\u00b0",
+    "destLocalTime": "2024/01/13 07:00",
+    "destTime": "2024/01/12 23:00",
+    "position": "1.29775\u00b0 / 104.21447\u00b0",
     "area": "Singapore Area",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9574080": {
     "rowidx": 8,
@@ -205,7 +205,7 @@
     "destType": "ETA",
     "destLocalTime": "2024/01/13 08:30",
     "destTime": "2024/01/12 21:30",
-    "position": "-34.44465\u00b0 / 151.18301\u00b0",
+    "position": "-34.36766\u00b0 / 151.01163\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -267,7 +267,7 @@
     "destTime": "2023/12/18 17:37",
     "position": "24.35878\u00b0 / -16.75488\u00b0",
     "area": "West Africa",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9285627": {
     "rowidx": 17,
@@ -295,8 +295,8 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/10 01:15",
     "destTime": "2024/01/10 00:15",
-    "position": "54.61790\u00b0 / -1.15503\u00b0",
+    "position": "54.60247\u00b0 / -1.15338\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   }
 }
