@@ -25,7 +25,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/12 06:47",
     "destTime": "2024/01/11 21:47",
-    "position": "35.45386\u00b0 / 139.68617\u00b0",
+    "position": "35.45391\u00b0 / 139.68620\u00b0",
     "area": "Japan Coast",
     "status": "Moored"
   },
@@ -115,7 +115,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/11 18:29",
     "destTime": "2024/01/11 10:29",
-    "position": "-32.04422\u00b0 / 115.75025\u00b0",
+    "position": "-32.04423\u00b0 / 115.75026\u00b0",
     "area": "West Australia",
     "status": "Moored"
   },
@@ -135,19 +135,19 @@
     "length": "199.89",
     "breadth": "40.74",
     "grossTonnage": "76,420",
-    "dept": "BE OST",
-    "deptLong": "Oostende",
+    "dept": "BE ZEE",
+    "deptLong": "Zeebrugge",
     "deptType": "ATD",
-    "deptLocalTime": "2024/01/10 22:01",
-    "deptTime": "2024/01/10 21:01",
+    "deptLocalTime": "2024/01/12 07:56",
+    "deptTime": "2024/01/12 06:56",
     "dest": "BE ZEE",
     "destLong": "Zeebrugge",
-    "destType": "ATA",
-    "destLocalTime": "2024/01/10 22:21",
-    "destTime": "2024/01/10 21:21",
-    "position": "51.33394\u00b0 / 3.21695\u00b0",
+    "destType": "ETA",
+    "destLocalTime": "2024/01/13 05:00",
+    "destTime": "2024/01/13 04:00",
+    "position": "51.39576\u00b0 / 3.00370\u00b0",
     "area": "North Sea",
-    "status": "Stopped"
+    "status": "Underway using Engine"
   },
   "9293894": {
     "rowidx": 11,
@@ -265,9 +265,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/12/19 01:37",
     "destTime": "2023/12/18 17:37",
-    "position": "15.22832\u00b0 / -18.01613\u00b0",
+    "position": "20.91259\u00b0 / -17.59756\u00b0",
     "area": "West Africa",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9285627": {
     "rowidx": 17,
@@ -295,7 +295,7 @@
     "destType": "ETA",
     "destLocalTime": "2024/01/10 01:15",
     "destTime": "2024/01/10 00:15",
-    "position": "54.59297\u00b0 / -0.51078\u00b0",
+    "position": "54.65696\u00b0 / -0.83934\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   }
