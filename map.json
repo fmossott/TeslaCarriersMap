@@ -25,7 +25,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/12 06:47",
     "destTime": "2024/01/11 21:47",
-    "position": "35.45388\u00b0 / 139.68616\u00b0",
+    "position": "35.45387\u00b0 / 139.68616\u00b0",
     "area": "Japan Coast",
     "status": "Moored"
   },
@@ -83,11 +83,11 @@
     "dest": "AU BNE",
     "destLong": "Brisbane",
     "destType": "ETA",
-    "destLocalTime": "2024/01/12 07:00",
-    "destTime": "2024/01/11 21:00",
-    "position": "-26.70327\u00b0 / 153.72686\u00b0",
+    "destLocalTime": "2024/01/16 07:00",
+    "destTime": "2024/01/15 21:00",
+    "position": "-26.83058\u00b0 / 153.83377\u00b0",
     "area": "East Australia",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9293519": {
     "rowidx": 9,
@@ -115,7 +115,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/11 18:29",
     "destTime": "2024/01/11 10:29",
-    "position": "-32.04422\u00b0 / 115.75025\u00b0",
+    "position": "-32.04421\u00b0 / 115.75027\u00b0",
     "area": "West Australia",
     "status": "Moored"
   },
@@ -297,6 +297,6 @@
     "destTime": "2024/01/10 00:15",
     "position": "54.32109\u00b0 / 0.53322\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   }
 }
