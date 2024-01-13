@@ -25,7 +25,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/12 06:47",
     "destTime": "2024/01/11 21:47",
-    "position": "35.45383\u00b0 / 139.68617\u00b0",
+    "position": "35.45385\u00b0 / 139.68616\u00b0",
     "area": "Japan Coast",
     "status": "Moored"
   },
@@ -55,7 +55,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/13 07:46",
     "destTime": "2024/01/12 23:46",
-    "position": "1.27880\u00b0 / 103.90122\u00b0",
+    "position": "1.27853\u00b0 / 103.90102\u00b0",
     "area": "Singapore Area",
     "status": "At Anchor"
   },
@@ -145,7 +145,7 @@
     "destType": "ETA",
     "destLocalTime": "2024/01/13 05:00",
     "destTime": "2024/01/13 04:00",
-    "position": "54.22960\u00b0 / 1.36802\u00b0",
+    "position": "54.29790\u00b0 / 1.12370\u00b0",
     "area": "North Sea",
     "status": "Underway using Engine"
   },
@@ -265,9 +265,9 @@
     "destType": "ETA",
     "destLocalTime": "2023/12/19 01:37",
     "destTime": "2023/12/18 17:37",
-    "position": "25.03323\u00b0 / -16.42402\u00b0",
+    "position": "25.91301\u00b0 / -15.98956\u00b0",
     "area": "West Africa",
-    "status": "Out of Range"
+    "status": "Underway using Engine"
   },
   "9285627": {
     "rowidx": 17,
@@ -285,17 +285,17 @@
     "length": "199.92",
     "breadth": "32.28",
     "grossTonnage": "57,692",
-    "dept": "DE BRV",
-    "deptLong": "Bremerhaven",
-    "deptType": "ATD",
-    "deptLocalTime": "2024/01/10 21:04",
-    "deptTime": "2024/01/10 20:04",
-    "dest": "GB TEE",
-    "destLong": "Tees",
-    "destType": "ATA",
+    "dept": "GB TEE",
+    "deptLong": "Tees",
+    "deptType": "ATA",
+    "deptLocalTime": "2024/01/12 20:20",
+    "deptTime": "2024/01/12 19:20",
+    "dest": "GB TIL",
+    "destLong": "Tilbury",
+    "destType": "ETA",
     "destLocalTime": "2024/01/10 01:15",
     "destTime": "2024/01/10 00:15",
-    "position": "54.60246\u00b0 / -1.15336\u00b0",
+    "position": "54.60248\u00b0 / -1.15337\u00b0",
     "area": "North Sea",
     "status": "Moored"
   }
