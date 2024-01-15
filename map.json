@@ -135,9 +135,9 @@
     "length": "199.89",
     "breadth": "40.74",
     "grossTonnage": "76,420",
-    "dept": "GB TYN",
-    "deptLong": "Tyne",
-    "deptType": "ATD",
+    "dept": "NL IJM",
+    "deptLong": "Ijmuiden",
+    "deptType": "ATA",
     "deptLocalTime": "2024/01/13 21:17",
     "deptTime": "2024/01/13 20:17",
     "dest": "NL AMS",
@@ -145,9 +145,9 @@
     "destType": "ETA",
     "destLocalTime": "2024/01/15 16:00",
     "destTime": "2024/01/15 15:00",
-    "position": "52.45142\u00b0 / 4.41849\u00b0",
+    "position": "52.46626\u00b0 / 4.61300\u00b0",
     "area": "North Sea",
-    "status": "Underway using Engine"
+    "status": "Stopped"
   },
   "9293894": {
     "rowidx": 11,
@@ -295,7 +295,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/10 01:15",
     "destTime": "2024/01/10 00:15",
-    "position": "51.45495\u00b0 / 0.35359\u00b0",
+    "position": "51.45494\u00b0 / 0.35362\u00b0",
     "area": "North Sea",
     "status": "Moored"
   }
