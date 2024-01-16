@@ -135,19 +135,19 @@
     "length": "199.97",
     "breadth": "32.26",
     "grossTonnage": "59,524",
-    "dept": "AU BNE",
-    "deptLong": "Brisbane",
-    "deptType": "ATA",
-    "deptLocalTime": "2024/01/16 09:46",
-    "deptTime": "2024/01/16 01:46",
+    "dept": "CN SHG",
+    "deptLong": "Shanghai",
+    "deptType": "ATD",
+    "deptLocalTime": "2024/01/02 03:56",
+    "deptTime": "2024/01/01 19:56",
     "dest": "AU PKL",
     "destLong": "Port Kembla",
     "destType": "ETA",
     "destLocalTime": "2024/01/18 20:00",
     "destTime": "2024/01/18 09:00",
-    "position": "-27.37955\u00b0 / 153.16492\u00b0",
+    "position": "-27.33566\u00b0 / 153.19171\u00b0",
     "area": "East Australia",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9293894": {
     "rowidx": 13,
@@ -205,8 +205,8 @@
     "destType": "ETA",
     "destLocalTime": "2023/12/19 01:37",
     "destTime": "2023/12/18 17:37",
-    "position": "49.15088\u00b0 / -4.65597\u00b0",
-    "area": "Celtic Sea",
+    "position": "49.18536\u00b0 / -4.55885\u00b0",
+    "area": "English Channel",
     "status": "Underway using Engine"
   }
 }
