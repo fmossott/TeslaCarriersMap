@@ -52,12 +52,12 @@
     "deptTime": "2023/12/19 08:26",
     "dest": "ES BCN",
     "destLong": "Barcelona",
-    "destType": "ETA",
-    "destLocalTime": "2024/01/21 14:00",
-    "destTime": "2024/01/21 13:00",
-    "position": "41.30555\u00b0 / 2.17546\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2024/01/21 13:57",
+    "destTime": "2024/01/21 12:57",
+    "position": "41.33414\u00b0 / 2.14698\u00b0",
     "area": "Balearic Sea",
-    "status": "Underway using Engine"
+    "status": "Moored"
   },
   "9542283": {
     "rowidx": 8,
@@ -205,8 +205,8 @@
     "destType": "ETA",
     "destLocalTime": "2024/01/25 01:00",
     "destTime": "2024/01/25 00:00",
-    "position": "51.31742\u00b0 / 3.21278\u00b0",
+    "position": "51.33403\u00b0 / 3.21724\u00b0",
     "area": "North Sea",
-    "status": "Moored"
+    "status": "Stopped"
   }
 }
