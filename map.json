@@ -1,6 +1,6 @@
 {
   "9505053": {
-    "rowidx": 6,
+    "rowidx": 7,
     "silence": "FALSE",
     "num": "388",
     "manDept": "SHG",
@@ -30,7 +30,7 @@
     "status": "Out of Range"
   },
   "9702417": {
-    "rowidx": 7,
+    "rowidx": 8,
     "silence": "FALSE",
     "num": "387",
     "manDept": "SHG",
@@ -55,12 +55,12 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/21 13:57",
     "destTime": "2024/01/21 12:57",
-    "position": "41.33414\u00b0 / 2.14698\u00b0",
+    "position": "41.33415\u00b0 / 2.14699\u00b0",
     "area": "Balearic Sea",
     "status": "Moored"
   },
   "9542283": {
-    "rowidx": 8,
+    "rowidx": 9,
     "silence": "FALSE",
     "num": "386",
     "manDept": "SHG",
@@ -90,7 +90,7 @@
     "status": "Out of Range"
   },
   "9445409": {
-    "rowidx": 9,
+    "rowidx": 10,
     "silence": "FALSE",
     "num": "385",
     "manDept": "SHG",
@@ -120,7 +120,7 @@
     "status": "Out of Range"
   },
   "9574080": {
-    "rowidx": 10,
+    "rowidx": 11,
     "silence": "FALSE",
     "num": "384",
     "manDept": "SHG",
@@ -150,7 +150,7 @@
     "status": "Underway using Engine"
   },
   "9293894": {
-    "rowidx": 13,
+    "rowidx": 14,
     "silence": "FALSE",
     "num": "381",
     "manDept": "SHG",
@@ -175,38 +175,8 @@
     "destType": "ETA",
     "destLocalTime": "2024/01/23 04:30",
     "destTime": "2024/01/22 17:30",
-    "position": "-38.82808\u00b0 / 145.27233\u00b0",
+    "position": "-38.66074\u00b0 / 144.95481\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
-  },
-  "9700512": {
-    "rowidx": 16,
-    "silence": "FALSE",
-    "num": "378",
-    "manDept": "SHG",
-    "madeIn": "CHN",
-    "notes": "",
-    "quarter": "23Q4",
-    "numDept": "26",
-    "mapStatus": "2",
-    "mtsid": "4830578",
-    "name": "Titus",
-    "mmsi": "249011000",
-    "length": "199.99",
-    "breadth": "36.53",
-    "grossTonnage": "73,358",
-    "dept": "BE ZEE",
-    "deptLong": "Zeebrugge",
-    "deptType": "ATD",
-    "deptLocalTime": "2024/01/21 15:51",
-    "deptTime": "2024/01/21 14:51",
-    "dest": "DE BRV",
-    "destLong": "Bremerhaven",
-    "destType": "ETA",
-    "destLocalTime": "2024/01/23 22:00",
-    "destTime": "2024/01/23 21:00",
-    "position": "53.90824\u00b0 / 7.56935\u00b0",
-    "area": "North Sea",
     "status": "Underway using Engine"
   }
 }
