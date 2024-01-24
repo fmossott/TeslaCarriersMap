@@ -26,7 +26,7 @@
     "destLocalTime": "2024/01/25 07:00",
     "destTime": "2024/01/24 21:00",
     "position": "-29.19676\u00b0 / 157.83453\u00b0",
-    "area": "East China Sea",
+    "area": "East Australia",
     "status": "Out of Range"
   },
   "9361809": {
@@ -105,19 +105,19 @@
     "length": "199.97",
     "breadth": "35",
     "grossTonnage": "64,546",
-    "dept": "CN SHG",
-    "deptLong": "Shanghai",
+    "dept": "ES BCN",
+    "deptLong": "Barcelona",
     "deptType": "ATD",
-    "deptLocalTime": "2023/12/19 16:26",
-    "deptTime": "2023/12/19 08:26",
-    "dest": "ES BCN",
-    "destLong": "Barcelona",
-    "destType": "ATA",
-    "destLocalTime": "2024/01/21 13:57",
-    "destTime": "2024/01/21 12:57",
-    "position": "41.33414\u00b0 / 2.14697\u00b0",
+    "deptLocalTime": "2024/01/24 06:41",
+    "deptTime": "2024/01/24 05:41",
+    "dest": "KR PTK",
+    "destLong": "Pyeongtaek",
+    "destType": "ETA",
+    "destLocalTime": "2024/02/26 01:00",
+    "destTime": "2024/02/25 16:00",
+    "position": "37.85591\u00b0 / -0.32514\u00b0",
     "area": "Balearic Sea",
-    "status": "Moored"
+    "status": "Underway using Engine"
   },
   "9445409": {
     "rowidx": 11,
@@ -175,7 +175,7 @@
     "destType": "ETA",
     "destLocalTime": "2024/01/25 12:00",
     "destTime": "2024/01/25 01:00",
-    "position": "-39.20290\u00b0 / 144.38064\u00b0",
+    "position": "-38.93461\u00b0 / 145.25710\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   },
@@ -203,9 +203,9 @@
     "dest": "AU MEL",
     "destLong": "Melbourne",
     "destType": "ETA",
-    "destLocalTime": "2024/01/23 04:30",
-    "destTime": "2024/01/22 17:30",
-    "position": "-39.15375\u00b0 / 145.04412\u00b0",
+    "destLocalTime": "2024/01/28 03:00",
+    "destTime": "2024/01/27 16:00",
+    "position": "-39.15145\u00b0 / 145.68680\u00b0",
     "area": "East Australia",
     "status": "Underway using Engine"
   }
