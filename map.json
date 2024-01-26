@@ -22,9 +22,9 @@
     "deptTime": "2024/01/24 21:47",
     "dest": "JP KND",
     "destLong": "Kanda",
-    "destType": "ETA",
-    "destLocalTime": "2024/01/26 06:00",
-    "destTime": "2024/01/25 21:00",
+    "destType": "ATA",
+    "destLocalTime": "2024/01/27 07:18",
+    "destTime": "2024/01/26 22:18",
     "position": "33.90960\u00b0 / 130.89520\u00b0",
     "area": "Japan Coast",
     "status": "Out of Range"
@@ -142,12 +142,12 @@
     "deptTime": "2024/01/25 13:29",
     "dest": "AU PKL",
     "destLong": "Port Kembla",
-    "destType": "ETA",
-    "destLocalTime": "2024/01/27 09:00",
-    "destTime": "2024/01/26 22:00",
+    "destType": "ATA",
+    "destLocalTime": "2024/01/27 09:17",
+    "destTime": "2024/01/26 22:17",
     "position": "-34.37611\u00b0 / 150.98057\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9361809": {
     "rowidx": 11,
@@ -265,7 +265,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/26 09:03",
     "destTime": "2024/01/25 22:03",
-    "position": "-37.84418\u00b0 / 144.90491\u00b0",
+    "position": "-37.84419\u00b0 / 144.90492\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
