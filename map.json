@@ -82,12 +82,12 @@
     "deptTime": "2024/01/25 04:35",
     "dest": "KR MAS",
     "destLong": "Masan",
-    "destType": "ETA",
-    "destLocalTime": "2024/01/28 05:00",
-    "destTime": "2024/01/27 20:00",
+    "destType": "ATA",
+    "destLocalTime": "2024/01/28 06:40",
+    "destTime": "2024/01/27 21:40",
     "position": "34.97686\u00b0 / 128.81605\u00b0",
     "area": "North China",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9445394": {
     "rowidx": 9,
@@ -265,7 +265,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/26 09:03",
     "destTime": "2024/01/25 22:03",
-    "position": "-37.84420\u00b0 / 144.90493\u00b0",
+    "position": "-37.84420\u00b0 / 144.90490\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
