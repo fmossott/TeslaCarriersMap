@@ -22,10 +22,10 @@
     "deptTime": "2024/01/30 09:55",
     "dest": "JP SAK",
     "destLong": "Sakai",
-    "destType": "ETA",
-    "destLocalTime": "2024/01/31 08:30",
-    "destTime": "2024/01/30 23:30",
-    "position": "34.48473\u00b0 / 135.22009\u00b0",
+    "destType": "ATA",
+    "destLocalTime": "2024/01/31 09:44",
+    "destTime": "2024/01/31 00:44",
+    "position": "34.53347\u00b0 / 135.39900\u00b0",
     "area": "Japan Coast",
     "status": "Underway using Engine"
   },
@@ -147,7 +147,7 @@
     "destTime": "2024/01/29 04:00",
     "position": "-39.18324\u00b0 / 144.61486\u00b0",
     "area": "East Australia",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9361809": {
     "rowidx": 11,
@@ -207,7 +207,7 @@
     "destTime": "",
     "position": "21.67650\u00b0 / -17.82732\u00b0",
     "area": "West Africa",
-    "status": "Underway using Engine"
+    "status": "Out of Range"
   },
   "9445409": {
     "rowidx": 15,
@@ -265,7 +265,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/26 09:03",
     "destTime": "2024/01/25 22:03",
-    "position": "-37.84419\u00b0 / 144.90488\u00b0",
+    "position": "-37.84421\u00b0 / 144.90490\u00b0",
     "area": "East Australia",
     "status": "Moored"
   },
@@ -295,7 +295,7 @@
     "destType": "ATA",
     "destLocalTime": "2024/01/27 15:02",
     "destTime": "2024/01/27 04:02",
-    "position": "-37.84140\u00b0 / 144.90401\u00b0",
+    "position": "-37.84139\u00b0 / 144.90403\u00b0",
     "area": "East Australia",
     "status": "Moored"
   }
